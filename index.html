@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Restoration Drama Search</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body class="search-shell">
+  <div class="page">
+    <section class="hero">
+      <div class="eyebrow">GitHub Pages Edition</div>
+      <h1>Restoration Drama Search</h1>
+      <p>Browse plays, run full-text queries, inspect gambling and combat-sport hits, and jump straight into the play text from a static site.</p>
+    </section>
+
+    <div class="tabs">
+      <button class="tab-button active" data-tab="plays">Plays</button>
+      <button class="tab-button" data-tab="text">Text Search</button>
+      <button class="tab-button" data-tab="hits">Theme Hits</button>
+      <button class="tab-button" data-tab="summary">Play Summary</button>
+    </div>
+
+    <section class="tab-panel active" id="tab-plays">
+      <div class="filters">
+        <h2>Play Browser</h2>
+        <div class="filter-grid">
+          <div class="field span-4"><label for="plays-title">Title</label><input id="plays-title"></div>
+          <div class="field span-3"><label for="plays-author">Author</label><input id="plays-author"></div>
+          <div class="field span-2"><label for="plays-genre">Genre</label><input id="plays-genre"></div>
+          <div class="field span-2"><label for="plays-decade">Year / Decade</label><input id="plays-decade" placeholder="1677 or 1670s"></div>
+          <div class="field span-2"><label for="plays-stage">Stage</label><input id="plays-stage"></div>
+          <div class="field span-3"><label for="plays-theatre">Theatre</label><input id="plays-theatre"></div>
+          <div class="field span-1"><label for="plays-since">Since</label><input id="plays-since" placeholder="1660"></div>
+          <div class="field span-1"><label for="plays-until">Until</label><input id="plays-until" placeholder="1700"></div>
+          <div class="field span-1"><label for="plays-limit">Limit</label><input id="plays-limit" value="250"></div>
+          <div class="field span-2"><label for="plays-ubiq">Ubiq</label><select id="plays-ubiq"><option value="all">all</option><option value="yes">yes</option><option value="no">no</option></select></div>
+        </div>
+        <div class="actions">
+          <button class="action primary" id="plays-search">Search</button>
+          <button class="action secondary" id="plays-reset">Reset</button>
+        </div>
+      </div>
+      <div class="results-shell">
+        <div class="results-head"><h3>Results</h3><div class="count" id="plays-count">Loading plays.</div></div>
+        <div class="result-layout">
+          <div class="table-wrap"><div class="table-scroll"><table id="plays-table"></table></div></div>
+          <div class="detail-wrap"><div class="detail-title">Details</div><pre class="detail" id="plays-detail">Select a row to inspect it.</pre></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="tab-panel" id="tab-text">
+      <div class="filters">
+        <h2>Full-Text Search</h2>
+        <div class="filter-grid">
+          <div class="field span-5"><label for="text-query">Query</label><input id="text-query" placeholder="gaming"></div>
+          <div class="field span-3"><label for="text-title">Title</label><input id="text-title"></div>
+          <div class="field span-3"><label for="text-author">Author</label><input id="text-author"></div>
+          <div class="field span-2"><label for="text-genre">Genre</label><input id="text-genre"></div>
+          <div class="field span-2"><label for="text-stage">Stage</label><input id="text-stage"></div>
+          <div class="field span-1"><label for="text-since">Since</label><input id="text-since"></div>
+          <div class="field span-1"><label for="text-until">Until</label><input id="text-until"></div>
+          <div class="field span-1"><label for="text-limit">Limit</label><input id="text-limit" value="100"></div>
+          <div class="field span-1"><label for="text-per-play">Per Play</label><input id="text-per-play" value="3"></div>
+          <div class="field span-1"><label for="text-context">Context</label><input id="text-context" value="90"></div>
+          <div class="check-row span-2"><input type="checkbox" id="text-regex"><label for="text-regex">Regex</label></div>
+          <div class="check-row span-2"><input type="checkbox" id="text-case"><label for="text-case">Case sensitive</label></div>
+        </div>
+        <div class="actions">
+          <button class="action primary" id="text-search">Search Text</button>
+          <button class="action secondary" id="text-reset">Reset</button>
+        </div>
+        <div class="note">The first full-text search downloads the text bundles into your browser. After that, repeated searches are much faster.</div>
+      </div>
+      <div class="results-shell">
+        <div class="results-head"><h3>Matches</h3><div class="count" id="text-count">Enter a query to search the corpus.</div></div>
+        <div class="result-layout">
+          <div class="table-wrap"><div class="table-scroll"><table id="text-table"></table></div></div>
+          <div class="detail-wrap"><div class="detail-title">Context</div><pre class="detail" id="text-detail">Select a row to inspect the match.</pre></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="tab-panel" id="tab-hits">
+      <div class="filters">
+        <h2>Theme Hits</h2>
+        <div class="filter-grid">
+          <div class="field span-2"><label for="hits-theme">Theme</label><select id="hits-theme"><option value="all">all</option><option value="gambling">gambling</option><option value="combat_sport">combat_sport</option></select></div>
+          <div class="field span-2"><label for="hits-precision">Precision</label><select id="hits-precision"><option value="all">all</option><option value="high">high</option><option value="medium">medium</option><option value="low">low</option></select></div>
+          <div class="field span-2"><label for="hits-term">Term</label><input id="hits-term"></div>
+          <div class="field span-2"><label for="hits-category">Category</label><input id="hits-category"></div>
+          <div class="field span-3"><label for="hits-title">Title</label><input id="hits-title"></div>
+          <div class="field span-3"><label for="hits-author">Author</label><input id="hits-author"></div>
+          <div class="field span-2"><label for="hits-genre">Genre</label><input id="hits-genre"></div>
+          <div class="field span-2"><label for="hits-decade">Year / Decade</label><input id="hits-decade" placeholder="1677 or 1670s"></div>
+          <div class="field span-2"><label for="hits-stage">Stage</label><input id="hits-stage"></div>
+          <div class="field span-1"><label for="hits-since">Since</label><input id="hits-since"></div>
+          <div class="field span-1"><label for="hits-until">Until</label><input id="hits-until"></div>
+          <div class="field span-1"><label for="hits-limit">Limit</label><input id="hits-limit" value="300"></div>
+        </div>
+        <div class="actions">
+          <button class="action primary" id="hits-search">Search Hits</button>
+          <button class="action secondary" id="hits-reset">Reset</button>
+        </div>
+      </div>
+      <div class="results-shell">
+        <div class="results-head"><h3>Hit Rows</h3><div class="count" id="hits-count">Search the thematic hit table.</div></div>
+        <div class="result-layout">
+          <div class="table-wrap"><div class="table-scroll"><table id="hits-table"></table></div></div>
+          <div class="detail-wrap"><div class="detail-title">Hit Detail</div><pre class="detail" id="hits-detail">Select a row to inspect the hit.</pre></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="tab-panel" id="tab-summary">
+      <div class="filters">
+        <h2>Play-Level Summary</h2>
+        <div class="filter-grid">
+          <div class="field span-3"><label for="summary-title">Title</label><input id="summary-title"></div>
+          <div class="field span-3"><label for="summary-author">Author</label><input id="summary-author"></div>
+          <div class="field span-2"><label for="summary-genre">Genre</label><input id="summary-genre"></div>
+          <div class="field span-2"><label for="summary-decade">Year / Decade</label><input id="summary-decade" placeholder="1677 or 1670s"></div>
+          <div class="field span-2"><label for="summary-stage">Stage</label><input id="summary-stage"></div>
+          <div class="field span-1"><label for="summary-since">Since</label><input id="summary-since"></div>
+          <div class="field span-1"><label for="summary-until">Until</label><input id="summary-until"></div>
+          <div class="field span-1"><label for="summary-min-gambling">Min Gambling</label><input id="summary-min-gambling" value="0"></div>
+          <div class="field span-1"><label for="summary-min-combat">Min Combat</label><input id="summary-min-combat" value="0"></div>
+          <div class="field span-1"><label for="summary-min-overlap">Min Overlap</label><input id="summary-min-overlap" value="0"></div>
+          <div class="field span-1"><label for="summary-limit">Limit</label><input id="summary-limit" value="250"></div>
+          <div class="check-row span-3"><input type="checkbox" id="summary-both"><label for="summary-both">Both themes somewhere in play</label></div>
+          <div class="check-row span-3"><input type="checkbox" id="summary-overlap-only"><label for="summary-overlap-only">Overlap windows only</label></div>
+        </div>
+        <div class="actions">
+          <button class="action primary" id="summary-search">Search Summary</button>
+          <button class="action secondary" id="summary-reset">Reset</button>
+        </div>
+        <div class="note">Overlap windows are very strict local co-occurrences. Use “Both themes somewhere in play” for a looser play-level inventory.</div>
+      </div>
+      <div class="results-shell">
+        <div class="results-head"><h3>Play Summaries</h3><div class="count" id="summary-count">Loading summary rows.</div></div>
+        <div class="result-layout">
+          <div class="table-wrap"><div class="table-scroll"><table id="summary-table"></table></div></div>
+          <div class="detail-wrap"><div class="detail-title">Summary Detail</div><pre class="detail" id="summary-detail">Select a row to inspect the play-level summary.</pre></div>
+        </div>
+      </div>
+    </section>
+
+    <div class="status" id="status">Loading data.</div>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>

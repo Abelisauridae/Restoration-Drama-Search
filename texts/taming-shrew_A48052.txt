@@ -1,0 +1,2190 @@
+Requested Title: THE TAMING OF A SHREW
+Authors: John Lacy
+Matched Anchor: Sauny the Scott: OR, THE Taming of the Shrew: A COMEDY
+TCP: A48052
+EEBO: 13212871
+Source Title: Sauny the Scott, or, The taming of the shrew a comedy : as it is now acted at the Theatre-Royal / written by J. Lacey ...
+Source Author: Lacy, John, d. 1681.; Shakespeare, William, 1564-1616. Taming of the shrew.
+Source Date: 1698
+Source URL: https://raw.githubusercontent.com/textcreationpartnership/A48052/master/A48052.xml
+Metadata Score: 1.160
+Unit Score: 0.920
+
+---
+
+SAUNY the SCOT. OR, THE Taming of the Shrew
+Sauny the Scott: OR, THE Taming of the Shrew: A COMEDY
+As it is now ACTED at the THEATRE-ROYAL
+Written by J. LACEY, Servant to His MAJESTY
+And Never before Printed
+Then I'll cry out, Swell'd with Poetick Rage,
+'Tis I, John Lacy, have Reform'd your Stage
+Prol. to Rehers
+London, Printed and Sold by E. Whitlock, near Stationers-Hall. 1698
+ACTORS NAMES
+LOrd Beaufoy
+Woodall
+Petruchio, the Tamer
+Geraldo
+Tranio
+Sir Lyonell Winlove
+Winlove, his Son
+Snatchpenny
+Iamy,
+Sauny, the Scott
+Curtis, And other Serving men
+Philip, And other Serving men
+Margaret the Shrew
+Biancha, her Sister
+Mr. Iohnson
+Mr. Powell
+Mr. Thomas
+Mr. Harland
+Mr. Mills
+Mr. Penkethman
+Mr. Hains
+Mr. Bullock
+Mrs. Verbrugen
+Mrs. Cibber
+SAUNEY the SCOT: OR, The Taming of the SHREW
+Enter Winlove, and his Man Tranio
+Win
+I Am quite weary of the Country Life; there is that Little thing the World calls Quiet, but there is nothing else; Clowns live and die in't, whose Souls lye hid here, and after Death their Names: My Kinder Stars, (I thank 'em) have Wing'd my Spirit with an Active Fire, which makes me wish to know what Men are Born for, to Dyet a Running Horse, to give a Hawk casting, to know Dogs Names; These make not Men; no, 'tis Philosophy, 'tis Learning, and Ex ercise of Reason to know what's Good and Virtuous, and to break our Stubborn and Untemper'd Wills, to Choose it; This makes us Imitate that Great Divinity that Fram'd us
+Tran
+I thought you had Learn't Philosophy enough at Oxford, what be twixt Aristotle on one side, and Bottle-Ale on the other, I am confident you have arriv'd at a Pitch of Learning and Virtue sufficient for any Gentle man to set up with in the Countrey, that is, to be the Prop of the Family
+Winl
+My Father's Fondness has kept me so long in the Country, I've forgot all I'd Learn't at the University: Besides, take that at Best, it but Rough-casts us; No, London is the Choisest Academy, 'tis that must Polish us, and put a Gloss upon our Country-Studies; Hither I'm come at last, and do resolve to Glean many Vices. Thou, Tranio, hast been my Companion, still one Bed has held us, one Table fed us; and tho' our Bloods give me Precedency (that I count Chance) My Love has made us Equal, and I have found a frank return in thee
+Tran
+Such a Discourse commands a Serious Answer; Know then, your Kindness tells me, I must Love you: The Good you have Taught me Commands me to Honour you; I have Learnt, with you, to hate Ingra titude; But setting those aside, for thus I may seem to do it: for my own sake, be assur'd, I must Love you, though you hate me; I neither look at Vice nor Virtue in you, but as you are the Person I dote on
+Win
+No more; I do believe and know thou lov'st me: I wonder Iamy stays so long behind: You must look out to get me handsome Lodgings, sit to receive such Friends the Town shall bring me; you must take care of all, for I'm resolv'd to make my Study my sole Business; I'll live handsom ly, not over high, nor yet beneath my Quality
+Enter Beaufoy, Margaret, Biancha, Woodall, and Geraldo. But stay a little, What Company's this?
+Beau
+Gentlemen, Importune no farther, you know my firm Resolve, not to bestow my Youngest Daughter, before I have a Husband for the El der; if either of you both Love Pegg, because I know you well, and love you well: You shall have freedom to Court her at your Pleasure
+Wood
+That is to say, we shall have leave to have our Heads broken, a prime Kindness, by'ur Lady, she's too rough for me; There, Geraldo, take her for me, if you have any Mind to a Wife; to her, you are Young, and may clap Trammel's on her, and strike her to a Pace in time; I dare not deal with her, I shall never get her out of her high Trot
+Marg
+'Tis strange, Sir, you should make a Stale of me among these Mates thus
+Geral
+Mates, Madam, 'Faith, no Mates for you, unless you were a lit tle Tamer; wo worth him that has the Breaking of you?
+Marg
+Take heed I don't bestow the Breaking of your Calves Head for you; You Mate, Marry come up; go, get you a Sempstress, and run in Score with her for Muckinders to dry your Nose with, and Marry her at last to pay the Debt: And you there, Goodman Turnep-eater, with your Neats-Leather Phisnomy, I'll send your Kitchen-wench to Liquor it this Wet-weather; Whose old Bootes was it cut out of?
+Ger
+From all such Potticoate Devils deliver us I pray
+Tran
+Did you ever see the like, Sir? that Wench is either stark Mad, or wonderful Froward
+Wood
+I can't tell, but I had as live take her Dowry with this condition, to be whipt at Chairing-cross every morning
+Ger
+Faith as you say, there's small choice in rotten Apples, but since 'tis as 'tis, let us be Friendly Rivals, and endeavour for a Husband for Margaret, that Biancha may be free to have one, and then he that can win her, wear her
+Wood
+I would give the best Horse in Smith-field to him that would throughly Woe her, Wed her, and Bed her, and rid the House of her, to carry her far enough of, well come agreed
+Exit
+Tran
+But pray Sir, is't possible that Love should of a sudden take such hold of you
+Win
+O Tranio, till I found it to be true, I never found it possible, but she has such attractive Charms, he were a stone that did not Love her, I am all fire, burn, pine, perish Tranio, unless I win her; Counsel me, and As sist me, Dear Tranio
+Tran
+Are all your Resolutions for Study come to this? you have got a book will hold you tack, you are like to be a fine Virtuoso, now must we to a Chymist to set his Still a going for Philters—Love Powders and Ex tracts of Sigh's and Highoe's
+Win
+Nay Tranio, do not make Sport with my Passion, it is a thing so deeply rooted here, it cannot dye, but it must take me with it; help me, or hope not long to see thy Master?
+Tran
+Nay Sir, if you are so far gone there's no remedy, we must con trive some way, but 'twill be difficult; for you know her Father has mew'd her up, and till he has rid his hands of her Sister there's no coming near her
+Win
+Ah, Tranio, what a cruel Father's he, but don't you remember what care he took to provide Masters for her
+Tran
+I Sir, and what of all that?
+Win
+Y'are a Fool, can't I be perfer'd to her, to teach her French, I have a good command of the Language, and it may be easily done
+Tran
+I don't apprehend the easiness of it; for who shall be Sir Lyonels Son here in Town? To ply his Studyes, and wellcome his Friends, visit his Kindred, and entertain 'em
+Win
+Be content, I have a Salve for that too; we have not yet been seen in any House, nor can be distinguish'd by our Faces, for Man or Master. Then it follows thus, you Tranio must be young Winlove in my stead, and bear your self according to my rank; I'll be an ordinary French Master about the Town, the time I stay'd in France, in that will help me, it must be so. Come, come, unease, and take my Cloath's and when we're at our Lodgings, we'll make a full change; when Iamy comes he waits on thee, but first I'll charme his Tongue
+Tran
+'Twill be needful, since this is your Pleasure I'me ty'd to be O bedient, for so your Father charg'd me at your Parting, altho I think 'twas in another sence; In short I'm ready to serve you, and assist you in your Enterprize
+Enter Jamy
+Win
+Here comes the Rogue. Sirrah, Where have you been?
+Iam
+Where have I been? Pray how now Master, where are you Master, has Tranio Stoln your Cloathes, or you his, or both?
+Winl
+Sirrah come hither, this is not time to Jest. Some weighty Rea son makes me take this Habit; enquire not; you shall know e'm time e nough; mean while wait you on Tranio in my stead I charge you as be comes you, you understand me
+Iam
+I, Sir, ne'r a whit
+Win
+And not of Tranio; one word in your Mouth, he's turn'd to Winlove
+Iam
+The better for him, would I were so too
+Tran
+When I am alone with you, why then I am Tranio still, in all places else, your Master Winlove
+Winl
+Tranio, let's go, one thing yet remains, which you must by no means neglect, that is, to make one amongst these Wars; Ask me not why, but be satisfy'd, my Reasons are both good and weighty
+Tran
+I obey, Sir
+[Exeunt
+ACT II
+Enter Petruchio, and his Man Sauny
+Pet
+SIrrah, leave off your Scotch, and speak me English, or some thing like it
+Saun
+Gude will I Sir
+Pet
+I think we have Ridden Twenty Miles in Three houres, Sawny are the Horses well Rubb'd down and Litter'd
+Saun
+Deel O my Saul, Sir, I ne'r Scrub'd my sell better than I Scrub'd your Naggs
+Pet
+And thou need'st Scrubbing, I'll say that for thee, thou Beastly Knave; Why do ye not get your self Cur'd of the Mange
+Saun
+S'breed, Sir, I w'ud ne'a be cur'd for a Thousand Pund; there's nea a Lad in aw Scotland but Loves it; Gude Sawny might hang himsel an it were not for Scratting and Scubbing
+Pet
+Why so Prethee?
+Saun
+When ye gea 'tull a Ladies House ye are Blith and Bonny Sir, and gat gud Meat, but the Dee'l a bit gat's Sawndy, meere than Hunger and Cawd, Sir; Ba then, Sir, when aw the Footmen stan still Sir, and ha no thing to dea, then gees Saundy tul his Pastime, Scratten and Scrubben
+Pet
+Do'st call it Pastime?
+Saun
+A my Saul de I Sir; I take as Muckle Pleasure, Sir, in Scratten and Scrubben, as ye de in Tiplin and Mowing
+Pet
+Nay, if it be so, keep it, and much good may it d'ye. This is my old Friend Geraldo's Lodgings, for whose sake now I am come to Town, I hope he's at home; there Sauny, Knock
+Saun
+Wuns, Sir, I see nean to Knock boe' yer ean sel, Sir
+Pet
+Sirrah, I say Knock me soundly at this Gate
+Saun
+Out, Out, in the Muccle Dee'ls Name t' ye; you'l gar me strike ye, and then ye'l put me a-wau, Sir, with ye'r favour Ise ne're do't Sir: Gude an ye ne ken when ye an a gued Man, S'breed I wo't when I've a gued Master, ye's bang yer Sel for Saundy
+Pet
+Rogue, I'll make you understand me
+[Beats him
+Saun
+Gude an yeed give Sawndy ea bang ar twa mere e that place, for I can ne're come at it to Scrat it my sel Sir
+Pet
+Yes thus, Sir
+Saun
+The Dee'l faw yer Fingers, I may not beat yea o' yee'r e'ne Dung hill, Sir, bot gin I had yea in Scotland, Is'e ne give yea a Bawbee for your Luggs
+Enter Geraldo
+Ger
+How now Sauny, What Crying out? Dear Petruchio, most well come; When came you to Town? What Quarrel is this 'twixt you and Sauny? I pray let me Compose the Difference, and tell me now what hap py Gale droye you to Town, and why in this Habbit? Why in Mourning?
+Pet
+A common Calamity to us young Men, my Father has been Dead this four Mouths
+Ger
+Trust me I am sorry, a good old Gentleman
+Saun
+Gee yer gate Sir, ge yer gate, on ye be fow a grief ye'r nea Friend, Sir, we are blyth and bonny, Sir, we nere woe for't
+Pet
+Sirrah, you long to be basted
+Saun
+Gad do I not, Sir
+Pet
+Hether I come to try my Fortunes, to see if good luck and my Friends will help me to a Wife; Will you wish me to one?
+Ger
+What Quallifications do you look for?
+Pet
+Why Money, a good Portion
+Ger
+Is that all?
+Pet
+All Man? all other things are in my making
+Ger
+I shall come roundly to you, and wish you to a Rich Wife, but her Face—
+Pet
+That shall break no Squares, a Mask will mend it, wealth is the burthen of my Wooing Song. If she be Rich, I care not if she want a Nose or an Eye, any thing with Money
+Saun
+De ye nea gi him Creedit Sir, I wud a halp't him tul a Highland Lady with Twanty thousand pund; Gude he wud nea have her, Sir
+Pet
+Sirrah, your Twenty thousand Pounds Scotch will make but a Pittiful English portion
+Saun
+Gude Sir, Bo a Muckle deal of Scotch Punds is as gued as a Little deale of English Punds
+Ger
+She has nothing like this, but a thing worse, she has a Tongue that keep's more Noise then all that ever Mov'd at Billingsgate
+Pet
+Pish, a triffle; Where lives she? I long to be Wooing her, let me alone with her Tongue, I'me in Love with the new's of it, who is't? who is't? I'm resolv'd for her or Nobody
+Ger
+But look before you Leap, Sir, and say you were warn'd
+Saun
+Out, out, he can nea break his Cragg upon her, Gude an ye'd venter your bonny Lass, Ise venter my bonna Lad at her, Sir
+Ger
+Her Father is the brave Noble Beaufoy, her Name Margaret, fam'd about Town for a Vixen
+Pet
+The Town's an Ass, come prithee shew me the House, I will not sleep 'till I see her, I know her Father. Nay, I am resolv'd man, come prithee come
+Saun
+Wun's man an she be a Scawd, awaw with her, awaw with her, and Iohnee Iohnstons Curse go with Her
+Ger
+Prethee what's that?
+Saun
+That is, the Deel creep into her weem t'ith very bottome on't that's to the Croone gued faith of her head
+Ger
+Well Sir, if you are resolv'd, I'll wait on you; to say the truth, 'twill be my great advantage, for if you win her, I shall have liberty to see her younger Sister sweet Biancha, to whose fair Eyes I am a Votary, and you in order to my Love Petruchio must help me, I'll tell you why, and how you must prefer me as a Musick-Master to old Beaufoy
+Pet
+I understand you not
+Saun
+He'd ha ye make him her Piper, Sir, gued at ye'd make Sanndy her Piper, wun's Ide sea blea her Pipe
+Pet
+Sirrah be quiet, what I can I'll serve you in; But who comes here Geraldo?
+Enter Woodall and Winlove Disguis'd
+Ger
+'Tis Mr. Woodall, a rich old Citizen, and my Rival: Hark
+Saun
+Out, out, What sud an awd Carle do with a young bonny Lass, are ye not an Aud theif, Sir
+Wood
+How!
+Saun
+Are ye not an Aud Man, Sir?
+Wood
+Yes marry am I, Sir
+Saun
+And are not ye to Marry a young Maiden?
+Wood
+Yes, What then?
+Saun
+And are not ye troubled with a sear griefe, Sir?
+Wood
+A sear grief, what sear grief?
+Saun
+Your troubled with a great weakness i'th' bottome of your Bally, what sid yea dea with a young Maiden? Out, out, out
+Wood
+You understand me, your French Books treat most of Love; those use her too, and now and then you may urge something of my Love and Merit? besides her Fathers bounty, you shall find me Liberal
+Win
+Mounsier, me will tell her the very fine ting of you, me vill make her Love you whether she can or noe?
+Wood
+Enough, Peace, here's Geraldo, your servant Sir, I am just going to Sir Nicholas Beaufoy to carry him this Gentleman, a Frenchman, most Eminent for teaching his Country Language
+Ger
+I have a Master for Biancha too, but waving that, I have some news to tell you, I have found out a Friend that will Woo Margaret, What will you contribute, for he must be hir'd to't?
+Wood
+Why I will give him forty Peeces in hand, and when he has don't, I'll double the Sum
+Ger
+Done, Sir, I'll undertake it
+Saun
+S'breed Sir, I'se gat it done muckle Cheaper, for twanty Punds I'se dea it my Sel
+Ger
+Come, down with your Money, and the Bargain's made
+Wood
+But if He shud not do it, I don't care for throwing away so much Money
+Ger
+If he don't I'll undertake he shall refund
+Wood
+Why then here's ten Pieces, and that Ring I'll pawn to you for 'tother Forty, 'tis worth a Hundred; But doe's the Gentleman know her Qualities?
+Pet
+I Sir, and they are such as I am fond on; I woul'd not be hir'd for any thing, to Woo a person of another Humour
+Enter Tranio brave, and Jamy
+Tran
+Save you Gentlemen; Pray which is the way to Sir Nicholas Beaufoy's House?
+Wood
+Why Sir, what's your Business there? you pretend not to be a Servant to either of his Daughters, d' ye?
+Tran
+You are something blunt in your Questions, perhaps I do
+Pet
+Not her that Chides, on any hand I pray
+Tran
+I Love no Chiders; come Iamy
+Ger
+Pray stay Sir, Is it the other?
+Tran
+May be it is, Is it any offence?
+Wood
+Yes 'tis Sir, she is my Mistriss
+Ger
+I must tell you Sir, she is my Mistriss too
+Tran
+And I must tell you both she is my Mistriss; Will that content you? nay never frown for the Matter
+Saun
+And I mun tell ye all, there's little hopes for Saundy then
+Win
+The Rogue does it rarely
+Pet
+Nay, nay, Gentleman, no Quarrelling, unless it were to the purpose: Have you seen this young Lady Sir?
+Tran
+No Sir: but I'm in Love with her Character. They say she has a Sister moves like a Whirlwind
+Pet
+Pray spare your Description Sir; that Furious Lady is my Mistriss; and till I have Married her, Biancha is Invisible; her Father has Sworn it, and, till then, you must all move Forty foot off
+Tran
+I thank you for your Admonition; I should have lost my Labour else; and since you are to do all of us the Favour, I shall be glad to be numbred among your Servants Sir
+Pet
+You will honour me to accept of me for yours. But pray Sir let me know who obliges me with this Civility?
+Tran
+My Name is Winlove, Sir, a Worstershire Gentleman; where I have something, an Old Man's Death will Intitle me to, not inconsidera ble. Come, Gentlemen, let's not fall out, at least till the Fair Biancha's at Liberty; Shall we go sit out half an hour at the Tavern, and Drink her Health?
+Saun
+Do my Bearns; and I'se Drink with ye to Countenance ye
+Pet
+I, I, agreed; Come, and then I'll to my Mistriss
+Saun
+Gude these Lades are o' Saundyes Mind, they'l lather take a Drink, nor Flight
+[Exeunt. Enter Margaret and Biancha
+Marg
+Marry come up Proud Slut, Must you be making your self Fine before your Elder Sister? You are the Favourite you are, but I shall make you know your Distance; Give me that Necklace, and those Pendants, I'll have that Whisk too, there's an old Handkerchief good enough for you
+Bianc
+Here, take 'em, Sister, I resign 'em freely, I wou'd give you all I have to Purchase your Kindness
+Marg
+You Flattering Gypsie, I cou'd find in my Heart to Slit your Dis sembling Tongue; Come, tell me and without Lying, which of your Su tors you Love best? Tell me, or I'll beat you to Clouts, and Pinch thee like a Fary
+Bian
+Believe me Sister, of all Men alive, I never saw that Particular Face which I cou'd Fancy more than another
+Marg
+Huswife you Lye; and I could find in my Heart to Dash thy Teeth down thy Throat; I know thou Lov'st Goraldo
+Bian
+If you Affect him Sister, I Vow to plead for you my self, but you shall have him
+Marg
+O then belike you fancy Riches more, you Love Old Woodall
+Bian
+That Old Fool: Nay now I see you but Jested with me all this while; I know you are not Angry with me
+Marg
+If this be Jest, then all the rest is so: I'll make ye tell me e're I have done with you Gossip
+Enter Beaufoy
+Beau
+Why now now Dame, Whence grows this Insolence? Biancha get thee in my Poor Girle; She Weeps; Fye, Peg, put off this Devillish Humour; Why dost thou Cross thy Tender Innocent Sister? When did she Cross thee with a Bitter Word?
+Marg
+Her Silence Flouts me, and I'll be Reveng'd
+[Flyes at Biancha
+Beau
+What in my sight too? You scurvy Ill-natur'd Thing: Go, poor Biancha, get thee out of her way
+[Exit
+Marg
+What will you not suffer me; nay, now I see she is your Trea sure; She must have a Husband; and I Dance Bare-foot on her Wedding-Day: And for your Love to her, lead Apes in Hell. I see your care of me, I'll go and cry till I can find a way to be quit with her
+Exit
+Beau
+Was ever poor Man thus plagu'd?
+Enter Woodal with Winlove Disguis'd, with Jamy carrying a Lute and Books, and Tranio
+How now who'se here?
+Wood
+Sir your Servant, I am bold to wait on you to present you this Gentleman, an Acute teacher of the French Tongue, his Name's Mounsieur Mawgier, pray accept his service
+Beau
+I am your debtor Sir, Mounsieur you'r wellcome
+Win
+Me give you humble thanks Sir
+Beau
+But what Gentleman is that?
+Wood
+I don't love him so well to tell you his Errant, but he wou'd come along with me, you had best ask him
+Tran
+I beg you Pardon for my Intrusion, we heard your Fair and Virtuos Daughter Biancha, prais'd to such a height of Wonder, Fame has already made me her Servant; I've heard your Resolution not to Match her till her Eldest Sister be bestow'd, mean while I beg Admittance like the rest to keep my hopes alive; this Lute Sir, and these few French Romances I wou'd Dedicate to her Service
+Beau
+Sir you oblige me, Pray your Name?
+Tran
+'Tis Winlove, Son and Heir to Sir Lyonell Winlove
+Beau
+My noble Friend, he has been my School-fellow; for his sake you are most kindly welcome, you shall have all the freedome I can give you
+Enter Sauny and Geraldo Disguis'd
+Saun
+Hand in hand, Sir, I'se go tell him my sel. Whare is this Laird?
+Beau
+Here, Sir, What wou'd you have, what are you?
+Saun
+Marry I'se can a bonny Scot, Sir
+Beau
+A Scotchman is that all?
+Saun
+Wun's wud ye have me a Cherub? I ha brought ye a small teaken Sir
+Beau
+But d'ye hear you Scot, don't you use to put off your Cap to your betters?
+Saun
+Marry we say in Scotland Gead Mourn til ye for aw the day, and sea put on our bonnets again, Sir; Bud Sir, I ha brought ye a Teaken
+Beau
+To me, where is't; from whence is your Teaken?
+Saun
+Marry from my good Master Petruchio, Sir; he has sen ye a Piper to teach your Bonny Lasses to Pipe, but gin yet let Sauny teach 'em? I'se pipe 'em sea Whim—Whum, their Arses shall nere leave giging and joging while their's a Tooth in their head
+Beau
+Petruchio! I remember him now, How does thy Master?
+Saun
+Marry Sir, he means to make one of your Lasses his Wanch, that is his Love and his Ligby
+Beau
+You are a Sawcy Rogue
+Saun
+Gud wull a Sir, he'll tak you Lass with a Long Tang that the Deel and Saundy wun a venter on, but he's here his aun sel, Sir
+Enter Petruchio
+Pet
+Your most humble Servant
+Beau
+Noble Petruchio welcome, I thank you for your kindness to my Daughters. Within there
+Enter Servant
+Conduct these Gentlemen to my Daughters, tell 'em these are both to be their Masters, bid 'em use 'em Civily; take in that Lute, and those Books there, Petruchio I hear you have lost your Father lately
+Pet
+'Tis true, but I hope to find another in you; in short I hear you have a fair Daughter call'd Margaret, the World says she is a Shrew; But I think otherwise, you know my Fortune, if you like my Person, with your Consent, I'll be your Son-in-Law
+Beau
+I have such a Daughter, but I so much Love you, I would not put her into your hands, she'll make you mad
+Saun
+Gud he's as mad as heart can wish, Sir, he need nea halp, Sir
+Pet
+I'll venture it Father, so I'll presume to call ye; I'm as Peremptory, as she's Proud-minded: and where two Rageing fires meet together they do consume the thing that feed's their fury; my Fathers Estate I have better'd, not Imbezell'd, then tell me, if I can get your Daughters Love, What Portion you will give?
+Beau
+After my Death the Moiety of my Estate, and on the Wedding day Three Thousand Pounds
+Pet
+And I'll assure her Jointure answerable; get Writings drawn, I'll warrant you I'll carry the Wench
+Beau
+Fair Luck betide you
+Enter Geraldo Bleeding
+How now Man, What's the matter? Will my Daughter be a good Lutanist?
+Ger
+She'll prove a better Cudgel Player, Lutes will not hold her
+Beau
+Why then thou canst not break her to thy Lute
+Ger
+No, but she has broke the Lute to me; I did but tell her she mistook her fretts, and bow'd her head to teach her Fingrings, Fretts call you these, (quoth she) and I'll frett with you, so fairly took me o're the Pate with the Lute, and set me in the Pillory; and follow'd it with loud Volly's of Rogue, Rascal, Fidler, Jack, Puppy, and such like
+Pet
+Now by the World I Love her ten times more than er'e I did
+Saun
+Gud, bo the De'll a bit ye's wad her Sir, Wun's I'se nea gi twa Pence for my Luggs gin you make her yer Bride
+Pet
+I'll warrant you Sauny, we'll deal with her well enough
+Beau
+Well Sir, I'll make you Reperation, proceed still with my youngest Daughter, she's apt to Learn; Petruchio will you go with us, or shall I send my Daughter to you?
+Pet
+Pray do Sir, and I'll attend her here
+Exeunt Manut. Pet. Saun
+Saun
+Gud at ge gi Saundy a little Siller to gea to Scotland agen
+Pet
+Why Sauny, I have not us'd thee so unkindly
+Saun
+Gud I 'se nea tarry with a Scauding Quean Sir, yet the Dee'l faw my Luggs, if Ise ken which is worse, to tarry and venture my Cragg, or gea heam to Scotland
+Enter Margaret
+Pet
+Peace Sirrah, here she comes; now for a Rubbers at Cuffs. O Honey Pretty Peg, how do'st thou do Wench?
+Marg
+Marry come up Ragmanners, Plain Peg? Where were you bred? I am call'd Mrs. Margaret
+Pet
+No, no, thou ly'st Peg, thou'rt call'd plain Peg, and Bonny Peg, and sometimes Peg the Curst, take this from me; Hearing thy Wildness prais'd in every Town, thy Virtues Sounded and thy Beauty spoke off: my self am mov'd to take thee for my Wife
+Marg
+I knew at first you were a Moveable
+Pet
+Why what's a Moveable
+Marg
+A Joint Stool
+Pet
+Thou hast hit it Peg, come sit upon me
+Marg
+Asses were made to bear, and so were you
+Pet
+Why now I see the World has much abus'd thee, 'twas told me thou wert rough and Coy, and Sullen, but I do find thee pleasant, Mild and Curteous; Thou can'st not frown, nor Pout, nor bite the Lip as angry wenches do. Thou art all sweetness
+Marg
+Do not Provoke me, I won't stand still and here my self abus'd
+Pet
+What a Rogue was that told me thou wert Lame, thou art as streight as an Osier! and as Plyable, O what a rare walk's there! why there's a gate puts down the King of Frances best great Horse
+Saun
+And the King of Scotland 's tea
+Pet
+Where did'st thou Learn the grand Paw Peg? It becomes thee rarely
+Marg
+Doe's it so sawcebox? how will a halter become you with a run ing knot under one Ear?
+Pet
+Nay, no knot Peg, but the knot of Matrimony 'twixt thee and me, we shall be an Excellent Mad Couple well match'd
+Marg
+I match'd to thee? what to such a fellow with such a Gridiron face; with a Nose set on like a Candels end stuck against a Mud wall; and a Mouth to eat Milk Porridge with Ladles? Foh, it almost turns my Stomach to look on't
+Saun
+Gud an your Stomach wamble to see his Face, What will ye dea when ye see his Arse Madam
+Marg
+Marry come up Abberdeen, take that [hits him a box on the Ear.] and speak next when it comes to your turn
+[hits him a box on the Ear.]
+Saun
+S'breed the Deel tak a gripe O yer faw fingers and Driss your Doublat for ye
+Pet
+Take heed Peg, Sauny 's a Desperate Fellow
+Marg
+You'r a couple of Logger heads Master and Man, that I can tell you
+Pet
+Nay, nay, Stay Peg, for all this I do like thee, and I mean to have thee, in truth I am thy Servant
+Marg
+Aye you, why then I'll give you a favour, and thus I'll tye it on, there's for you
+[beats him.]
+Saun
+Out, out, I 'se gea for Scotland, Gud an she beat ye Saundy 's a Dead Man
+Pet
+I 'll swear I 'll cuff you, if you Strike agen
+Marg
+That's the way to loose your Armes, if you strike a Woman, you are no Gentleman
+Pet
+A Herald Peg? Prithee Blazon my Coat
+Marg
+I know not your Coat, but your Crest is a Coxcombe
+[offers to go away
+Pet
+Stop her Sirrah, stop her
+Saun
+Let her gea her gate Sir, an e'n twa Deels and a Scotch wutch, blaw her weeme full of Wind
+Pet
+Stay her Sirrah, stay her, I say
+Saun
+S'breed Sir, stay her yer sen, but hear ye Sir, an her tale gea as fast as her tang, Gud ye ha meet with a Whupster, Sir
+Pet
+Prethee Peg stay, and I 'll talk to thee in Earnest
+Marg
+You may pump long enough er'e you get out a wise word, get a Night Cap to keep your brains warm
+Pet
+I mean thou shalt keep me warm in thy Bed Peg, What think'st thou of that Peg? in plain terms without more ado I have your Fathers Consent, your Portions agreed upon, your Joynture settled, and for your own part, be willing or unwilling all's one, you I will marry, I am resolv'd on't
+Marg
+Marry come up Jack a Lent, without my Leave?
+Pet
+A Rush for your Leave, here's a Clutter with a troublesom Woman, rest you contented, I'll have it so
+Marg
+You shall be bak'd first, you shall; within there, ha!
+Pet
+Hold, get me a Stick there Sauny; by this hand, deny to Promise before your Father, I'll not Leave you a whole rib, I'll make you do't and be glad on't
+Marg
+Why you will not Murther me Sirrah? you are a couple of Rascals, I don't think, but you have pickt my Pockets
+Saun
+I'se sooner pick your tang out O' your head, nor pick your Pocket
+Pet
+Come leave your idle prating, have you I will or no man ever shall, whoever else attempts it his throat will I Cut, before he lyes one night with thee, it may be thine too for company; I am the Man am born to tame thee Peg
+Enter Beaufoy, Woodal and Tranio
+Here comes your Father, never make denial, if you do, you know what follows
+Marg
+The Devil's in this fellow, he has beat me at my own Weapon, I have a good mind to marry him to try if he can Tame me
+Beau
+Now Petruchio, how speed you with my Daughter
+Pet
+How but well, it were Impossible I shou'd speed amiss, 'tis the best Naturd'st Lady—
+Beau
+Why how now Daughter, in your Dumps?
+Marg
+You shew a Fathers care indeed to Match me with this mad Hectoring Fellow
+Pet
+She has been abus'd Father, most unworthily, she is not Curst un less for Pollicy; for Patience, a second Grizel; betwixt us we have so agreed, the Wedding is to be on Thursday next
+Saun
+Gud Saundy 's gea for Scotland a Tuesday then
+Wood
+Heark Petruchio, shee says shee'll see you hang'd first, is this your speeding? I shall make you refund
+Pet
+Pish, that's but a way she has gotten, I have Wood her, Won her, and shee's my own; we have made a bargin that before Company she shall maintain a little of her Extravagant Humour, for she must not seem to fall off from't too soon; when we are alone, we are the kindest, Lovingst, tenderst Chickins to one another! Pray Father provide the Feast, and bid the Guests, I must home to settle some things, and fetch some Writings in order to her Joynture.—Farewel Gallants, give me thy hand Peg
+Beau
+I knot not what to say, but give me your hands, send you Joy; Petruchio, 'tis a Match
+Wood
+Tran. Amen say we, we all are Witnesses
+Marg
+Why Sir de'ye mean to Match me in spight of my Teeth?
+Pet
+Nay, peace Peg, Peace, thou needst not be pevish before these, 'tis only before strangers according to our bargain; Come Peg, thou shalt go see me take horse, farewel Father
+Marg
+As I live I will not
+Pet
+By this Light but you shall; nay, no testy tricks, away
+Exeunt
+Saun
+Gud I'se be your Lieutenant and bring up your reer Madam
+Exit
+Wood
+Was ever match clapt up so suddingly?
+Beau
+Faith Gentlemen, I have ventur'd madly on a Desperate Mart
+Wood
+But now Sir, as to your younger Daughter, you may remember my long Love and Service
+Tran
+I hope I may (without Arrogance Sir,) beg you to look on me as a Person of more Merit
+Beau
+Content ye Gentlemen, I'll compound this strife, 'tis Deeds not Words must win the Prize: I love you both, but he that can assure my Daughter the Noblest Joynture has her, What say you Sir?
+Wood
+I'll make it out my Estate is worth De clara, full Twenty Thousand Pounds, besides some ventures at Sea, and all I have, at my Discease I give her
+Tran
+Is that all Sir? Alas 'tis too Light Sir, I am my Fathers Heir, and only Son, and his Estate is worth Three thousand pound per Annum; that will aford a Joynture answerable to her Portion; no Debts, nor Incumbrances, No Portions to be paid—have I nip't you, Sir
+Beau
+I must confess your offer is the best, and let your Father make her this assureance, she is your own, else you must pardon me, if you should dye before him, where's her Power?
+Tran
+That's but a Cavel, hee's old, I young
+Wood
+And may not young men dye as well as old, have I nip't you there again?
+Beau
+Well, Gentlemen, I am thus resolv'd, on Thursday my Daughter Peg is to be Married; the Thursday following Biancha 's yours, if you make this Assurance; if not, Mr. Woodall has her; and so I take my Leave, and thank you both
+[Exit
+Wood
+Sir, your Servant; Now I fear you not: Alas, Young Man, your Father is not such a Fool, to give you all, and in his waining Age, set footing under your Table; You may go Whistle for your Mistriss ▪ ha, ha, ha
+[Exit
+Tranio
+A Vengance on your Crafty Wither'd Hide. Yet 'tis in my head to do my Master good: I see no reason why this suppos'd young Winlove should not get a suppos'd Father, call'd, Sir Lyonell Winlove, and that's a wonder, Fathers commonly get their Children, but here the Case must be alter'd
+Love Brings such Prodigies as these to Town,
+For that, at Best, turns all things upside Down
+[Exit
+ACT. III
+Enter Winlove, Geraldo, Biancha. Table cover'd with Velvet, Two Chaires and Guitar. A Paper Prickt with SONGS
+Geral
+PRay Madam, will you take out this Lesson on the Git tar
+Win
+Here be de ver sine Story in de Varle of Moun sieur Appollo, And Madomoselle Daphne; Me vill Read you dat Madam
+Geral
+Good Madam, mind not that Monsieur Shorthose; But Learn this Lesson first
+Win
+Begar Monsieur Fideler, you be de vera fine troublesome Fellow, me vil make de great Hole in your Head wid de Gittar, as Margaret did
+Ger
+This is no Place to Quarrel in: But Remember—
+Bian
+Why Gentlemen, you do me double wrong, to strive for that which Resteth in my Bare Choice: To end the Quarrel, sit down and Tune your Instrument, and by that time his Lecture will be done
+Gera
+You'l leave his Lecture, when I am in Tune
+Bian
+Yes, yes; Pray be satisfied: Come, Monsieur, let's see your Ode
+Win
+I do suspect that Fellow, Sure he's no Lute-Master
+Bian
+Here's the Place, Come Read
+[Reads
+Do not Believe I am a Frenchman, my Name is Winlove; He that bears my Name about the Town, is my Man Tranio. I am your passionate Ser vant, and must live by your Smiles. Therefore be so good, to give Life to my hopes
+Gera
+Madam, your Gittar is in Tune
+Bian
+Let's hear; fye, there's a String split
+Win
+Make de spit in the Whole Man, and Tune it again
+Bian
+Now let me see. I know not how to believe you. But if it be true, Noble Mr. Winlove deserves to be belov'd; and, in the mean time, keep your own Councell; and it is not impossible but your Hopes may be Converted into Certainties
+Gera
+Madam, now 'tis Perfectly in Tune
+Win
+Fye, fye, Begar no Tune at all
+Bian
+Now, Sir, I am for you
+Gera
+Mounsieur, Pray walk now, and give me leave a while, my Les son will make no Musick in Three Parts
+Win
+Me vil no trouble you Mounsieur Fiddeller. I am confident it is so, this must be some Person that has taken a Disguise, like me, to Court Biancha; I 'll watch him
+(Aside
+Gera
+First, Madam, be pleas'd to Sing the Last Song that I Taught you, and then we'll proceed
+Bian
+I'll try, but I'm afraid I shall be out
+SONG
+Gera
+Madam, before you proceed any farther, there be some few Rules set down in this Paper, in order to your Fingering, will be worth your Perusal
+Bian
+Let's see
+(Reads
+Tho' I appear a Lute-Master, yet know my fair Biancha, I have but taken this disguise to get Access to you, and tell you I am your humble Servant, and Passionate Admirer, Geraldo. Pish, take your Rules again, I like 'em not the old way pleases me best, I do not care for changing old Rules, for these Foo lish new Inventions
+Enter Servant
+Serv
+Madam my Lord calls for you to help dress the Bride
+Bian
+Farewell then Master, I must be gone
+Exeunt
+Ger
+I know not what to think of her, this fellow looks, as if he were in Love, and she carresses him. These damn'd French men, have got all the trade in Town, if they get up all the handsome Women, the English must e'en march into Wales for Mistersses; well, if thy thoughts Biancha are grown so low, to cast thy wandring Eyes on such a kikshaw, I'me resolv'd to ply my Widow
+Exit
+Win
+I am glad I'me rid of him, that I may speak my Mother Tongue agen, Biancha has given me hopes, I dare half believe she Loves me
+Enter Beaufoy, Woodal, Tranio, Margaret, Biancha, and Attendants
+But here's her Father
+Beau
+Believe me Gentlemen, 'tis very strange! This day Petruchio ap pointed, yet he comes not; methinks he shou'd be more a Gentleman, then to put such a slur upon my Family
+Marg
+Nay, you have us'd me sinely, and like a Father; I must be forc'd to give my hand against my will, to a rude mad brain'd Fellow here; who Woo'd in hast, and means to Wed at Leisure. this comes of obeying you, if I do't again, were you ten thousand Fathers hang me
+Tran
+Be Patient Madam, on my life hee'll come; though he be blunt and merry, I'm sure hee's Noble; good Madam, go put on your Wedding Cloaths, I know he'll be with you e're you be Drest
+Marg
+Wedding Cloaths, I'll see him hang'd before I'll have him, unless it be to scratch his Eyes out
+Exit weeping
+Beau
+Poor Girl! I cannot blame thee now to weep, for such an Injury wou'd vex a Saint; Tho I am old, I shall find some body will call him to a strict Account for this
+Enter Jamy
+Iam
+O Master, News! News! and such News as you never heard off
+Beau
+Why what News have you, Sir?
+Iam
+Is't not News to hear of Petruchio 's Coming?
+Beau
+Why, is he come?
+Iam
+Why, no my Lord
+Beau
+What then Sirrah?
+Iam
+He's coming Sir
+Beau
+When will he be here?
+Iam
+When he stands where I am and sees you there
+Beau
+Well sarrah, is this all the News?
+Iam
+Why Petruchio is coming in a new Hat, and an old Jerkin, a pair of Britches thrice turn'd, a pair of Boots that have been Candle-cases; an old rusty Sword with a broken hilt, and never a Chape, upon an old Lean, Lame, Spavin'd, Glander'd, Broken-winded Jade, with a Womans Crupper of Velvit, here and there peec'd with packthreed
+Tran
+Who comes with him?
+Iam
+O Sir, his Man Sauny, and in an Equippage very suitable to his Master, he looks no more like a Christian Footman, then I look like a Windmill
+Wood
+This is a most strange Extravagant Humour
+Beau
+I'me glad he comes however he be!
+Enter Petruchio and Sauny strangely Habbited
+Pet
+Come, Where be these Gallants, who's at home?
+Beau
+You're Wellcome Sir, I'm glad you're come at last
+Tran
+I think I have seen you in better Cloathes
+Pet
+Never, never, Sir, this is my Wedding Suite; Why how now, how now Gentlemen, What d'ye stare at, d'ye take me for a Monster?
+Wood
+Faith in that Habit you might pass for one in the Fair
+Pet
+O you talk merrily, my Taylor tells me it is the newest Fashion: But where's my Peg? I stay too long from her, the Morning wear's, 'tis time we were at Church
+Tran
+Why you won't Visit her thus
+Pet
+Marry but I will
+Saun
+And sea will Saundy tea Sir
+Beau
+But you will not Marry her so will you?
+Saun
+A my Saul sal he Sir
+Pet
+To me shee's Married, not to my Cloathes; Will ye along Father and Gentlemen? I'll to Church imediately, not tarry a minute
+Saun
+Here ye Sir, ye sal Marry her after the Scotch Directory, then gin ye like her not, ye maw put her awaw, How say ye now?
+Exit. Pet. and Saun
+Tran
+He has some meaning in this mad Attire, but you must perswade him to put on a better, e're he goes to Church
+Beau
+Let's after and see what will become of it
+Exit
+Tran
+Well Sir, you find there's no other way, 'tis too short warning to get your Father up; shou'd you Steal the Match, who knows but both the old Fools wou'd so deeply resent it to your Prejudice
+Win
+Why Prethee this way it will be Stolen for 'tis but a Cheat, which will be in a little time Discover'd
+Tran
+That's all one, it Carries a better face, and we shall have the more sport; besides e're it comes out, your Father may be wrought to like it, and Confirm my Promises; She is suitable to you every way, and she is rich enough to do it, and Loves you well enough besides
+Win
+Well if it must be so, let's contrive it handsomly
+Tran ▪
+Let me alone, Iamy shall do the business, he shall find out some Knight of the Post, that shall be old Sir Lyonel Winlove here, and make Assurance of a greater Joynture then I propos'd; ne're fear it Sir, I'll so Instruct him, it shall be carryed without the least Suspition
+Win
+Ay but you know old Beaufoy knows my Father
+Tran
+That's nothing, 'tis so many years since he saw him, he will never distinguish him by his face
+Win
+This may be done, but notwithstanding all did not my fellow Teacher, that damn'd Lute-master so nearly watch us, 'twou'd not be amiss to steal a Marriage, and that once perform'd, let all the World say no, I'll keep my own
+Tran
+That we may think on too; this same Lute-Master I more then half suspect
+Win
+And so do I
+Tran
+I have mist a Gentleman out of the gang a good while, but let that pass, I have already sent Iamy to find a Man
+Enter Woodall
+To our postures, here's Mr. Woodall, he must be Chous'd too among the rest, save you Sir, Came you from the Church?
+Wood
+As willingly as e're I came from Schoole
+Tran
+And is the Bride and Bridegroome coming home
+Wood
+A Bridegroome, why hee's a Bridegroome for the Devil, a Devil, a very Fiend
+Tran
+Why shee's a Devil, an errant Devil; nay, the Devils Dam
+Wood
+But shee's a Lamb, a Dove, a Child to him: When the Priest askt if he would take Margaret for his Wife, I by Gogs wound's quoth he, and Swore so loud! that all amaz'd, the Priest lets fall the Book, and as the Sexton stoop'd to take it up, this mad brain'd Bridegroome took him such a cuff, that down fell Sexton Book and all again; now take it up quoth he if any list
+Tran
+What said the poor Bride to this?
+Wood
+Trembl'd and shook like an Aspen Leafe; after this just as the Parson joyn'd their hands, he call'd to his Roguy Scotchman, for a Glass of Muscadine, drank his Wives Health, and threw the Toast in the Clarks face, because his Beard grew thin and hungry, then took the Bride about the Neck and gave her such a Smack the Church eccho'd again; the sight of this made me run away for shame, I know they are following by this time; but hark, I hear the Minstrels. Musick
+Enter Beaufoy, Petruchio, Margaret, Biancha, Geraldo, Sauny, and c
+Pet
+Gentlemen and Friends I thank you for your Pains, I know you think to Dine with me to day, and have prepar'd great store of Wedding Chear, but so it is, grand business calls me hence, and I take my leave
+Beau
+Is't Possible you will away to night?
+Pet
+I must immediately, if you knew my business you wou'd not wonder; well honest Gentlemen I thank you all, that have beheld me give away my self to this most Patient, Sweet and virtuous Wife; Dine with my Father here, and drink my health for I must hence, so farewel to you all
+Saun
+Wun's will ye nea eat your Wadden Dunner, Sir?
+Tran
+Let us Intreat you to stay till after Dinner
+Pet
+It must not be
+Marg
+Let me Intreat you
+Pet
+That will do much, I am Content
+Marg
+Are you content to stay?
+Pet
+I am content you shou'd Intreat me, but yet I will not stay intreat me how you can
+Marg
+Now if you Love me stay
+Pet
+I cannot, Sauny the Horses
+Saun
+They have nea ea't their Wadden Dunner yet
+Pet
+Sirrah get the Horses
+Marg
+Nay then do what thou canst, I wont go to day, nor to morrow, nor till I please my self. The door is open Sir, there lyes your way, you may be jogging while your boots be green
+Pet
+O Peg content thee, Prithee be not angry
+Marg
+I will be angry, What hast thou to do? Father he quiet, he shall stay my Leisure
+Wood
+I marry Sir, now it begins to Work
+Marg
+Gentlemen forward to the Bridal Dinner; I see a Woman may be made a fool off, if she want Spirit to resist
+Pet
+They shall go forward Peg at thy Command; Obey the Bride you that attend on her. Go to the Feast, Revel, Carouse, and Dance ▪ be Mad or Merry, or go hang your selves, but for my Bonny Peg shee must with me; Nay look not big uppn't, nor stamp, nor stair, nor fret; Come, come, gently, so so, so, that's my good Peg, I will be master of my own; She is my proper goods and Chattells; my House, my Ox, my Ass, my any thing: Look here she stands, touch her who dare, I'll make him smoak that offers to stop me in my way. Sauny unsheath thy Dudgeon Dagger, we are beset with Thieves, rescue thy Mistriss if thou beest a Man; fear not sweet Wench I'll Buckler thee against a Million; nay, come
+Marg
+Will none of you help me?
+Saun
+The Deel a bit of Dunner ye gat, Gud at ye woud speak to your Cuke to gi Saundy a little Mutton and Porridge to put in his Wallet
+Exeunt. Pet. Marg. Saun
+Beau
+Nay let 'em go, a couple of quiet ones
+Tran
+Never was so mad a Match
+Beau
+Well Gentlemen let's in, we have a Dinner, although we want a Bride and Bridegroome to it; Biancha you shall take your Sisters Roome, and Mr. Winlove you may Practise for a Bridegroome
+Execunt
+Wood
+Mounsieur how do ye find my Mistress inclin'd?
+Win
+Me can no tell dat yet, but in time Mounsieur sal inform you
+Wood
+Pray Ply her close, here's something for you
+Exit Woodall
+Win,
+Me tank you, Sir; Ha, ha, ha, I must go tell this to my Biancha
+Exit Winlove
+Tran
+Hark ye Sir, you may inform me, Pray what think you, does Madam Biancha fancy any other but my self, she bears me fair in hand, pray discover Sir, I shall not be ungrateful?
+Ger
+Troth Sir, I think shee's as all other Women are
+Tran
+How is that pray?
+Ger
+Why Fickle and Foolish
+Tran
+Why d' ye think so of her, shee was always held Discreet?
+Ger
+No sober Man will think so, I tell you Sir, shee cares neither for you, nor any Man, that's worth careing for; shee's falne in Love with a Mounsier Jack-daw, a fellow that teaches bad French, in worse English
+Tran
+That fellow, why 'tis impossible
+Ger
+'Tis true tho'
+Tran
+Why I am confident he was employ'd by old Woodall as his In strument to Court her for him
+Ger
+If he were, he has spoken one word for him and two for him self
+Enter Winlove leading Biancha
+See here they come hand in hand, stand close, perhaps your Eyes may convince you
+Win
+Madam, you need not doubt my Passion; by those fair Eyes I swear (an Oath inviolable) you have made a Conquest over me so absolute, that I must dye your Captive
+Tran
+What does he say, what does he say?
+Ger
+I cannot hear, Listen
+Bian
+I must believe you Sir, there's some strange power attends your Words, your Attractive Actions, and your Person, which is too strong for my weak resistance; you have won, but do not boast your Victory
+Tran
+Nay then I see 'tis so, I cannot hold! Madam you must forgive my Interruption, you have us'd me kindly, fool'd me with fine hopes, your Mounsieur there has read Excellent Lessons to you
+Bian
+Sir, I understand you not
+Ger
+That is, you won't
+Win
+What be de matter Mounsieur Fiddeler?
+Ger
+No Fiddler, nor no Lutanist Mounsieur, No point, but one that scorns to live in a Disguise; for such a one as leaves a Gentleman, to doat upon a Pardon a moy Jack-pudding; know, I am a Gentleman, my name Geraldo
+Bian
+Alas, Sir, And have you been my Master all this while, and I ne ver knew it?
+Geral
+Yes, Sweet Lady, you did know it; I see you have a Little Spice of Peg in you: But I have done with you, Mr. Winlove; Pray tell me, Don't you hate this Gentlewoman now?
+Tran
+I cannot say I Hate her; but I'm sure I don't Love her for this days Work, Wou'd she Court me, I Swear I wou'd not have her
+Gera
+Nor I, by Heavens: I have Sworn, and will keep my Oath
+Bian
+Why Gentlemen, I hope you will not both give the Willow Gar land
+Gera
+Go, go, you are a Scurvy Woman; I have a Widdow that has Lov'd me as Long as I have Lov'd you. Sweet Lady, I am not Bankrupt for a Mistriss: 'Tis true, she's something of your Sisters Humour, a Little Way-ward: but one Three Dayes time at the Taming-Schoole, will make her Vye with any Wife in England. And then I can pass by you unconcern'd
+Bian
+The Taming-School, for Heavens-sake where is that Sir?
+Gera
+Why your Brother Petruchio 's House: I doubt you must there too, e're you'll be good for any thing; I'll to him immediately? Farewell thou Vile Woman
+[Exit
+Bian
+Ha, ha, ha, this is Excellent
+Tra
+Madam, I beg your Pardon; but I hope my boldness with you, has done my Master some Service
+Win
+Believe me has it Tranio, and I must thank thee
+Enter Jamy
+Now, Sirrah, Whither away in such hast?
+Iam
+O Master, I have found him
+Winl
+What? Who hast thou found?
+Iam
+A rare old Sinner in the Temple Cloysters will do the Feat to a hair
+Bian
+What feat? What's to be done?
+Winl
+That which I told you of my Fairest
+Where is he?
+Iam
+Here, here, he Walks in the Court
+Bian
+Well, I must in, or I shall be mist;
+Carry the Matter handsomly, and let me not suffer
+(Exit
+Winl
+Fear not Madam; Call him in, Tranio
+(Exit
+You must Instruct him, I'll not be seen in't
+(Exit
+Enter Jamy and Snatchpenny
+Tran
+Now Friend, What are you?
+Snat
+Any thing that you please Sir
+Tran
+Any thing; Why what can you do
+Snat
+Any thing, for so much as Concerns Swearing and Lying to your Worships Service, and to get an Honest Livelyhood, So please you to Im ploy me
+Tran
+Why thou may'st serve turn I think;
+But I'll put thee to no Swearing, Bare Lying and Impudence will serve for my Occasion;
+You must bate of the Price for that
+Snatch
+Faith, Sir, they'r both of a Price, take e'm or leave e'm
+Tran
+But canst thou Mannage and Carry off a good Well-contriv'd Lye, to the best advantage?
+Snatch
+I should be very sorry else; it has been my Trade these Seven and thirty Years, never fear it Sir
+Iam
+Nay, I pickt him out amongst half a Score;
+I fancy'd he had the best Lying Face amongst e'm
+Tran
+Well, come along with me, and I'll Instruct you; But if you fail, look to your Eares, if you have any
+Snatch
+I'll venture Neck and all to do it Sir
+(Exit
+Enter Sauny and Curtis severally. Petruchio's House
+Curt
+Honest Sauny, Wellcome, wellcome
+Saun
+Saundy's Hungry; Can't you get a little Meat, Sir?
+Curt
+Yes, yes, Sawny
+Saun
+Ye mun gat a gude Fire, Sir; Mrs. Bride has gat a faw intull a Dike, She's aw wet Sir; Gud she has not a dry thread to her Arse
+Curt
+Is Master and Mistriss coming Sauny?
+Saun
+Gud are they, gin they be nea frozen to the grund, bo whare's your Fire man?
+Curt
+'Tis making, 'tis making, all things are ready; Prithee what News good Sauny, what kind of Woman is our Mistriss?
+Saun
+Ken ye twa twanty Deel's Sir
+Curt
+Marry Heaven defend us
+Saun
+Gud shee has ean twa twanty Deel's I'se nea bate ye can of 'em
+Curt
+They say shee's a Cruel Shrew
+Saun
+O my saul Sir, I'se hau'd a thousand pund, shee's set up her Tang, and Scaud fro Edingbrough to London, and nere draw bit for't
+Curt
+What shall we do then, there will be no living for us
+Saun
+Gud will there not, Wun's I think the Deel has flead off her Skin, and put his Dam intul't; Bo where's Phillip and George and Gregory
+Curt
+They'r all ready, what ho, come forth here, Phillip, George, Ioseph, Nick, where are you?
+Enter 4 or 5 Serving Men
+Phillp
+Honest Sawny, Wellcome home
+Saun
+Gat me some Meat, and I'll believe ye Sir
+Geor
+I am glad to see thee Sawny
+Saun
+Gat me a Drink, and Is'e believe ye tea
+Iosep
+What, Sawny come to Town again, Wellcome?
+Saun
+Wun's, Walcome, walcome, gat me gude Meat and Drink, that is Walcome, Sir
+Nick
+Old Lusty Fellow Sawny, Wellcome
+Saun
+How d'ye Wully?
+Nick
+D'ye hear the News, Sawny? Wally Watts is Dead
+Saun
+S'breed, nea Man that geas on twa Leggs cou'd slay Wully Watts, Sir
+Nick
+True; for he was fairly Hang'd
+Saun
+I was sure nea Man that went on twa Leggs could slay him
+Nick
+You are in the right Sawny, for 'twas one with Three Leggs, 'twas Mr. Tyburne, for he was fairly Hang'd
+Saun
+S'breed ye Lye, Sir, the Gallows might kill him, and break his stout heart, but it cou'd nea hang him: 'Tis hang an English Man
+Nick
+Well, But what kind of Woman is our Mistriss, Sawny
+Saun
+You'l ken soon enough 'tea your Sorrow, and wea Sir; Ye've awe twa Luggs apeece o'your Head: A my Saul I'se nea gea ye twa Pennys for them by'th Morn: How say ye now?
+Enter Petruchio and Margaret
+Pet
+Where be these Idle Rogues? What no more at Door to hold my Stirrip, or take my Horses? Where's Curtis, Phillip, Nick and Gregory?
+All
+Here, Here, Here, Sir
+Pet
+Here, here, here, you Loggerhead Currs; What, no Attendance, no Regard, no Duty? Where's that Foolish Knave I sent before
+Saun
+Wuns, Sir, Ise be sea hungry, snd sea empty, ye may travell quite through me, and nere faw your fingers Sir
+Pet
+You Mangy Rogue, Did not I bid you meet me in the Park, and bring these Rascals with you?
+Saun
+Gud did ye Sir; bo Ise sea hungry, Ise ha nea Memory, Deliver your Message your sel Sir
+Pet
+Be gone you Slaves, and fetch my Supper in; Rogues do I speak, and don't you fly to make hast. [Exit 2 or 3 Servants. Sit down Peg and Wellcome. Why when I Pray, nay good sweet Peg be Merry, These are Country Clownish Fellows; Prithee be Merry: Off with my Bootes, Sirrah, you Rogues, ye Villaius. When
+[Exit 2 or 3 Servants
+SINGS
+It was the Orders of the Fryar Gray,
+As forth he walked on his Way
+Marg
+Sure he will run himself out of Breath, and then it will be my turn
+Petru
+Out you Rogue; You pluck my Boot awry; take that, and mend it in pulling off the other. Be Merry Peg. Some Water here, ho; Where's my Spanniel, Sarrah? Make hast and desire my Cousin Ferdi nand to come hither, one Peg you must Kiss, and be Acquainted with: Where are my Slippers? Shall I have some Water. Come, Peg, wash and Wellcome Heartily
+Sau
+Wuns bo whare is the Meat to mack her Vvelcome
+Marg
+We shall fall out if we wash together
+Petru
+You Whorson Villain will you let it fall?
+Marg
+Pray Sir be Patient, 'twas an unwilling Fault
+Table Cover'd. Enter Servants with Meat
+Pet
+An Idle, Careless, Beetle-headed-Slave
+Come, Peg, sit down. I know you have a Stomach
+Will you give Thanks, Sweet Peg, or shall I?
+Or each for our selves? Come, fall too,
+What's this, Mutton?
+Saun
+Gud it is, Sir
+Pet
+Who bought it?
+Cur
+I did Sir
+Pet
+You Rascal you 'tis not Mutton, 'tis the Breast of a Dog; What Currs are these? 'tis dry'd and burn't to a Coal too, Where is this Rascal Cook? How dare you bring such rotten Meat to my Table? Why d' ye mean to Poyson me, ye heedless Joltheads? ye ill manner'd Whelps, what d' ye grumble? I'll be with you straight
+Marg
+Pray Husband be content, the Meat is good Meat; and I am very hungry, I must and will eat some of it
+Pet
+Not for the World Peg, I Love thee better then so; 'Tis burnt and will Ingender Chollar, a Disease we are both to Subject too; I Love thee too well to give thee any thing to hurt thee, we'll fast to night, to morrow we'll make it up
+Marg
+Say what you will Sir, I'll eat some of it; Did you bring me hither to Starve me?
+Pet
+Why ye Rascals will ye stand Still and see your Mistriss Poyson her self? take it away out of her sight, quickly
+[Throws the Meat at 'em, Sauny gets it
+Saun
+Gud Saundy will venture, Poyson and 'twill
+Pet
+Well Peg, this night we'll fast for Company; Come I'll bring thee to the Bridall Chamber
+Marg
+I must Eat something, I shall be Sick else; But an Egg
+Pet
+No, no, Prithee dont talk on't; to Bed upon a full stomach
+Marg
+But a Crust of Bread
+Pet
+To morrow, to morrow; Come prithee away
+Exeunt
+Geor
+Did'st ever see the like?
+Curt
+He kills her in her own Humour
+Phil
+Have you said Grace Sauny?
+Saun
+Gud I was sea hungry, I forgot Grace. O thou that hast fill'd our Boyes, and our blathers, keep us aw from Whoredome, and Secrisie
+Nick
+Secrecy, why Sauny?
+Saun
+Wuns Man, it is wutchcraft, peace, you put me out with the Deel's name to ye: Keep us aw from Whoredome and Secresie, fro the Dinger o' the swatch to the gallow Tree, keep us aw we Beseech thee; Tak a Drink man
+Phil
+Are ye full now Sauny?
+Saun
+As for as a Piper, ye may put can finger in at my Mouth, and ano ther in mine Arse, and feel beath ends o' my Dinner
+Exeunt
+Enter as in a Bed-Chamber, Petruchio, Peg, and Servants, Sauny
+Pet
+Where are you, you Rogues? Some lights there, come Peg undress to bed, to bed
+Marg
+Pray send your Men away, and call for some of your Maids
+Pet
+Maids, hang Maids, I have no such vermine about my house, any of these will do as well; Here Sauny come hither Sirrah, and undress your Mistress
+Saun
+O my Saul Sir, I'se put on my head-peice; now, an ye'll bind her hands behind her, I'se undress her
+[Goes to take up her Coats
+Pet
+What dost thou do?
+Saun
+In Scotland we aw wayes begin at the nether end of a bonny Lass
+Pet
+Who made this Bed? What Rascals are these? Foh these Sheets are Musty as the Devil, and what Rags are here upon my Bed? Is this a Counterpain? 'tis a Dishclout
+Marg
+Why the Counterpain is well enough, and Rich enough, and the Sheet's are as Clean, and as Sweet as may be
+Pet
+Fye, fye Peg, thou hast got a Cold, and lost thy Smelling, I tell thee they are all Damp and Musty, I wou'd not have thee to venture to Lye in 'em for the world, it wou'd be thy Death; here take 'em away, we must ce'n sit up, there's no remedy
+Marg
+Pray Sir talk not of sitting up, I am so sleepy I cant hold my Eyes open, I must to Bed
+Pet
+I'll keep thee waking, I warrant thee; Ho Curtis bring us a Flaggon of March Beer, and some Tobacco, and clean Pipes, we'll be merry
+Exit. Curtus
+Marg
+Why what d' ye mean are you Mad?
+Pet
+Mad? I, what should we do? I mean thou and I hand to fist, will drink a Health to my Father, and my Sister, and all our good Friends at London
+Enter Servant with Beer and Tobacco
+Marg
+Why you dont take me to be one of your fellow Tospots?
+Pet
+I mean to Teach thee to Drink; thou must Learn that, or thou'rt no Wife for me: Here, Peg, to thee with all my Heart, a whole one, and thou art Wellcome; My Father's good Health, Peg, you shall Pledge it
+Marg
+I can't Drink without Eating; 'twill make me sick
+Pet
+Pish, Pish, that's but a Fancy; Come, off with it, or thou shalt nei ther eat nor drink this Month
+Marg
+Shall I go to Bed when I have drank it?
+Saun
+Gud at ye gi Sawndy a little Drink Madam
+Pet
+Talk of that anon
+(She Drinks
+So, here Peg, heres a Pipe I have fill'd for thee my self,
+Sit down, and Light it
+Marg
+D'ye mean to make a meer Hackny Horse of me? What d'offer me your nasty Tobacco for?
+Pet
+Nay, ne're make so shy, I know' thou Lov'st it: Come, young La dies are often troubled with the Tooth-ach, and take it in their Cham bers, though they won't appear Good Fellows amongst us: Take it, or no Sleep nor Meat, Peg, D'ye hear
+Marg
+Yes, to my Griefe; I won't be abus'd thus
+(Weeps.)
+Pet
+Nay, nay, Goe where thou wilt, I'll make thee Smoak before I Sleep
+(Exeunt
+ACT. IV
+Enter Petruchio and Sauny
+Pet
+SIrrah, wait on your Mistriss; Say what you will to her, and Vex her, but do not touch her; and let her have no Meat I Charge ye
+Saun
+S'breed Sir, send her into the Highlands in Scotland, there's Hun ger and Caud enough, there she may starve her Bally foo
+Pet
+Well Sirrah, Doe as I direct you
+(Exit
+Saun
+O' my Saul wull I Sir, Yee'l let me take my Head-piece to de fend me Sir
+Enter Margaret
+Marg
+What Gregory, Phillip! No Body near me? Sawny, Where are you?
+Saun
+Is'e een hard at your Arse Madam
+Marg
+Where's your Master?
+Saun
+He's gone to the Market himself, and he'l bring ye heam a Braw Bull's Puzzle to Swaddle your Weam with
+Marg
+And in the mean time I am Famisht; Was ever Woman us'd so Dam nably? I am Starv'd for Meat, Giddy for want of Sleep; and that which Spites me more then all the rest, is, he pretends 'tis out of Care and Love to me: Prithee good Sawny give me some Meat
+Saun
+O' my Saul, Sawndy wou'd be Hang'd gin I sud bestow an aw'd Liquor'd Bute, Sawny will cut it into Tripes to Stuff your Weam with
+Marg
+Good Sawny, here's Money for thee, but one little bit of any thing to stay my fainting Spirits
+Saun
+What will ye eat a Bit of Beefe?
+Marg,
+I, good Sawny
+Saun
+Will ye eat some Mustard to't?
+Saun
+I, good Sawny, quickly
+Saun
+Mustard is nea gu'd for your Tang, 'twill make it tea keen, and ye can Scau'd fast enough without
+Marg
+Why then the Beef without Mustard
+Saun
+Gud Beef is nee gued without Mustard: Sawny will fetch ye some Meal and Water, ye'st make ye a Scotch Pudding, ye'st Eat of that tull your Weam crack
+Marg
+You Abusive Rogue take that,
+(Beat him.)
+Must I be Brav'd thus by my own Servant
+Saun
+The Dee'l wash your Face with a Fou Clout
+Enter Geraldo
+Geral
+Why how now, Sirrah, Will you strike your Mistriss? You Cowardly Rogue strike a Woman
+Saun
+S'breed Sir, D'ye Caw a Scotchman a Coward? Gin Is'e had ye in Scotland, Is'e put my Whinyard in your Weam, gin ye were as stout as Gilderoy
+Geral
+Why Gilderoy was as arrant a Coward as thou art
+Saun
+Wuns yeed be lath to keep the Grund that Gilderoy quits; yet I must confess he was a little Shame-fac'd before the Enemy
+Marg
+O Mr. Geraldo, never was Poor Woman so us'd. For Charity sake Convey me home to my Father
+Enter Petruchio with a Dish of Meat
+Petru
+Here Peg, here's Meat for thee, I have Drest it my self, my Dear; Geraldo Wellcome, this was kindly done to Visit Peg and Me; Come Peg, fall too, here's an Excellent piece of Veal
+Marg
+Why 'tis a Pullet
+Pet
+Why 'tis Veal, Art thou Mad?
+Marg
+You won't Perswade me out of my Sences,
+'Tis a Pullet
+Saun
+A Gud is it Sir
+Petr
+What an unhappy Man am I, my poor Dear Peg 's Distracted. I always fear'd 'twould come to this. Take the Meat away Curtis; Is the Room Ready as I Order'd? Are the Lights Damn'd up?
+Curtis
+Yes Sir
+Marg
+Why what d'ye mean to do with me?
+Pet
+Poor Peg, I Pitty thee; but thou shalt want no Help for thy Cure, you must be kept from the Light, it troubles the Brain
+Cer
+I see I shall Learn, he's an Excellent Teacher
+Marg
+Why Sir, Pray tell me, Have you a mind to make me Mad? this is the way indeed: How have I injur'd you, that you use me thus in humanely? Did you Marry me to starve me?
+Saun
+He means to bring down your Weam for a Race; For we aw ways Cry a Nag with a Weam, but a Mare with Nean
+Pet
+No, no; Good Peg thou know'st I have a Care of thee; Here's a Gown just brought home for thee Peg. Now thou art empty, it will sit Handsomely; Where is this Taylor? Call him in Sawny, if it fits you, you shall put it on, and wee'l Gallop o're to London, and see your Father; Your Sisters Wedding is at hand, you must help her
+Enter Taylor with a Gown
+Marg
+If she be Match'd as I am, Heaven help her! But there's some Comfort in going Home; there's Meat and Sleeping-room
+Pet
+Come Taylor, lets see the Gowne, How now what's here? Bless me, what Masquing Suite is this! What's this a Sleve? why 'tis like a Demmy Cannon, Why what a Devil Taylor dost thou mean? Is this a Gown?
+Tay
+A gown Sir? yes Sir, and a handsome Gown as any Man in London can make, 'tis the newest Fashon lately come out of France
+Pet
+What a lying knave art thou! my great Grand-mothers Picture in the Matted Gallery is just such another
+Saun
+It is like the Picture of Queen Margaret in Edenbrough Castle, Sir
+Marg
+I never saw a better Fashon'd Gown in my life; more quaint nor better shap'd, I like the Gown, and I'll have this Gown or I'll have none; say what you will I like it, 'tis a handsom Gown
+Pet
+Why thou sayst true Peg, 'tis an ugly paltrey Gown, I am glad to hear thee of my mind; 'tis a beastly Gown
+Marg
+Why I say 'tis a good Gown, a handsome fashionable Gown; What d'ye mean to make a Puppet of me?
+Pet
+Ay, this fellow wou'd make a Puppet of thee?
+Tay
+She says your Worship means to make a Puppet of her
+Pet
+Thou Impudent, lying, Threed, Bodkin and Thimble, Flea, thou nit, brave me in my own house? Go take it, I'll ha none on't
+Tay
+Sir I made it according to your Directions, and I cannot take it again
+Saun
+Tak it awaw, or the Deel O my Luggs, but yest tak my Whineyard
+Marg
+He shall not take it agen, what need you trouble your self about it, as long as it pleases me; lay it down there
+Pet
+Sirrah take it away I say, we shall find more Taylors; I wont have my Wife so Antickly drest, that the Boys shoud hoot at her
+Marg
+Come, come, all this is but fooling, you dont understand what belongs to a Gown, say what you will I'm resolv'd to have it, if it were an ugly one I wou'd wear it, and it were but to Cross you
+Saun
+Now the Deel's a cruppen untell her Mouth Sir, you may see a little of his Tail hang out, it looks for aw the world an it were a Sting Sir
+Pet
+Why that's my good Peg, I know thou dost not care for it; say no more prithee, thou shalt have another
+Marg
+I know not what you mean to do with me, but methinks I might have leave to speak, and speak I will, I am no Child, no Baby; your Betters have endur'd me to speak my mind, and if you cannot you had best stop your Ears; 'Tis better set my Tongue at Liberty, then lee my Heart break
+Pet
+Speak Peg, by all means, say what thou wilt; Sirrah carry that tawdry thing away, Ceraldo tell him you'll see him paid, [Aside.] and bid him leave it. Come what sayst thou Peg?
+[Aside.]
+Ger
+Leave the Gown in the next Room Taylor, and take no notice of what he says, I'll see you paid for't
+[Aside
+Exit
+Marg
+Why I say I will have that Gown, and every thing I have a mind 〈...〉 not bring you such a Portion to be made a Fool of
+Pet
+Very true, thou'rt in the right Peg; come lets to Horse, these Cloaths will serve turn at present till we can get better. Go Sirrah lead the Horses to the Lands end, thether we'll walk a foot; lets see, I think 'tis about seven a Clock, we shall reach to my Father in Laws by Dinner time with Ease
+Marg
+'Tis almost Two, you cannot get thether by Supper time
+Pet
+It shall be seaven e're I go, why what a Mischief's this, what I say or do, you are still crossing it; Let the Horses alone, I will not go to day, and e're I do it shall be what a Clock I please
+Marg
+Nay Sir, that shant stop our Journey, 'tis seaven, or two or nine, or what a Clock you please, pray lets go
+Saun
+Ye's have it what hour you wull Sir
+Pet
+Very well it is so, get ready quickly; Come Geraldo let's all go, we shall help mend the Mirth at my Sisters Wedding
+Ger
+I'll wait on you
+Pet
+Come Peg, get on your things
+Marg
+Let me but once see Lincolns-Inn-Fields agen, and Yet thou shalt not Tame me
+Enter Tranio and Snatchpenny
+Tran
+Now Sirrah, be but Impudent enough and keep state like the old Knight, and thou art made for ever
+Snatch
+I warrant ye Sir, I know it to a hair, my Lord Beaufoy and I were School fellows together at Worster; my Estate lyes in the Vale of Evesham, Three thousand Pound a year, and Fifteen hundred a year I settle upon you upon the Marriage, let me alone I am Sir Lyonell himself
+Tran
+Right, right; Excellent brave, How now
+Enter Jamy
+Iam
+To your Postures old Sinner, be an exquesite Rascal, and then thou shalt be a Rogue Paramount; thou shalt lay the Dragon asleep while my Master steals the Pippins
+Tran
+Well Iamy, What hast thou done?
+Iam
+I have been with my Lord Beaufoy, presented your Fathers, and your Service to him, and told him the old Knight was happily come to Town, and hearing of your Love to Biancha, was so overjoy'd, he would Settle all upon you
+Tran
+Well, and what said he?
+Iam
+He gave me a Peece for my News, I told him Sir Lyonell desired his Company just now to treat upon the Match; he's coming in all hast, he longs to be Couzend, and Snatchpenny if thou dost not do it
+Snatch
+Then hang me
+Iam
+Mum look to't, he's here
+Enter Beaufoy and Winlove
+Beau
+Mr. Winlove your Man tells me your Father is just happily come to Town ▪ Where is he?
+Tran
+Here Sir, this is my Father; Time has been too Bold to weare ye out of each others Memory
+Snatch
+Is this my Lord Beaufoy, Sir?
+Tran
+Yes Sir
+Snatch
+My Lord your humble Servant; I'm happy at last to meet a Person I have formerly so much Lov'd
+Beau
+Noble Sir Lyonell I joy to see you
+Snatch
+O the merry Days that you and I have seen my Lord; Well fare the good old times I say
+Beau
+I Sir Lyonell, when you and I were acquainted first
+Snatch
+I marry, there were Golden Days, indeed, no Couzening, no Cheating, the World is alter'd
+Beau
+But we will remember these times, and be honest still
+Snatch
+That's een the best way, there's hopes we may have honest Grand Children too, if all be true as I hear, my Son tells me, your Daughter has made a Captive of him
+Beau
+I wou'd she were better for his sake, she's a good Girle, and a handsome one, though I say it; if she were not, I wou'd give her somewhat shou'd make her so
+Tran
+It takes Rarely
+Snatch
+I 'm even overjoy'd that you think my Son worthy your Allyance, I 'll give something they shall make a shift to Live on; in Plain and in breif, if you'll approve of it, I 'll settle Fifteen hundred Pound a year upon him at Present, which shall be her Joynture; after my Death, all I have with a good will, What say you my Lord?
+Beau
+Sir Lyonell, Your Freedome pleas's me; I see you are an honest meaning Gentleman: The Young Folks (if I am not mistaken) like one a nother. Well, I say no more, it is a Match
+Tran
+You bind me to you Ever: Now I may boldly say, I am truly happy: Where will you please to have the business made up?
+Beau
+Not in my House, Son; I wou'd have it Private; Pitchers have Eares, and I have many Servants; Besides, Old Woodall will be hindring of us; He's hearkening still, and will be interrupting
+Tran
+Then at my Lodging; there my Father Lyes, and there the Busi ness may be all Dispatch'd: Send for your Daughter by this Gentleman; my Boy shall fetch a Scrivener presently. The worst on't is, 'tis too small a Warning. You are like to have but slender Entertainment
+Beau
+No matter, no matter; I shall like it
+Snat
+I wou'd feign see your Daughter, my Lord; I have heard great Commendations of her
+Beau
+That you shall presently; Mounsier, pray go to Biancha, and tell her from me, She must come hither with you immediately; you may tell her too, if you will, what has hapned, and that she must prepare to be A • r. Winlove's Bride
+Win
+My Lord, me vil fetch her presant
+Tran
+My Lord, Will your Lordship please to walk in with my Fa ther, this is my Lodging
+Bea
+I Sir; Come Sir Lyonell, I'll follow you
+Snat
+Good my Lord, I will wait upon you
+( Exit. Beaufoy, Snat. Tra
+Win
+Thus far 'tis well Carry'd on Iamy; But how shall we prosecute it?
+Iam
+Why there is but one way in the World, Sir
+Win
+And what's that?
+Iam
+Why thus, I have got a Parson ready for the Purpose; when you have got Biancha abroad, whip her into Covent-Garden Church, and there Marry her, and your Work's done
+Win
+Troth thou say'st true; But is the Parson Orthodox and Canoni cal? I wou'd not have an Obadiah to make us enter into Covenant of Ma trimony
+Iam
+Trust me Sir, he's as true as Steel; he says all Matrimony with out Book; he can Christen, Wed, and Bury Blindfold
+Win
+Well, I'll take thy Counsel, if I can perswade her to't, as I hope I shall, for I know she Loves me; fair Luck betides me; But who comes here
+Enter Woodall
+Iam
+'Tis the Olp Grub Woodall; What shall we do with him?
+Win
+We must contrive some way to get him off
+Wood
+I don't like those shuffling matters; I doubt there's some false Play towards me in hand: Here's my Monsieur he may Informe me— Mounsieur
+Win
+Che Dict a vouz Mounsieur. Mounsieur, Your Servant
+Wood. Mounsieur,
+Prithee tell me, if thou canst, how Affaires go, things are carry'd very closely; How stands my Mistriss affected?
+Win
+Moy foy Mounsieur; Me tell you de bad News in the Varle, Ma damoselle Biancha no stand Affected to you at all. My Lord has sent me to fetch her just now to be Marry to Mounsieur Vat you call? Mounsieur Le—
+Wood
+What not to Winlove
+Win
+Yes to Mounsieur Winlove; Begar me be very sorry, but me canno help dat
+Wood
+Is Old Beaufoy mad to Match her to him without his Fa ther's Privity
+Win
+Here be de ver Fine Old Man new come to Town, me Lord be wid him now
+Wood
+Upon my Life old Sir Lyonell, nay then she's lost quite; Hark you Mounsier, yet 'tis in your Power to make me a happy Man
+Win
+O Mounsier me be your humble Servant
+Wood
+Why look you, you are to fetch her; here's forty Pound in Gold to buy you a pair of Gloves, let me take her from you, as you are carrying her thither; I will have two or three with me, and you may saftly say she was forc'd from you
+Win
+Mounsier begarr, me do you all de Service in the Varle, but me sal be the grand, Sheat Knave then
+Wood
+That's nothing, here's more Money, I'll save you harmless; Come, you shall do it
+Win
+Mounsier me have no mind to be van Knave, but to do you Service, if you will meet me upon de Street
+Wood
+Fear not I 'll secure you, honest Mounsieur farewell; I will be your Friend for Ever
+Exit
+Win
+Ha, ha, ha, this is rare; What an Ass this Fellow will make him self, do what we can? Here Iamy, thou shalt share with me
+Iam
+Thank you Sir; Wou'd we had such a Windfall every day: But come, Sir, you must make haste, this is the Critical Minute; if you miss it, you lose Biancha
+Win
+Thy Counsel's good, away; I'll buy a Ring, and Pay the Priest with some of Woodall's Money, Ha, ha, hah
+[Exeunt
+Enter Petruchio, Margaret, Geraldo and Sawny
+Pet
+Walk your Horses down the Hill before, we shall reach London time enough, 'tis a fair Night; How bright and goodly the Moon shines
+Marg
+The Moon! the Sun, 'tis not the Moon-light now
+Pet
+I say 'tis the Moon that Shines so Bright
+Marg
+I say 'tis the Sun that shines so Bright
+Pet
+Now by my Mothers Son, and that's my Self, it shall be the Moon-light, or what I please, before you set Sight of your Father's House; Sir rah, go fetch the Horses back; Evermore Crost, and Crost, and nothing but Crost?
+Ger
+Say, as he sayes, or we shall never go
+Marg
+Forward, I Pray Sir, since we are come so far; And be it Sun or Moon, or what you please; Nay, if you call it a Rush-Candle, henceforth it shall be so for me
+Pet
+I say 'tis the Moon
+Saun
+S'breed, but I say nay, Sir, Out, out, a Lies
+Marg
+I know 'tis the Moon
+Pet
+Nay then you Lie, 'tis the Blessed Sun
+Marg
+Why Heaven be Blest for it, 'tis even what you have a mind to; Pray let us forward
+Gera
+Petruchio, go thy wayes, the Field is Won
+Pet
+Well, forward, forward; Now the Bowl runs with a Right Byas, but soft, here's Company
+Enter Sir Lyonell Winlove
+Sir Lyo
+Boy, Bid the Coachman drive gently down the Hill; I won der I meet nor overtake no Passengers to day; stay, I think here be some
+Pet
+I will have one bout more with thee Peg; Good-morrow Gentle Lady; Which way Travel you? Come hither Peg; Didst thou ever be hold so Exquisite a Beauty as this Fair Virgin beares about. Go to her Peg, and Salute her
+Marg
+Are you Mad, tis an Old Man
+Pet
+Beat back agen then, still Cross? Will you do it?
+Saun
+Why i'th' Deel's Name, What mean ye? it's nea bonny Lass Sir; S'breed, it's an aw faw Thefe
+Gera
+He'll make this Old Man Mad
+Marg
+You Budding Virgin, so fair, so sweet, so fresh, which way Tra vel you? How happy shou'd we be in the Enjoyment of so fair a Fellow Traveller
+Saun
+The Dee'l has built a Bird's Nest in your Head; Gud ye'r as mad as he; and he as Mad as gin he were the Son of a March Hare, Sir
+Sir Lyon
+Why what do ye mean Gentlewoman?
+Pet
+Why now now Peg, I hope thou art not Mad: A Virgin Quotha! 'tis an Old Wrinckled Wither'd Man
+Marg
+Reverend Sir, Pardon my mistaking eyes, that have been so dazled with the Moon (Sun I mean.) I cou'd not distinguish you; I now perceive you are a Grave Old Man, pray excuse me
+Sir Lyo
+Indeed you are a Merry Lady; your encounter has amaz'd me. But I like such Chearful Company; I am for London to see a Son of mine, that went lately from me thither
+Pet
+We shall be glad of your Company; you must pardon my Wifes Errour, she has not slept well to Night; and I cou'd not perswade her, but she wou'd come out Fasting, which makes her Fancy a little extravagant
+Saun
+The Dee'l O' my Saul but you are a false Trundle Taile Tike, the Dee'l a bit hee'd lat her eat these three days Sir
+Marg
+Curse upon your Excuse, and the Cause of it; I cou'd have eaten my Shooe-Soules, if I might have had 'em Fry'd
+Pet
+Your Name I beseech you Sir
+Sir Lio
+I am Call'd, Sir Lyonell Winlove in the Country
+Pet
+Father to young Mr. Winlove?
+Sir Lyo
+The same Sir
+Pet
+Then I am happy indeed to have met you; I can tell you some News, perhaps may not be Unwelcome to you. Your Son is in a fair probability of Calling me Brother within these Two dayes
+Sir Lyo
+How so, I pray Sir
+Pet
+Why he's upon Marrying my Wifes Sister, my Lord Beaufoyes young est Daughter. A brave Match, I can assure you, and a Sweet Bedfellow
+Saun
+Gud she's tea gued for any man but Saundy; Gud Gin poor Saundy had her in Scotland, Wun's I'de sea Swing her about
+Sir Lyo
+You Amaze me! Is this true? or have you a mind, like a plea sant Traveller, to break a Jest on the Company you overtake?
+Gera
+Upon my Word, Sir, 'tis very true; 'twas so design'd; but I don't think he'll Marry her, he's Forsworn if he do
+Sir Lyo
+You make me Wonder more and more
+Pet
+Mind him not, he's a Party Concern'd, 'tis true
+Sir Lyon
+Pray Gentlemen let's make haste, I must look after this Busi ness, it soundes strangely, he wou'd not do't without my Consent; he's my only Son, my Heir, the Prop of my Family, I must be careful
+Pet
+I see you are Jealous Sir; but you need not; he cannot have a better Match
+Sir Lyo
+I doubt it not, if all be fair; I should be glad of my Lord Beaufoyes Allyance, he was my School-fellow; but Time, I doubt, has worn out our Old Acquaintance; Gentlemen, I must hasten to prevent the worst
+Saun
+What mean ye Sir? Yea will nea bawk the Bonna Lad, and tak fro his mattle Sir
+Gera
+Well, Petruchio, thou hast put me in a Heat, have at my Widdow now
+(Exeunt
+Enter Winlove, Biancha, Jamy
+Win
+How good you are my Faire one: Iamy, Ar't sure the Priest is ready for us?
+Iam
+I warrant you Sir; Pray make hast, some Devil or other may come else and Cross it. Don't stay Thrumming of Caps; Here, Body o' me away, here's Woodall, shift for your selves, all will be spoyl'd else
+(Exit. Win. and Bian
+Enter Woodall with 3 or 4 Fellows
+Wood
+Be sure you seize on her, and Clap her into a Chair, and one stop her mouth; fear not, I'll save you harmless
+1st. Fellow
+I warrant you Sir
+Wood
+What a Devil makes this Rogue Poaching here?
+Iam
+Tum, te Dum, te Dum; Sing Old Coale of London
+[Sings
+Wood
+Now Iamy, What Walk you here for
+Iam
+Why to look about me; Te Dum, te Dum, and c,
+Wood
+They say your Master is to be Marry'd to Madam Biancha to day
+Iam
+Why then we'll be merry at Night; Te Dum, te Dum, and c
+Wood
+The Rogue won't be gone; What, Hast no Business? Thou look'st as if thou hadst not Drank to day, there's something for thee, go get thy Mornings Draught
+Iam
+I thank your Worship: Will you take part of a Pot of Ale and a Toast
+Wood
+No Sirrah, I Drank Coffee this morning
+[Exit Jamy
+So, he's gone; I wonder Mounsieur appears not with Biancha
+Enter Petruchio, Margaret, Sir Lyonell, Geraldo, and Sauny, with Attendants
+Wood
+Ha, Who comes there?
+Geral
+Now you are there Ill take my Leave; Your Servant
+(Exit
+Petr
+Sir Lyonell, you are Wellcome to Town; There's your Sons Lodgings; my Father Lives on the other side; thither we must, and there fore here I take my Leave
+Sir Lyo
+Pray stay a little, may be he's not within; if so, I'll wait upon you to the Lord Beaufoy
+Saun
+O' my Saul, nea can cou'd have Beg'd (Knocks.) Dunner better then this awd Theife has done
+Wood
+They are all busy within Sir, you must Knock Louder if you mean to be heard
+[Snatchpenny Above
+Snat
+Who is that Knocks, as if he wou'd Beat down the Gate
+Sir Lyon
+Is Mr. Winlove within?
+Snatch
+He is within, but not to be spoken with
+Sir Lyon
+What if a Man bring him a Hundred Pounds or Two, to make Merry withall
+Snat
+Keep your Hundred Pounds for your self, he shall need none as long as I Live
+Pet
+Nay, I told you, Sir, Your Son was well Belov'd in London. D'ye hear Sir, leaving your Frivelous Circumstances, pray tell him, His Father's just now come out of the Countrey to see him, and is here at the Door to speak with him
+Snat
+That is a Lye Sir; his Father came to Town yesterday, and is now here Looking out at Window
+Sir Lyo
+The Devil he is; Are you his Father?
+Snat
+I Sir; so his Mother says, if I may believe her
+Saun
+Can they Hang him for having twa Fathers Sir? Gud and 'twas sea, poor Sawndy wou'd be Hang'd sure enough
+Pet
+Why, Hast thou Two Fathers?
+Saun
+Gud have I, and Twa, and Twa to that Sir
+Pet
+Why how now Gentlemen, this is flat Knavery, to take another Man's Name upon you
+Snat
+Lay hands upon this Villain, I believe he means to Cheat some bo dy here, under my Counter-Name,
+Enter Jamy
+Iam
+I have seen the Church on their Back, send them Good Speeding: Ha, how now, my Old Master Sir Lyonell? S'foot, we are all lost, undone; I must Brazen it out
+Sir Lyon
+Come hither Crack Hemp
+Iam
+You may save me that Labour, and come to me, if you have a ny thing to say to me
+Sir Lyon
+Gome hither you Rogue, What have you forgot me?
+Iam
+Forgot you Sir? I cou'd not forget you; for I never saw you in all my Life before
+Sir Lyon
+You notorious Villain, Didst thou never see thy Master's Fa ther, Sir Lyonell Winlove?
+Iam
+What my Worshipfull Old Master? Yes marry Sir: See where his Worship Looks out of the Window
+Sir Lyon
+Does he so Sir? I'll make you find him below stayres
+(Beats him
+Iam
+Help, help, here's a Mad-man will Murder me
+Saun
+Dea Caw your sel Iamy? And wull ye be Beten by an aw faw Theefe? An yea Caw your sel Iamy cance meare, l'se bang ye tea Clootes, breed a Gud will I Sir
+Snat
+Help Son, help Brother Beaufoy, Iamy will be kill'd
+Pet
+Prethee Peg stand by to see this Controversy
+Enter Snatchpenny with Servants, Beaufoy and Tranio
+Tran
+'Sheart 'tis Sir Lyonell; but we must bear it a little time: Sir, What are you that offer to Beat my Servant?
+Sir Lyon
+What am I, Sir; Nay, What are you, Sir? O Heaven what do I see! O fine Villains, I'me undone, while I play the Good Husband at home in the Countrey, my Son, and my Servants spend my Estate Lavishly at London
+Saun
+Your Son sal allow you Siller to keep an Awd Wutch to rub your Shins; And what to anger wou'd ye ha meer Sir
+Tran
+How now, What's the Matter?
+Beau
+Is the Man Frantick?
+Tran
+Sir, You seem a sober Antient Gentleman by your Habit; but your Words shew you a Madman: Why Sir, What Concerns it you what Rich Cloaths I wear? I thank my good Father, I am able to maintain it
+Sir Lyon
+Thy Father! O Villain! he's a Hemp-dresser in Partha
+Saun
+Mara the Deel stuff his Wem fow a Hemp, and his Dam Spin it out at his Arse
+Beau
+You mistake, you mistake; What d'ye think his Name is?
+Sir Lyon
+His Name; as if I knew not his Name; I have Bred him up e're since he was Three Years old, and his Name is Tranio
+Snatch
+Away, away, mad Ass, his Name is Winlove; my only Son, and Heir to all my Estate in the Vale of Evesham
+Sir Lyon
+Heavens! he has murther'd his Master; lay hold on him, I charge you in the King's Name, O my Son, tell me thou Villain, Where is my Son Winlove?
+Tran
+Run for an Officer to carry this mad Knave to the Jayle; Lay hold on him I charge ye, and see him forth-coming
+Saun
+Awa, awa with the Hampdresser Sir
+Sir Lyon
+Carry me to the Jayle ye Villaines!
+Pet
+Hold Gentlemen; Your Blessing Father
+Beau
+Son Petruchio Wellcome. You have it, and you Peg, how d'ye? Know ye any thing of this matter?
+Pet
+My Lord, take heed what you do; so much I know, I dare Swear this is Sir Lyonell Winlove, and that a Counterfeit
+Saun
+Wuns, I think sea tea, gud an ye please I'se take the Covenant on't
+Wood
+So durst I Swear too almost
+Snat
+Swear if thou durst
+Wood
+Sir I dare not Swear Point Blank
+Tran
+You had best Swear, I am not Winlove neither
+Wood
+Yes, I know you to be Mr. Winlove
+Beau
+Away with the Doater'd, to the Jayle with him
+Sir Lyon
+Are you all setled to do mischief to me? Why my Lord Beausoy methinks you might know me
+Tran
+Away with him to my Lodgings for the present, 'till we can get a Constable to charge him upon, we shall have a hubbub in the Streets, drag him I say
+Sir. Lyon
+Rogues, Villains, Murderers! I shall have Justice
+[Exit with Sir Lyonell
+Wood
+These are strange Passages, I know not what to think, of 'em; but I am glad Biancha came not when they were here, sure my Mounsier will not fail me
+Enter Winlove and Biancha
+Win
+Now my Biancha I am truly Happy, our Loves shall like the Spring be ever growing
+Bian
+But how shall we Escape my Fathers Anger
+Win
+Fear not, I'll warrant thee
+Wood
+O here's Biancha, how now Mounsier brave, What fancy's this?
+Win
+O Mounsieur te Vous la Menes, How d'ye do good Mr. Woodall, how d'ye like my new Bride?
+Wood
+How, how, how, Sir, your Bride? Seize on her quickly
+Win
+Hands off, she's my Wife, touch her who dares; Will you have your Teeth pickt? What d'ye think of giving 20 Peeces to teach your Mistriss French
+Wood
+O Rogue, I'll have thee hang'd
+Win
+Or 40 Peeces to buy a Pair of Gloves, to let you Steal Madam Biancha: this Ring was bought with some of it, ha, ha, ha
+Wood
+Down with him, down with him, a damn'd Rascal
+Win
+I, do, Which of you has a mind to breath a Vein?
+2 Fell
+Nay if she be his Wife we dare not touch her
+Wood
+I'll fetch some body that shall, O Devil
+Exit
+Win
+Ay do, I am your poor Mounsieur, ha, ha, ha; Fear not Biancha, he'll fetch 'em all I know, I warrant thee we shall appease thy Father Easily
+Bian
+Trust me Sir, I fear the Storm
+Enter Beaufoy, Tranio, Petruchio, Margaret, Sauny, Snatchpenny, Jamy, Sir Lyonell, Woodall, and Attendants
+Wood
+That Rogue, that Damn'd Counterfit Frenchman has stolne your Daughter and Marryed her, here they are
+Win
+Bless me, What do I see yonder my Father, in earnest? Dear Sir your Blessing, and your Pardon
+Sir Lyon
+My Dear Son, Art thou alive? then take it
+Bian
+I must beg your Pardon too Sir
+Win
+And I most Honoured Father
+Beau
+Why what's the Matter? What hast thou done? Woodall tells me thou hast Married the Frenchman
+Win
+Me she has Married, but no Frenchman. The right Winlove, Son to the right Winlove is her Husband, and your Son in-Law
+Saun
+S'breed Sir, ye act twa parts, ye were but a Hamp-dresser in the last Act, Sir
+Snatch
+'Tis time for us to be going, I feel one Ear going off already
+Exit
+Beau
+You amaze me ▪ Are not you the Frenchman, Mr. Woodall prefer'd to teach my Daughter?
+Bian
+No my Lord, he put on that Disguise to Court me, he is the true Winlove
+Sir Lyon
+Marry is he my Son, Sir
+Win
+Those were but 〈◊〉 of my making
+Wood
+Here's Patching with a Mistriss, I'm sure I am Gull'd
+Beau
+But d'ye hear Sir? Have you Married my Daughter without my Consent
+Sir Lyon
+Come my Lord, now you must know me; I will beg both their Pardons, and Secure her a Jointure worthy her Birth and Fortune
+Win
+You are a Father now Indeed
+Beau
+Sir Lyonell excuse my rashness I accept your noble Proffer, you are forgiven
+Saun
+S'breed Sir, we sal nere go to Dunner Sir, the Deel forgat and for give you aw, Sir
+Sir Lyon
+But where is that Rogue that would have sent me to Jayle? I'll slit his Nose for him
+Win
+I must beg his Pardon, for he did all for my Sake
+Sir Lyon
+Well Sir, for your Sake I Pardon him
+Beau
+Come Gentlemen all to my house, we shall there end all our Doubts, and drownd our fears
+Wood
+Sir, I shall expect my Money back again, 'tis enough to loose my Mistriss
+Win
+No Faith 'tis in better hands already, you'll but fool it away, you'll be hireing Frenchmen agen
+Wood
+Well mock on, I'll in and eat out part of it
+Beau
+Come Gentlemen
+Marg
+Husband will you not go with my Father?
+Pet
+First kiss me Peg, and I will
+Marg
+What in the midle of the Street
+Pet
+What art thou Asham'd of me?
+Marg
+Not so Sir, but asham'd to kiss so openly
+Pet
+Why then let's home again, Sauny lead the way
+Saun
+Gud the Deel a bit will Saundy Budge before Dunner, Sir
+Marg
+Nay I will give thee a kiss, nay pray now stay
+Pet
+So is not this well? come my sweet Peg
+Bian
+Sister I hope we shall be friends now
+Ma • g
+I was never Foes with you
+Win
+Come fairest, all the Storms are overblown; Love hath both Wit and Fortune of her own
+Exeunt
+ACT V
+Enter Margaret and Biancha
+Bian
+BUt is't Possible Sister, he shu'd have us'd you thus?
+Marg
+Had I serv'd him as bad as Eve did Adam, he coud not have us'd me worse; but I am resolv'd now I'm got home again I'll be reveng'd, I'll muster up the Spight of all the Curs'd Women since Noahs Flood to do him Mischeif, and add new Vigour to my Tongue; I have not par'd my Nails this fortnight, they are long enough to do him some Execution, that's my Comfort
+Bian
+Bless me Sister, how you talk
+Marg
+Thou art a Fool Biancha, come Learn of me; thou art Married to a Man too, thou dost not know but thou mayst need my Councel, and make good use on't; Thy Husband bares thee fair yet, but take heed of going home with him, for when once he has thee within his verge, 'tis odds he'll have his freaks too; there's no trusting these Men: Thy temper is soft and easy, thou must Learn to break him, or he'll break thy Heart
+Bian
+I must Confess I shou'd be Loath to be so us'd, but sure Mr. Win love is of a better Disposition
+Marg
+Trust him and hang him, they'r all alike; Come thou shalt be my Schollar, learn to Frown, and cry out for unkindness, but brave Anger, thou hast a Tongue, make use on't; Scould, Fight, Scratch, Bite, any thing, still take Exceptions at all he does, if there be Cause or not, if there be reason for't he'll Laugh at thee. I'll make Petruchio glad to wipe my Shoes, or walk my Horse, ere I have done with him
+Enter Petruchio, Winlove, Sauny
+Bian
+Peace Sister, our Husbands are both here
+Marg
+Thou Child I am glad on't, I'll speak louder,
+Pet
+Well Brother Winlove now we are truly happy, never were Men so blest with two such Wives
+Win
+I am glad to hear you say so Sir, my own I'm sure Im blest in
+Pet
+Yours, why Biancha 's a Lyon, and Margaret a meer Lamb to her: I tell thee Winlove, there's no Man living tho I say't, (but 'tis no matter since she does not hear me) that has a Wife so gentle, and so active and affable, poor thing I durst be sworn she wou'd walk barefoot a hundred Miles to do me good
+Marg
+No but she wou'd not, nor one Mile neither
+Saun
+Now have at your Luggs, Sir
+Pet
+O Peg, art thou there? How dost thou do my Dear?
+Marg
+You may go look, What's that to you?
+Saun
+Stand o' yer guard Sir, Gud Saundy will put on his head Peice
+Pet
+I am glad to hear thee say thou'rt well introth
+Marg
+Never the better for you, which you shall sind
+Pet
+Nay I know thou lov'st me, Prithee take up my Glove Peg
+Marg
+I take up your Glove; Marry come up, command your Servants, look you there it lyes
+Pet
+I am glad to see thee merry, poor wanton Rogue
+Marg
+'Tis very well, you think you are in the Country but you are mistaken, the case is alter'd, I am at home now, and my own disposer; Go swagger at your greazy Lubber there, your Patient Wife will make you no more Sport, she has a Father will allow her Meat and Lodging, and another gaits Chamber-Maid then a Highlander
+Saun
+Gud an ye were a top of Grantham Steple that aw the Toon may hear what a Scanden Queen ye are, out, out
+Pet
+Why what's the matter Peg? I never saw thee in so jolly a Humour, sure thou hast been Drinking
+Saun
+Gud has she, haud ye tang, ye faw dranken Swine, out, out, out, was ye tak a Drink and nere tak Saundy to yee, out, out, out
+Marg
+'Tis like I have, I am the sitter to talk to you, for no sober Woman is a Companion for you
+Pet
+Troth thou sayst right, we are excellently Matcht
+Marg
+Well mark the end on't, Petruchio prithee come hither, I have something to say to you
+Saun
+De ye nea budge a foot Sir, Deel a my saul bo she'll Scratch your eyn out
+Pet
+Well, your Pleasure Madam
+Marg
+First thou art a Pittiful fellow, a thing beneath me, which I scorn and Laugh at, ha, ha, ha
+Win
+She holds her own yet I see
+Marg
+I know not what to call thee, thou art no Man, thou coudst not have a Woman to thy Mother, thou paltry, Scurvy, ill condition'd fellow, dost thou not tremble to think how thou hast us'd me; What are you silent Sir? Biancha see, Looks he not like a Disbanded Officer, with that hanging dog look there? I must eat nothing because your Cook has Roasted the Mutton dry, as you us'd to have it 〈...〉 your Worship was a Batchellor, I must not go to Bed neither, because 〈...〉 are Damp
+Pet
+Mark you Peg; What a strange Woman are you to Discourse open ly the Fault of your Servants in your own Family
+Marg
+No, no, Sir, this wont serve your turn; your Old Stock of Im pudence won't carry you off so: I'll speak your Fame, and tell what a fine Gentleman you are ▪ how Valliantly you, and halfe a Douzen of your Men, got the better of a Single Woman, and made her lose her Supper,
+Saun
+Gud she Lyes Sir; I wou'd a gin her an awd Boot tul • a made Tripes on, and it wod a hin bra Meat with Mustard, and she wou'd nea have it
+Marg
+My Faults? No, good Squire of the Country, you thought to have Tam'd me, I warrant, in good time; why you see I am even with you; Your Quiet Patient Wife, that will go no more in the Country with you, but will stay in Town, to Laugh at your Wi • e Worship, and wish you more Wit
+Pet
+I shou'd Laugh at that; why we are just now a going ▪ Sauny go get the Horses ready quickly
+Saun
+Gud will I Sir; I'se Saddle a Highland-Wutch to Carry your Bride; Gud she'll mount your Arse for you Madam
+Marg
+Sirrah, touch a Horse, and I'll Curry your Coxcomb for you: No Sir, I won't say, Pray let me not go; but boldly, I won't go; you force me if you can or dare: You see I am not Tongue-ty'd, as silent as you thought you made me
+Pet
+Prithee Peg, Peace a little, I know thou canst Speak, leave now, or thoul't have nothing to say to morrow
+Marg
+Yes, I'll say this over again, and something more if I can think on't, to a poor despised man of Clouts: Sister, how he smoakes now he's off his own Dunghill
+Pet
+Prithee Peg leave making a Noise; I'faith thou'lt make my Head ach
+Marg
+Noise? Why this is Silence to what I intend; I'll talk Louder than this, every Night in my Sleep
+Saun
+The Dee'l shall be your Bed fellow for Sawndy then
+Marg
+I will learn to Rail at thee in all Languages; Thunder shall be soft-musick to my Tongue
+Saun
+The Dee'l a bit Scot's ye gat to brangle in, marry the Dee'l gi ye a Clap wi a French Thunder-bolt
+Pet
+Very pretty; Prithee go on
+Marg
+I'll have a Collection of all the Ill Names that ever was Invent ed, and call you over by 'em twice a-day
+Pet
+And have the Catalogue publish'd for the Education of young Scolds: Proceed Peg
+Marg
+I'll have you Chain'd to a Stake at Billingsgate, and Baited by the fish-wives, while I stand to Hiss 'em on
+Pet
+Ha, ha, ha; Witty Peg, forward
+Marg
+You shan't dare to Blow your Nose, but when I bid you; you shall know me to be the Master
+Saun
+Wuns gat her to the Stool of Repantance, Sir
+Pet
+Nay, I believe, thou wilt go in Breeches shortly; On, on; What have you no more on't? Ha, ha, ha
+Marg
+D'ye Laugh and be Hang'd? I'll spoil your Sport
+(Flys at him
+Pet
+Nay, Peg, Hands off; I thought you wou'd not have Disgrac'd your Good Parts, to come to Blows so soon; Prithee Chide on, thou can'st not believe what Delight I take to hear thee; It does become thee so well: What Pumpt dry already? Prithee talk more and longer, and faster, and sharper, this is nothing
+Marg
+I'll see you in the Indies before I'll do any thing to please you; D'ye like it?
+Pet
+Extreamly! On Peg, you'll cooll too fast
+Marg
+Why then Mark me, if it were to save thee from Drowning, or Breaking thy Neck, I won't speak one word more to thee these Two Months
+(Sits Sullenly
+Saun
+Ah Gud an ye do nea Ly, Madam
+Pet
+Nay, Good Peg, be not so hard-harted. What Melancholly all • 'th' sudden? Come, get up, we'll send for the Fidlers, and have a Dance; Tho'lt break thy Elbow with Leaning on that hard Table: Sawny, go get your Mistriss a Cushion; Alas! I doubt she's not well; Look to her Sister
+Bian
+Are you not well, Sister? What ail you? Pray speak Sister: Indeed, Brother, you have so Vext her, she'll be Sick
+Pet
+Alas, alas! I know what's the matter with her, she has the Tooth-Ach. See how she holds her Cheek; the Wind has gotten into her Teeth, by keeping her Mouth open this Cold Weather
+Bian
+Indeed it may be so Brother, she uses to be troubled with that Pain sometimes
+Pet
+Without all Question; Poor Peg, I pitty thee; Which Tooth is it? Wilt thou have it Drawn, Peg? The Tooth-Ach makes Fooles of all the Physitians; there is no Cure, but Drawing: What say'st thou? Wilt thou have it pull'd out? Well, thou shalt. Sauny, Run, Sirrah, hard by, you know where my Barber Lives that Drew me a Tooth last Week, fetch him quickly; What d'ye stand staring at? Run and fetch him immediately, or I'll cut your Legs off
+Saun
+Gud I'se fetch can to pull her head off an ye wull
+[Exit
+Win
+This will make her find her Tongue agen, or else for certain she has lost it
+Pet
+Her Tongue, Brother? Alas! You see her Face is so Swell'd, she cannot speak
+Bian
+You Jest Brother; her Face is not swell'd. Pray let me see, Si ster, I can't perceive it
+Pet
+Not Swell'd? Why you are blind then; Prithee let her alone, you trouble her
+Enter Sauny and Barber
+Here, Honest Barber, have you brought your Instruments?
+Barber
+Yes Sir; What must I do?
+Pet
+You must Draw that Gentlewoman a Tooth there; Prithee do it neatly, and as gently as thou can'st; And, de hear me, take care you don't tear her Gums
+Barber
+I warrant you Sir
+Saun
+Hear ye Sir, Cou'd not ye Mistake? and pull her Tang out in stead of her Teeth
+Bian
+I'll be gone, I can't endure to see her put to so much Pain
+[Exit
+Barb
+Pray, Madam, open your Mouth, that I may see which Tooth it is
+[She Strikes him
+Why Sir, Did you send for me to Abuse me
+Saun
+Gud be nea Angry, Ye ha ne aw yer Pay yet Sir. Cud ye not Mistake, and Draw her Tang in stead of her Teeth Sir
+Pet
+No, no: But it seems now she wo' not have it Drawn: Go, there's something for your Paines however
+[ Exit Barber
+Sau
+Ye sid ha taken my Counsel Sir
+Win
+This will not do, Sir. You cannot raise the Spirit you have laid, with all your Arts
+Pet
+I'll try; Have at her once more. Winlove, you must assist me; I'll make her Stir, if I can't make her Speak. Look, look! alas! How Pale she is! She's gone o'th' sudden; Body O' me, she's stiff too; un done, undone, What an unfortunate Man am I? she's gone! she's gone! never had man so great a Loss as I; O Winlove, pity me, my poor Peg is Dead, dear Winlove call in my Father and the Company that they may share in this sad Spectacle, and help my Sorrows with their joyning Griefs. Exit. Winlove. Speak, or by this hand I'll bury thee alive; Sauny thou feest in how sad a condition thy poor Master is in ▪ thy good Mistriss is Dead, hast to the next Church and get the Bier and the Bearers hither, I'll have her buried out of hand; Run Sauny
+Exit. Winlove
+Saun
+An you'll mack her Dead, we'll bury her deep enough, we'll put her doon intill a Scotch Coalepit, and she shall rise at the Deel's arse o' Peake
+Exit
+Pet
+I will see that last Pious act Perform'd, and then betake my self to a willing Exile; my own Country's Hell, now my dear Peg has left it. Not yet, upon my Life I think thou hast a mind to be buried quick; I hope thou hast
+Enter Winlove, Beaufoy, Sir Lyonell, Woodall, Biancha, Tranio, Jamy, and c
+Beau
+Bless me Son Petruchio, Is my dear Daughter Dead?
+Pet
+Alas, alas, 'tis but too true, wou'd I had ta'ne her roome
+Beau
+Why methinks she looks brisk, fresh and lively
+Pet
+So much Beauty as she had must needs leave some wanding remains to hover still about her face
+Beau
+What could her Disease be?
+Pet
+Indeed I grieve to tell it, but truth must out, she Dyed for spight, she was strangely Infected
+Bian
+Fye Sister, for shame speak, Will you let him abuse you thus?
+Pet
+Gentlemen you are my loving Friends and knew the Virtues of my matchless Wife, I hope you will accompany her Body to its long home
+All
+We'll all wait on you
+Beau
+Thou wilt break her heart indeed
+Pet
+I warrant you Sir, 'tis tougher then so
+Enter Sauny and Bearers with a Beir
+Saun
+I bring you here vera gued Men, an she be nea Dead Sir, for a Croon more they'll bury her quick
+Pet
+O honest friends, you'r Wellcome, you must take up that Corps, how! hard-hearted, Why de ye not weep? the loss of so much Beauty and goodness, take her up, and lay her upon the Beir
+1 Bear
+Why what d'ye mean Sir? She is not Dead
+Pet
+Rogues, tell me such a Lye to my face? Take her up or I'll swinge ye
+Saun
+Tak her up, tak her up, we'll mak her Dead Billy, ye'st a twa Croo • mear, tak her up Man
+1 Bear
+Dead or alive all's one to us, let us but have our fees
+Pet
+There, nay she is stiff, however on with her, Will you not speak yet? So here take these Strings and bind her on the Beir, she had an active stirring body when she Liv'd, she may chance fall off the Hearse now she's Dead: So, now take her up and away, come Gentlemen you'll follow, I mean to carry her through the Strand as far as St. Iame 's, People shall see what respect I bore her—She shall have so much Ceremony to attend her now she's Dead. There my Coach shall meet her and carry her into the Country, I'll have her laid in the Vault belonging to my Family, she shall have a Monument; some of you inquire me out a good Poet to write her Epitaph suitable to her Birth, Quallity and Conditions, Pitty the remembrance of so many Virtues shou'd be lost; March on, I wou'd say more, but grief Checks my Tongue
+Marg
+Father, Sister, Husband, Are you all Mad? Will you expose me to open shame? Rogues set me down you had best
+Pet
+A Miracle! a Miracle! she Lives! Heaven make me thankful for't, set her down, Liv'st thou my Poor Peg?
+Marg
+Yes that I do, and will to be your Tormentor
+Saun
+Out, out, gea her nea Credit, gud she's as Dead as mine Grannam, tak her, away with her, Sir
+Pet
+Bless me my hopes are all vanisht agen, 'tis a Demon speaks within her Body; Take her up again, we'll bury 'em together
+Marg
+Hold, hold, my dear Petruchio, you have overcome me, and I beg your Pardon, henceforth I will not dare to think a thought shall Cross your Pleasure, set me at Liberty, and on my knees I'll make my Recantation
+All
+Victoria, victoria, the field is won
+Pet
+Art thou in earnest Peg? May I believe thee?
+Saun
+You ken very well she was awway's a lying Quean when she was Living, and wull ye believe her now she's Dead?
+Marg
+By all that's good not truth it self truer
+Pet
+Then thus I free thee, and make thee Mistriss both of my self and all I have
+Saun
+S'breed bo ye`l nea gi Saundy tull her Sir?
+Wood
+Take heed of giving away your Power, Sir
+Pet
+I'll venture it, nor do I fear I shall repent my bargain
+Marg
+I'm sure I will not give you Cause, y've taught me now what 'tis to be a Wife, and I 'll still shew my self your humble Handmaid
+Pet
+My best Peg, we will change kindness and be each others Servant; Gentlemen why do you not Rejoyce with me?
+Beau
+I am so full of joy I cannot Speak, may you be happy, this is your Wedding day
+Saun
+Shall Saundy get her a Bride-Cake, and Brake o'r her Head Sir? and wee's gatt us a good Wadding Dunner
+Enter Geraldo
+Geral
+Save ye all Gentlemen; Have ye any Room for more Guess? I am come to make up the Chorus
+Pet
+My Noble Friend, Wellcome; Where have you been so long?
+Geral
+I have been about a little trivial Business; I am just now come from a Wedding
+Pet
+What Wedding I pray Sir?
+Geral
+Troth e'en my own; I have ventur'd upon't at last: Madam, I hope you'l pardon me
+Bian
+Yes Sir; and so will this Gentleman
+Saun
+Are not you a Gentleman-Hampdresser?
+Pet
+'Tis e'en so, this proves to be Winlove in earnest
+Ger
+Good Gentlemen undo this Riddle; I'm all in the Dark
+Pet
+You shall know anon, in the mean time Believe it Gentlemen. We want another Woman, or we might have a Dance
+Geral
+My Widdow is within, she'll supply you
+Beau
+Good Peg go and wait on her, and you Biancha too
+(Exit Peg, Biancha
+Pet
+I tell thee Geraldo, never had Man so Obedient and Loving a Wife as I have now, I defy the World to equal her
+Win
+Nay, Brother, you must except her Sister
+Geral
+You must except mine too, or I shall have a hard Bargain of it; my Widdow is all Obedience
+Pet
+I'll tell you what I'll do with you, I'll hold you Ten Pieces to be spent in a Collation on them, That mine has more Obedience than both them; to try which, each send for his Wife, and if mine come not first I'll lose my Bett
+Saun
+Gud yeel lose your Siller sure enough Sir
+Both
+A Match
+Wood
+I'll be your halves Geraldo, and yours Mr. Winlove too
+Win
+Iamy, Go tell your Mistress, I desire her to come hither to me presently
+(Exit Jamy
+Pet
+A Piece more she does not come
+Beau
+You'll lose Son, you'l lose; I know she`ll come
+Pet
+I know she won`t; I find by Instinct I shall Win my Wa ger
+Enter Jamy
+Jam
+Sir, she says she's busie, and she can`t leave Mr. Geraldo's Lady
+Pet
+Look ye there now, come your Money
+Ger
+Prithee go again and tell my Wife I must needs speak with her im mediately
+Exit Jamy
+Pet
+I shall win yours too as sure as in my Pocket
+Ger
+I warrant you no such matter, What will you give to be off your Bett?
+Pet
+I won't take forty Shillings
+Enter Jamy
+How now?
+Jam
+Sir, she says you have no Business with her, if you have you may come to her
+Pet
+Come produce, I knew 'twould be so; Sauny go and tell Peg from me, I command her to come to me instantly
+Saun
+I'se gar her gea wuth me Sir, or I'se put my Durke to the hilt in her Weam
+Wood
+Yet you wont win, I'll hang for't if she'll come
+Pet
+Yes but she will, as sure as you gave forty peices to Court Biancha, I'll venture them to twenty more upon't with you
+Wood
+Nay I have lost enough already
+Enter Peg and Sauny
+Pet
+Look ye here Gentlemen
+Saun
+O my Saul, she's can a daft gued Lass, she's at your Beck, steake her and kiss her Man
+Marg
+I come to receive your Commands, Sir
+Pet
+All I have to say to thee Peg, is to bid thee demand ten pound of these two Gentlemen, thou hast Won it
+Marg
+I, Sir, for what?
+Pet
+Only for being so good natur'd to come when I send for you
+Marg
+It was my duty Sir
+Pet
+Come pay, pay, give it her, I 'll not bate ye two pence
+Ger
+There's mine
+Win
+And mine Sister, much good may it do ye
+Beau
+Well Peg I 'll find thee one Thousand Pound the more for this
+Saun
+Bo what wull ye gi Saundy that halpt to mak her gued and tame? Wuns she was as Wild as a Galloway Coalt
+Enter Biancha and Widdow
+Win
+Look here they come at last
+Bian
+What did you send for me for?
+Win
+Why to win me five Pound if you had been as obedient as you should a been
+Bian
+You have not known me long enough to venture so much upon my Duty, I have been my Sisters Schollar a little
+Saun
+Bo put her to Saundy to teach, Gud I 'se mak her sea gentle ye may streake her and handle her all o're Sir,
+Ger
+You might have got me five Pound if you had done as you should do
+Wid
+Were it to do again you should be sure to loose
+Marg
+Fy Ladys, for shame, How dare you infringe that Duty which you justly owe your Husbands, they are our Lords and we must pay 'em Service
+Beau
+Well said Peg, you must be their Tutor, come Son if youll have a Dance dispatch it quickly, the Musick's ready, and the Meat will be spoil'd
+Pet
+Come then, play, play
+DANCE
+Now let us in, and Eate, the Work is done,
+Which neither Time nor Age can wear from Memory;
+I 've Tam'd the Shrew, but will not be asham'd,
+If next you see the very Tamer Tam'd
+FINIS

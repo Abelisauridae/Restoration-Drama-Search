@@ -1,0 +1,1376 @@
+Canonical Title: HENRY VIII
+Requested Title: HENRY VIII
+Authors: Sir William Davenant (() from William Shakespeare; Sir William Davenant (?)
+Source Site: Project Gutenberg
+Gutenberg ID: 1541
+Item Title: King Henry VIII
+Item Author: Shakespeare, William
+Search Strategy: direct
+Text Scope: extracted_segment
+Matched Alias: King Henry VIII
+Source URL: https://www.gutenberg.org/ebooks/1541.txt.utf-8
+
+KING HENRY THE EIGHTH
+
+DUKE OF NORFOLK
+DUKE OF SUFFOLK
+
+CARDINAL WOLSEY
+SECRETARIES to Wolsey
+CROMWELL, servant to Wolsey
+CARDINAL CAMPEIUS
+GARDINER, Bishop of Winchester
+PAGE to Gardiner
+
+QUEEN KATHERINE, wife to King Henry, afterwards divorced
+GRIFFITH, gentleman usher to Queen Katherine
+PATIENCE, woman to Queen Katherine
+Queen’s GENTLEMAN USHER
+CAPUTIUS, Ambassador from the Emperor Charles V
+
+DUKE OF BUCKINGHAM
+LORD ABERGAVENNY, Buckingham’s son-in-law
+EARL OF SURREY, Buckingham’s son-in-law
+SIR NICHOLAS VAUX
+SURVEYOR to the Duke of Buckingham
+BRANDON
+SERGEANT-at-Arms
+Three Gentlemen
+
+ANNE BULLEN, her Maid of Honour, afterwards Queen
+An OLD LADY, friend to Anne Bullen
+LORD CHAMBERLAIN
+LORD SANDYS (called also SIR WILLIAM SANDYS)
+SIR THOMAS LOVELL
+SIR HENRY GUILDFORD
+
+BISHOP OF LINCOLN
+CRANMER, archbishop of Canterbury
+LORD CHANCELLOR
+GARTER King-of-Arms
+SIR ANTHONY DENNY
+DOCTOR BUTTS, physician to the King
+Door-KEEPER of the Council-chamber
+PORTER, and his Man
+A CRIER
+PROLOGUE
+EPILOGUE
+
+Spirits, Several Lords and Ladies in the Dumb Shows; Women attending
+upon the Queen; Scribes, Officers, Guards, and other Attendants
+
+SCENE: London; Westminster; Kimbolton
+
+
+
+
+Enter Prologue.
+
+
+THE PROLOGUE.
+I come no more to make you laugh. Things now
+That bear a weighty and a serious brow,
+Sad, high, and working, full of state and woe,
+Such noble scenes as draw the eye to flow,
+We now present. Those that can pity, here
+May, if they think it well, let fall a tear;
+The subject will deserve it. Such as give
+Their money out of hope they may believe
+May here find truth too. Those that come to see
+Only a show or two, and so agree
+The play may pass, if they be still and willing,
+I’ll undertake may see away their shilling
+Richly in two short hours. Only they
+That come to hear a merry bawdy play,
+A noise of targets, or to see a fellow
+In a long motley coat guarded with yellow,
+Will be deceived. For, gentle hearers, know
+To rank our chosen truth with such a show
+As fool and fight is, beside forfeiting
+Our own brains and the opinion that we bring
+To make that only true we now intend,
+Will leave us never an understanding friend.
+Therefore, for goodness’ sake, and as you are known
+The first and happiest hearers of the town,
+Be sad, as we would make ye. Think ye see
+The very persons of our noble story
+As they were living; think you see them great,
+And followed with the general throng and sweat
+Of thousand friends; then, in a moment, see
+How soon this mightiness meets misery;
+And if you can be merry then, I’ll say
+A man may weep upon his wedding day.
+
+[_Exit._]
+
+
+
+
+ACT I
+
+SCENE I. London. An ante-chamber in the palace.
+
+
+Enter the Duke of Norfolk at one door; at the other, the Duke of
+Buckingham and the Lord Abergavenny.
+
+BUCKINGHAM.
+Good morrow, and well met. How have ye done
+Since last we saw in France?
+
+
+NORFOLK.
+I thank your Grace,
+Healthful, and ever since a fresh admirer
+Of what I saw there.
+
+BUCKINGHAM.
+An untimely ague
+Stayed me a prisoner in my chamber when
+Those suns of glory, those two lights of men,
+Met in the vale of Andren.
+
+NORFOLK.
+’Twixt Guynes and Arde.
+I was then present, saw them salute on horseback,
+Beheld them when they lighted, how they clung
+In their embracement, as they grew together—
+Which had they, what four throned ones could have weighed
+Such a compounded one?
+
+BUCKINGHAM.
+All the whole time
+I was my chamber’s prisoner.
+
+NORFOLK.
+Then you lost
+The view of earthly glory. Men might say,
+Till this time pomp was single, but now married
+To one above itself. Each following day
+Became the next day’s master, till the last
+Made former wonders its. Today the French,
+All clinquant, all in gold, like heathen gods,
+Shone down the English; and tomorrow, they
+Made Britain India: every man that stood
+Showed like a mine. Their dwarfish pages were
+As cherubins, all gilt. The madams too,
+Not used to toil, did almost sweat to bear
+The pride upon them, that their very labour
+Was to them as a painting. Now this masque
+Was cried incomparable; and th’ ensuing night
+Made it a fool and beggar. The two kings,
+Equal in lustre, were now best, now worst,
+As presence did present them: him in eye,
+Still him in praise; and being present both,
+’Twas said they saw but one, and no discerner
+Durst wag his tongue in censure. When these suns—
+For so they phrase ’em—by their heralds challenged
+The noble spirits to arms, they did perform
+Beyond thought’s compass, that former fabulous story,
+Being now seen possible enough, got credit,
+That Bevis was believed.
+
+BUCKINGHAM.
+O, you go far.
+
+NORFOLK.
+As I belong to worship and affect
+In honour honesty, the tract of everything
+Would by a good discourser lose some life,
+Which action’s self was tongue to. All was royal;
+To the disposing of it nought rebelled;
+Order gave each thing view; the office did
+Distinctly his full function.
+
+BUCKINGHAM.
+Who did guide,
+I mean, who set the body and the limbs
+Of this great sport together, as you guess?
+
+NORFOLK.
+One, certes, that promises no element
+In such a business.
+
+BUCKINGHAM.
+I pray you who, my lord?
+
+NORFOLK.
+All this was ordered by the good discretion
+Of the right reverend Cardinal of York.
+
+BUCKINGHAM.
+The devil speed him! No man’s pie is freed
+From his ambitious finger. What had he
+To do in these fierce vanities? I wonder
+That such a keech can with his very bulk
+Take up the rays o’ th’ beneficial sun
+And keep it from the earth.
+
+NORFOLK.
+Surely, sir,
+There’s in him stuff that puts him to these ends;
+For, being not propped by ancestry, whose grace
+Chalks successors their way, nor called upon
+For high feats done to th’ crown; neither allied
+To eminent assistants, but spider-like,
+Out of his self-drawing web, he gives us note
+The force of his own merit makes his way
+A gift that heaven gives for him, which buys
+A place next to the King.
+
+ABERGAVENNY.
+I cannot tell
+What heaven hath given him—let some graver eye
+Pierce into that—but I can see his pride
+Peep through each part of him. Whence has he that?
+If not from hell, the devil is a niggard,
+Or has given all before, and he begins
+A new hell in himself.
+
+BUCKINGHAM.
+Why the devil,
+Upon this French going-out, took he upon him,
+Without the privity o’ th’ King, t’ appoint
+Who should attend on him? He makes up the file
+Of all the gentry, for the most part such
+To whom as great a charge as little honour
+He meant to lay upon; and his own letter,
+The honourable board of council out,
+Must fetch him in he papers.
+
+ABERGAVENNY.
+I do know
+Kinsmen of mine, three at the least, that have
+By this so sickened their estates that never
+They shall abound as formerly.
+
+BUCKINGHAM.
+O, many
+Have broke their backs with laying manors on ’em
+For this great journey. What did this vanity
+But minister communication of
+A most poor issue?
+
+NORFOLK.
+Grievingly I think
+The peace between the French and us not values
+The cost that did conclude it.
+
+BUCKINGHAM.
+Every man,
+After the hideous storm that followed, was
+A thing inspired and, not consulting, broke
+Into a general prophecy, that this tempest,
+Dashing the garment of this peace, aboded
+The sudden breach on’t.
+
+NORFOLK.
+Which is budded out,
+For France hath flawed the league, and hath attached
+Our merchants’ goods at Bordeaux.
+
+ABERGAVENNY.
+Is it therefore
+Th’ ambassador is silenced?
+
+NORFOLK.
+Marry, is’t.
+
+ABERGAVENNY.
+A proper title of a peace, and purchased
+At a superfluous rate!
+
+BUCKINGHAM.
+Why, all this business
+Our reverend Cardinal carried.
+
+NORFOLK.
+Like it your Grace,
+The state takes notice of the private difference
+Betwixt you and the Cardinal. I advise you—
+And take it from a heart that wishes towards you
+Honour and plenteous safety—that you read
+The Cardinal’s malice and his potency
+Together; to consider further that
+What his high hatred would effect wants not
+A minister in his power. You know his nature,
+That he’s revengeful, and I know his sword
+Hath a sharp edge; it’s long, and ’t may be said
+It reaches far, and where ’twill not extend,
+Thither he darts it. Bosom up my counsel;
+You’ll find it wholesome. Lo, where comes that rock
+That I advise your shunning.
+
+Enter Cardinal Wolsey, the purse borne before him, certain of the Guard
+and two Secretaries with papers. The Cardinal in his passage fixeth his
+eye on Buckingham, and Buckingham on him, both full of disdain.
+
+WOLSEY.
+The Duke of Buckingham’s surveyor, ha?
+Where’s his examination?
+
+SECRETARY.
+Here, so please you.
+
+WOLSEY.
+Is he in person ready?
+
+SECRETARY.
+Ay, please your Grace.
+
+WOLSEY.
+Well, we shall then know more, and Buckingham
+Shall lessen this big look.
+
+[_Exeunt Cardinal Wolsey and his train._]
+
+BUCKINGHAM.
+This butcher’s cur is venom-mouthed, and I
+Have not the power to muzzle him; therefore best
+Not wake him in his slumber. A beggar’s book
+Outworths a noble’s blood.
+
+NORFOLK.
+What, are you chafed?
+Ask God for temp’rance. That’s the appliance only
+Which your disease requires.
+
+BUCKINGHAM.
+I read in ’s looks
+Matter against me, and his eye reviled
+Me as his abject object. At this instant
+He bores me with some trick. He’s gone to th’ King.
+I’ll follow, and outstare him.
+
+NORFOLK.
+Stay, my lord,
+And let your reason with your choler question
+What ’tis you go about. To climb steep hills
+Requires slow pace at first. Anger is like
+A full hot horse, who being allowed his way,
+Self-mettle tires him. Not a man in England
+Can advise me like you; be to yourself
+As you would to your friend.
+
+BUCKINGHAM.
+I’ll to the King,
+And from a mouth of honour quite cry down
+This Ipswich fellow’s insolence, or proclaim
+There’s difference in no persons.
+
+NORFOLK.
+Be advised.
+Heat not a furnace for your foe so hot
+That it do singe yourself. We may outrun
+By violent swiftness that which we run at,
+And lose by over-running. Know you not,
+The fire that mounts the liquor till ’t run o’er,
+In seeming to augment it wastes it? Be advised.
+I say again, there is no English soul
+More stronger to direct you than yourself,
+If with the sap of reason you would quench,
+Or but allay the fire of passion.
+
+BUCKINGHAM.
+Sir,
+I am thankful to you, and I’ll go along
+By your prescription; but this top-proud fellow—
+Whom from the flow of gall I name not, but
+From sincere motions—by intelligence,
+And proofs as clear as founts in July when
+We see each grain of gravel, I do know
+To be corrupt and treasonous.
+
+NORFOLK.
+Say not “treasonous.”
+
+BUCKINGHAM.
+To th’ King I’ll say’t, and make my vouch as strong
+As shore of rock. Attend. This holy fox,
+Or wolf, or both—for he is equal ravenous
+As he is subtle, and as prone to mischief
+As able to perform’t, his mind and place
+Infecting one another, yea, reciprocally—
+Only to show his pomp as well in France
+As here at home, suggests the King our master
+To this last costly treaty, th’ interview,
+That swallowed so much treasure, and like a glass
+Did break i’ th’ rinsing.
+
+NORFOLK.
+Faith, and so it did.
+
+BUCKINGHAM.
+Pray give me favour, sir. This cunning Cardinal
+The articles o’ th’ combination drew
+As himself pleased; and they were ratified
+As he cried “Thus let be,” to as much end
+As give a crutch to the dead. But our Count-Cardinal
+Has done this, and ’tis well, for worthy Wolsey,
+Who cannot err, he did it. Now this follows—
+Which, as I take it, is a kind of puppy
+To the old dam treason—Charles the Emperor,
+Under pretence to see the Queen his aunt—
+For ’twas indeed his colour, but he came
+To whisper Wolsey—here makes visitation.
+His fears were that the interview betwixt
+England and France might through their amity
+Breed him some prejudice, for from this league
+Peeped harms that menaced him. He privily
+Deals with our Cardinal, and, as I trow—
+Which I do well, for I am sure the Emperor
+Paid ere he promised, whereby his suit was granted
+Ere it was asked. But when the way was made
+And paved with gold, the Emperor thus desired
+That he would please to alter the King’s course
+And break the foresaid peace. Let the King know,
+As soon he shall by me, that thus the Cardinal
+Does buy and sell his honour as he pleases
+And for his own advantage.
+
+NORFOLK.
+I am sorry
+To hear this of him, and could wish he were
+Something mistaken in’t.
+
+BUCKINGHAM.
+No, not a syllable.
+I do pronounce him in that very shape
+He shall appear in proof.
+
+Enter Brandon, a Sergeant-at-arms before him, and two or three of the
+Guard.
+
+BRANDON.
+Your office, sergeant: execute it.
+
+SERGEANT.
+Sir,
+My lord the Duke of Buckingham, and Earl
+Of Hereford, Stafford, and Northampton, I
+Arrest thee of high treason, in the name
+Of our most sovereign King.
+
+BUCKINGHAM.
+Lo you, my lord,
+The net has fall’n upon me. I shall perish
+Under device and practice.
+
+BRANDON.
+I am sorry
+To see you ta’en from liberty, to look on
+The business present. ’Tis his Highness’ pleasure
+You shall to th’ Tower.
+
+BUCKINGHAM.
+It will help nothing
+To plead mine innocence, for that dye is on me
+Which makes my whit’st part black. The will of heaven
+Be done in this and all things. I obey.
+O my Lord Abergavenny, fare you well.
+
+BRANDON.
+Nay, he must bear you company.
+[_To Abergavenny_.] The King
+Is pleased you shall to th’ Tower, till you know
+How he determines further.
+
+ABERGAVENNY.
+As the Duke said,
+The will of heaven be done, and the King’s pleasure
+By me obeyed.
+
+BRANDON.
+Here is warrant from
+The King t’ attach Lord Montague, and the bodies
+Of the Duke’s confessor, John de la Car,
+One Gilbert Peck, his chancellor—
+
+BUCKINGHAM.
+So, so;
+These are the limbs o’ th’ plot. No more, I hope?
+
+BRANDON.
+A monk o’ th’ Chartreux.
+
+BUCKINGHAM.
+O, Nicholas Hopkins?
+
+BRANDON.
+He.
+
+BUCKINGHAM.
+My surveyor is false. The o’er-great Cardinal
+Hath showed him gold. My life is spanned already.
+I am the shadow of poor Buckingham,
+Whose figure even this instant cloud puts on
+By dark’ning my clear sun. My lord, farewell.
+
+[_Exeunt._]
+
+SCENE II. The same. The council-chamber.
+
+Cornets. Enter King Henry, leaning on the Cardinal’s shoulder, the
+Nobles, and Sir Thomas Lovell; the Cardinal places himself under the
+King’s feet on his right side.
+
+KING.
+My life itself, and the best heart of it,
+Thanks you for this great care. I stood i’ th’ level
+Of a full-charged confederacy, and give thanks
+To you that choked it. Let be called before us
+That gentleman of Buckingham’s; in person
+I’ll hear his confessions justify,
+And point by point the treasons of his master
+He shall again relate.
+
+A noise within crying “Room for the Queen!” Enter  Queen Katherine,
+ushered by the Duke of Norfolk and the Duke of Suffolk. She kneels. The
+King riseth from his state, takes her up and kisses her.
+
+QUEEN KATHERINE.
+Nay, we must longer kneel; I am a suitor.
+
+KING.
+Arise, and take place by us.
+
+[_He placeth her by him._]
+
+Half your suit
+Never name to us; you have half our power;
+The other moiety ere you ask is given.
+Repeat your will and take it.
+
+QUEEN KATHERINE.
+Thank your Majesty.
+That you would love yourself, and in that love
+Not unconsidered leave your honour nor
+The dignity of your office, is the point
+Of my petition.
+
+KING.
+Lady mine, proceed.
+
+QUEEN KATHERINE.
+I am solicited, not by a few,
+And those of true condition, that your subjects
+Are in great grievance. There have been commissions
+Sent down among ’em which hath flawed the heart
+Of all their loyalties; wherein, although,
+My good Lord Cardinal, they vent reproaches
+Most bitterly on you as putter-on
+Of these exactions, yet the King our master,
+Whose honour heaven shield from soil, even he escapes not
+Language unmannerly, yea, such which breaks
+The sides of loyalty, and almost appears
+In loud rebellion.
+
+NORFOLK.
+Not “almost appears,”
+It doth appear; for, upon these taxations,
+The clothiers all, not able to maintain
+The many to them longing, have put off
+The spinsters, carders, fullers, weavers, who,
+Unfit for other life, compelled by hunger
+And lack of other means, in desperate manner
+Daring the event to th’ teeth, are all in uproar,
+And danger serves among them.
+
+KING.
+Taxation?
+Wherein? And what taxation? My Lord Cardinal,
+You that are blamed for it alike with us,
+Know you of this taxation?
+
+WOLSEY.
+Please you, sir,
+I know but of a single part in aught
+Pertains to th’ state, and front but in that file
+Where others tell steps with me.
+
+QUEEN KATHERINE.
+No, my lord?
+You know no more than others? But you frame
+Things that are known alike, which are not wholesome
+To those which would not know them, and yet must
+Perforce be their acquaintance. These exactions
+Whereof my sovereign would have note, they are
+Most pestilent to the hearing, and to bear ’em,
+The back is sacrifice to the load. They say
+They are devised by you, or else you suffer
+Too hard an exclamation.
+
+KING.
+Still exaction!
+The nature of it? In what kind, let’s know,
+Is this exaction?
+
+QUEEN KATHERINE.
+I am much too venturous
+In tempting of your patience, but am boldened
+Under your promised pardon. The subjects’ grief
+Comes through commissions, which compels from each
+The sixth part of his substance, to be levied
+Without delay; and the pretence for this
+Is named your wars in France. This makes bold mouths.
+Tongues spit their duties out, and cold hearts freeze
+Allegiance in them. Their curses now
+Live where their prayers did; and it’s come to pass
+This tractable obedience is a slave
+To each incensed will. I would your Highness
+Would give it quick consideration, for
+There is no primer business.
+
+KING.
+By my life,
+This is against our pleasure.
+
+WOLSEY.
+And for me,
+I have no further gone in this than by
+A single voice, and that not passed me but
+By learned approbation of the judges. If I am
+Traduced by ignorant tongues, which neither know
+My faculties nor person, yet will be
+The chronicles of my doing, let me say
+’Tis but the fate of place, and the rough brake
+That virtue must go through. We must not stint
+Our necessary actions in the fear
+To cope malicious censurers, which ever,
+As ravenous fishes, do a vessel follow
+That is new-trimmed, but benefit no further
+Than vainly longing. What we oft do best,
+By sick interpreters, once weak ones, is
+Not ours or not allowed; what worst, as oft,
+Hitting a grosser quality, is cried up
+For our best act. If we shall stand still
+In fear our motion will be mocked or carped at,
+We should take root here where we sit,
+Or sit state-statues only.
+
+KING.
+Things done well,
+And with a care, exempt themselves from fear;
+Things done without example, in their issue
+Are to be feared. Have you a precedent
+Of this commission? I believe, not any.
+We must not rend our subjects from our laws
+And stick them in our will. Sixth part of each?
+A trembling contribution! Why, we take
+From every tree lop, bark, and part o’ t’ timber,
+And though we leave it with a root, thus hacked,
+The air will drink the sap. To every county
+Where this is questioned send our letters with
+Free pardon to each man that has denied
+The force of this commission. Pray, look to’t;
+I put it to your care.
+
+WOLSEY.
+[_Aside to his Secretary_.] A word with you.
+Let there be letters writ to every shire
+Of the King’s grace and pardon. The grieved commons
+Hardly conceive of me. Let it be noised
+That through our intercession this revokement
+And pardon comes. I shall anon advise you
+Further in the proceeding.
+
+[_Exit Secretary._]
+
+Enter Surveyor.
+
+QUEEN KATHERINE.
+I am sorry that the Duke of Buckingham
+Is run in your displeasure.
+
+KING.
+It grieves many.
+The gentleman is learned and a most rare speaker;
+To nature none more bound; his training such
+That he may furnish and instruct great teachers
+And never seek for aid out of himself. Yet see,
+When these so noble benefits shall prove
+Not well disposed, the mind growing once corrupt,
+They turn to vicious forms, ten times more ugly
+Than ever they were fair. This man so complete,
+Who was enrolled ’mongst wonders, and when we,
+Almost with ravished list’ning, could not find
+His hour of speech a minute—he, my lady,
+Hath into monstrous habits put the graces
+That once were his, and is become as black
+As if besmeared in hell. Sit by us. You shall hear—
+This was his gentleman in trust—of him
+Things to strike honour sad. Bid him recount
+The fore-recited practices, whereof
+We cannot feel too little, hear too much.
+
+WOLSEY.
+Stand forth, and with bold spirit relate what you,
+Most like a careful subject, have collected
+Out of the Duke of Buckingham.
+
+KING.
+Speak freely.
+
+SURVEYOR.
+First, it was usual with him—every day
+It would infect his speech—that if the King
+Should without issue die, he’ll carry it so
+To make the sceptre his. These very words
+I’ve heard him utter to his son-in-law,
+Lord Abergavenny; to whom by oath he menaced
+Revenge upon the Cardinal.
+
+WOLSEY.
+Please your Highness, note
+This dangerous conception in this point,
+Not friended by his wish to your high person
+His will is most malignant, and it stretches
+Beyond you to your friends.
+
+QUEEN KATHERINE.
+My learned Lord Cardinal,
+Deliver all with charity.
+
+KING.
+Speak on.
+How grounded he his title to the crown?
+Upon our fail? To this point hast thou heard him
+At any time speak aught?
+
+SURVEYOR.
+He was brought to this
+By a vain prophecy of Nicholas Henton.
+
+KING.
+What was that Henton?
+
+SURVEYOR.
+Sir, a Chartreux friar,
+His confessor, who fed him every minute
+With words of sovereignty.
+
+KING.
+How know’st thou this?
+
+SURVEYOR.
+Not long before your Highness sped to France,
+The Duke being at the Rose, within the parish
+Saint Laurence Poultney, did of me demand
+What was the speech among the Londoners
+Concerning the French journey. I replied,
+Men fear the French would prove perfidious,
+To the King’s danger. Presently the Duke
+Said ’twas the fear indeed, and that he doubted
+’Twould prove the verity of certain words
+Spoke by a holy monk, “that oft,” says he,
+“Hath sent to me, wishing me to permit
+John de la Car, my chaplain, a choice hour
+To hear from him a matter of some moment;
+Whom after under the confession’s seal
+He solemnly had sworn that what he spoke
+My chaplain to no creature living but
+To me should utter, with demure confidence
+This pausingly ensued: ‘Neither the King nor’s heirs,
+Tell you the Duke—shall prosper. Bid him strive
+To gain the love o’ th’ commonalty. The Duke
+Shall govern England.’”
+
+QUEEN KATHERINE.
+If I know you well,
+You were the Duke’s surveyor, and lost your office
+On the complaint o’ th’ tenants. Take good heed
+You charge not in your spleen a noble person
+And spoil your nobler soul. I say, take heed—
+Yes, heartily beseech you.
+
+KING.
+Let him on.
+Go forward.
+
+SURVEYOR.
+On my soul, I’ll speak but truth.
+I told my lord the Duke, by th’ devil’s illusions
+The monk might be deceived, and that ’twas dangerous
+For him to ruminate on this so far until
+It forged him some design, which, being believed,
+It was much like to do. He answered, “Tush,
+It can do me no damage,” adding further
+That had the King in his last sickness failed,
+The Cardinal’s and Sir Thomas Lovell’s heads
+Should have gone off.
+
+KING.
+Ha! What, so rank? Ah ha!
+There’s mischief in this man. Canst thou say further?
+
+SURVEYOR.
+I can, my liege.
+
+KING.
+Proceed.
+
+SURVEYOR.
+Being at Greenwich,
+After your Highness had reproved the Duke
+About Sir William Bulmer—
+
+KING.
+I remember
+Of such a time, being my sworn servant,
+The Duke retained him his. But on. What hence?
+
+SURVEYOR.
+“If,” quoth he, “I for this had been committed,”
+As to the Tower, I thought, “I would have played
+The part my father meant to act upon
+Th’ usurper Richard who, being at Salisbury,
+Made suit to come in ’s presence; which if granted,
+As he made semblance of his duty, would
+Have put his knife into him.”
+
+KING.
+A giant traitor!
+
+WOLSEY.
+Now, madam, may his Highness live in freedom,
+And this man out of prison?
+
+QUEEN KATHERINE.
+God mend all.
+
+KING.
+There’s something more would out of thee. What sayst?
+
+SURVEYOR.
+After “the Duke his father,” with “the knife,”
+He stretched him, and with one hand on his dagger,
+Another spread on ’s breast, mounting his eyes,
+He did discharge a horrible oath, whose tenour
+Was, were he evil used, he would outgo
+His father by as much as a performance
+Does an irresolute purpose.
+
+KING.
+There’s his period,
+To sheathe his knife in us. He is attached.
+Call him to present trial. If he may
+Find mercy in the law, ’tis his; if none,
+Let him not seek ’t of us. By day and night,
+He’s traitor to th’ height!
+
+[_Exeunt._]
+
+SCENE III. An ante-chamber in the palace.
+
+Enter Lord Chamberlain  and Lord Sandys.
+
+CHAMBERLAIN.
+Is’t possible the spells of France should juggle
+Men into such strange mysteries?
+
+SANDYS.
+New customs,
+Though they be never so ridiculous—
+Nay, let ’em be unmanly—yet are followed.
+
+CHAMBERLAIN.
+As far as I see, all the good our English
+Have got by the late voyage is but merely
+A fit or two o’ th’ face; but they are shrewd ones,
+For when they hold ’em, you would swear directly
+Their very noses had been counsellors
+To Pepin or Clotharius, they keep state so.
+
+SANDYS.
+They have all new legs, and lame ones. One would take it,
+That never saw ’em pace before, the spavin
+Or springhalt reigned among ’em.
+
+CHAMBERLAIN.
+Death! My lord,
+Their clothes are after such a pagan cut to’t,
+That, sure, they’ve worn out Christendom.
+
+Enter Sir Thomas Lovell.
+
+How now?
+What news, Sir Thomas Lovell?
+
+LOVELL.
+Faith, my lord,
+I hear of none but the new proclamation
+That’s clapped upon the court gate.
+
+CHAMBERLAIN.
+What is’t for?
+
+LOVELL.
+The reformation of our travelled gallants
+That fill the court with quarrels, talk, and tailors.
+
+CHAMBERLAIN.
+I’m glad ’tis there. Now I would pray our monsieurs
+To think an English courtier may be wise
+And never see the Louvre.
+
+LOVELL.
+They must either,
+For so run the conditions, leave those remnants
+Of fool and feather that they got in France,
+With all their honourable points of ignorance
+Pertaining thereunto, as fights and fireworks,
+Abusing better men than they can be
+Out of a foreign wisdom, renouncing clean
+The faith they have in tennis and tall stockings,
+Short blistered breeches, and those types of travel,
+And understand again like honest men,
+Or pack to their old playfellows. There, I take it,
+They may, _cum privilegio, oui_ away
+The lag end of their lewdness and be laughed at.
+
+SANDYS.
+’Tis time to give ’em physic, their diseases
+Are grown so catching.
+
+CHAMBERLAIN.
+What a loss our ladies
+Will have of these trim vanities!
+
+LOVELL.
+Ay, marry,
+There will be woe indeed, lords. The sly whoresons
+Have got a speeding trick to lay down ladies.
+A French song and a fiddle has no fellow.
+
+SANDYS.
+The devil fiddle ’em! I am glad they are going,
+For sure, there’s no converting of ’em. Now
+An honest country lord, as I am, beaten
+A long time out of play, may bring his plainsong
+And have an hour of hearing, and, by ’r Lady,
+Held current music too.
+
+CHAMBERLAIN.
+Well said, Lord Sandys.
+Your colt’s tooth is not cast yet.
+
+SANDYS.
+No, my lord,
+Nor shall not while I have a stump.
+
+CHAMBERLAIN.
+Sir Thomas,
+Whither were you a-going?
+
+LOVELL.
+To the Cardinal’s.
+Your lordship is a guest too.
+
+CHAMBERLAIN.
+O, ’tis true.
+This night he makes a supper, and a great one,
+To many lords and ladies. There will be
+The beauty of this kingdom, I’ll assure you.
+
+LOVELL.
+That churchman bears a bounteous mind indeed,
+A hand as fruitful as the land that feeds us.
+His dews fall everywhere.
+
+CHAMBERLAIN.
+No doubt he’s noble;
+He had a black mouth that said other of him.
+
+SANDYS.
+He may, my lord; has wherewithal. In him
+Sparing would show a worse sin than ill doctrine.
+Men of his way should be most liberal;
+They are set here for examples.
+
+CHAMBERLAIN.
+True, they are so,
+But few now give so great ones. My barge stays.
+Your lordship shall along. Come, good Sir Thomas,
+We shall be late else, which I would not be,
+For I was spoke to, with Sir Henry Guildford,
+This night to be comptrollers.
+
+SANDYS.
+I am your lordship’s.
+
+[_Exeunt._]
+
+SCENE IV. A Hall in York Place.
+
+Hautboys. A small table under a state for the Cardinal, a longer table
+for the guests. Then enter Anne Bullen and divers other Ladies and
+Gentlemen as guests, at one door. At another door enter Sir Henry
+Guildford.
+
+GUILDFORD.
+Ladies, a general welcome from his Grace
+Salutes ye all. This night he dedicates
+To fair content and you. None here, he hopes,
+In all this noble bevy has brought with her
+One care abroad. He would have all as merry
+As, first, good company, good wine, good welcome
+Can make good people.
+
+Enter Lord Chamberlain, Lord Sandys and Sir Thomas Lovell.
+
+O, my lord, you’re tardy.
+The very thought of this fair company
+Clapped wings to me.
+
+CHAMBERLAIN.
+You are young, Sir Harry Guildford.
+
+SANDYS.
+Sir Thomas Lovell, had the Cardinal
+But half my lay thoughts in him, some of these
+Should find a running banquet ere they rested,
+I think would better please ’em. By my life,
+They are a sweet society of fair ones.
+
+LOVELL.
+O, that your lordship were but now confessor
+To one or two of these!
+
+SANDYS.
+I would I were.
+They should find easy penance.
+
+LOVELL.
+Faith, how easy?
+
+SANDYS.
+As easy as a down bed would afford it.
+
+CHAMBERLAIN.
+Sweet ladies, will it please you sit? Sir Harry,
+Place you that side; I’ll take the charge of this.
+His Grace is ent’ring. Nay, you must not freeze;
+Two women placed together makes cold weather.
+My Lord Sandys, you are one will keep ’em waking.
+Pray, sit between these ladies.
+
+SANDYS.
+By my faith,
+And thank your lordship. By your leave, sweet ladies.
+If I chance to talk a little wild, forgive me;
+I had it from my father.
+
+ANNE.
+Was he mad, sir?
+
+SANDYS.
+O, very mad, exceeding mad in love too;
+But he would bite none. Just as I do now,
+He would kiss you twenty with a breath.
+
+[_Kisses her._]
+
+CHAMBERLAIN.
+Well said, my lord.
+So, now you’re fairly seated. gentlemen,
+The penance lies on you if these fair ladies
+Pass away frowning.
+
+SANDYS.
+For my little cure,
+Let me alone.
+
+Hautboys. Enter Cardinal Wolsey and takes his state.
+
+WOLSEY.
+You’re welcome, my fair guests. That noble lady
+Or gentleman that is not freely merry
+Is not my friend. This, to confirm my welcome;
+And to you all, good health.
+
+[_Drinks._]
+
+SANDYS.
+Your Grace is noble.
+Let me have such a bowl may hold my thanks
+And save me so much talking.
+
+WOLSEY.
+My Lord Sandys,
+I am beholding to you. Cheer your neighbours.
+Ladies, you are not merry. Gentlemen,
+Whose fault is this?
+
+SANDYS.
+The red wine first must rise
+In their fair cheeks, my lord; then we shall have ’em
+Talk us to silence.
+
+ANNE.
+You are a merry gamester,
+My Lord Sandys.
+
+SANDYS.
+Yes, if I make my play.
+Here’s to your ladyship; and pledge it, madam,
+For ’tis to such a thing—
+
+ANNE.
+You cannot show me.
+
+SANDYS.
+I told your Grace they would talk anon.
+
+[_Drum and trumpet. Chambers discharged._]
+
+WOLSEY.
+What’s that?
+
+CHAMBERLAIN.
+Look out there, some of ye.
+
+[_Exit Servant._]
+
+WOLSEY.
+What warlike voice,
+And to what end, is this? Nay, ladies, fear not.
+By all the laws of war you’re privileged.
+
+Enter Servant.
+
+CHAMBERLAIN.
+How now, what is’t?
+
+SERVANT.
+A noble troop of strangers,
+For so they seem. They’ve left their barge and landed,
+And hither make, as great ambassadors
+From foreign princes.
+
+WOLSEY.
+Good Lord Chamberlain,
+Go, give ’em welcome—you can speak the French tongue—
+And pray receive ’em nobly, and conduct ’em
+Into our presence, where this heaven of beauty
+Shall shine at full upon them. Some attend him.
+
+[_Exit Chamberlain, attended. All rise, and tables removed._]
+
+You have now a broken banquet, but we’ll mend it.
+A good digestion to you all; and once more
+I shower a welcome on ye. Welcome all!
+
+Hautboys. Enter King and others as masquers, habited like shepherds,
+ushered by the Lord Chamberlain. They pass directly before the Cardinal
+and gracefully salute him.
+
+A noble company! What are their pleasures?
+
+CHAMBERLAIN.
+Because they speak no English, thus they prayed
+To tell your Grace: that having heard by fame
+Of this so noble and so fair assembly
+This night to meet here, they could do no less,
+Out of the great respect they bear to beauty,
+But leave their flocks and, under your fair conduct,
+Crave leave to view these ladies and entreat
+An hour of revels with ’em.
+
+WOLSEY.
+Say, Lord Chamberlain,
+They have done my poor house grace; for which I pay ’em
+A thousand thanks and pray ’em take their pleasures.
+
+[_The masquers choose ladies. The King chooses Anne Bullen._]
+
+KING.
+The fairest hand I ever touched! O beauty,
+Till now I never knew thee.
+
+[_Music. Dance._]
+
+WOLSEY.
+My lord!
+
+CHAMBERLAIN.
+Your Grace?
+
+WOLSEY.
+Pray tell ’em thus much from me:
+There should be one amongst ’em, by his person
+More worthy this place than myself, to whom,
+If I but knew him, with my love and duty
+I would surrender it.
+
+CHAMBERLAIN.
+I will, my lord.
+
+[_Whispers with the Masquers._]
+
+WOLSEY.
+What say they?
+
+CHAMBERLAIN.
+Such a one they all confess
+There is indeed, which they would have your Grace
+Find out, and he will take it.
+
+WOLSEY.
+Let me see, then.
+By all your good leaves, gentlemen; here I’ll make
+My royal choice.
+
+KING.
+[_Unmasking_.] Ye have found him, Cardinal.
+You hold a fair assembly; you do well, lord.
+You are a churchman, or I’ll tell you, Cardinal,
+I should judge now unhappily.
+
+WOLSEY.
+I am glad
+Your Grace is grown so pleasant.
+
+KING.
+My Lord Chamberlain,
+Prithee come hither. What fair lady’s that?
+
+CHAMBERLAIN.
+An’t please your Grace, Sir Thomas Bullen’s daughter,
+The Viscount Rochford, one of her Highness’ women.
+
+KING.
+By heaven, she is a dainty one. Sweetheart,
+I were unmannerly to take you out
+And not to kiss you. A health, gentlemen!
+Let it go round.
+
+WOLSEY.
+Sir Thomas Lovell, is the banquet ready
+I’ th’ privy chamber?
+
+LOVELL.
+Yes, my lord.
+
+WOLSEY.
+Your Grace,
+I fear, with dancing is a little heated.
+
+KING.
+I fear, too much.
+
+WOLSEY.
+There’s fresher air, my lord,
+In the next chamber.
+
+KING.
+Lead in your ladies, every one. Sweet partner,
+I must not yet forsake you. Let’s be merry,
+Good my Lord Cardinal, I have half a dozen healths
+To drink to these fair ladies, and a measure
+To lead ’em once again, and then let’s dream
+Who’s best in favour. Let the music knock it.
+
+[_Exeunt with trumpets._]
+
+
+
+
+ACT II
+
+SCENE I. Westminster. A street.
+
+
+Enter two Gentlemen at several doors.
+
+FIRST GENTLEMAN.
+Whither away so fast?
+
+SECOND GENTLEMAN.
+O, God save ye.
+Even to the Hall, to hear what shall become
+Of the great Duke of Buckingham.
+
+FIRST GENTLEMAN.
+I’ll save you
+That labour, sir. All’s now done but the ceremony
+Of bringing back the prisoner.
+
+SECOND GENTLEMAN.
+Were you there?
+
+FIRST GENTLEMAN.
+Yes, indeed, was I.
+
+SECOND GENTLEMAN.
+Pray speak what has happened.
+
+FIRST GENTLEMAN.
+You may guess quickly what.
+
+SECOND GENTLEMAN.
+Is he found guilty?
+
+FIRST GENTLEMAN.
+Yes, truly is he, and condemned upon’t.
+
+SECOND GENTLEMAN.
+I am sorry for’t.
+
+FIRST GENTLEMAN.
+So are a number more.
+
+SECOND GENTLEMAN.
+But pray, how passed it?
+
+FIRST GENTLEMAN.
+I’ll tell you in a little. The great Duke
+Came to the bar, where to his accusations
+He pleaded still not guilty and alleged
+Many sharp reasons to defeat the law.
+The King’s attorney on the contrary
+Urged on the examinations, proofs, confessions
+Of divers witnesses, which the Duke desired
+To have brought _viva voce_ to his face;
+At which appeared against him his surveyor,
+Sir Gilbert Peck his chancellor, and John Car,
+Confessor to him, with that devil monk,
+Hopkins, that made this mischief.
+
+SECOND GENTLEMAN.
+That was he
+That fed him with his prophecies?
+
+FIRST GENTLEMAN.
+The same.
+All these accused him strongly, which he fain
+Would have flung from him, but, indeed he could not.
+And so his peers, upon this evidence,
+Have found him guilty of high treason. Much
+He spoke, and learnedly, for life, but all
+Was either pitied in him or forgotten.
+
+SECOND GENTLEMAN.
+After all this, how did he bear himself?
+
+FIRST GENTLEMAN.
+When he was brought again to th’ bar to hear
+His knell rung out, his judgement, he was stirred
+With such an agony, he sweat extremely
+And something spoke in choler, ill and hasty.
+But he fell to himself again, and sweetly
+In all the rest showed a most noble patience.
+
+SECOND GENTLEMAN.
+I do not think he fears death.
+
+FIRST GENTLEMAN.
+Sure he does not;
+He never was so womanish. The cause
+He may a little grieve at.
+
+SECOND GENTLEMAN.
+Certainly
+The Cardinal is the end of this.
+
+FIRST GENTLEMAN.
+’Tis likely,

@@ -1,0 +1,3351 @@
+Requested Title: THE FEIGN'D CURTIZANS; or, A Night's Intrigue
+Authors: Mrs Aphra Behn
+Matched Anchor: THE Feign'd Curtizans, OR, A Nights Intrigue
+TCP: A27293
+EEBO: 12311462
+Source Title: The feign'd curtizans, or, A nights intrigue a comedy : as it is acted at the Dukes Theatre / written by Mrs. A. Behn.
+Source Author: Behn, Aphra, 1640-1689.
+Source Date: 1679
+Source URL: https://raw.githubusercontent.com/textcreationpartnership/A27293/master/A27293.xml
+Metadata Score: 1.460
+Unit Score: 0.985
+
+---
+
+THE Feign'd Curtizans, OR, A Nights Intrigue
+A COMEDY
+As it is Acted at the Dukes Theatre
+Written by Mrs. A. BEHN
+Licensed Mar. 27. 1679. ROGER L'ESTRANGE
+LONDON, Printed for Jacob Tonson at the Judges Head in Chancery-Lane near Fleet-street. 1679
+TO Mrs. ELLENGUIN
+Madam,
+Madam,
+TIS no wonder that hitherto I followed not the good example of the believing Poets, since less faith and zeal then you alone can inspire, had wanted power to have reduc't me to the true wor ship: Your permission, Madam, has inlightened me, and I with shame look back on my past Ignorance, which suffered me not to pay an Adoration long since, where there was so very much due, yet even now though secure in my opinion, I make this Sa crisice with infinite fear and trembling, well know ing that so Excellent and perfect a Creature as your self differs only from the Divine powers in this; the Offerings made to you ought to be worthy of you, whilst they accept the will alone; and how Madam, would your Altars be loaded, if like heaven you gave permission to all that had a will and desire to approach 'em, who now at distance can only wish and admire, which all mankinde agree to do; as if Madam, you alone had the pattent from heaven to ingross all hearts; and even those distant slaves whom you conquer with your fame, pay an equall tribute to those that have the blessing of being woun ded by your Eyes, and boast the happiness of be holding you dayly; insomuch that succeeding ages who shall with joy survey your History shall Envy us who lived in this, and saw those charming won ders which they can only reade of, and whom we ought in charity to pity, since all the Pictures, pens or pencills can draw, will give give 'em but a faint Idea of what we h • ve the honour to see in such ab solute Perfection, they can only guess She was infi nitely fair, witty, and deserving, but to what Vast degrees in all, they can only Judge who liv'd to Gaze and Listen; for besides Madam, all the Charms and attractions and powers of your Sex, you have Beauties peculiar to your self, an eternal sweet ness, youth and ayr, which never dwelt in any face but yours, of which not one unimitable Grace could be ever borrow'd, or assumed, though with never so much industry, to adorn another, they cannot steal a look or smile from you to inhance their own beauties price, but all the world will know it yours; so Natural and so fitted are all your Charms and Ex cellencies to one another, so intirely design'd and created to make up in you alone the most perfect lovely thing in the world; you never appear but you glad the hearts of all that have the happy fortune to see you, as if you were made on purpose to put the whole world into good Humour, whenever you look abroad, and when you speak, men crowd to listen with that awfull reverence as to Holy Oracles or Divine Prophesies, and bears away the precious words to tell at home to all the attentive family, the Gracefull things you utter'd and cry, but oh she spoke with such an Ayr, so gay, that half the beau ty's lost in the repetition. 'Tis this that ought to make your Sex vain enough to despise the malicious world that will •... llow a woman no wit, and bless our selves for living in an Age that can produce so wondrous an argument as your undeniable self, to sh •... me those boasting talkers who are Judges of no thing but faults
+But how much in vain Madam, I endeavour to tell you the sence of all mankinde with mine, since to the utmost Limits of the Universe your mighty. Conquests are made known: And who can doubt the Power of that Illustrious Beauty, the Charms of that tongue, and the greatness of that minde, who has subdu'd the most powerfull and Glorious Mo narch of the world: And so well you bear the ho nours your were born for, with a greatness so unaf fected, an affabillity so easie, an Humor so soft, so far from Pride or Vanity, that the most Envious and most disaffected can finde no cause or reason to wish you less, Nor can Heaven give you more, who has exprest a particular care of you every way, and above all in bestowing on the world and you, two noble Bran ches, who have all the greatness and sweetness of their Royal and beautiful stock; and who give us too a hopeful Prospect of what their future Braveries will perform, when they shall shoot up and spread themselves to that degree, that all the lesser world may finde repose beneath their shades; and whom you have permitted to wear those glorious Titles which you your self Generously neglected, well knowing with the noble Poet; 'tis better far to me rit Titles then to wear 'em
+Can you then blame my Ambition, Madam, that lays this at your feet, and begs a Sanctuary where all pay so great a Veneration? 'twas Dedicated yours before it had a being, and overbusy to render it worthy of the Honour, made it less grateful; and Po etry like Lovers often fares the worse by taking, too much pains to please; but under so Gracious an In fluence my tender Lawrells may thrive, till they be come fit Wreaths to offer to the Rays that improve their Growth: which Madam, I humbly implore, you still permit her ever to do, who is,
+Madam, Your most humble; and Most Obedient Servant. A. Behn
+Madam,
+Your most humble; and Most Obedient Servant. A. Behn
+The PROLOGUE,
+Spoken by Mrs. Currer
+THe devil take this cursed plotting Age,
+'T has ruin'd all our Plots upon the Stage;
+Suspicions, New Elections, Jealousies,
+Fresh Informations, New discoveries,
+Do so employ the busie fearful Town,
+Our honest calling here is useless grown;
+Each fool turns Politician now, and wears
+A formal face, and talks of State-affairs;
+Makes Acts, Decrees, and a new Modell draws
+For regulation both of Church and Laws;
+Tires out his empty noddle to invent
+What rule and method's best in government;
+But Wit as if 'twere Jesuiticall,
+Is an abomination to ye all
+To what a wretched pass will poor Plays come,
+This must be damn'd, the Plot is laid in Rome
+'Tis hard—yet—
+Not one amongst ye all I'le undertake,
+Ere thought that we should suffer for Religions sake
+Who wou'd have thought that wou'd have been th'occasion,
+Of any contest in our hopefull Nation?
+For my own principles, faith, let me tell yo •
+I'me still of the Religion of my Cully,
+And till these dangerous times they'd none to fix on,
+But now are something in meer contradiction,
+And piously pretend, these are not days,
+For keeping Mistresses and seeing Plays
+Who says this Age a Reformation wants,
+When Betty Currer's Lovers all turn Saints?
+In vain alas I flatter, swear, and vow,
+You'l scarce do any thing for Charity now
+Yet I am handsome still, still young and mad,
+Can w •... eadle, lie, dissemble, jilt—egad,
+As well and artfully as •... rd I did,
+Yet not one Conquest can I gain or hope,
+No Prentice, not a Foreman of a Shop,
+So that I want extremely New Supplies;
+Of my last. Coxcomb, faith, these were the Prize;
+And by the tatter'd Ensignes you may know,
+These spoils were of a Victory long ago
+Who wou'd have thought such hellish times to've seen,
+When I shou'd be neglected at eighteen?
+That Youth and Beauty shou'd be quite undone,
+A Pox upon the Whore of Babylon
+The Actors Names
+Italians. Mr. Norris. Morisini. An Old Count Uncle to Julio. Mr. Crosby. Julio. His Nephew, a young Count, con tracted to Laura Lucretia. Mr. Gilloe. Octavio. A young Count contracted to Marcella, deform'd, revengeful. Crapine. Morisini 's man. Mr. Liegh. Petro. Suppos'd Pimp to the two Cur tezans
+Italians
+English. Mr. Smith. Sir Harry Fillamour. In love with Marcella. Mr. Betterton. Mr. Galliard. In love with Cornelia. Mr. Nokes. Sir Signall Buffoon. A fool. Mr. Underhill. Mr. Tickletext, His Governour. Jack. Sir Signals man
+English
+Women. Mrs Lee. Laura Lucretia. A young Lady of Quallity, contract ed to Julio, in love with Galliard, and Sister to Octavio. Mrs Currer. Marcella. and Cornelia. Sisters to Julio, and Nieces to Mo risini, pass for Curtizans by the Names of Euphemia and Silvianetta Mrs Barry. Mrs Norris. Phillipa, Their Woman. Mrs Seymour. Sabina, Confident to Laura Lucretia
+Women
+Pages, Musick, Footmen, and Bravo's
+SCENE, Rome
+THE Feign'dCurtizans, OR, A NIGHTS INTRIGUE
+ACT I. SCENE I
+Enter Laura, Lucretia, and Silvio richly drest; Antonio attending, Coming all in in haste
+Silvio
+MAdam, you need not make such haste away, the Stranger that follow'd us from St. Peters Church, pursues us no longer, and we have now lost sight of him: Lord who wou'd have thought the approach of a handsome Cavalier should have possest Dona Laura Lucretia with fear?
+Lau
+I do not fear my Silvio, but I wou'd have this new Habitation which I've design'd for love, known to none but him to whom I've de stin'd my heatt:—ah wou'd he know the Conquest he has made, [Aside.] Nor went I this evening to Church with any other Devotion, but that which warms my heart for my young English Cavalier, whom I hop't to have seen there, and I must finde some way to let him know my passion which is too high for souls like mine to hide
+[Aside.]
+Silv
+Madam, the Cavalier's in view again, and hot in the pursuit
+Lau
+Lets haste away then, and Silvio do you lag behinde, 'twill give him an opportunity of Enquiring, whilst I get out of sight,—be sure you conceal my Name and Quality, and tell him—any thing but truth—tell him I am La Silvianetta the young Roman Curtizan, or what you please to hide me from his knowledge
+[Exeunt Lau
+Enter Julio and Page in Pursuit
+Jul
+Boy fall you into discourse with that Page, and learn his Ladys Name—whilst I pursue her farther
+[Exeunt Jul
+Page salutes Silvio, who returns it, they go out as talking to each other
+Enter Sr Harry Fillamour and Galliard
+Fill
+He follows her close, whoe're they be: I see this trade of Love goes forward still
+Gall
+And will whilst there's difference in Sexes. But Harry the wo men, the delicate Women I was speaking of?
+Fill
+Prethee tell me no more of thy fine Women, Frank, thou hast not been in Rome above a Month, and thou'ast been a Dozen times in Love as thou call'st it: to me there is no pleasure like Constancie
+Gall
+Constancy! and woudst thou have me one of those dull Lovers who believe it their Duty to Love a Woman till her Hair and Eyes change Colour for fear of the Scandalous Name of an inconstant! No, my Passion like great Victors hates the lazy stay, but having vanquisht, prepares for new Conquests
+Fill
+Which you gain as they do Towns by Fire, lose'em even in the taking, thou wo't grow Penitent and weary of these Dangerous sollys
+Gall
+But I am yet two young for both: Let old Age and infirmity bring Repentance,—there's her f •... eble Province, and even then too we finde no Plague like being depriv'd of dear Woman-kinde
+Fill
+I hate Playing about a Flame that will consume me
+Gall
+Away with your Antiquated Notions, and let's once hear sence from thee: Examine but the whole World Harry, and thou wilt sinde a Beautifull woman the desire of the Noblest, and the reward of the Bravest
+Fill
+And the common Prize of Coxcombs: times are alter'd now, Frank, why else shou'd the Virtuous be cornuted, the Coward be carest, the Villain role with Six, and the Fool lye with her Ladyship
+Gall
+Meer Accident Sir: and the kindness of Fortune, but a Pretty witty young Creature, such as this Silvianetta, and Euphemia, is cer tainly the greatest blessing this wicked World can afford us
+Fill
+I believe the Lawful enjoyment of such a Woman, and honest too, wou'd be a blessing
+Gall
+Lawful enjoyment! Prethee what's lawful enjoyment, but to enioy'em according to the generous indulgent Law of Nature; en joy'em as we do Meat, Drink, Ayr and Light, and all the rest of her common blessings;—therefore prithee dear Knight, let me govern thee but for a day, and I will shew thee such a Signiora, such a Beauty, an other manner of piece then your so admired Vitterboan, Dona Marcella, of whom you boast so much
+Fill
+And yet this rare piece is but a Curtizan, in course plain Eng lish, a very Whore!—
+Who filthily exposes all her Beautys to him can give her most, not Love her best
+Gall
+Whe faith, to thy comfort be it spoken, she does distribute her char •... s at that easy rate
+Fill
+O •... 〈◊〉 •... ast distance between an innocent passion, and a poor faithless 〈◊〉
+Gall
+Innocent Passion at Rome! Oh 'tis not to be nam'd but in some Northern Climat: to be an Anchoret here, is to be an Epicure in Green land; impossibillities Harry!
+Gall
+Sure •... ou hast been advising with Sir Signal Buffoons Gover nor! that formall! piece of nonsense and Hipocrifie
+Fill
+No faith, I brought the Humour along with me to Rome, and for your Governor I have not seen him yet, though he lodge in this same House with us, and you promis'd to bring me acquainted with long since
+Gall
+I'le do't this very minute!
+Fill
+No, I'me oblig'd not to engage my self this Evening, 〈◊〉 I expect the arrival of Count Julio, whose last Letters assur'd me wou'd be to night
+Gall
+Julio! What the young Itallian Count you made me acquain ted with last Summer in England?
+Fill
+The same, the Ambasadors Nephew, a good youth and on •... I esteem
+Enter Julio
+Jul
+I hope my Page will bring intelligence who this beauty is
+Fill
+Hah, Julio! Welcome dear Friend
+[embraces him
+Jul
+Sir Harry Fillamour! how glad am I to meet you in a Country where I have power to repay you all those Friendships I receiv'd when I was a stranger to yours
+Monsieur Galliard too, nay then I'me sure to want no diversion whilst I stay in Rome
+[Salutes Galliard
+Fill
+But pray, what made you leave England so soon?
+Jul
+E'ne the great business of Mankinde, Matrimony, I have an Uncle here who has provided me Fetters which I must put on, he says, they will be easy, I lik't the Character of my Mistress well enough, a brave Masculine Lady, a Roman of Quality, Dona Laura Lucretia, till as luck wou'd have it at my arrival this Evening, stepping into S. Peters Church, I saw a woman there that fir'd my heart, and whom I fol low'd to her house; but meeting none that cou'd inform me who she was, I left my Page to make the discovery, whilst I with equal impati ence came to look out you; whose sight I prefer even to a new Amour, resolving not to visit home, to which I have been a stranger this seven years, till I had kist your hands, and gain'd your promise to accom pany me to Vitterbo
+Fill
+Vitterbo! is that your place of Residence?
+Jul
+Yes; 'tis a pretty Town, and many noble Familys inhabit there, stor'd too with Beauties, at least, 'twas wont to be: have you not seen it?
+Gall
+Yes! and a Beauty there too lately for his repose, who has made him sigh and look so like an Ass ever since he came to Rome
+Jul
+I'me glad you have so powerfull an argument to invite you back, I know she must be rare, and of quality that cou'd engage your heart
+Fill
+She's both, it most unluckily fell out, that I was recommended by a Person of Quality in England to a Nobleman at Vitterbo, who be ing a man of a temper frank and gallant, receiv'd me with less Cere mony then is usual in Italy. I had the freedom of the House, one of the finest Villa 's belonging to Vitterbo, and the pleasure to see and con verse at a distance, with one of the loveliest persons in the World, a Neece of this old Counts
+Jul
+Very well, and cou'd you see her but at distance, Sir?
+Fill
+Oh, no, 'twas all I durst desire, or she durst give; I came too late to hope; she being before promis'd in Marriage to a more happy man, the Consummation of which waits only the arival of a Brother of hers, who is now at the Court of France, and every day expected
+Enter Petro like a Barber
+Gall
+Hah! Signior Petro
+Fill
+Come Sir, we'l take a turn in the i'th gallery, for this pimp never appears but Frances desires to be in private
+Gall
+Thou wrong'st an honest ingenious fellow to call him pimp
+Pet
+Ah Signior, what his worship pleases!
+Gall
+That thou art I'le be sworn, or what any mans worship pleases, for let me tell ye Harry, he is capacitated to oblige in any quali ty; for Sir, he's your brokering Jew, your Fencing, Dancing and Ci villity-Master, your Linguist, your Antiquary, your Bravo, your Pa thick, your Whore, your Pimp, and a thousand more Excellencies he has to supply the necessities of the wanting stranger.—Well sirrah—What designe now upon Sir Signal and his wise Governor;—What do you represent now?
+Pet
+A Barber Sir
+Gall
+And why a Barber, good Signior Petro?
+Pet
+Oh Sir, the sooner to take the heights of their judgments, it gives handsome opportunities to commend their faces, for if they are pleased with flattery, the certain sign of a fool's to be most tickled when most commended, I conclude 'em the fitter for my purpose; they al ready put great confidence in me, will have no Masters but of my recom mending, all which I supply my self, by the help of my several dis guises; by which and my industry, I doubt not but to pick up a good honest painfull livelihood, by cheating these two Reverend Coxcombs
+Gall
+How the Devil got'st thou this credit with 'em?
+Pet
+Oh easily Sir, as knaves get estates, or fools employments
+Fill
+I hope amongst all your good qualities you forgot not your more natural one of pimping
+Pet
+No, I assure you Sir, I have told Sir Signal Buffoon; that no Man lives here without his Inamorata, which very word has so fir'd him, that he's resolv'd to have an Inamorata, whatever it cost him, and as in all things else I have in that too promis'd my assistance
+Gall
+If you assist him no better then you have done me he may stay long enough for his Inamorato
+Pet
+Why faith Sir, I lye at my young Lady night and day, but she is so loath to part with that same Maiden-head of hers yet—but to morrow night Sir ther's hopes.—
+Gall
+To morrow night! Oh 'tis an Age in Love! desire knows no time but the present, 'tis now I wish, and now I wou'd enjoy, a new day ought to bring a new desire
+Pet
+Alas Sir I'me but an humble Bravo
+Gall
+Yes thou'rt a pimp, yet want'st the art to procure a longing lover the woman he adores, tho' but a common Curtizan—Oh con found her Maidenhead—She understands her trade too well to have that badge of Innocence
+Pet
+I offered her her price Sir—
+Gall
+Double it, give any thing, for that's the best receipt I ever found to soften womens hearts
+Pet
+Well Sir, she will be this Evening in the Garden of Medices Villa, there you may get an opportunity to advance your interest— I must step and trim Mr. Tickletext, and then am at your service!
+[Exit Petro
+Jul
+What is this Knight and his Governor who have the blessed for tune to be manag'd by this Squire?
+Fill
+Certain fools Galliard makes use on when he has a minde to laugh: and whom I never thought worth a visit since I came to Rome: and he's like to profit much by his Travells, who keeps company with all the English, especially the Fops
+Gall
+Faith Sir, I came not abroad to return with the formallity of a Judge; and these are such anditotes against Melancholy as wou'd make thee fond of fooling.—Our Knights Father is even the first Gentle man of his House, a fellow, who having the good Fortune to be much a fool and knave, had the attendant blessing of getting an Estate of some eight thousand a year, with this Coxcomb to inherit it; who (to agrandize the Name and Family of the Buffoons) was made a Knight, but to refine throughout and make a compleat Fop, was sent abroad under the Government of one Mr. Tickletext his zealous Fathers Chap lain, as errant a block-head as a man wou'd wish to hear Preach: the Father wisely foreseeing the eminent danger that young Travellers are in of being perverted to Popery
+Jul
+'Twas well consider'd
+Gall
+But for the young Spark there is no description can reach him; 'tis only to be done by himself; let it suffice 'tis a pert, sawcy, con ceited 〈1 page duplicate〉 〈1 page duplicate〉 Animal, whom you shall just now go see, and admire, for he lodges in the house with us
+Jnl
+With all my heart, I never long'd more for a new acquaintance
+Fill
+And in all probability shall sooner desire to be rid on't. aloone.—
+[Exeunt
+SCENE II
+Draws off, and discovers Mr. Tickletext a Trimming, his hair under a Cap, a cloath before him, and Petro Snaps his fingers, takes away the Bason, and goes to wiping his face
+Tickletext
+and Petro
+Pet
+Ah che Bella! Bella! I swear by these sparkling Eyes, and these soft Plump dimpl'd cheeks, there's not a Signiora in all Rome, cou'd she behold 'em, were able to stand their Temptations, and for La Silvianetta, my life on't she's your own
+Tick
+Teze, teze, speak softly!—but honest Barberacho, do I, do I indeed look plump, and young, and fresh and—hah!
+Pet
+Ay Sir, as the Rosie Morn, young, as old Time in his Infan cie, and plump as the Pale-fac't Moon
+Tick
+He—Whe this Travelling must needs improve a Man,—Whe how admirably well spoken your very Barbers are here,— [Aside.] —but Barberacho, did the young Gentlewoman say she lik't me? did she Rogue? did she?
+[Aside.]
+Pet
+A doated on you Signior, doated on you
+Tick
+Whe, and that's strange now, in the Autumn of my Age too, when Nature began to be impertinent, as a man may say, that a young Lady shou'd fall in love with me——— [Aside. ——Whe Barberacho, I do not conceive any great matter of Sin only in visi ting a Lady that loves a man, hah
+[Aside
+Pet
+Sin Sir, 'tis a frequent thing now adays in Persons of your Complexion
+Tick
+Especially here at Rome too, where 'tis no Scandal
+Pet
+Ay Signior, where the Ladys are Priviledg'd, and Fornication Licenc't
+Tick
+Right! and when 'tis Licens'd 'tis Lawful, and when 'tis Lawful it can be no Sin: besides Barberacho, I may chance to turn her, who knows!
+Pet
+Turn her Signior, Alass any way, which way you please
+Tick
+He he he! There thou wert knavish, I doubt—but I mean Convert her—Nothing else I profess Barberacho
+Pet
+True Signior, true, she's a Lady of an easy Nature, and an Indifferent Argument well handled will do't—ha— [combing out his Hair. here's your head of Hair—here's your Natural Frize! And such an Ayr it gives the Face!—So Signior—Now you have the utmost my Art can do
+[combing out his Hair
+[takes away the cloth and bows
+Tick
+Well Signior:—and where's your looking-glass
+Pet
+My looking-glass
+Tick
+Yes Signior your Looking-glass! an English Barber wou'd as soon have forgotten to have snapt his fingers, made his leg, or taken his Money, as have neglected his looking-glass
+Pet
+Aye Signior, in your Countrey the Laiety have so little ho nesty, they are not to be trusted with the taking off your Beard unless you see't done,—but heres a Glass, Sir,
+[gives him the Glass
+[Tick. Sets himself and smirks in the Glass, Pet. standing behinde him, making horns and grimaces, which Tick. sees in the Glass, gravely rises, turns towards Petro
+Tick
+Whe how now, Barberacho, what Monstrous faces are you making there?
+Pet
+Ah my Belly, my Belly, Signior: ah, this Wind-Collick! this Hypocondriach does so torment me! ah—
+Tick
+Alass poor Knave; certo, I thought thou hadst been some what uncivil with me, I profess I did;
+Pet
+Who I Sir, uncivil?—I abuse my Patrone?—I that have al most made my self a Pimp to serve you?
+Tick
+Teze teze, honest Barberacho! no, no, no, all's well, all's well:—but hark y'—you will be discreet and secret in this business now, and above all things conceal the knowledge of this Gentlewoman from Sir Signall and Mr. Galliard
+Pet
+The Rack Signior, the Rack shall not extort it
+Tick
+Hold thy hand—there's somewhat for thee, [gives him money. but shall I Rogue—shall I see her to night?——
+[gives him money
+Pet
+To night Sir, meet me in the Piatza D'hispagnia, about 10 a Clock,—I'le meet you there,—but 'tis sit Signior—that I should provide a Collation,—'tis the Custom here Sir.——
+Tick
+Well, well, what will it come to,—here's an Angel—
+Pet
+Whe Sir 'twill come to—about—for you wou'd do't han somely—some twenty Crowns.—
+Tick
+How man, twenty Crowns?
+Pet
+Ay Signior, thereabouts
+Tick
+Twenty Crowns—Whe 'tis a Sum, a Portion, a Revenue
+Pet
+Alass Signior, 'tis nothing with her,—she'le look it out in an hour,—ah such an Eye! so sparkling, with an Amorous twire—thus Sir—then she'le kiss it out in a moment,—such a Lip, so red, so round, and so plump, so soft, and so—
+Tick
+Why has she, has she, Sirrah—hah—here, here, prethee take Money, here, and make no words on't—go, go your way, go—but to entertain Sir Signall with other matter, pray send his Masters to him; if thou canst help him to Masters, and me to Mistresses, thou shalt be the good Genius of us both: but see where he comes.—
+Enter Sir Signall
+Sir Sig
+Hah! Sigmor Illustrissimo Barberacho, let me hugg thee my little Miphistophiloucho —de yee see here, how fine your Brokering Jew has made me, Segnior Rabbi Manaseth—Ben-Nebiton, and so sorth; hah—View me round——
+[turns round
+Tick
+I profess 'tis as sit as if it had been made for you
+Sir Sig
+Made for me—Whe Sir, he swore to me by the old Law, that 'twas never worn but once, and that but by one high-German Prince—I have sorgot forgot his name—for the Devil can never remem ber these damn'd Hogan-Mogan Titles
+[a fart
+Tick
+No matter, Sir
+Sir Sig
+Ay, but I shou'd be loth to be in any mans clothes, were he never so high a German-Prince, except I knew his name tho
+Tick
+Sir, I hold his Name unnecessary to be remembred, so long as 'twas a Princely penniworth.— Barberacho get you gone, and send the Masters
+[Ex. Petro
+Sir Sig
+Why how now Governour! how now Signior Tickletext! prethee how cam'st thou so transmograsi'd, ha? whe thou look'st like any new-fledg'd Cupid
+Tick
+Do I, away you flatter, Do I?
+Sir Sig
+As I hope to breathe, your face shines through your pow der'd hairs like you know what on a barn-door, in a frosty morning
+Tick
+What a filthy comparison's there for a man of my coat
+Sir Sig
+What, angry— Corpo di me, I meant no harm,—Come, shall's to a Bonar •... ba, where thou shalt part with thy pusilage, and that of thy beard together
+Tick
+How mean you Sir, a Curtizan, and a Romish Curtizan?
+Sir Sig
+Now my Tuter's up, ha ha ha,—and ever is when one names a whore; be pacifi'd man, be pacifi'd, I know thou hat'st 'em worse then beads or holy-water
+Tick
+Away you are such another Knight—but leave this Naughty discourse, and prepare for your Fencing and Civility-Masters, who are coming,
+Sir Sig
+Ay, when Governour, when; oh how I long for my Civili ty-Master, that I may learn to out-complement all the dull Knights and Squires in Kent, with a Servitore Hulichimo—No signiora Bellissima, base le Mane, de vos signiora scusamia Illustrissimo, caspeto de Bacco, and so I'le run on, hah Governor, hah! won't this be pure?
+Tick
+Notably Ingenious, I profess!
+Sir Sig
+Well I'le send my Staffiera for him incontinente. —he, Jack —a— Cazo, what a Damn'd English name is Jack? let me see—I will call him— Giovanni, which is as much as to say John! —he Gio vanni
+[Enter Jack
+Tick
+Sir, by your favour his English Protestant-Name is John Pep per; and I'le call him by ne're a Popish name in Christiandom
+Sir Sig
+I'le call my own man Sir, by what name I please Sir; and let me tell you Reverend Mr. Tickletext, I scorn to be serv'd by any man who's name has not an Acho, or an Oucho, or some Italliano at the end on't—therefore Giovanni Peperacho is the name by which you shall be distinguisht and dignify'd hereafter
+Tick
+Sir Signall, Sir Signall, let me tell you, that to call a man out of his name is unwarantable, for Peter is call'd Peter, and John, John, and I'le not see the poor fellow wrong'd of his name for nere a Giovan ni in Rome
+Sir Sig
+Sir I tell you that one Itallian Name is worth any two En glish names in Europe, and I'le be judg'd by my Civility-Master
+Tick
+Who shall end the dispute, if he be of my Opinion
+Sir Sig
+Multo vollentiero, which is as much as to say, with all my heart
+Jack
+But Sir, my Grandmother wou'd never own me if I should change the cursen name she gave me with her own hands, an't please your Worship
+Sir Sig
+He Bestia! I'le have no more of your Worship, firrah, that old English Sir Reverence, let me have you call me Signior Illustrissimo, or Patrona Mea. —or—
+Tick
+I, that I like well enough now:—but hold, sure this is one of your Masters
+Enter Petro drest like a French Fencing Master
+Pet
+Signior Barberacho has sent me to teach you de Art of Fencing
+Sir Sig
+Illustrissimo Signior Monsicur, I am the Person who am to learn
+Tick
+Stay Sir stay,—let me ask him some few questions first, for Sir I have play'd at Back-Sword and cou'd have handled ye a weapon as well as any man of my time in the University
+Sir Sig
+Say you so Mr. Tickletext, and I'faith you shall have about with him
+[Tick. Gravely goes to Petro
+Tick
+Hum—hum—Mr. Monsieur —pray what are the Guards that you like best?
+Pet
+Monsieur, eder de Quart or de Terse, dey be both French and Itallian; den for your Parades, degagements, your advancements, your Eloynements, and Retierments: dey be de same;
+Tick
+Cart and Horse, what new found inventions and words have we here,—Sir I wou'd know, whether you like St. Georges Guard or not
+Pet
+Alon— Monsieur, Mette vous en Guard! take de Flurette
+Sir Sig
+Nay saith and troth Governor thou shat have a Rubbers with him
+[Tick. Smiling refuses
+Tick
+Nay certo Sir Signal, —and yet you shall prevail;—well Sir. come your ways?
+[Takes the fluret
+Pet
+Set your right foot forward, turn up your hand so—dat be de Quart —Now turn it dus—and dat be de Terse
+Tick
+Hocus, Pocus, Hicksius, Doxius—here be de Cart and here be de Horse—why what's all this for, hah Sir—and where's your guard all this while?
+Sir Sig
+Ay Sir where's your Guard Sir, as my Governor says, Sir, hah?
+Tick
+Come, come, Sir, I must instruct you I see—Come your ways Sir.—
+Pet
+A Tande a Tande non pew, —trust de right hand and de right leg forward together.—
+Tick
+I marry Sir, that's a good one indeed! what shall become of my head then Sir, what Guard have I left for that good Mr. Monsieur. hah?
+Pet
+Ah Morblew, is not dis for every ting?
+Tick
+No marry is it not Sir, St. Georges Guard is the best for your head whilst you live,——as thus Sir.—
+Pet
+Dat Sir, ha ha—dat be Guard for de Back-Sword
+Tick
+Back-sword Sir, yes, Back-sword, what should it be else
+Pet
+And dis be de Single-Rapier
+Tick
+Single-Rapier with a vengeance, there's a weapon for a Gentleman indeed; is all this stir about Single-Rapier?
+Pet
+Single-Rapier! What will you have for de Gentleman, de Cudgell for de Gentleman?
+Tick
+No Sir, but I wou'd have it for de Rascally French-man who comes to abuse persons of Quality with Paltry Single-Rapier.—Single Rapier! Come Sir, come,—put your self in your Cart and your Horse as you call it, and I'le shew you the difference
+Undresses himself till he appears in a Ridiculous Posture
+Pet
+Ah Monsieur me sall run you two three times through de body, and den you break a me head, what care I for dat:—Pox on his ig norance!
+[Aside
+Tick
+Oh ho Sir, do your worst Sir, do your worst Sir
+They put themselves into several Guards, and Tick. beats Pet. about the Stage—Enter Gall. Fill. and Jul
+Pet
+Ah Monsieur, Monsieur, will you kill a me?
+Tick
+Ah Monsieur where be your Carts now and your Horse, Mr. Monsieur, hah!—and your Single-Rapier Mr. Monsieur hah!—
+Gall
+Why how now Mr. Tickletext, what mortal wars are these? Ajax and Ulisses contending for Achillis his Armour?
+Pet
+If I be not reveng'd on him, hang me
+[Aside
+Sir Sig
+Ay, why who the Devil wou'd have taken my Governor for so tall a man of hands, but Corpo de me Mr. Galliard, I have not seen his Fellow
+Tick
+Ah Sir, time was, I wou'd have play'd ye a Match at Cudgells with e're a Sophister in the Colledge, but verily I have forgotten it, but here's an impudent French-man that wou'd have past Single-Ra pier upon us
+Gall
+How, nay a my word then he deserv'd to be chastis'd sor't.——but now all's at peace again; Pray know my kinsman, Sir Harry Fillamour
+Sir Sig
+Yo baco les manos, Signior Illustrissimo Cavaliero, —and yours Signiors who are Multo bien Venito;
+Tick
+Oh Lord Sir, you take me Sir—in such a posture Sir—as I protest I have not been seen in this many years
+[Dressing himself whilst he talks
+Fill
+Exercise is good for health Sir
+Gall
+Sir Signal, Yo •... are grown a perfect Itallian? Well Mr. Tickle text you will carry him home a most accomplish't Gentleman I see!
+Tick
+Hum, verily Sir though I say it, for a man that never travell'd before, I think I have done reasonably well;—I'le tell you Sir—it was by my directions and advice, that he brought over with him,—two English knives, a thousand of English pins, four pair of Jersey stockings, and as many pair of B •... ck-skin Gloves
+Sir Sig
+Ay Sir, for good Gloves you know are very scarce comodi ties in this Country
+Jul
+Here Sir at Rome, as you say, above all other places
+Tick
+Certo meer hedging-Gloves Sir, and the clouterlest seams.—
+Fill
+Very right Sir,—and now he talks of Rome, —Pray Sir give me your opinion of the place?—are there not Noble buildings here? rare statues, and admirable Fountains?
+Tick
+Your buildings are pretty buildings, but not comparable to our University-buildings; your Fountains I confess are pretty Springs,—and your statues reasonably well carv'd—but Sir, they are so ancient they are of no vallue! then your Churches are the worst that ever I saw—that ever I saw
+Gall
+How Sir, the Churches, why I thought Rome had been famous throughout all Europe for fine Churches
+Fill
+What think you of St. Peters Church Sir, Is it not a glorious structure?
+Tick
+St. Peters Church Sir, you may as well call it St. Peters Hall Sir; it has neither Pew, Pullpit, Desk, Steeple, nor Ring of Bells, and call you this a Church Sir? no Sir, I'le say that for little England, and a fig for't, for Churches, easy •... ulpits [Sir Sig. speaks, and sleeping Pews,] they are as well order'd as any Churches in Christiandom: and •... er Rings of Bells Sir, I'am sure were never heard
+[Sir Sig. speaks, and sleeping Pews,]
+Jul
+Oh Sir there's much in what you say
+Fill
+But then Sir, your Rich Altars, and excellent Pictures of the greatest Masters of the World, your delicate Musick, and Voices, make some amends for the other wants
+Tick
+How Sir! tell me of your Rich Altars, your guegaws and trin kets, and Popish Foperies! with a deal of sing-song—when I say give me Sir five hundred close changes rung by a set of good Ringers, and I'le not exchange 'em for all the Anthens in Europe: and for the Pi ctures Sir, they are superstition, Idolatrous, and flat Popery
+Fill
+I'le convince you of that errour that perswades you harmless Pictures are Idolatrous
+Tick
+How Sir, how Sir, convince me, talk to me of being convinc't and that in favour of Popery; No Sir, by your favour I shall not be convinc't, convinc't quoth a—No Sir far you well an you be for con vincing, come away Sir Signall, far you well Sir, far you well—con vin'ct
+[goes out
+Sir Sig
+Ha, ha, ha, so now is my Governor gone in a Fustian-fume, well, he is ever thus when one talks of whoring and Religion, but come Sir walk in, and I'le undertake my Tutor shall beg your pardon and renoun •... e his English ill-bred opinion; Nay, his English Churches too—all but his own Vicaridge
+Fill
+I have better diversion Sir I thank you—come Julio, are you for a walk in the Garden of Medices Villa, 'tis hard by?—
+Jul
+I'le wait on you—
+[Ex. Fill. and Julio
+Sir Sig
+How in the Garden of Medices Villa —but harkey Galliard, will the Ladies be there, the Curtizans! the bona roba's, the inamora ta's, and the Bell ingrato's, hah?
+Gall
+Oh doubtless Sir;
+[Ex. Gall
+Sir Sig
+I'le ene bring my Governor thither to beg his Pardon, on purpose to get an Opportunity to see the fine Women; it may be I may get a sight of my new Mistress, Dona Silvianetta whom Petro is to bring me acquainted with
+[Exeunt
+ACT II. SCENE I
+Inter Murismi and Octavio
+Oct
+BY Heaven I will not Eat, nor sleep, nor pray for any thing but swift and sure Revenge, till I have found Marcella, that false deceiving Beauty or her Lover, my hated Rival Fillamour! who wan ton in the Arms of the fair Fugitive laughs at my shamefull easiness, and crys, these joys were never meant for tame Octavio!
+Enter Crapine
+Mur
+How now Crapine! What no news, no news of my Neeces yet, Marcella nor Cornelia?
+Crap
+None Sir
+Oct
+That's wondrous strange, Rome's a place of that general •... ntelli gence, methinks thou might'st have news of s •... ch Trivial things as wo men, amongst the Cardinals •... ages; •... 'le undertake to learn the Region de stato, and present juncture of all affairs in Italy of a common Cur tizan
+Mur
+Sirrah sirrah, let be it your care to examine all the Nunnerys, for my own part not a petticoat shall escape me.—
+Oct
+My task shall be for Fillam •... re
+[Aside
+Mur
+I'le only make a visit to your sister Dona Laura Lucretia, and deliver her a Letter from my Nephew Julio, and return to you pre sently.—
+[Going out, is stay'd by Octavio
+Oct
+Stay Sir, deser your visit to my sister Laura, she is not yet to know of my being in Town, 'tis therefore I have taken a lodging in an obscure street, and am resolv'd never to be my self again till I've re deem'd my Honour. Come Sir, lets walk.—
+Enter to them as they are going out, Marcella and Cornelia, drest like Curtizans, •... hilipa and attendance
+Mur
+Stay stay, what women are these?
+Oct
+Whores Sir, and so 'tis ten to one are all the kind, only these differ from the rest in this, they generously own their trade of sin, which others deal by stealth in: they are Curtizans
+[Exeunt
+Mar
+The Evenings soft and calm, as happy Lovers thoughts
+And here are Groves where the kind meeting Trees
+Will hid •... us from the Amourous gazing croud
+Cor
+What shou'd we do there, sigh till our wandering Breath,
+Has rais'd a gentle gale amongst the boughs;
+To whose dull melancholly Musick, we
+Laid on a Bed of Moss, and new fall'n leaves,
+Will reade the dismall tale of Eccho's Love!
+—No, I can make better use of Famous Ovid!
+[Snatches a little Book from her
+And prethee what a pox have we to do with Trees,
+Flowers, Fountains, or naked statues?
+Mar
+But prethee mad Cornelia lets be grave and wise, at least e nough to think a little
+Cor
+On what? your English Cavalier, Fillamour, of whom you tell so many dull stories of his making Love! Oh how I hate a civil whi ning Coxcomb!
+Mar
+And so do I, I'le therefore think of him no more
+Cor
+Good Lord! what a damnable wicked thing is a Virgin grown up to woman
+Mar
+Why art thou such a fool, to think I love this Fillamour?
+Cor
+It may be not at Rome, but at Vitterbo, where men are scarce you did; and did you follow him to Rome, to tell him you cou'd Love no more?
+Mar
+A too forward Maid Cornelia, hurts her own fame, and that of all her sex
+Cor
+Her Sex, a pretty consideration by my youth, an Oath I shall not violate this dozen year, my sex shou'd excuse me, if to preserve their same, they expected I shou'd ruin my own quiet: in chusing an ill favourd Husband, such as Octavio before a young handsome Lover, such as you say Fillamour is
+Mar
+I wou'd sain perswade my self to be of thy minde,—but the World Cornelia. —
+Cor
+Hang the malicious World—
+Mar
+And there's such charms, in wealth and Honour too!
+Cor
+None half so powerfull as Love, in my opinion, 'life Si •... ter thou art beautifull, and hast a Fortune too, which before I wou'd lay out upon so shamefull a purchase as such a Bedsellow for life as Octavio; I wou'd turn errant keeping Curtizan, and buy my better fortune
+Mar
+That word too startles me
+Cor
+What Curtizan, why 'tis a Noble title and has more Votaries then Religion, there's no Merchandize like ours, that of Love my sister!—and can you be frighted with the vizor, which you your self put on
+Mar
+'Twas the only disguise that cou'd secure us from the search of my Uncle and Octavio, our Brother Julio is by this too arriv'd, and I know they'l all be dilligent,—and some honour I was content to sacri cise to my eternal repose
+Cor
+Spoke like my sister, a little impertinent Honour, we may chance to lose 'tis true, but our right down honesty, I perceive you are resolv'd we shall maintain through all the dangers of Love and Gal lantry; —though to say truth I finde enough to do, to defend my heart against some of those Members that Nightly serinade us: and daily show themselves before our window, Gay as young Bridegrooms and as full of expectation
+Mar
+But is't not wondrous, that amongst all these crowds we should not once see Fillamour, I thought the charms of a fair young Curtizan, might have oblig'd him to some curiosity at least
+Cor
+Ay! and an English Cavalier too, a Nation so sond of all new Faces
+Mar
+Heaven, if I should never see him, and I frequent all publique places to meet him; or if he be gone from Rome, if he have forgot me, or some other Beauty have imploy'd his thoughts!—
+Cor
+Whe if all these if's and or's come to pass, we have no more to do then to advance in this same glorious Prosession, of which now we only seem to be:—in which to give it its due, there are a thousand satisfactions to be sound, more then in a dull virtuous life! Oh the world of dark Lanthorn men we shou'd have; the Serinades, the Songs, the sighs, the Vows, the resents, the quarels, and all for a look or a smile, which you have been hitherto so cove •... oas of, that Petro swears our Lovers begins to suspect us for some honest gilts; which by some is accounted much the lewder scandal of the two,—therefore I think faith we must ene be kinde a little, to redeem our reputations
+Mar
+However we may rally, certainly there's nothing so hard to woman, as to expose her self to villainous Man
+Cor
+Faith Sister, if 'twere but as easy to satisfy the nice scruples of Religion, and Honour, I should finde no great difficulty in the rest,—besides another argument I have, our money's all gone, and without a Miracle can hold out no longer honestly.—
+Mar
+Then we must sell our Jewels!
+Cor
+When they are gone, what Jewell will you part with next?
+Mar
+Then we must.—
+Cor
+What, go home to Vit •... erbo, ask the Old Gentleman pardon, and be receiv'd to Grace again, you to the embraces of the amiable Octavio; and I to St. Teretia's, to whistle through a Grate like a Bird in a Cage,—for I shall have little heart to sing:—but come let's leave this sad talk, here's men—let's walk and gain new Conquest, I love it dearly.—
+[Walk down the Garden
+Enter Gall. Fill. and Jul. See the Women
+Gall
+Women! and by their garbo for our purpose too—they're Curtizans, lets follow 'em
+Fill
+What shall we get by gazing but disquiet, if they are fair and honest, we look and perhaps may sigh in vain; if beautiful and loose, they are not worth regarding
+Gall
+Dear Notional Knight, leave your satirical Foperies, and be at least good humour'd, and let's follow 'em
+Jul
+I'le leave you in the pursuit, and take this opportunity, to write my Uncle word of my arrival: and wait on you here anon
+Fill
+Prethee do so: hah, whose that with such an equipage?
+[Exit. Jul. Fill. and Gall. going after. Marcella and Cor. meet just entring, Laura with her Equipage, drest like a man
+Gall
+Pox, let the Tradesmen ask, who cringe for such gay Custo mers, and follow us the women!
+[Exit Fill. and Gall. down the scene. Lau. looking after 'em
+Laur
+'Tis he, my Cavalier! my Conqueror: Antonio, let the Coaches wait!—and stand at distance all! Now Silvio, on thy life for get my Sex and quality, forget my useless Name of Laura Lucretia, and call me Count of—
+Silv
+What Madam?
+Lau
+Madam! ah foolish Boy? thy seminine courage will betray us all;—but—call me—Count— San's Gaeure; —and tell me Silvio, How is it I appear!
+How dost thou like my shape—my face and dress?
+My Mien and Equipage, may I not pass for man?
+Looks it en I rince, and Masculine,
+Silv
+Now as I live you look all over what you wish; and such, as will beget a reverance and Envy in the men, and Passion in the women, but what's the cause of all this transformation?
+Lau
+Love! Love! Dull boy, cou'dst thou not guess 'twas Love? that dear Englese I must enjoy my Silvio
+Silv
+What he that adores the fair young Curtizan
+Lau
+That very he, my window joyns to hers, and 'twas with charms
+Which he'ad prepar'd for her, he took this heart,
+Which met the wellcome Arrows in their flight
+And sav'd her from their dangers,
+Oft I've returnd the vows he'as made to her
+And sent him pleas'd away;
+When through the Errours of the Night, and distance
+He has mistook me for that happy wanton,
+And gave me Language of so soft a Power,
+As ne're was breath'd in vain to listening Maids
+Silv
+But with permission, Madam, how does this change of Petticote for Britches, and shifting houses too, advance that Love?
+Lau
+This habit, besides many opportunities 'twill give me, of geting into his acquaintance, secures me to from being known by any of my Relations in Rome; then I have chang'd my house for one so neer to that of Silvianettas, and so like it too, that even you and I have ost mistook the entrance; by which means Love, Fortune, or chance, may with my industry contrive some •... inde mistake that may make me happyer then the rest of woman kinde
+Silv
+But what shall be reserv'd then for Co •... nt Julio, whose last letters promise his arrival within a day or two, and whom you're thea to Marry?
+Lau
+Reserv'd for him! a wife! a wife my Silvio,
+That unconcern'd Domestique Necessary,
+Who rarely brings a heart, or takes it soon away
+Silv
+But then your Brother Count Octavio, do you not fear his jea lousie?
+Lau
+Octavio! Oh Nature has set his Soul and mine at odds,
+And I can know no fear, but where I Love!
+Silv
+And then that thing that Ladys call their Honour—
+Lau
+Honour, That hated Idoll, even by those
+That set it up to worship: No,
+I have a Soul my Boy, and that's all Love!
+And I'le the Tallent which Heaven lent improve?
+[Going out, meets Marcella and Cornelia followed by Gall. and Fill
+Sil
+Here be the Curtizans, my Lord?
+Lucr
+Hah, Silvianetta and Euphemia! pursu'd too by my Cavalier,
+I'le round the Garden, and mix my self amongst 'em,
+[Exeunt with her train
+Mar
+Prethee Sister let's retire into the grove, to avoid the pursuit of these Cavaliers?
+Cor
+Not I, by these killing Eyes! I'le stand my ground were there a thousand, all Arm'd with Conquering Beauty?
+Mar
+Hah—Now on my Conscience yonders Fillamour!
+Cor
+Ha! Fillamour!
+Mar
+My courage fails me at the sight of him—I must retire
+Cor
+And I'le too my Art of Love!
+[Mar. retires and leans against a Tree, Cor. walks about reading
+Gall
+'Tis she, 'tis Silvianetta! Prethee advance that thou maist behold her and renounce all honest women: since in that one young sinner there are charms, that wou'd excuse even to thee all frailty;
+Fill
+The forms of Angells cou'd not reconcile me
+To women of her trade
+Gall
+This is too happy an opportunity, to be lost in convincing thy singularity,— [Gall. g •... es bowing by the si •... e of Cornelia, Fill. walks about in the Scene. —If creatures so fair and charming, as your self had any need of pray er, I shou'd believe by your profound attention you were at your Even ings Devotion
+[Gall. g •... es bowing by the si •... e of Cornelia, Fill. walks about in the Scene
+Cor
+That you may finde your mistake, in the opinion of my charms, Pray believe I am so, and ought not to be interrupted
+Gall
+I hope a Man may have leave to make his Devotions by you, at least, without danger or offence?
+Cor
+I know not that, I have reason to fear your devotion may be ominous, like a Blazing Star, it comes but seldom,—but ever threat ens mischief,—Pray Heaven I snare not in the calamity
+Gall
+Whe I confess Madam, my fit of zeal does not take me often, but when it does, 'tis very harmlesse and wondrous hearty.—
+Cor
+You may begin then, I shall not be so wicked as to disturb your Orisons
+Gall
+Wou'd I cou'd be well assur'd of that, for mine's devotion of great necessity, and the blessing I pray infinitely for, conserves me; therefore in Christian Charity keep down your eyes, and do not ruine a young mans good intentions, unlesse they wou'd agree to send kinde looks, and save me the expence of prayer
+Cor
+Which wou'd be better laid out you think upon some other blessing
+Gall
+Whe faith 'tis good, to have a little bank upon occasion, though I hope I shall have no great need hereafter,—if the charming Silvianetta be but kinde, 'tis all I ask of Heaven
+Cor
+You're very well acquainted with my Name I find!
+Gall
+Your Name! 'tis all I have to live on!
+Like cheerfull Birds, 'tis the first tune I sing,
+To wellcome in the day
+The Groves repeat it, and the Fountains Purle it,
+And every pretty sound that fills my ear,
+Turns all to Silvianetta!
+[Fill. looks a while on Marcella
+Fill
+Galliard, look there—look on that lovely woman; 'tis Mar cella! the Beautifull Marcella!
+[Offers to run to her, Gall. holds him
+Gall
+Hold! Marcella! where?
+Fill
+That Lady there! did'st ever see her equall?
+Gall
+—Whe faith as you say Harry, that Lady is beautifull—and make us thankfull—kinde, whe 'tis Euphemia Sir, the very Curti zan, I wou'd have show'd you.—
+Fill
+Forbear, I am not fit for mirth
+Gall
+Nor I in humour to make you merry;
+I tell ye—yonder woman—is a Curtizan
+Fill
+Do not prophane nor rob Heaven of a Saint!
+Gall
+Nor you rob mankinde of such a blessing, by giving it to Hea ven before its time.—I tell thee 'tis a whore! a fine desirable expen sive whore
+Fill
+By Heaven it cannot be! I'le speak to her, and call her my Marcella, and undeceive thy lend opinion
+[Offers to go, he holds him
+Gall
+Do, salute her in good Company for an honest woman—do—and spoil her markets:—'twill be a pretty civil spightful Comple ment, and no doubt well taken;——come I'le convince ye Sir, [Goes and pulls Philipa. —Harkey thou kinde help-meet for man—thou gentle childe of Night—What is the price of a Night or two of pleasure, with yon der Lady— Euphemia, I mean, that Roman Curtizan.—
+[Goes and pulls Philipa
+Fill
+Oh Heavens! a Curtizan!
+Phil
+Sure you're a great stranger in Rome, that cannot tell her price
+Gall
+I am so—Name it prethee, here's a young English purcha ser—Come forward man, and cheapen for your self,—
+[Pulls him
+Phil
+Oh spare your pains, she wants no customers.—
+[flings away
+Fill
+No No, it cannot, must not be, Marcella!
+She has too much Divinity about her,
+Not to defend her from all imputation,
+Scandal wou'd die to hear her name pronounc't
+Phil
+Believe me, Madam, he knows you not, I overheard all he said to that Cavalier, and finde he's much in Love!
+Mar
+Not know me, and in love! punish him Heaven for falshood! but I'le contribute to deceive him on, and ruin him with perjury
+Fill
+I am not yet convinc't, I'le try her farther! [Goes to her bowing. —but, Madam, is that Heavenly beauty purchasable? I'le pay a heart rich with such wounds, and flames.—
+[Goes to her bowing
+Gall
+Not forgetting the Money too good lad, or your wounds and flames will be of little use!
+[Gall. goes to Cornelia
+Mar
+He tells you truth, Sir, we are not like the Ladies of your Country, who tire out their men with loving upon the square, heart for heart, till it becomes as dull as Matrimony, to women of our profession there's no Rethorick like ready Money, nor Billet-Doux like Bill of Exchange
+Fill
+Oh! that Heaven shou'd make two persons so resembling,
+And yet such different souls——
+[Looks on her
+—'sdeath how she darts me through with every look,
+But if she speak she heals the wound again
+Enters Octavio, with followers
+Octa
+Hah, my Rival Fillamour here! fall on—draw Sir,—and say I gave you one advantage more and fought thee fairly
+[Draws on Fill. Fill. fights him out; the Ladies run off: Gall. Falls on the followers, with whom whilst he is ingaged, Enters Julio, draws and assists him: and Laura at the same time on the other side; Enter •... etro drest like a Civility-Master; Sir Signal and Tickletext, Sir Signal climbs a Tree; Tick. runs his head in a bush, and lies on his hands and knees, Pet. assists Gall. and fights out the Bravo's: Pet. re-Enters
+Lau
+Hah my Cavalier ingag'd amongst the slaves
+Pet
+My Ladys Lovers! and set upon by Octavio! we must be dilligent in our affairs! Sir Signal where are ye! Sign •... or Tickletext! I hope they have not miscarried in the fray?
+Sir Sig
+Oh vot Servitor vos Signoria, miscarried, no the fool has wit enough to keep out of harms way
+[Comes down from the Tree
+Pet
+Oh very discrectly done Signior.—
+[Sees Tick. in a bush, pulls him out by the heels
+Sir Sig
+Whe how now Governor what afraid of swords
+Tick
+No Sir, I am not afraid of Swords, but I am afraid of danger
+[Enter Gall. embracing Laura! after'em, Jul. and Fill. Fill. looks about
+Gall
+This bravery Sir was wondrous!
+Lau
+'Twas only justice Sir you being opprest with odds
+Fill
+She's gone! she's gone in Triumph with my Soul
+Jul
+What was the matter Sir, how came this mischief?
+Fill
+Oh easily Sir; I did but look, and infinitly lov'd!
+Jul
+And therefore were you drawn upon, or was it some old Pique •
+Fill
+I know not Sir, Oh tell not me of quarrels
+The woman friend, the woman has undone me!
+Gall
+Oh a blessed hearing! I'me glad of the reformation Sir, you were so squemi •... h forsooth, that a whore wou'd not down with ye! no, 'twou'd spoil your Reputation.—
+Fill
+A whore! wou'd I cou'd be convine't she were so, 'twou'd call my Virtue home and make me man again!
+Gall
+Thou ly'st—thou'rt as weak a Brother as the best on's, and believe me Harry, these sort of Damsells are like witches, if they once get hold of a man, he's their own till the charm be ended; you guess what that is Sir?
+Fill
+Oh Frank, hadst thou then felt how tenderly she prest my hand in hers; as if she wou'd have kept there for ever, it wou'd have made thee mad, stark mad in Love!—and nothing b •... t Marcella cou'd have charm'd me;
+[Aside
+Gall
+Ay Gad, I'le warrant thee,—well thou shalt this night en joy her
+Fill
+How!
+Gall
+How, Whe faith Harry, ene the old way, I know no other. Whe thou shalt ly with her man! come let's to her
+Fill
+Away, let's follow her instantly
+[Going out, stopt by Sir Signal
+Enter Sir Sig. Tick. Petro
+Sir Sig
+Signior, I have brought Mr. Tickletext, to beg your par don—Sir
+Fill
+I've other business Sir
+[Goes out
+Gall
+Come let's follow him, and you my generous Cavalier, must give me leave to beg the Honour of your friendship
+Lau
+My inclinations Sir, have given you more—pray let me wait on you to your Lodgings, lest a farther insolence shou'd be offer'd you
+Gall
+Sir you oblige too fast;
+[They go out
+Sir Sig
+Ah che Deavilo Ayles these hot-brain'd fellows, sure they're Drunk
+Pet,
+Oh fee Signior, Drunk, for a man of Quality—'tis intollerable
+Sir Sig
+Ay: Whe how so Signior Morigoroso
+Pet
+Imbriaco, had made it a fine speech indeed
+Sir Sig
+Whe faith, and so it had, as thus,— ach Deavito Ailes these hot-brain'd fellows, sure they are imbriaco, —now wou'd not I be Drunk for a thousand Crowns: imbriacho sounds Cinqa •... t par •... ent bet ter,—Come Noble Signior, let's Andiamo a Casa, which is as much as to say, let's amble home.—
+Tick
+Introth, wondrous expert— Certo Signior he's an apt Schollar
+Sir Sig
+Ah Sir, you shall see, when I come to my civillities—
+'Pet
+Where the first less'n you shall learn, is, how to •... ve, and how to receive, with a Bon-Grace!
+Tick
+That receiving lesson I will learn my self;
+'Pet
+This unfrequented part of the Garden, Signior will 〈◊〉 pur pose as well as your Lodgings,—First then—Signiors your address, [Puts himself in the mid •... le. [Petro bows on both sides, they do the like. —Very well! that's at the approach of any person of Quali •... y after which you must take out your Snuff-Box
+[Puts himself in the mid •... le
+[Petro bows on both sides, they do the like
+Sir Sig
+Snuff-Box: whe we take no snuff Signior
+Pet
+Then Sir by all means you must learn: for besides the mode and gravity of it, it inviveates the Peri •... ramum! that is sapientiat's the brain,—that is, inspires wit, thought, invention, understanding, and the like—you conceive me Signiors—
+[ •... owing
+Sir Sig
+Most profoundly Signior.—
+[Bowing
+Pet
+—Then Signiors, it keeps you in considance, and countinance! and whilst you gravely seem to take a snush, you gain time to answer to the purpose, (and in a politique posture—as thus)—to any in tricate question
+Tick
+Hum— 〈◊〉 I like that well; and 'twere admirable if a man were allow'd to take it when he's out in's Sermon
+Pet
+Doubtless Signior you might, it helps the memory better then Rosemary, therefore I have brought each of you a Snuff-Box
+Sir Sig
+By no means: Excuse me Signior
+[Refuses to take 'em
+Pet
+Ah Bagatells Signior, Bagatells, and now Signiors, I'le teach you how to take it, with a handsome Grace, Signior your hand;—and yours Signior. [Lays snuff on their bands. —So now draw your hand to, and frow under your Noses, and snuff it hard up:—Excellent well,
+[Lays snuff on their bands
+[They dawb all their Noses, and make grimaces and sneeze
+Sir Sig
+Methinks Signior, this snuff stinks most damnably: Pray what scent do you call this?
+Pet
+Cackamarda Orangate, a rare perfume Ple assure ye, Sir
+Sir Sig
+Cackamarda Orangate, and 'twere not for the Name of Cacka marda, and so sorth, a man had as good have a Sir Reverence at his Nose
+[Sneezes, often he crys bonprovache
+Pet
+Bonprovache—Signior, you do not understand it yet, bon provache
+Sir Sig
+Whe Sir 'tis impossible to endure this same Cackamarda, Whe Assassetteda is Odoriferous to it
+[Sneezing
+Pet
+'Tis your right Dulce Piquante, believe me:—but come Sig niors wipe your Noses and proceed to your giving lesson
+Sir Sig
+As how Signior
+Pet
+Whe—present we with something—that—Diamond on your finger! to shew the manner of giving handsomely: [Sir Sig. gives it him. —Oh fy, Signior—between your Finger and Thumb—thus—with your other Fingers at a distance—with a speech, and a bow.—
+[Sir Sig. gives it him
+Sir Sig
+Ilustrissimo Signior, the Manifold Obligations.—
+Pet
+Now a sine turn of your hand—thus—Oh that sets off the present, and makes it sparkle in the eyes of the receiver.—
+[Sir Sig. turns his hand
+Sir Sig
+—Which you have heap't upon me,—
+Pet
+There flourish again
+[He flourishes
+Sir Sig
+Obliges me to beg, your acceptance of this small present, which will receive a double Lustre from your fair hand
+[Gives it him
+Pet
+Now kiss your fingers ends, and retire back with a bow
+Tick
+—Most admirably perform'd
+Sir Sig
+Nay Sir I have docity in me, tho' I say't: come Governor let's see how you can out-do me in the Art of presenting
+Tick
+Well Sir, come, your snuff-Box will serve instead of my Ring, will it not?
+Pet
+By no means Sir, there is such a certain Relation between a Finger and a Ring, that no present becomes either the giving or the receiving hand half so well
+Sir Sig
+Whe 'twill be restor'd again, 'tis but to practice by
+Pet
+Ay Signior, the next thing you are to learn is to receive
+Tick
+Most worthy Signior, I have so Exhausted the Cornucopia of your favours, [Flourishes] —and tasted so plenteously of the fullnesse of your Bounteous Liberallity, that to retalliate with this small Jem—is but to offer a spark, where I have received a beam of superabundant sun-shine.—
+[Flourishes]
+[Gives it
+Sir Sig
+Most Rhetorically perform'd, as I hope to breath, Tropes and fugers all over
+Tick
+Oh Lord, Sir Signal
+Pet
+Excellent—Now let's see if you can refuse, as civilly as you gave, which is by an Obstinate denial; stand both together,— —Ilustrious Signiors, upon my honour my little merrit has not inti tled me to the Glory of so splendid an offering; Trophes worthy to be laid only at your Magnanimous feet
+Sir Sig
+Ah Signior, No No,
+Pet
+Signior Tickletext
+[He offers, they refuse going backward
+Tick
+Nay certo Signior!—
+Pet
+With what confidence can I receive so rich a present: Signior Tickletext, ah—Signior.—
+Sir Sig
+I vow Signior—I'me ashamed you shou'd offer it
+Tick
+In verity, and lo am I
+[still going back, he follows
+Pet
+•... ardio! Baccus, most incomparable.—
+Tick
+But when Signior are we to learn to receive again.—
+Pet
+Oh Sir that's always a lesson of it self:—but now Signiors, I'le teach you how to Act a story
+Sir Sig
+How! how Signior to Act a story?
+Pet
+Ay Sir, No matter for words or sense, so the body perform its part well
+Sir Sig
+How, tell a story without words, whe this were an excel lent devise for Mr. Tickletext, when he's to hold forth to the Congre gation, and has lost his Sermon-Notes—whe this is wonderfull.—
+Pet
+Oh Sir, I have taught it men born deaf, and blinde,—look ye stand close together, and observe—closer yet: [Gets betweem'em. —a certain Eclejastio, Plump, and Rich— [Makes a signe of being fat. Riding along the Rode,—meets a [Galloping about the Stage. Paver strapiao,—un Pavero strapiao, Paure strapiao:—strapiao—strapiao—strapiao:— [Puts himself into the Posture of a lean Beggar; his hands right •... own by his sides,—and picks both their Pockets. Elemosuna per un •... aure strapiao, par a Moure de Dievos—at last he begs a Julio—Neinte! [Makes the fat Bishop] —then the Paure strapiao begs a Mezo Julio— [lean] Neinte [fat] —une bacio— [lean] —Niente— [fat] —at last he begs his Bles sing—and see how willingly the Eclesiastico gave his Benediction; [Opening his Arms hits them both in the face. —Scusa scusa mea Patrona's—
+[Gets betweem'em
+[Makes a signe of being fat
+[Galloping about the Stage
+[Puts himself into the Posture of a lean Beggar; his hands right •... own by his sides,—and picks both their Pockets
+[Makes the fat Bishop]
+[Opening his Arms hits them both in the face
+[Begs their pardon
+Sir Sig
+Yes very willingly, which by the way he had never done had it been worth a farthing
+Tick
+Marry I wou'd he had been a little sparing of that too, at this time,— [sneezes] a shame on't, it has stur'd this same Cackamerda a gain most foully
+[sneezes]
+Pet
+Your pardon Signior,—but come Sir Signall —let's see how you will make this silent relation—Come stand between us two—
+Sir Sig
+Nay let me alone for a memory—come
+Pet
+I think I have reveng'd my Backsword-beating
+[goes off
+Sir Sig
+Un paureo strapado—plump and rich—no, no, the Eccle siastico meets un paureo strapado—and begs a Julio
+Tick
+Oh no Sir, the strapado begs the Julio
+Sir Sig
+Ay, Ay, and the Eclesastico crys Niente— [snaps his nail. un meze Julio!—Niente—un Bacoi, Niente, your blessing then Signior Ecclesastico
+[snaps his nail
+[spreads out his arms to give his blessing—and hits Tick
+Tick
+Adds me, you are all a little too liberal of this same bene diction
+Sir Sig
+Hah—but where's Signior Morigoroso? what is he gone?—but now I think on't 'tis a point of good manners to go without ta king leave
+Tick
+It may be so, but I wish I had my Ring again, I do not like the giving lesson without the taking one, whe this is picking a mans pocket certo
+Sir Sig
+Not so Governor, for then I had had a considerable losse: look ye here,—how— [feelin •... in his Pocket] how— [in another] how—gone? gone as I live! my money Governor! all the Gold Barberacho receiv'd of my Marchant to day—all gone.—
+[feelin •... in his Pocket]
+[in another]
+Tick
+Hah—and mine—all my stock, the money which I thought to have made a present to the Gentlewoman, Barberacho was to bring me too— [aside] —undone undone—Villains, Cutpurses—Cheats, oh run after him
+[aside]
+Sir Sig
+A Pox of all silent stories: Rogue, Thief—undone.—
+ACT III. SCENE I
+Enter Julio and his Page
+Jul
+HOw! the Lady whom I followed from St. Peters Church a Curtizan?
+Pag
+A Curtizan my Lord, fair as the Morning, and as young
+Jul
+I know she's fair and young, but is she to be had boy?
+Pag
+My Lord she is—her Footman told me, she was a Zittella
+Jul
+How a Zittella!—a Virgin, 'tis impossible
+Pag
+I cannot swear it Sir, but so he told me? he said she had a world of Lovers: her Name is Silvianetta Sir, and her Lodgings—
+Jul
+I know't, are on the Corso; a Curtizan! and a Zittella too? a pretty contradiction! but I'le bate her the last, so I might enjoy her as the first, what ere the price be, I'me resolv'd upon the adventure; and will this minute prepare my self. [Going off, enters Mur. and Octa. —hah—does the light deceive me, or is that indeed my Uncle, in earnest conference with a Cavalier:—'tis he—I'le step aside till he's past, lest he hinders this Nights diversion
+[Going off, enters Mur. and Octa
+[Goes aside
+Mur
+I say 'twas rashly done, to fight him unexamin'd
+Oct
+I need not ask, my reason has inform'd me, and I'me convinc't where ere he has conceald her, that she is fled with Fillamour
+Jul
+Who is't they speak of?
+Mar
+Well well, sure my Ancestors committed some horrid crime, against Nature, that she sent this Pest of woman-kind into our Family,—two Neeces for my share,—by Heaven a proportion sufficient to undo six Generations
+Jul
+Hah! two Neeces, what of them?
+[Aside
+Mur
+I am like to give a blessed account of 'em to their Brother Ju lio my Nephew, at his return, there's a new plague now,—but my comfort is I shall be mad and there's an end on't
+[Weeps
+Jul
+My curiosity must be satisfied,—have patience Noble Sir,—
+Mur
+Patience is a flatterer Sir,—and an Ass Sir, and I'le have none on't—hah what art thou?
+Jul
+Has five or six years, made ye lose the remembrance of your Nephew— Julio!
+Mur
+Julio! wou'd I had met thee going to thy Grave
+[Weeps
+Jul
+Why so Sir?
+Mur
+Your sisters Sir, your sisters are both gone.—
+[Weeps
+Jul
+How gone Sir?
+Mur
+Run away Sir, flown Sir
+Jul
+Heavens! which way?
+Mur
+Nay, who can tell the ways of fickle women,—in short Sir, your sister Marcella was to have been Married, to this Noble Gentle man,—Nay was contracted to him, fairly contracted in my own Chappel, but no sooner was his back turn'd,—but in a pernicious Moon-light Night she shews me a fair pair of heels, with the young Baggage your other sister Cornelia, who was just come from the Mo nastery where I bred her, to see her sister married
+Jul
+A curse upon the Sex, why must mans honour
+Depend upon their Frailty?
+—Come—give me but any light which way they went,
+And I will trace 'em with that carefull Vengeance.—
+Oct
+Spoke like a man, that understands his Honour,
+And I can guess how we may finde the Fugitives
+Jul
+Oh Name it quickly Sir!
+Oct
+There was a young Cavalier—some time at Vitterbo,
+Who I confess had charms, Heaven has denied to me
+That trifle Beauty, which was made to please,
+Vain foolish Woman, which the brave and wise,
+Want leasure to design
+Jul
+And what of him!
+Oct
+This fine gay thing came in your sisters way, and made that conquest Nature meant such fools for: and Sir she's fled with him
+Jul
+Oh show me the Man, the daring hardy Villain,
+Bring me but in the view of my Revenge,—and if I fail to take it,
+Brand me with everlasting Infamy
+Oct
+That we must leave to Fortune, and our Industry,—Come Sir, lets walk and think best what to do.—
+[Going down the Scene, Enter Fill. and Gall
+Fill
+Is not that Julio —Boy run and call him back
+[Ex. Boy re-enters with Jul
+Jul
+Oh Fillamour, I've heard such killing news since last I left thee
+Fill
+What prethee?
+Jul
+I had a sister Friend—dear as my life,
+And bred with all the Virtues of her Sex;
+No Vestals at the Holy fire employ'd themselves
+In innocenter businesse then this Virgin;
+Till Love! the Fatall Feaver of her heart,
+Betraid her harmlesse hours
+And just upon the point of being Married,
+The thief stole in, and Rob'd us of this treasure
+She's left her Husband, Parents, and her Honour,
+And's fled with the base ruiner of her Virtue
+Fill
+And lives the Villain durst affront ye thus?
+Jul
+He does!
+Gall
+Where, in what distant World?
+Jul
+I know not
+Fill
+What is he call'd?
+Jul
+I know not neither,—some God direct me to the Ravisher! And if he scape my rage!
+May Cowards point me out, for one of their tame herd
+Fill
+In all your quarells I must joyn my sword
+Gall
+And if you want,—here's another Sir,—that though it be not often drawn in anger, nor cares to be, shall not be idle in good company
+Jul
+I thank ye both, and if I have occasion, will borrow their as sistance, but I must leave you for a minute, I'le wait on you anon.—
+[They all three walk as down the street talking, Enter Laura, with her Equipage
+Lau
+Beyond my wish, I'me got into his Friendship,
+But oh how distant Friendship is from Love!
+That's all bestowed on the fair Prostitute!
+—Ah Silvio, when he took me in his Armes,
+Pressing my willing Bosome to his breast,
+Kissing my cheek, calling me Lovely youth,
+And wondering how such Beauty, and such bravery,
+Met in a Man so young! ah then my Boy!
+Then in that happy minute,
+How neer was I to telling all my soul,
+My blushes and my sighs, were all prepar'd
+My Eyes cast down my trembling lips just parting,—
+But still as I was ready to begin,
+He crys out Silvianetta!
+And to prevent mine, tells me all his Love!
+—But see—he's here.—
+[Fill. and Gall. coming up the scene
+Gall
+Come lay by all sullen unresolves! for now the hour of the Berjeare approaches, Night, that was made for Lovers!—Hah! my dear Sans Caeur? my life! my soul! my joy! Thou art of my opinion!
+Lau
+I'me sure I am what are it be!
+Gall
+Whe my Friend here, and I have sent and paid our Fine for a small Tenement of pleasure, and I'me for taking present possession;—but hold—if you shou'd be a Rivall after all!
+Lau
+Not in your Silvianetta! My Love has a Nice appetite,
+And must be fed with high uncommon delicates,
+I have a Mistress Sir, of quality!
+Fair! as imagination, paints young Angells!
+Wanton and gay as was the first Corina
+That charm'd our best of Poets,
+Young as the Spring, and cheerfull as the Birds
+That wellcome in the day!
+Witty as fancy makes the Revelling Gods,
+And equally as bounteous when she blesses!
+Gall
+Ah for a fine young whore, with all these charms! but that same quality allays the joy, there's such a dam'd ado with the Obligati on, that half the pleasures lost in Ceremony,—Here! for a thousand Crowns I raign alone, Revell all day in Love without controle.—But come to our business, I have given order for Musick, Dark Lanthorns, and Pistolls
+[This while Fill. stands studying
+Fill
+—Death if it shou'd not be Marcella now!
+[Pausing aside
+Gall
+Prethee no more considering,—resolve and let's about it
+Fill
+I wou'd not tempt my heart again! for Love
+What ere it may be in anothers breast,
+In mine, 'twill turn to a Religious fire!
+And so to burn for her! a common Mistress,
+Wou'd be an Infamy below her practice!
+Gall
+Oh if that be all, doubt not Harry but an hours conversation with Euphemia, will convert it to as lewd a flame, as a man wou'd wish
+Lau
+What a coyles here about a Curtizan! what ado to perswade a man to a blessing all Rome is languishing for in vain:—Come Sir, we must deal with him, as Physitians do with peevish children, force him to take what will cure him!
+Fill
+And like those dam'd Physitians, kill me for want of method, no, I know my own distemper best, and your applications will make •... e mad
+Gall
+Poxon't, that one cannot love a woman like a man, but one must love like an Ass
+Lau
+S'hart, I'le be bound to ly with all the women in Rome, with less ado then you are brought to one
+Gall
+Hear ye that Henry, s'death art not asham'd to be instructed by one so young!—but see—the star there appears,—the star that conduct thee to the shore of bliss—
+She comes let's feel thy
+[Marcella and Cornelia above
+Heart! she comes!
+So breaks the day on the glad Eastern Hills!
+Or the bright God of Rays from Thetis Lap:—
+A Rapture now dear lad, and then fall too, for thou art
+Old dog at a long Grace.—
+Fill
+Now I'me meer man again, with all his frailties,— [Aside. —Bright lovely creature!—
+[Aside
+Gall
+Damn it, how like my Ladys Eldest Son was that
+Fill
+May I hope my sacrifice! may be accepted by you?—by Hea ven it must be she! still she appears more like.—
+[Aside
+Mar
+I ve only time to tell you Night approches,
+And th •... n I will expect you,
+[Enter Crapine, gazes on the Ladys
+Crap
+'Tis the, Donna Marcella on my life, with the young wild 〈◊〉 ! —hah—vonders the English Cavalier too; nay then by this hand I'le be paid for all my fruitless jants: for this good news—stay let me mark the House.—
+Mar
+Now to my disguise!
+[Ex. Marcella
+Gall
+And have you no kinde message to send to my heart; cannot this good Example, instruct you how to make me happy?
+Cor
+Faith stranger I must consider first, she's skillfull in the Mar •... handize of hearts, and has dealt in Love with so good success hitherto, she may lose on venture, and never miss it in her stock, but this is my first, and shou'd it prove to be a bad bargain, I were undone for ever
+Gall
+I dare secure the goods sound,—
+Cor
+And I believe will not ly long upon my hands
+Gall
+Faith, that's according as you'l dispose on't Madam,—for let me tell you—gad a good handsome proper fellow, is as staple a com modity as any's in the Nation,—but I wou'd be reserv'd for your own use! faith take a sample to Night, and as you like it, the whole pecce, and that's fair and honest dealing I think, or the Devils in't
+Cor
+Ah stranger,—you have been so over-liberal of those same samples of yours, that I doubt they have spoild the sale of the rest,—cou'd you not assord think ye, to throw in a little Love and constancy; to inch out that want of honesty of yours
+Gall
+Love! oh in abundance!
+By those dear Eyes, by that soft smiling Mouth;
+By ever secret grace, thou hast about thee,
+I love thee with a vigorous, eager passion,
+—Be kinde dear Silvianetta —prethee do,
+Say you believe and make me blest to Night?
+Crap
+Silvianetta! so, that's the Name she has rifl'd for Cornelia, I perceive
+Cor
+If I shou'd be so kind-hearted! what good use wou'd you make of so obliging an opportunity?
+Gall
+That which the happy Night was first ordain'd for
+Cor
+Well Signior 'tis coming on, and then I'le try what courage the darkness will inspire me with:—till then—farwell.—
+Gall
+Till then a thousand times adieu.—
+[Blowing up kisses to her
+Phil
+Ah Madam we're undone,—yonders Crapine your Uncles Vallet.—
+Cor
+Now a curse on him; shall we not have one Night with ou •... Cavaliers—let's retire, and continue to out-wit him, or never more pretend to't, Adieu Signior Cavalier—remember Night.—
+Gall
+Or may I lose my sense to all Eternity
+[Kisses his fingers and bows, she returns it for a while
+Lau
+Gods, that all this that looks at least like Love,
+Shou'd be dispenc •... t to one insensible!
+Whilst every sillable of that dear vallue,
+Whisper'd to me, wou'd make my soul all Extasy,
+—Oh spare that Treasure for a gratefull purchase;
+And buy that common ware with trading Gold,
+Love! is too rich a price:—I shall betray my self.—
+[Aside
+Gall
+Away, that's an hereticial opinion and which this 〈◊〉
+Reason must convince thee of
+That Love is Love, where ever beauty is,
+Nor can the Name of whore, make beauty less
+Enter Marcella like a Man, with a Cloak about her
+Mar
+Signior, is your Name Fillamour?
+Fill
+It is, what wou'd you Sir.—
+Mar
+I have a letter for you—from Vitterbo, and your Marcella Sir
+[gives it him]
+Fill
+Hah— Vitterbo! and Marcella!
+It shocks me like the Ghost of some forsaken Mistress,
+That met me in the way to happiness,
+With some new long'd for Beauty!
+[Opens it, reads
+Mar
+Now I shall try thy Virtue, and my Fate.—
+[Aside
+Fill
+What is't that checks the joy, that shou'd surprize me at the receipt of this!
+Gall
+How now! what's the cold fit coming on?
+[Pawses
+Fill
+I have no power to go—where this—invites me—
+Which I prove, 'tis no encrease of flame that warms my heart,
+〈◊〉 a new fire just kindled from those—eyes—
+Whose rayes I sinde more piercing then Marcella's
+Gall
+—Ay Gad a thousand times—prethee what's the matter
+Mar
+Oh this false—souly man—wou'd I had leasure
+To be reveng'd for this inconstancy!
+[Aside
+Fill
+—But still she want's that Virtue I admire!
+Gall
+Virtue! s'death thou art always fumbling, upon that dull string that makes no Musick:—What Letters that? [reads.] If the first Confession I ever made of Love be gratefull to you, come arm'd to night with a friend or too; and behinde the Garden of the Foun tains, you will receive—hah Marcella! —Oh damn it, from your honest woman!—Well I see the devil's never so busy with a man, as when he has resolv'd upon any goodness! s'death what a rubs here in a fair cast,—how is't man-Alegremente! bear up, defy him and all's his works
+[reads.]
+Fill
+But I have sworn, sworn that I lov'd Marcella! and Honour Friend obliges me to go, take her away and marry her,—And I conjure thee to assist me too
+Gall
+What to night, this Night, that I have given to Silvianetta! and you have promis'd to the fair— Euphemia!
+Lau
+If he shou'd go, he ruins my design,
+[Aside
+—Nay if your word Sir—be already past.—
+Fill
+'Tis true, I gave my promise to Euphemia! but that to women of her trade, is easily absolv'd
+Gall
+Men keep not Oaths for the sakes of the wise Magistrates, to whom they're made, but their own Honour Harry: And is't not much a greater crime to Rob a Gallant, hospitable man of his Neece, who has treated you with Confidence, and Friendship, then to keep touch with a well meaning whore, my Consciencious friend!
+Lau
+Infinite degrees Sir!
+Gall
+Besides, thou'st an hour or two good, between this and the time requir'd to meet Marcella
+Lau
+Which an industrious Lover, wou'd manage to the best ad vantage
+Gall
+That were not given over to Virtue, and constancy—two the best excuses I know for idlenesse
+Fill
+—Yes—I may see this woman
+Gall
+Whe God a marcy lad!
+Fill
+—And break my chains,—if possible
+Gall
+Thou wilt give a good essay to that I'le warrant thee,
+Before she part with thee! come let's about it
+[They go out on either side of Fill. perswading him
+Mar
+He's gone! the Curtizan has got the day
+[Aside to Mar
+Vice has the start of Virtue, every way,
+And for one blessing honest wives obtain,
+The happyer Mistress does a thousand gain!
+I'le home—and practice, all their Art to prove,
+That nothing is so cheaply gain'd as Love!
+[Exeunt
+Gall
+Stay what farce is this,—prethee let's see a little. [offering to go [Enter Sir Signal, Mr. Tickletext, with his Cloke ty'd about him, a great Ink-horn ty'd at his Girdle, and a great Folio under his Arm, Petro drest like an Antiquary. —How Now Mr. Tickletext, what drest as if you were going a Pill grimage to Jerusalem
+[offering to go
+[Enter Sir Signal, Mr. Tickletext, with his Cloke ty'd about him, a great Ink-horn ty'd at his Girdle, and a great Folio under his Arm, Petro drest like an Antiquary
+Tick
+I make no such prophane Journeys, Sir
+Gall
+But where have you been Mr. Tickletext
+Sir Sig
+Whe Sir, this most Reverend and Renowned Antiquary, has been showing us Monimental Rarities and Antiquities
+Gall
+'Tis Petro that—Rogue!
+Fill
+—But what Folio have you gotten there Sir, Knox, or Car •... wright?
+Pet
+Nay if he be got into that heap of Nonsense, I'le steal off and undress
+[Aside
+[Ex. Petro
+[Tick. Opening the Book,
+Tick
+A small Vollum Sir, into which I transcribe the most memorable and remarkable transactions of the day
+Lau
+That doubtless must be worth seeing
+Fill
+[Reads] April the Twentieth, arose a very great storm of Wind, Thunder, Lightning, and Rain,—which was a shrew'd sign of foul weather
+[Reads]
+Fill
+The 22th. 9 of our 12 chikens getting loose, flew over-bord, the other three miraculous escaping, by being eaten by me, that Mor ning for breakfast
+Sir Sig
+Harkey Galliard —thou art my Friend, and 'tis not like a man o •... •... nour, to conceal any thing from on's Friend,—know then I am th •... fortunate Rascall, that ever broke bread,—I am this Nigh •... 〈◊〉 sirra—the finest, the most delicious young Harlot, Mum— 〈◊〉 •... e Rose—in all Rome! of Barberacho's acquaintance
+Gall
+—H •... h—my woman on my life! and will she be kind!
+Sir Sig
+Kind, hang kindnesse man, I'me resolv'd upon conquest by parly •... y force
+Gall
+Spoke like a Roman of the first Race, when Noble Rapes not whin •... g Courtship, did the Lovers business
+Sir Sig
+Sha Rapes man! I mean by force of mony, pure dint of Co •... •... aith and troth: for I have given 500 Crowns enterance already, and •... ar Dios Baccus 'tis tropo Caro—tropo Caro Mr. Galliard
+Gall
+And what's this high priz'd Ladys Name Sir?
+Sir Sig
+La Silvianetta, —and Lodges on the Corso, not far from St. James 's of the incurables—very well scituated in case disaster—hah.—
+Gall
+Very well,—and did not your wise worship know, this Silvi anetta was my Mistress?
+Sir Sig
+How! his Mistress! what a damn'd noddy was! to name her!
+Gall
+De ye hear fool! renounce me this 〈◊〉 instantly, or I'le first discover it to your Governor, and then c •... t your throat Sir
+Sir Sig
+Oh Doux M •... nt —dear Galliard —Renounce her,— Corpo d •... mi that I will soul and 〈◊〉 if she belong to thee man.—
+Gall
+No more—look •... ,—look you forget her Name—or but to think of her—farewell—
+[Nods at him
+Sir Sig
+Fare well quoth •... e—'tis well I had the Art of dissembling after all, here had been a •... eet Broyl upon the Coast else.—
+Fill
+Very well, I'le trouble my self to reade no more, since I know you'l be so kinde to the world to make it p •... lique?
+Tick
+At my return Sir, for the good of the Nation, I will Print it, and I think it will deserve it
+Lau
+This is a precious Rogue, to make a Tutor of
+Fill
+Yet these Mooncalss, dare pretend to the breeding of our youth, and the time will come, I fear, when none shall be reputed to travel like a man of quality, who has not the advantage of being im pos'd upon, by one of these •... edantique Novices, who instructs the young heir, in what himself is most profoundly ignorant of
+Gall
+Come, 'tis dark and time for our design,—your servant Signi ors
+[Exeunt Fill. Gall. and Lau
+Lau
+I'le home, and watch the kind deceiving minute, that may conduct him by mistake to me
+Enter Petro, like Barberacho, just as Tick. and Sir Sig. are going out
+Sir Sig
+Oh Barberacho! we are undone! Oh the Diavillo take that Master you sent me
+Pet
+Master, what Master?
+Sir Sig
+Whe Signior Morigoroso!
+Pet
+Mor—oso—what shou'd he be?
+Sir Sig
+A Civillity-Master he shou'd have been, to have taught us good manners,—but the Cornuto cheated us most damnably, and by a willing mistake taught us nothing in the world but wit
+Pet
+Oh abominable knavery! whe what a kinde of man was he?—
+Sir Sig,
+—whe—much such another as your self:—
+Tick
+Higher, Signior, higher!
+Sir Sig
+Aye somewhat higher—but just of his pitch
+Pet
+Well Sir, and what of this man?
+Sir Sig
+Only pick't our pockets, that's all
+Tick
+Yes, and cozen'd us of our Rings
+Sir Sig
+Ay, and gave us Cackamarda Orangata for snuff
+Tick
+And his blessing to boot when he had done
+Sir Sig
+A veng'ance on't, I feel it still
+Pet
+Whe this 'tis to do things of your own heads, for I sent no such Signior Moroso—but I'le see what I can do to retrive m—I am now a little in haste, farwell.—
+[Offers to go. Tick. goes out by him and jogs him
+Tick
+Remember to meet me—farewell Barberacho
+[Goes out, Sir Sig. pulls him
+Sir Sig
+Barberacho—is the Lady ready?
+Tick
+Is your money ready?
+Sir Sig
+Whe now, tho I am threatned, and kill'd, and beaten, and kickt about, this intrigue I must advance! [aside] —but dost think there's no danger?
+[aside]
+Pet
+What in a delicate young amorous Lady, Signior?
+Sir Sig
+No, No, mum, I don't much fear the Lady, but this same mad fellow Galliard, I hear, has a kinde of a hankering after her—Now dare not I tell him what a discovery I have made
+[Aside
+Pet
+Let me alone to secure you, meet me in the Piatzo Despagnia, as soon as you can get your self in order; where the two fools shall meet, and preven eithers coming
+[Aside
+Sir Sig
+Enough,—here's a Bill for 500 Crowns more upon my Merchant, you know him by a good token, I lost the last sum you re ceiv'd for me, a pox of that handsell, away here's company. Ex. Pet. Enter Octavio. Now will I disguise my self, according to the mode of the Roman Ina morato's; and deliver my self upon the place appointed
+Ex. Pet. Enter Octavio
+[Ex. Sir Sig
+Oct
+On the Corso didst thou see 'em?
+Crap
+On the Corso my Lord, in discourse with three Cavaliers, one of which has given me many a Pistol, to let him into the Garden a Nights at Vitterbo: to talk with Don •... Marcella, from her Chamber window, I think I shou'd remember him
+Oct
+Oh that thought fires me, with anger fit for my Revenge, [Aside. And they're to Serinade 'em thou say'st
+[Aside
+Crap
+I did my Lord! and if you can have patience till they come, you will finde your Rival in this very place, if he keep his word
+Oct
+I do believe thee, and have prepared my Bravos to attack him: if I can Act but my Revenge to Night, how shall I worship Fortune! keep out of sight, and when I give the word be ready all. I hear some coming let's walk off a little.—
+[Enter Marcella in mans clothes, and Philipa as a woman, with a Lanthorn Oct. and Crap. go off the other way
+Mar
+Thou canst never convince me, but if Crapine saw us, and gaz'd so long upon us, he must know us too, and then what hin ders but by a dilligent watch about the House, they will surprize us, ere we have secured our selves from 'em
+Phil
+And how will this, exposing your self to danger prevent 'em
+Mar
+My designe now is, to prevent Fillamours coming into dan ger, by hindring his approach to this house: I wou'd preserve the kinde ingrate with any hazard of my own: and 'tis better to dye then fall into the hands of Octavio. I'me desperate with that thought,—and fear no danger! however be you ready at the door, and when I ring admit me.—ha—who comes here.—
+[Enter Tickletext with a Periwig and Cravat of Sir Signals: A Sword by his side, and a dark Lanthorn, she opens hers, looks on him and goes out
+Tick
+A man! now am I though an old sinner, as timerous as a young thief, 'tis a great inconvenience in these Popish Countrys, that a man cannot have liberty to steal to a wench without danger; not that I need fear who sees me except Galliard, who suspecting my busi ness, will go neer to think I am wickedly inclin'd, Sir Signal I have left hard at his study, and Sir Henry is no Nocturnal Inamorato, unless like me he dissemble it,—well Certo 'tis a wonderfull pleasure to de ceive the World: And as a learned man well observ'd, that the sin of wenching lay in the habit only: I having laid that aside, Timothy Tickletext principal holder forth of the Covent Garden Conventicle, Chaplain of Buffoon-Hall in the County of Kent, is free to recreate himself
+[Enter Gall. with a dark Lanthorn
+Gall
+Where the devil is this Fillamour? And the Musick: which way cou'd he go to lose me thus! [Looks towards the door. —he is not yet come.—
+[Looks towards the door
+Tick
+Not yet come,—that must be Barberacho —where are ye honest Barberacho where are ye?
+[Groping towards Gall
+Gall
+Hah! Barberacho? that name I am sure is us'd by none but Sir Signal and his Coxcomb Tutor, it must be one of those—where are ye Signior, where are ye? [Goes towards him, and opens the Lan thorn—and shuts it straight. —Oh 'tis the Knight,—are you there Signior?
+[Goes towards him, and opens the Lan thorn—and shuts it straight
+Tick
+Oh art thou come, honest Rascal—conduct me quickly, con duct me to the Beautifull and fair Silvian •... tta!
+[Gives him his hand
+Gall
+Yes, when your dogships damn'd, Silvianetta! S'death is she a whore for fools!
+[Draws
+Tick
+Hah Mr. Galliard, as the devil wou'd have it:—I'me undone if he sees me!
+[He retires hastily, Gall. gropes for him
+Gall
+Where are you Fop: Buffoon! Knight! [Tickletext retiring hastily runs against Octavio, who is just en tering, almost beats him down, Oct. strikes him a good blow, beats him back and draws: Tick. gets close up in a corner of the stage, Oct. gropes for him as Gall. does, and both meet and fight with each other. —What dare you draw,—you have the impudence to be valliant then in the dark, [they pass] I wou'd not kill the Rogue,—death you can fight then, when there's a woman •... n the case!
+[Tickletext retiring hastily runs against Octavio, who is just en tering, almost beats him down, Oct. strikes him a good blow, beats him back and draws: Tick. gets close up in a corner of the stage, Oct. gropes for him as Gall. does, and both meet and fight with each other
+[they pass]
+Oct
+I hope 'tis Fillamour! [aside] you'le finde I can, and possibly may spoil your making love to Night!
+[aside]
+Gall
+Egad sweet heart and t •... t may be, one civil thrust will do't:—And 'twere a damn'd rude th •... ng to disappoint so fine a woman,—therefore I'le withdraw whilst I'me well
+[He slips out
+[Enter Sir Signal, with a Masquerad •... g Coat over his clothes, with out a Wigg or Cravat, with a dark Lanthorn
+Sir Sig
+Well I have most neatly escapt my Tutor; and in this dis guise defy the devil to claim his own,—ah Caspeto de Deavilo! —What's that?
+[Adva •... ing softly, and groping with his hands, meets the point of Oct. sword, as he is groping for Gall
+Oct
+Traytor darest thou not stand my sword!
+Sir Sig
+Hah! swords! no Signior— scusa mea Signior,—
+[Hops to the door: And feeling for his way with his out-strecht Arms, runs his Lanthorn in Julio's face who is just entering; finds he's oppos'd with a good push backward, and slips aside into a corner over against Tickletext: Julio meets Octavio and fights him, Oct. falls, Julio opens his Lanthorn and sees his mistake
+Jul
+Is it you Sir?
+Oct
+Julio! from what mistake grew all this violence?
+Jul
+That I shou'd ask of you, who meet you arm'd against me
+Oct
+I find the Night has equally deceiv'd us; and you are fitly come! to share with me the hopes of dear Revenge!
+[Gropes for his Lanthorn which is dropt
+Jul
+I'de rather have pursu'd my kinder passion! Love! and desire! that brought me forth to Night!
+Oct
+I've learnt where my false Rival is to be this Evening, And if you'l joyn your sword, you'l finde it well imploy'd
+Jul
+Lead on, I'me as impatient of Revenge as you.—
+Oct
+Come this way then, you'l find more aids to serve us
+[Go out
+Tick
+—So! thanks be prais'd all's still again, this fright were e nough to mortify any Lover of less magnanimity then my self,—well of all sins, this itch of whoring is the most hardy,—the most impu dent in repulses; the most vigilant in watching, most patient in wait ing, most frequent in dangers: in all disasters but disappointment, a Philosopher! yet if Barberacho come not quickly, my Philosophy will be put to't certo
+[This while Sir Signal i •... venturing from his post, listening and slowly advancing towards the middle of the stage
+Sir Sig
+The coast is once more clear, and I may venture my carcass forth again,—though such a salutation as the last, wou'd make me very unfit for the matter in hand,—the battoon I cou'd bear with the Fortitude and courage of Hero: But these dangerous sharps I never lov'd; what different rancounters have I met withall to Night, Corpo de me; a man may more safely pass the gulf of lyons, then convoy himself into a Bawdy house in Rome, but I hope all's past, and I will say with Alexander: — Vivat Esperance en despetto del Fatto
+[advances a little
+Tick
+Sure I heard a Noise,—No 'twas only my surmise!
+[They both advance softly, meeting just in the middle of the Stage, and coming close up to each other! both cautiously start back: And stand a tipto in the posture of fear, then gently feeling for each other, (after listening and hearing no n •... ise) draw back their hands at touching each others; and shrinking up their shoulders, make grimases of more fear!
+Tick
+Que Equesto
+Sir Sig
+Hah a mans voice!—I'le try if I can fright him hence! [Aside. Una Malladette Spirito Incarnate!
+[Aside
+[In a horrible tone
+Tick
+Hah, Spiritto Incarnate! that devils voice I shou'd know!
+[aside
+Sir Sig
+See Signior! Una spirito! which is to say, un spiritalo, Imor tallo Inc •... rporalla, Inanimate, Imaterialle, Philosophicale, Invisible — Un in telligible — Diavillo!
+[In the same tone
+Tick
+Ay ay, 'tis my hopefull pupill! upon the same design with me, my life on't,—Cunning young whoremaster!—I'le cool your courage—good Signior Diavillo! if you be the Diavillo I have unacer taina Imaterialle Invisible Conjuratione, that will so neatly lay your Inani mate unintelligible Diavilloship. —
+[Pulls out his wooden sword
+Sir Sig
+How! he must needs be valliant indeed that dares fight with the devil. [Endeavours to get away, Tick. beats him about the stage. —Ah Signior Signior Mia! ah— Caspeto de Baccus, — he cornuto, I am a damn'd silly devil that have no dexterity in vanishing
+[Endeavours to get away, Tick. beats him about the stage
+[Gropes and finds the door—going out, meets just entring Fillamour Galliard with all the Musick—he retires and stands close
+—Hah,—what have we here new mischief.—
+[Tick. and he stands against each other, on either side of the stage
+Fill
+Prethee how came we to lose ye?
+Gall
+I thought I had follow'd ye,—but'tis well we are met again, come tune your pipes,—
+[They play a little, Enter Marcella as before
+Mar
+This must be he
+[Goes up to 'em
+Gall
+Come come, your Song boy your Song
+[Whilst'tis singing Enter Octavio, Julio, Crapine, and Bravo's!
+The SONG
+Crudo Amore, Crudo Amore, bis
+Il mio Core non fa per te
+Suffrir non vo tormenti
+Senza mai sperar mar ce
+Belta che sia Tiranna,
+Bolta che sia Tiranna
+Dell meo offetto recetto non •
+Il tuo rigor singunna
+Se le pene
+Le catene
+Tenta auolgere al mio pi •
+See see Crudel Amore bis
+Il mio Core non fa per te
+Lusinghiero, Lusinghier •... , bis
+•... ui non Credo alta tua fe
+L'incendio del tuo foce
+Nel mio Core pui viuo none
+Belta che li die Luoce
+Belta che li die Luoce
+Ma il rigor L'Ardore s'bande
+Io non sato tuo gioce
+Ch'il Veleno
+Del mio seno
+Vergoroso faggito se n'e
+See see Crudel Amore bis
+Il mio Core non fa per te
+Oct
+'Tis they we look for, draw and be ready.——
+Tick
+Hah draw—then there's no safty here certo
+[Aside
+[Octavio Julio and their party draw, and fight with Fill. and Gall. Marcella ingages on their si •... e, all fight, the Musick confusedly a mongst 'em; Gall. l •... ses his sword, and in the hurry gets a Base Viol, and happens to strike Tickletext, who is getting away—his head breaks its way quite through, and it hangs about his neck, they fight out
+Enter Petro with a Lanthorn. Sir Signal stands close still
+Tick
+Oh undone, undone, where am I, where am I
+Pet
+Hah—that's the voice of my Amorous Ananias,—or I am mistaken—what the devil's the matter. [Opens his Lanthorn. —Where are ye Sir,—hah cuts so—what new found pillory have we here?
+[Opens his Lanthorn
+Tick
+Oh honest Barberacho undo me, undo me quickly
+Pet
+So I design Sir, as fast as I can—or lose my aim—there Sir there: all's well—I have set you free, come follow me the back way, into the house
+[Ex. Petro and Tickletext
+Enter Fillamour and Marcella, with their swords drawn Gall. after 'em
+Gall
+A plague upon 'em, what a quarters here for a wench, as if there were no more i'th Nation,—wou'd I'de my sword again
+[Gropes for it
+Mar
+Which way shall I direct him to be safer,—how is it Sir, I hope you are not hurt
+Fill
+Not that I feel, what art thou asks't so kindly
+Mar
+A servant to the Roman Curtizan, who sent me forth to wait your coming Sir, but finding you in danger shar'd it with you,—come let me lead you into safety Sir.—
+Fill
+Thou'st been too kinde to give me cause to doubt thee
+Mar
+Follow me Sir, this key will give us entrance through the Garden
+[Exeunt
+Enter Octavio with his sword in his hand
+Oct
+! Oh what damn'd luck had I so poorly to be vanquish't when all is husht, I know he will return,—therefore I'le fix me here, till I become a furious statue—but I'le reach his heart
+Sir Sig
+Oh lamentivolo fato —What bloody Villains these Popish Itallians are
+Enter Julio
+Oct
+Hah— I hear one coming this way——hah—the door opens too,—and he makes towards it—pray Hea ven he be the right: for this I'me sure's the House?—Now luck an't be thy will,—
+[Follows Julio towards the door softly
+Jul
+The Rogues are fled but how secure I know not,—
+And I'le pursue my first design of Love,
+And if this Silvianetta will be kind.—
+[Enter Laura from the house in a Night gown
+Lau
+Whi'st—who is't Names Silvianetta?
+Jul
+A Lover and her slave.—
+[She takes him by the hand
+Lau
+Oh is it you,—are you escapt unhurt?
+Come to my bosome—and be safe for ever.—
+Jul
+'Tis Love that calls, and now Revenge must stay,—this hour is thine fond Boy, the next that is my own I'le give to anger.—
+Oct
+Oh ye pernicious pair,—I'le quickly change the Scene of Love into a ruff •... r and more unexpected entertainment
+[She leads Julio in,— Oct. follows close, they shut the door upon 'em. Sir Sig. thrusts out his head to hearken, hears no body and advances
+Sir Sig
+Sure the devil raigns to Night, wou'd I were shelter'd and let him raign fire and Brimstone, for pass the streets I dare not—this shou'd be the house—or here abouts I'me sure 'tis,——hah—what's this—a string—of a Bell I hope—I'le try to enter; and if I am mistaken 'tis but crying conlicentia!
+[Rings Enter Philipa
+Phil
+Whose there?
+Sir Sig
+'Tis I, 'tis I, let me in quickly.—
+Phil
+Who—the English Cavalier
+Sir Sig
+The same——I am right—I see I was expected
+Phil
+I'me glad you're come,——give me your hand.—
+Sir Sig
+I am fortunate at last,—and therefore will say with the Famous Poet
+—No happiness •... ike that achiv'd with danger, Which once o'recome—I'le ly at Rack and Manger
+[Exeunt
+ACT IV. SCENE I
+Enter Fillamour and Galliard, as in Silvianetta's apartment
+Fill
+—HOw s •... ndidly these Common women live,
+How rich is all we meet with in this Palace,
+And rather seems th' Apartment of some Prince,
+Then a Receptickle for lust and shame
+Gall
+You see Ha •... y, all the keeping fools are not in our dominions but this grave this wi •... e people, are Mistress riden too
+Fill
+〈◊〉 fear we have mistook the house, and the youth that brought us in may have deceived us, on some other design, however whilst I've this— 〈◊〉 cannot fear.—
+[Draws
+Gall
+A good caution, and I'le stand upon my guard with this, but see—here's one will put us out of doubt
+[Pulls a pistol out of his pocket
+Fill
+Hah! the fair Inchantress!
+[Enter Mar. richly and loosly drest
+Mar
+What on your guard my lovely Cavalier! lyes there a danger
+In this Face and Eyes, that needs that rough resistance?
+—Hide hide that mark of anger from my sight,
+And if thou woud'st be absolute conqueror here,
+Put on soft looks with Eyes all languishing,
+Words tender, gentle sighs, and kind desires
+Gall
+Death! with what unconcern he hears all this? art thou pos sest—pox why dost not answer her?
+Mar
+I hope he will not yield,—
+[Aside
+—He stands unmov'd,—
+Surely I was mistaken in this face,
+And I believe in charms that have no power
+Gall
+S'death thou deservest not such a Noble creature,—
+I'le have 'em both my self.—
+[Aside
+Fill
+—Yes! thou hast wonderous power,
+And I have felt it long
+[Pawsingly
+Mar
+How!
+Gall
+—I've often seen that face—but 'twas in dreams
+And sleeping lov'd Extreamly!
+And waking—sigh't to find it but a dream,
+The lovely Phantom vanish't with my slumbers,
+But left a strong Idea on my heart;
+Of what I finde in perfect Beauty here,
+—But with this difference, she was Virtuous too!
+Mar
+What silly she was that!
+Fill
+She whom I dream't I Lov'd
+Mar
+You only dream't that she was Virtuous too!
+Virtue it self's a dream of so slight sorce,
+The very •... uttering of Loves wings destroys it,
+Ambition, or the meaner hope of interest, wakes it to nothing,
+In men a feeble Beauty, shakes the dull slumber off,—
+Gall
+Egad she argues like an Angell Harry!
+Fill
+—What hast thou'st made, to damn thy self so young!
+Hast thou been long thus wicked? hast thou sin'd past Repentance,
+Heaven may do much, to save so fair a Criminal,
+Turn yet and be forgiven!
+Gall
+What a pox dost thou mean by all this canting?
+Mar
+A very pretty Sermon, and from a priest so gay,
+It cannot chuse but edify
+Do Holy men of your Religion Signior, wear all this Habit,
+Are they thus young, and lovely? sure if they are,
+Your Congregation's all compos'd of Ladys,
+The Layety must come abroad for Mistresses
+Fill
+Oh that this charming woman were but honest!
+Gall
+'Twere better thou wer't damn'd; honest!
+Pox thou dost come out with things so malapropo—
+Mar
+Come leave this Mask of foolish modesty,
+And let us hast where Love and Musick call's;
+Musick! that heightens Love! and makes the soul,
+Ready for soft impressions!
+Gall
+So, she will do his business with a Vengeance!
+Fill
+Plague of this tempting woman she will ruin me!
+I finde weak Virtue melt from round my heart,
+To give her Tyrant Image a Possession
+So the warm Sun, thaws Rivers Icy tops,
+Till in the stream he sees his own bright face!
+Gall
+Now he comes on apace,—how is't my friend,
+Thou stand st as thou'dst forgot thy business here!
+—The woman Harry! the fair Curtizan!
+Canst thou withstand her charms? I've business of my own,
+Prethee fall too—and talk of Love to her
+Fill
+Oh I cou'd talk Eternity away,
+In nothing else but Love!—cou'dst thou be honest?
+Mar
+Honest! was it for that you sent two thousand Crowns
+Or did believe that trifling sum sufficient,
+To buy me to the slavery of honesty
+Gall
+Hold there my brave Virago
+Fill
+No, I wou'd sacrifice a Nobler Fortune,
+To buy thy Virtue home!
+Mar
+What shou'd it idling there!
+Fill
+Whe—make thee constant to some happy man,
+That wou'd adore thee for't
+Mar
+Unconscionable! constant at my years?
+—Oh t'were to cheat a thousand!
+Who between this and my dull Age of Constancy,
+Expect the distribution of my Beauty
+Gall
+'Tis a brave wench,—
+[Aside
+Fill
+Yet charming as thou art, the time will come
+When all that Beauty like declining flowers,
+Will wither on the stalk,—but with this difference,
+The next kinde Spring, brings youth to flowers again,
+But faded Beauty never more can bloom,
+—If intrest make thee wicked, I can supply thy pride.—
+Mar
+Curse on your necessary trash!—which I despise, but as 'tis usefull to advance our Love!
+Fill
+Is Love thy business, who is there born so high,
+But Love and Beauty equals,
+And thou maist chuse from all the wishing world?
+This wealth together wou'd inrich one man,
+Which dealt to all wou'd scarce be Charity
+Mar
+Together! 'tis a Mas wou'd Ransome King's!
+Was all this Beauty given, for one poor petty Conquest;
+—I might have made a hundred hearts my slaves,
+In this lost time of bringing one to Reason.—
+Farewell thou dull Philosopher in Love;
+When Age has made me wise,—I'le send for you again
+[Offers to go Gall holds her
+Gall
+By this good lighta Noble glorious Whore!
+Fill
+Oh stay,—I must not let such Beauty fall,
+—A whore—consider yet, the charms of Reputation
+The ease, the quiet and content of innocence,
+The awfull Reverence, all good men will pay thee,
+Who as thou art will gaze without respect,
+—And cry—what pitty 'tis she is—a whore—
+Mar
+O you may give it what course Name you please;
+But all this youth and Beauty ne're was given,
+Like Gold to Misers, to be kept from use
+[Going out
+Fill
+Lost lost,—past all Redemption
+Gall
+Nay, Gad thou shalt not lose her so,—I'le fetch her back,
+And thou shalt ask her pardon
+[Runs out after her
+Fill
+By Heaven 'twas all a dream! an Aiery dream!
+The Visionary pleasure disappears,—and I'me my self again,
+—'le fly, before t • e drowsy fit ore'take me
+[Going out, Eeter Gall. and then Marcella
+Gall
+Turn back—she yields, she yields to pardon thee,—gon—
+Nay hang me if ye part
+[Runs after him, still his Pistol in his hand
+Mar
+Gon—I have no leasure now for more dissembling
+[Takes the Candle and goes in
+Enter Petro, leading in Mr. Tickletext, as by dark
+Pet
+Remain here Signior whilst I step and fetch a light
+Tick
+Do so, do so honest Barberacho! —well my escape even now •... rom Sir Signal was Miraculous! thanks to my prudence and prowess, had he discover'd me, my dominion had ended; and my Authority been of non effect certo
+[Philipa at the door puts in Sir Signal
+Phil
+Now Signior yo're out of danger, I'le fetch a Candle, and let •... y Lady know of your being here!
+[Ex. Phil
+[Sir Sig. advances a little
+Enter Petro with a light, goes between 'em and starts
+Tick
+Sir Signal!—
+Sir Sig
+My Governor!
+Pet
+The two fools met! a pox of all ill luck: now shall I lose my credit with both my wise Patrons, my Knight I cou'd have put off, with a small Harlot of my own, but my Levite having seen my Lady Cornelia that is La Silvianetta, —None but that Susanna wou'd satisfy his Elder ship: but now they have both sav'd me the labour of a farther inventi on to dispatch 'em
+Sir Sig
+I perceive my Governor's as much confounded as my self;—I'le take advantage by the forelock, be very impudent and put it upon him faith,—Ah Governor, will you never leave your whoring! never be stayd, sober and discreet as I am
+Tick
+So so, undone undone, just my Documents to him.—
+[Walks about, Sir Sig. follows
+Sir Sig
+And must I neglect my pretious studys, to follow you, in pure zeal and tender care of your person! will you never consider where you are? in a lewd Papish Country! amongst the Romish Hea thens,—and for you a Governor, a Tutor, a director of unbridled youth, a Gown-man, a Polititian, for you I say to be taken at this un righteous time of the Night, in a flaunting Cavaliero dress, an unlawful weapon by your side, going the high way to Satan to a Curtizan! and to a Romish Curtizan! Oh abomination, Oh Scandalum infiniti
+Tick
+Paid in my own Coyn!
+Pet
+So, I'le leave the devil to rebuke sin, and to my young Lady, for a little of her assistance, in the management of this affair
+[Exit. Pet. Tick
+Tick
+—I do confess,—I grant ye I am in the house of a Curti zan, and that I came to visit a Curtizan, and do intend to visit each Night a several Curtizan:—till I have finisht my work.—
+Sir Sig
+Every Night one! Oh glutton!
+Tick
+—My great work of Conversion,—upon the whole Nation, Generation, and Vocation, of this wicked provoking sort of woman kinde; call'd Curtizans:—I will turn 'em—yes I will turn 'em,—for 'tis a shame that Man—shou'd bow down to those that worship Idols!—and now I think Sir, I have sufficiently explain'd the business in hand,—as honest Barberacho is my witness!—And for you—to—scandalize—me—with so naughty an interpretation—afflicteth me wonderfully.—
+[Pulls out his hankerchief and weeps
+Sir Sig
+—Alas poor Mr. Tickletext, now as I hope to be sav'd it grieves my heart to see him weep,—faith and troth now, I thought thou had'st some Carnal assignation,—but nere stir I beg thy pardon and think thee as innocent as my self, that I do—but see the Ladys, here—s'life dry your Eyes man!
+[Enter Cornelia Phil. and Pet
+Cor
+I cou'd beat thee for being thus mistaken,—and am resolv'd to flatter him into some mischief, to be Reveng'd on 'em for this dis appointment, go you and watch for my Cavalier the while
+Tick
+Is she come—Nay then turn me loose to her.—
+Cor
+My Cavalier!
+[Addressing to Sir Sig. Tick. pulls him by and speaks
+Tick
+—Lady.—
+Sir Sig
+You Sir, whe who the devil made you a Cavalier,—most Potentisimo Signiora, I am the man of Title, by Name Sir Signal Buffoon, sole Son and heir to Eight Thousan •... pound a year.—
+Tick
+Oh Sir, are you the man she looks for?
+Sir Sig
+I Sir, No Sir, I'de have ye to know Sir, I scorn any woman be she never so fair, unless her designe be honest and Honourable!
+Cor
+The man of all the World I've chosen out, from all the wits and Beauties I have seen;—to have most finely beaten!
+Sir Sig
+How! in Love with me already,—she's damnable hand some too, now wou'd my Tutor were hang'd a little for an hour or two, out of the way
+[Aside
+Cor
+Why fly you not into my Arms, [she approching, he shuning These Arms that were design'd for soft embraces?
+[she approching, he shuning
+Sir Sig
+Ay, and if my Tutor were not here, the devil take him that wou'd hinder'em,—and I think that's civil egad!
+Tick
+Whe how now Barberacho, what am I cuz •... nd then, and is Sir Signal the Man in savour!
+[Aside to •... tro
+Pet
+Lord Signior, that so wise a man as you cannot perceive her meaning; for the devil take me if I can,— [Aside.] —Whe this is done to take off all suspition from you—and lay it on him;—don't you conceive it Signior!
+[Aside.]
+Tick
+Yes honest Rogue,—Oh the witty wagtail,— I have a part to play too, that shall confirm it—young Gentlewoman.—
+Cor
+Ah bell ingrate, is't thus you recompence my suffering Love •... ? to fly this beauty so ador'd by all, that slight the ready conquest of the world to trust a heart with you,—ah—Traditor Cruella
+Sir Sig
+Poor heart, it goes to the very soul of me to be so coy and scornsull to her that it does, but a pox on't her over-fondness will dis cover all
+Tick
+Fly, fly, young man! whilst yet thou hast a spark of virtue shining in thee, fly the temptations of this young hypocrite; the love that she pretends with so much zeal and ardour, is indecent, unwar rantable, and unlawful! first indecent as she is woman—for thou art woman—and beautiful woman—yes, very beautifull woman! on whom nature hath shew'd her heighth of excellence in the out-work, but, left the in unfinisht, imperfect and impure
+Cor
+Heavens, what have we here!
+Sir Sig
+A pox of my Sir Dominie, Now is he beside his Text, and will spoil all
+Tick
+Secondly, Unwarrantable; by what authority dost thou seduce with the allurements of thine eyes, and the conjurements of thy tongue, the wastings of thy hands, and the tinklings of thy feet, the young men in the Villages?
+Cor
+Sirrah! how got this madman in? seize him, and take him hence
+Sir Sig
+Corpo de mi my Governour tickles her notably i'saith—but had he let the care of my soul alone to night, and have let me taken care of my body, 'twould have been more material at this time
+Tick
+Thirdly, Unlawful—
+Cor
+Quite distracted! in pity take him hence, and leade him into •... nesse, 'twill sute his madness best
+Tick
+How, distracted! take him hence!
+Pet
+This wa •... l •... cky—I knew she wou'd come again—take him hence—yes, into her bed-chamber—pretty device to get you to herself Signior
+Tick
+Why but is it—nay, then I will facillitate my departure—therefore I say—oh most beautifull and tempting woman—
+[Beginning to pre •... h again
+Cor
+Away with him, give him •... ern straw and darknesse,
+And cha •... him fast for fear of further mischief
+Pet
+She means for fear of losing ye
+Tick
+Ah baggage! as fast as she will in those pretty arms,
+[Going to leade him off
+Sir Sig
+Hold, hold man, Mad said ye—ha, ha, ha—mad! whe we have a thousand of these in England that go loose about the streets, and pass with us for as sober di •... creet religious persons—As a man shall wish to talk nonsense withall
+Pet
+—You are mistaken Signior, I say he is mad—stark mad,
+Sir Sig
+Prethee Barberacho what dost thou mean—
+Pet
+To rid him hence that the may be alone with you—'slife Sir, you're madder then he—don't you con •... eive—
+Sir Sig
+Ay, ay! n •... y, I confe •... se, Ill •... issima Signiora, my Gover nour has a Fit that ta •... es him now and then, a kinde of a frenzy,—a figary—a whim •... e—a m •... ot that bites always at naming of Po pery:—so—he's •... one.—Bellissimo Signiora,—you have most ar tificially remov'd him—and this extraordinary proof of your affe •... on is a signe of some small kinden •... se towards me, and though I was something •... oy and reserv'd before my Governour, Excellentissimo Signiora, let me te •... l you, your love is not cast away
+Cor
+Oh Sir you blesse too fast! but will you ever love me—
+Sir Sig
+Love thee! I and li •... with thee too, Most Magnanimous Signiora, and beget a whole Race of Roman Julius Caesa •... s upon thee; nay, now we're alone, turn me loose to impudence, i'saith
+[ruffles her, •... nter Philipa in haste, shutting the door after her
+Phil
+Oh Madam here's the young mad English Cavalier got into the house, and will not be deny'd seeing you
+Cor
+This was lucky!
+Sir Sig
+How the mad English Cavalier! If this shou'd be our young Count Galliard now—I were in a sweet taking—oh I know by my fears 'tis he; oh prethee what kinde of a manner of man is he?
+Phil
+A handsome—resolute—brave—bold—
+Sir Sig
+Oh enough enough—Madam—I'le take my leave—I see you are—something busie at present,—and I'le—
+Cor
+Not for the World,— Philipa —bring in the Cavalier—that you may, see there's none here fears him Signior
+Sir Sig
+Oh hold hold,—Madam you are mistaken in that point, for to tell you the truth, I do fear,—having—a certain—aversion or Antipathy,—to—Madam—a Gentleman—whe Madam they're the very Monsters of the Nation, they devour every day a Virgin.—
+Cor
+Good Heavens! and is he such a Fury!
+Sir Sig
+Oh and the veryest Belzebub,—besides Madam he vow'd my Death, if ever he catch me neer this house, and he ever keeps his word in cases of this Nature,—Oh that's he, [Knocking at the door I know it by a certain trembling instinct about me,—Oh what shall I do.—
+[Knocking at the door
+Cor
+Whe—I know not,—can you leap a high window?
+Sir Sig
+—He knocks again,—I protest I'me the worst Vaulter in Christendom,—have ye no moderate danger,—between the two ex treams of the window or the mad Count? no Closet,—fear has dwin dl'd me to the scantling of a Mousehole
+Cor
+—Let me see,—I have no leasure to pursue my Revenge farther, and will rest satisfy'd with this,—for this time— [Aside. —Give me the Candle,—and whilst Philipa is conducting the Cava lier to the Alcove by dark,—you may have an opportunity to slip out,—perhaps there may be danger in his being seen,— [Aside. —farewell fool.—
+[Aside
+[Aside
+[Ex. Cornelia with the Candle, Phil. goes to the door, lets in Gall. takes him by the hand
+Gall
+Pox on't my Knights bound for Vitterbo, and there's no per swading him into sase harbour again,—he has given me but two hours to dispatch matters here,—and then I'me to imbark with him upon this new discovery of honourable Love, as he calls it, whose ad venturers are sools, and the returning Cargo, that dead Commodity call'd a wife! a Voyage very sutable to my humour,—who's there?—
+Phil
+A Slave of Silvianetta's, Sir give me your hand.—
+[Ex. Over the stage. Sir Sig. goes out softly
+[The Scene changes to a Bed Chamber Alcove, Petro leading in Tickletext
+Pet
+Now Signior you're safe and happy; in the Bed-Chamber of your Mistress.—who will be here immediately I'me sure, I'le fetch a light and put you to bed in the mean time.—
+Tick
+Not before supper I hope honest Barberacho!
+Pet
+Oh Signior that you shall do lying, after the manner of the Ancient Romans
+Tick
+Certo, and that was a marevllous good lazy custome
+[Ex. Pet
+Enter Philipa with Galliard by dark.—
+Phil
+My Lady will be with you instantly.—
+[goes out
+Tick
+Hah, sure I heard some body come softly in at the door: I hope 'tis the young Gentlewoman!
+[He advances forward
+Gall
+Silence! and Night! Love and dear opportunity!
+[In a soft tone
+Joyn all your aids to make my Silvia kinde,
+For I am fild with the expecting bliss,
+[Tick. thrusts his head out to listen
+And much delay, or disappointment kills me
+Tick
+Disappointment kills me,—and me too certo. —'tis she.—
+[Gropes abeut
+Gall
+Oh haste my sair, haste to my longing Arms,—
+Where are you dear and lovely st of your Sex?
+Tick
+That's I, that's I, mi Alma! mea core mea vita! —
+[Groping and speaking low
+Gall
+Hah—art thou come my life! my soul! my joy!— [Goes to embrace, Tick. they meet and kiss. —S'death what's this a bearded Mistress! Lights lights there, quickly lights,—Nay curse me if thou scap'st me.—
+[Goes to embrace, Tick. they meet and kiss
+[Tick. struggles to get away, he holds him by the Cravat and Peri wig, Enter Petro with a Candle
+Gall
+Barberacho, —consound him 'tis the sool! whom I found this Evening about the House, hovering to roost him here!—hah—what the devil have I caught—a Tarter? Escap't again! the devil's his con federate.—
+[Groping
+[Pet. puts out the Candle, comes to Tick. unties his Cravat behind, and he slips his head out of the Periwig and gets away, leaving both in Gall.'s hands
+Pet
+Give me your hand, I'le leade you a back pair of stairs through the Garden
+Tick
+Oh any way to save my Reputation—oh—
+Gall
+Let me but once more grasp thee, and thou shalt finde more safety in the Devils clutches! none but my Mistress serve ye
+[Gropes out after him
+[Pet. with Tick. running over the stage, Gall. after'em, with the Cravat and Perewig in one hand, his Pistol in t'other
+Enter Philipa with a light
+Phil
+Mercy upon us, what's the matter—what noise is this—hah a Pistol—what can this mean?
+[A Pistol goes off
+Enter Sir Signal. running
+Sir Sig
+Oh save me, gentle devil, save me, the stairs are fortify'd witk Canons and double Culverins; I'me pursu'd by a whole Regiment of arm'd men! here's gold, gold in abundance! save me—
+Phil
+What Canons? what arm'd men?
+Sir Sig
+Finding my self pursu'd as I was groping my way through the Hall, and not being able to finde the door, I made towards the stairs again, at the foot of which I was saluted with a great gaun—a pox of the courtesie
+Gall
+[Without]
+Where are ye Knight, buffoon, dog of Egypt?
+Sir Sig
+Thunder and Lightning? 'tis Galliards voice—
+Phil
+Here, step behinde this hanging—there's a Chimney which may shelter ye till the storm be over,—if you be not smother'd before
+[Puts hi •... behinde the Arras,—Enter Gall. as before, and Corn. at the other door
+Cor
+Havens! what rude noise is this?
+Gall
+Where have you hid this fool, this lucky fool?
+He whom blinde chance, and more ill-judging woman
+Has rais'd to that degree of happinesse
+That witty men must sigh and toyl in vain for
+Cor
+Wat sool, what happinesse?
+Gall
+Cease cunning false one to excuse thy self,
+See here the Trophees of your shameful choice,
+And of my ruine, cruel—fair—deceiver!
+Cor
+Deceiver Sir, of whom—in what despairing minute did I swear to be a constant Mistress? to what dull whining Lover did I vow and had the heart to break it
+Gall
+Or if thou hadst, I know of no such dog as wou'd believe thee; no, thou art false to thy own charms, and hast betray'd'em
+To the possession of the vilest wretch
+That ever Fortune curst with happiness;
+False to thy joys, false to thy wit and youth
+All which thou'st damn'd with so much careful industry
+To an eternal fool,
+That all the arts of love can ne're redeem thee!
+Sir Sig
+Meaning me, meaning me
+[Peeping out of the Chimny his face blackt
+Cor
+A sool, what indiscretion have you seen in me, shou'd make ye think I wou'd choose a witty man for a lover, who perhaps loves out his moneth in pure good husbandry, and in that time does more mis chief then a hundred fools; ye conquer without resistance, ye treat without pity, and triumph without mercy; and when you're gone, the world crys—she had not wit enough to keep him, when indeed you are not sool enough to be kept! thus we forfeit both our Liber ties and discretion with you villanous witty men; for wisedom is but good success in things, and those that fail are fools!
+Gall
+Most gloriously disputed!
+You're grown a Machivillian in your Art
+Cor
+Oh necessary Maxims only, and the first Politiques we learn from observation—I've known a Curtezan grown infamous, despis'd, decay'd, and ruin'd, in the possession of you witty men, who when she had the luck to break her chains, and cast her net for fools, has liv'd in state, finer then Brides upon their wedding-day, and more profuse then the young amorous Coxcomb that set her up an idoll
+Sir Sig
+Well argu'd of my side, I see the Bagage loves me!
+[Peeping out with a face more smutted
+Gall
+And hast thou! oh, but prethee Jilt me on,
+And say thou hast not, destin'd all thy charms,
+To such a wicked use;
+Is that dear Face and Mouth for slaves to kiss
+Shall those bright Eyes be gaz'd upon, and serve
+But to reflect the Images of fools?
+Sir Sig
+That's I still
+[Peeping more black
+Gall
+Shall that soft tender bosome be approcht,
+By one who wants a Soul, to breathe in languishment,
+At every kiss that presses it
+Sir Sig
+Soul, what a pox care I for Soul,—as long as my person is so Amiable.—
+Gall
+—No, Renounce that dull discretion that undoes thee,
+Cunning is cheaply to be wise, leave it to those that have
+No other powers to gain a Conquest by,
+It is below thy charms;—
+—Come swear,—and be forsworn most damnably,—
+Thou hast not yielded yet; say 'twas intended only,
+And though thou ly'st, by Heaven I must believe thee,—
+—Say,—hast thou—given him—all?
+Cor
+I've done as bad, we have discourst th'affair,
+And 'tis concluded on.—
+Gall
+As bad! by Heaven much worse! discours'd with him,
+Were't thou so wretched, so depriv'd of sense,
+To hold discourse with such an Animal?
+Damn it! the sin is ne're to be forgiven!
+—Had'st thou been wanton to that lewd degree,
+By dark he might have been conducted to thee;
+Where silently he might have serv'd thy purpose,
+And thou had'st had some poor excuse for that!
+But bartering words with fools admits of none
+Cor
+I grant ye,—had I talk't •... nse to him,—which had been enough to have lost him for ever
+Sir Sig
+Poor Devil, how fearfull 'tis of losing me!
+[Aside
+Gall
+That's some atonement for thy other sins,—come break thy word and wash it quite away
+Sir Sig
+That cogging won't do my good friend, that won't do
+Gall
+Thou shalt be just and perjur'd, and pay my heart the debt of Love you owe it
+Cor
+And wou'd you have the heart—to make a whore of me?
+Gall
+With all my Soul, and the Devils in't if I can give thee a greater proof of my passion
+Cor
+I rather fear you wou'd deboch me, into that dull slave call'd a wife
+Gall
+A wife! have I no Conscience, no Honour in me!
+Prethee believe I wou'd not be so wicked,—
+No,—my desires are generous! and Noble,
+To set thee up, that glorious insolent thing,
+That makes mankinde such slaves! almighty Curtizan!
+—Come! to thy private Chamber let us haste,
+The sacred Temple of the God of Love!
+And consecrate thy power!
+[Offers to bear her off
+Cor
+Stay, do you take me then for what I seem!
+Gall
+I'me sure I do! and wou'd not be mistaken for a Kingdome! But if thou art not! I can soon mend that fault, And make thee so,—come—I'me impatient to begin the Experiment
+[Offers again to carry her off
+Cor
+Nay then I am in carnest,—hold mistaken stranger!—I am of Noble birth! and shou'd I in one hapless loving minute, destroy the Honour of my House, ruin my youth and Beauty! and all that virtuous Education, my hoping parents gave me?
+Gall
+Pretty dissembl'd pride and innocence! and wounds no less then smiles!—come let us in,—where I will give thee leave to frown and Jilt, such pretty srauds advance the appetite
+[Offers again
+Cor
+By all that's good I am a Maid of Quality! Blest with a Fortune equal to my Birth!
+Gall
+I do not credit thee, or if I did!
+For once I wou'd dispence with Quality,
+And to express my Love! take thee with all these faults!
+Cor
+And being so, can you expect I'le yield?
+Gall
+The sooner for that Reason if thou'rt wise;
+The Quality will take away the scandal,—
+Do not torment me longer.—
+[Offers to lead her again
+Cor
+Stay and be undeceiv'd,—I do conjure ye.—
+Gall
+Art thou no Curtizan?
+Cor
+Not, on my life nor do intend to be!
+Gall
+No prostitute! nor dost intend to be?
+Cor
+By all that's good, I only feign'd to be so!
+Gall
+No Curtizan! hast thou deceiv'd me then?
+Tell me thou wicked—honest couzening Beauty!
+Why did'st thou draw me in, with such a fair pretence,
+Why such a temping preface to invite,
+And the whole piece so useless and unedifying?
+—Heavens! not a Curtizan!
+Why from thy window did'st thou take my vows,
+And make such kinde returns? Oh damn your quality, what honest
+Whore but wou'd have scorn'd thy cunning
+Cor
+I make ye kinde returns!
+Gall
+—Perswade me out of that too! 'twill be like thee!
+Cor
+By all my wishes I never held discourse with you—but this Even ing since I first saw your face!
+Gall
+Oh the Impudence of Honesty and quallity in woman!
+A plague upon 'em both, they have undone me,
+Bear witness Oh thou gentle Queen of night,
+Goddess of shades, ador'd by Lovers most;
+How oft under thy covert she has damn'd her self,
+With feigned love to me!
+[in passion
+Cor
+Heavens! this is Impudence, that power I call to witness too how damnably thou injur'st me;
+[angry
+Gall
+You never from your Window talk't of love to me?
+Cor
+Never
+Gall
+So, nor you're no Curtizan;
+Cor
+No by my life!
+Gall
+So, nor do intend to be, by all that's good;
+Cor
+By all that's good never
+Gall
+So,—and you are reall honest, and of quallity?
+Cor
+Or may I still be wretched!
+Gall
+So, then farewell honesty and quallity!—S'death what a night, what hopes, and what a Mistriss; have I all lost for honesty and quallity!
+[offers to go
+Cor
+Stay.—
+Gall
+I will be wreck't first,—let go thy hold!
+[in fury
+—Unless thou wouldst repent.—
+[in a soft tone
+Cor
+I cannot of my fixt resolves for Virtue!
+—But if you could but—love me—Honourably—
+For I assum'd this habit and this dress—
+Gall
+To cheat me of my heart the readyest way! And now like Gaming Rooks, unwilling to give o're till you have hook't in my last stake my body too, you couzen me with honesty,—oh Damn the dice—Ple have no more on't I, the game's too deep for me! unless you play'd upon the square, Or I cou'd cheat like you—farewell Quallity!—
+[goes out
+Cor
+He's gone, Phillipa run and fetch him back; I have but this short night allow'd for Liberty! Perhaps to morrow I may be a slave? [Ex. Phill. —Now a my Conscience there never came good of this troublesome virtue—hang't I was too serious, but a Devil on't he looks so Char mingly—and was so very pressing I durst trust my gay Humour and good Nature no farther!
+[Ex. Phill
+[She walks about, Sir Signal peeps and then comes out
+Sir Sig
+He's gone!—so—ha ha ha—as I hope to breath Madam, you have most neatly dispatcht him; poor fool—to compare his wit and his person to mine.—
+Cor
+Hah, the Coxcombe here still.—
+Sir Sig
+Well this Countenance of mine never fail'd me yet
+Cor
+Ah—
+[Looking about on him sees his face black squeeks and runs away
+Sir Sig
+Ah, Whe what the Deavilo's that for,—Whe 'tis I, 'tis I m •... st Serenissimo Signiora!
+[Gall. returns and Philipa
+Gall
+What noise is that, or is't some new designe. To fetch me back again?
+Sir Sig
+How! Galliard return'd!
+Gall
+Hah! what art thou? a •... ortall or a Devil?
+Sir Sig
+How! not know me? now might I pass upon him most dain tily for a Devil, but that I have been beaten out of one Devilship al ready, and dare venture no more Conjurationing
+Gall
+Dog, what art thou—not speak! Nay then I'le inform my self, and try if you be flesh and blood
+[Kicks him, he avoids
+Sir Sig
+No matter for all this—'tis better to be kick't then discove red, for then I shall be kill'd!—and I can sacrifice a limb or two to my reputation at any time!
+Gall
+Death, 'tis the fool, the fool for whom I am abus'd and jilted, 'tis some revenge to disappoint her cunning, and drive the slave before me—Dog! were you her last reserve.—
+[kicks him, he keeps in his cry
+Sir Sig
+Still I say Mum!
+Gall
+The Asse will still appear through all disguises,
+Nor can the Devils shape secure the fool—
+[Kicks him he runs out as Cor. enters and holds Gall
+Cor
+Hold Tyrant—
+Gall
+Oh Women! Women! fonder in your Appetites Then Beasts; and more unnatural!
+For they but couple with their kinde, but you Promiscuously shuffle your Brutes together
+The sop of business with the lazy Gown-man—the learned Asse with the Illiterate wit. The empty coxcombe with the Pollititian, as Dull and insignificant as he; from the gay fool made more a beast by fortune to all the loath'd infirmities of Age!
+—Farewell—I scorn to crowd with the dull Herd! Or graze upon the common where they batten—
+[Goes out
+Fill
+I know he loves, by this concern I know it,
+And will not let him part disatisfy'd!
+[Goes out
+Cor
+—By all that's good I love him more each [Enter Marcella. moment, and know he's destin'd to be mine.—
+[Enter Marcella
+—What hopes Marcella, what i'st we next shall do?
+Mar
+Fly to our last reserve, come let's haste and dress! in that dis guise we took our flight from Vitterbo in,—and somthing—I resolve!
+Cor
+My soul informs me what!—I ha't! a project worthy of us both—Which whilst we dress I'le tell thee,—and by which My dear Marcella we will stand or fall, 'Tis our last stake we fet; and have at all.—
+ACT V. SCENE I
+Enter Petro, Tickletext, from the Garden
+Tick
+HAste honest Barberacho, before the day discover us to the wicked world, and that more wicked Galliard!
+Pet
+Well Signior, of a bad turn 'twas a good one, that he took you for Sir Signal! the scandal lys at his door now Sir,—so the Lad ders fast, you may now mount and away.—
+Tick
+Very well go your ways, and commend me honest Barberacho to the young Gentlewomen! and let her kno •... as soon as I may be cer tain to run no hazard in my Reputation, I'le visit her again!
+Pet
+I'le warrant ye Sigmor for the future!
+Tick
+So, now get you gone lest we be discover'd!
+Pet
+Farewell Signior, a bon viage
+[Ex. Pet. Tick. descends
+Tick
+'Tis marvellous dark, and I have lost my Lanthorn in the fray! [Groping] —hah—where abouts am I—hum—what have we here!—ah help help help! [stumbles at the Well, gets hold of the rope and slides down in the Bucket. I shall be drown'd, fire! fire, fire, for I have water enough! Oh for some house,—some street, nay wou'd Rome it self were a second time in flames, that my delive rance might be wrought by the necessity for water,—but no human help is nigh—oh
+[Groping]
+[stumbles at the Well, gets hold of the rope and slides down in the Bucket
+[Enter Sir Sig. as before
+Sir Sig
+Did ever any Knight adventurer, run through so many dis asters in one Night! my worshipful carkass has been cudgel •... d most plentifully, first bang'd for a coward, which by the way was none of my fault, I cannot help Nature! then clawd away for a Diavillo! there I was the fool! but who can help that too! frighted with Gall 's coming into an Ague, then chimney'd into a Feavor, where I had a fine regale of soot, a perfume which nothing but my Cacamarda Orangate cou •... d excell! and which I finde by— [snufs] my smelling has defac'd Na tures mage, and a second time made me be suspected for a devil!—let me see,— [Opens his Lanthorn and looks on his hands —'tis so—I am in a clenly pickle! if my face be of the same peice, I am fit to scare away old Belzebub himselfe faith: [Wipes his face. —Ay—'tis so—like to like quoth the devil to the Collier! well I'le home, scrub my self clean if possible, get me to bed, devise a hand some lye to excuse my long stay to my Governor and all's well, and the man has his Mare again! [shuts his Lanthorn and gropes away, runs a gainst the Well. — que questo [feels gently.] make me thankfull 'tis substantial wood! by your leave— [Opens his Lanthorn. how! a Well! sent by providence that I may wash my self, lest peo ple smoke me by the scent, and beat me anew for stinking: [sets down his Lanthorn, pulls of his Masking coat, and goes to draw water. 'Tis a damnable heavy Bucket, now do I fancy I shall look when I am washing my self, like the signe of the Labour in vain
+[snufs]
+[Opens his Lanthorn and looks on his hands
+[Wipes his face
+[shuts his Lanthorn and gropes away, runs a gainst the Well
+[feels gently.]
+[Opens his Lanthorn
+[sets down his Lanthorn, pulls of his Masking coat, and goes to draw water
+Tick
+So my cry is gone forth, and I am delivered by Miracle from this Dungeon of death and darkness: this cold Element of destru ction.—
+Sir Sig
+Hah—sure I heard a dismal hollow voice.—
+[Tick. appears in the Bucket, above the Well
+Tick
+What art thou com'st in charity.—
+Sir Sig
+Ah le Diavillo! le Diavillo! le Diavillo. — [Lets go the Bucket, and is running frighted away. Enter Fillamour and Page, he returns. —How a man! was ever wretched wite so miserable, the devil at one hand, and a Roman Night-walker at the other! which danger shall I choose!—
+[Lets go the Bucket, and is running frighted away
+Enter Fillamour and Page, he returns
+[Gets to the door of the house
+Tick
+So, I am got up at last—thanks to my Knight, for I am sure 'twas he! hah he's here—I'le hear his business
+[Goes neer to Fillamour
+Fill
+Confound this woman! this bewitching woman,
+I cannot shake her from my sullen heart,
+Spight of my Soul I linger here abouts;
+And cannot to Vitterbo
+Tick
+Very good! a dainty Rascall this!
+Enter Galliard with a Lanthorn, as from Silvia's house, held by Philipa
+Fill
+—Hah who's this coming from her house, perhaps 'tis Galliard!
+Gall
+No Argument shall fetch me back by Heaven?
+Fill
+'Tis the mad Rogue!
+Tick
+Oh Lord 'tis Galliard! and angry too, now cou'd I but get off and leave Sir Signal to be beaten, 'twere a rare project,—but 'tis im possible without discovery
+Fill
+But will you hear her Signior!
+Gall
+That is, will I lose more time about her! plague on't I have thrown away already such Songs, and sonets, such Madrigalls and •... o sies, such Night walks, sighs, and direfull Lovers looks, as wou'd have mollify'd any woman of Conscience and Religion! and now to be popt 'ith mouth with Quality! well if ever you catch me lying with any but honest well meaning Damzells hereafter hang me:—farewell old secret farewell! [Ex. Philipa. —Now am I asham'd of being cuzend so damnably, Fillamour that virtuous Rascall will so laugh at me! s'heart cou'd I but have debaucht him, we had been on equall terms,—but I must help my self with ly ing, and swear I have—a—
+[Ex. Philipa
+Fill
+You shall not need, I'le keep your counsel Sir!
+Gall
+Hah— este vous la! —
+Tick
+How Fillamour all this while, some comfort yet, I am not the only professor that dissembles! but how to get away.—
+Gall
+Oh Harry, the most damnably defeated!
+[A noise of swords
+Fill
+Hold! what noise is that! two men coming this way as from the house of the Curtizans
+[Enter Julio backwards fighting Octavio and bravo' •... !
+Gall
+Hah on retreating,—sdeath I've no sword!
+Enter Julio and Octavio fighting
+Fill
+Here's one! I'le take my Pages!
+[Takes the Boys sword
+Gall
+Now am I mad for mischief, here hold my Lanthorn Boy!
+[They fight on Julio's side, and fight Octavio out at tother side! Enter Laura a •... d Sabina! at the sore-door—which is the same, where Sir Signal stands, Tick. groping up that way! finds Sir Sig. just entering in: Lau. and Sab. pass over the stage
+Sir Sig
+Hah a door open! I care not who it belongs too, 'tis bet ter dying within doors like a man then in the street like a dog!
+[Going in Tick. in great fear comes up and pulls him
+Tick
+Signior! a gentle Signior, whoe're ye are that owns this Man sion, I beseech you to give protection to a wretched man! half dead with fear and injury!
+Sir Sig
+Nay, I defy the devil to be more dead with fear then I!—Sig nior you may enter! perhaps 'tis some body that will make an excuse for us both,—but hark they return!
+[And both go in: just after Laura and Sabina enter
+Lau
+He's gone! he's gone! perhaps for ever gone,—tell me thou silly manager of Love! how got this Ruffian in, how was it possible without thy knowledge,—he cou'd get admittance
+Sab
+Now as I hope to live and learn I know not Madam! unless he follow'd you when you let in the Cavalier, which being by dark he easily conceal'd himself; no doubt some Lover of the Silvianetta's who mistaking you for her! took him too for a Rival!
+Lau
+'Tis likely, and my Fortune is too blame, my cursed Fortune
+Who like Misers, deals her scanty bountys with so slow a hand,
+That or we dy before the blessing falls,
+Or have it snatcht ere we can call it ours!
+[Raving.]
+To have him in my house, to have him kinde!
+Kind as young Lovers when they meet by stelth
+As fond as Age to Beauty! and as soft,
+As Love and wit cou'd make impatient youth,
+Preventing even my wishes and desires,
+—Oh Gods! and then! even then to be defeated,
+Then from my ore joy'd Arms to have hi •... snatch't;
+Then when our vows, had made our freedome lawfull!
+What Maid cou'd suffer a surprise so cruel!
+—The day begins to break,—go search the streets,
+And bring me news he's safe or I am lost
+[Enter Gall. Fill. and Julio
+Fill
+Galliard! where art thou!
+Gall
+Here safe and by thy side.—
+Lau
+'Tis he!
+Jul
+Who ere he were, the Rogue fought like a fury, and but for your timely aid I'de been in some danger!
+Fill
+But Galliard, thou wert telling me thy adventure with Silvia netta! there may be comfort in't
+Lau
+So, now I shall hear with what concern he speaks of me
+[aside
+Gall
+Oh damn her, damn her!
+Lau
+Hah!
+[Aside
+Gall
+The very'st jilt that ever learnt the Art
+Lau
+Heavens!
+Gall
+Death the whore took me, for some Amorous English Elder Brother! and was for Matrimony in the devils name! thought me a loving fool, that nere had seen so glorious a sight before! and wou'd at any rate enjoy!
+Lau
+Oh Heavens! I am amaz'd! How much he differs from the thing he was, but a few minutes since
+[Aside
+Gall
+And to advance her price, set up for Quality! may swore she was a Maid! and that she did but Act the Curtizan!
+Lau
+Which then he seem'd to give a credit too,—oh the for sworn dissembler
+Gall
+But when I came to the matter then in debate, she was for Honourable Love forsooth, and wou'd not yield no marry wou'd she, not under a Licence from the Parson of the Parish
+Jul
+Who was it prethee, 'twere a good deed to be so reveng'd on her!
+Gall
+Pox on her no, I'me sure she's a damn'd gipsie, for at the same time she had her Lovers in reserve, lay hid in her Bed-Chamber
+Lau
+'Twas that he took unkindly
+And makes me guilty of that rude Address!
+Fill
+Another Lover had she!
+Gall
+Yes, our Coxcomb Knight Buffoon, laid by for a rellishing bit, in case I prov'd not season'd to her minde
+Lau
+Hah! he knew him then!
+Gall
+But damn her, she passes with the Night, the day will bring new Objects
+Fill
+Oh I do not doubt it Frank!
+Lau
+False and inconstant! Oh I shall rave Siilvio. —
+[Aside to Silv
+Enter Cornelia! in Mans Cloathes with a Letter
+Cor
+Here be the Cavaliers! give me kinde Heaven but hold of him, and if I keep him not, I here renounce my charms of wit and Beauty?—Signiors, is there a Cavalier amongst ye call'd Fillamour
+Fill
+I own that name; what wou'd you Sir
+Cor
+Only deliver this Signior
+[Fill. goes aside opens his Lanthorn and reads, Jul. and Gall talk aside
+Fill
+[Reads.] I'le only tell you I am Brother to that Marcella whom you have injur'd; to oblige you to meet me an hour hence, in the Piazo Despagnia! I need not say with your sword in your hand, since you will there meet,— Julio Sebastiano, Murisim: —hah! her Brother sure—return'd from Travel, [Aside. —Signior—I will not fail to answer it as he desires, [to Cornelia. I'le take this opportunity to steal off undiscover'd, [Aside going out
+[Reads.]
+[Aside
+[to Cornelia
+[Aside going out
+Cor
+So I've done my sisters business, now for my own
+Gall
+But my good friend, pray what adventure have you been on to Night
+Jul
+Faith Sir, 'twas like to have prov'd a pleasant one, I came just now from the Silvianetta, —the fair young Curtizan
+Cor
+Hah! what said the man—came from me!
+[Aside
+Gall
+How Sir, you with Silvianetta! when?
+Jul
+Now, all the dear live long Night
+Cor
+A pox take him, who can this be?—
+[Aside
+Gall
+This Night! this Night! that is not yet departed!
+Jul
+This very happy Night:—I told you I saw a lovely woman at St. Peters Church
+Gall
+You did so
+Jul
+I told you too I follow'd her home, but cou'd learn neither her Name nor quality, but my Page getting ino the acquaintance of one of hers, brought me news of both: her Name Silvianetta, her quality a Curtizan!
+Cor
+I at Church yesterday! Now hang me if I had any such devout thoughts about me, whe what a damn'd scandalous Rascall this
+Jul
+Fill'd with hopes of success, at Night I made her a visit, and under her window had a skirmish with some Rival, who was then se rinading her
+Gall
+Was't he that fought us then,— [Aside] —but it seems you were not mistaken in the house,—on with your story pray—death I grow jealous now,— [Aside] you came at Night you said?—
+[Aside]
+[Aside]
+Jul
+Yes, and was receiv'd at the door, by the kind Silvianetta, who softly whisper'd me, come to my bosome and be safe for ever! and doubtless took me for some happier man
+Lau
+Confusion on him, 'twas my very language!
+[Aside raving
+Jul
+Then led me by dark, into her Chamber!
+Cor
+Oh this damn'd lying Rascall! I do this?
+[Aside
+Jul
+But oh the things, the dear obliging things, the kinde the fair young charmer said and did
+Gall
+To thee!
+Jul
+To me
+Gall
+Did Silvianetta do this, Silvianetta the Curtizan
+Jul
+That passes Sir for such, but is indeed of quality
+Cor
+This stranger is the devil! how shou'd he know that secret else
+Jul
+She told me too 'twas for my sake alone, whom from the first minute she saw, she Lov'd! she had assum'd that Name and that dis guise, the sooner to invite me
+Lau
+'Tis plain, the things I utter'd!—oh my heart!
+Gall
+Curse on the publique jilt, the very flattery she wou'd have past on me
+Cor
+Pox take him, I must draw on him, I cannot hold!
+[Aside,
+Gall
+Was ever such a whore
+Lau
+Oh that I knew this man, whom by mistake! [Aside, I lavisht all the secrets of my soul too!
+[Aside,
+[Aside,
+Jul
+I prest for something more then dear expressions,
+And found her yield apace,
+But sighing told me, of a fatall Contract,
+She was oblig'd to make to one she never saw,
+And yet if I wou'd vow to Marry her, when she cou'd prove to
+Merrit it, she wou'd deny me nothing
+Lau
+'Twas I, by Heaven that heedless fool was I
+Jul
+Which I with Lovers eager joy perform'd,
+And on my knees utter'd the hasty words,
+Which she repeated ore and gave me back!
+Gall
+So, he has swallow'd with a vengeance the very bait she had prepar'd for me, or anybody that wou'd bite
+[Aside,
+Jul
+But ere I cou'd receive the dear reward of all my vows,
+I was drawn upon, by a man that lay hid in her Chamber
+Whether by chance or design I know not, who fought me out,
+And was the same you found me engag'd with
+Cor
+A pleasant Rascall this, as ere the devil taught his lesson too
+Gall
+So, my comfort is she has jilted him too most damnably
+Cor
+'Slife I have anger enough to make me valiant, why shou'd I not make use on't, and beat this lying Villain whilst the sit holds
+Gall
+And you design to keep these vows, though you're contracted to another woman?
+Jul
+I neither thought of breaking those, or keeping these, My soul was all imploy'd another way
+Lau
+—It shall be so,— Silvio —I've thought upon a way that must redeem all,—hark and observe me.—
+[Takes Sil. and whispers to him
+Jul
+But I'me impatient to pursue my adventure, Which I must endeavour to do, before the light discover the mistake;—Farewell Sir
+[Ex. Julio
+Gall
+Go and be ruin'd quite, she has the knack of doing it
+Silv
+I'le warrant ye Madam for my part
+[Ex. Laura!
+Gall
+—I have a damn'd hankering after this woman, why cou'd not I have put the cheat on her, as Julio has, I stand as little on my word as he! a good round Oath or two had done the business,—but a pox on't I lov'd too well to be so wise
+[Silvio comes up to him
+Sab
+Conlicentia Signior! Is your name Galliard?
+Gall
+I am the man sweet-heart,—let me behold thee—hah— Sans Cour's! Page
+Sab
+A dews of his Lanthorn, what shall I say now? [Aside. —Softly Signior, I am that Page whose chiefest business is to attend my Lords Mistriss Sir
+[Aside
+Cor
+His Mistress: whose Mistress, what Mistress; s'life how that lit tle word has nettled me!
+[Aside listening close
+Gall
+Upon my life the woman that he boasted of. [Aside hugging himself. —a fair young Amorous—Noble—Wanton a—And she wou'd speak with me my lovely boy?
+[Aside hugging himself
+Sab
+You have prevented the commands I had! but should my Lord know of it;—
+Gall
+Thou wert undone! I understand thee—
+And will be as secret as a Confessor—
+As lonely shades, or everlasting Night—come lead the way.—
+Cor
+Where I will follow thee, though to the bed of her thou'rt go ing too, and even prevent thy very business there.—
+[Aside
+Exeunt
+Enter Laura as before in a Night-gown. Scone, A Chamber
+Lau
+Now for a power that never yet was known
+To charm this stranger quickly into love,
+Assist my eyes thou God of kinde desires;
+Inspire my language with a moving force
+That may at once gain and secure the Victory
+Enter Sil
+Sab
+Madam your Lovers here: your time's but short, consider too Count Julio may arrive!
+Lau
+Let him arrive! having secur'd my self of what I love,
+I'le leave him to complain his unknown losse
+To carelesse winds as pittyless as I: Sabina see the Rooms
+Be fill'd with lights! whilst I prepare my self to entertain him
+Darkness shall ne're deceive me more—
+[Enter to Sil. Gall. gazing •... about him Cor. peeping at the door
+Gall
+All's wonderous rich,—Gay as the Court of love, But still and silent as the shades of death;—Hah—Musick! and Excellent! [Soft Musick whilst they speak, Poxon't—but where's the woman—! need no preparation.—
+[Soft Musick whilst they speak,
+Cor
+No you are always provided for such incounters and can fall too Sans Ceremony,—but I may spoil you stomack
+[A Song tuning
+Gall
+A voice too, by Heaven and 'tis a sweet one
+Grant she be young and I'le excuse the rest
+Yet vie for pleasure with the happyest Roman!
+[The Song as by Laura, after which soft Musick till she enters. The SONG By a Person of Quality. FArewell the World and mortal cares The ravisht Strephon cry'd, As full of joy and tender tears He lay by •... hillis side: Let others toyl for wealth and fame, Whilst not one thought of mine, At any other bliss shall aim, But those dear arms, but those dear arms of thine. Still let me gaze on thy bright eyes, And hear thy charming tongue, I nothing askt' increase my joys But thus to feel'em long; In close embraces let us lye, And spend our lives to come, Then let us both together dye And be each others, be each others Tomb
+The SONG By a Person of Quality
+FArewell the World and mortal cares
+The ravisht Strephon cry'd,
+As full of joy and tender tears
+He lay by •... hillis side
+Let others toyl for wealth and fame,
+Whilst not one thought of mine,
+At any other bliss shall aim,
+But those dear arms, but those dear arms of thine
+Still let me gaze on thy bright eyes,
+And hear thy charming tongue,
+I nothing askt' increase my joys
+But thus to feel'em long;
+In close embraces let us lye,
+And spend our lives to come,
+Then let us both together dye
+And be each others, be each others Tomb
+—Death I am fir'd already with her voice.—
+Cor
+So, I am like to thrive,—
+[Enter Julio
+Jul
+What mean these lights in every room, as if to make the day without the Sun: and quite destroy my hopes!—hah Galliard here!
+Cor
+A man! grant it some Lover, or some Husband Heaven!
+Or any thing that will but spoil the sport,
+The Lady! oh blast her! how fair she is
+[Enter Laura with her Lute drest in a careless rich dress, follow'd by Sabina to whom she gives her Lute
+Jul
+Hah! 'tis the same woman!
+[Sees Julio and starts
+Lau
+A stranger here! what Art can help me now.—
+[She pauses
+Gall
+By all my joys a lovely woman 'tis,
+Lau
+Help me deceipt, dissembling, all that's woman—
+[She starts and gazes on Gall. pulling Silvio
+Cor
+Sure I shou'd know that face.—
+Lau
+Ah look my Silvio! is't not he!—it is!
+That smile, that Air, that meen, that Bow is his!
+'Tis he by all my hopes, by all my wishes!
+Gall
+He, yes yes, I am a He, I thank my stars
+And never blest'em half so much for being so,
+As for the dear variety of woman!
+Cor
+Curse on her charms shee'l make him love in earnest
+Lau
+It is my Brother! and report was false!
+[Going towards him
+Gall
+How her Brother! Gad I'me sorry we're so neer akin with all My soul; for I am damnably pleas'd with her!
+Lau
+Ah why do ye shun my Arms—or are ye Ayr!
+And not to be inclos'd in human twines—
+Perhaps you are the Ghost of that dead Lord!
+That comes to whisper vengance to my soul
+Lau
+Shart! a Ghost! this is an odd preparative to 'love
+(Aside
+Cor
+'Tis Laura! my Brother Julio 's Mistress, and Sister to Octavio!
+Gall
+Death, Madam, do not scare away my love, with tales of Ghosts, and fancies of the dead, I'le give ye proofs I'me living lo ving man, as errant an Amorous a Mortall as heart can wish—I hope she will not jilt me too
+[Aside
+Cor
+So! he's at his common proof for all Arguments If she shou'd take him at his word now, and she'l be sure to do't
+Lau
+Amiable stranger pardon the mistake!
+And charge it on my passion for a Brother!
+Devotion was not more retir'd then I,
+Vestals, or widow'd Matrons when they weep,
+Till by a fatall chance I saw in you;
+The dear resemblance of a Murther'd Brother!
+[Weeps
+Jul
+What the devil can she mean by this
+[Aside
+Lau
+I durst not trust my eyes, yet still I gaz'd,
+And that encreas'd my faith you were my Brother,
+But since they err'd, and he indeed is dead,
+Oh give me leave to pay you all that love,
+That tenderness and passion that was his!
+[Weeping
+Cor
+So, I knew she wou'd bring matters about some way or other, oh mischief mischief help me! 'slife I can be wicked enough when I have no use on't, and now I have, I'me as harmless as a fool
+[As Gall. is earnestly talking to Lau. Julio pulls him by the sleeve
+Lau
+Oh save me! save me from the Murderer!
+Jul
+Hah!
+Gall
+A Murderer where!
+Lau
+I faint, I dye with horror of the sight
+Gall
+Hah—my friend a Murderer! sure you mistake him Madam, he saw not Rome till yesterday,—an honest youth Madam and one that knows his distance upon occasion!—'slife how cam'st thou here—prethee begone and leave us!
+Jul
+Why do you know this Lady Sir
+Gall
+Know her!—a—ay ay—man—and all her Relations, she's of quality,—withdraw withdraw—Madam—a—he is my friend and shall be civil.—
+Lau
+I have an easie faith for all you say,—but yet however inno cent he be or dear to you, I beg he woul'd depart—he is so like my brothers Murtherer, that one look more wou'd kill me—
+Jul
+A Murtherer! charge me with cowardise, with Rapes or Trea sons—Gods a Murtherer!
+Cor
+A devil on her! she has rob'd the sex of all their arts of cun ning
+Gall
+Pox on't thou'rt rude! go, in good manners go—
+Lau
+I do conjure ye torture me no more,
+If you wou'd have me think you're not that Murtherer
+Be gone—and leave your Friend to calm my heart
+Into some kinder thoughts!
+Gall
+Ay, ay, prithee go! I'le be sure to do thy business for thee;
+Cor
+Yes, yes, you will not fail to do a friendly part no doubt—
+Jul
+'Tis but in vain to stay—I see she did mistake her man last Night, and 'twas to chance I am in debt for that good fortune!—I will retire to show my obedience Madam!
+[Ex. Jul. Gall. going to the door with him
+Lau
+He's gone and left me Mistress of my wish!
+Descend ye little winged Gods of Love,
+Descend and hover round our bower of blisse,
+Play all in various forms about the youth;
+[Aside
+And empty all our quivers at his heart
+[Gall. returns, she takes him by the hand
+—Advance thou dearer to my soul then kindred,
+Thou more then Friend or Brother,
+Let meaner Souls born base conceal the God!
+Love owns his Monarchy within my heart,
+So Kings that daign to visit humble roofs
+Enter disguis'd, but in a Noble Palace,
+Own their great Power, and show themselves in glory
+Gall
+I am all transport with this sudain bliss,
+And want some kinde allay to sit my Soul for recompence
+Cor
+Yes, yes, my forward friend you shall have an allay, if all my Art can do't, to damp thee even to disappointment
+Gall
+My Souls all wonder now, let us retire,
+And gaze till I have softend it to Love
+[Going out is •... ot by Cor
+Cor
+Madam!
+Lau
+More interruption!—hah.—
+[Turns
+Cor
+My Master the young Count Julio
+Lau
+Julio!
+Gall
+What of him
+[Aside
+Cor
+Being just now arriv'd at Rome!
+Lau
+Heavens! arriv'd!
+[Aside
+Cor
+Sent me to beg the Honour of waiting on you
+Lau
+Sure stranger you mistake!—
+Cor
+If Madam you are Laura Lucretia! —
+Gall
+Laura Lucretia! by Heaven the very woman he's to marry
+[Aside
+Lau
+This wou'd surprise a Virgin less resolv'd,
+But what have I to do with ought but Love!
+[Aside
+—And can your Lord imagine this an hour,
+To make a ceremonious visit in!
+Gall
+Ridles by Love! or is't some trick again
+[Aside
+Cor
+Madam, where vows are past, the want of ceremony may be pardon'd!
+Lau
+I do not use to have my will disputed,
+Begone and let him know I'le be obey'd!
+Cor
+'Slife she'l out-wit me yet,—
+[Aside
+Madam I see this niceness is not general,
+—You can except some Lovers
+Gall
+My pert young confident depart, and let your Master know he'l finde a better welcome from the fair vain Curtizan, la Silvianetta! where he has past the Night and given his vows
+Lau
+Dearly devis'd and I must take the hint
+[Aside smiling
+Cor
+He knows me sure, and says all this to plague me. [Aside. My Lord, my Master with a Curtizan! he's but just now ariv'd
+[Aside
+Gall
+A pretty focward sawcy lying boy this! and may do well in time,—Madam believe him not, I saw his Master yesterday,—con verst with him,—I know him he's my friend!—'twas he that parted hence but now,—he told me all his passion for a Curtizan, scarce half an hour since
+Cor
+So!
+Lau
+I do not doubt it, oh how I love him for this seasonable lye,
+—And can you think I'le see a perjur'd man,
+[To Cor
+Who gives my intrest in him to another,
+—Do I not help ye out most Artfully.—
+[And laughing to Gall
+Cor
+I see they are resolv'd to out face me
+Gall
+Nay vow'd to marry her!
+Lau
+Heavens to marry her!
+Cor
+To be conquer'd at my own weapon too,—lying 'tis a hard case!—
+[Aside
+Gall
+Go boy you may be gone, you have your Answer childe, And may depart—come Madam let us leave him
+Cor
+Gone! no help, death I'le quarrel with him,—nay fight him,—Damn him,—rather then loose him thus,—stay Signior, [Pulls him. —You call me boy,—but you may finde your self mistaken Sir,—And know—I've that about me may convince ye, [Showing his sword. —'Thas done some Execution!
+[Pulls him
+[Showing his sword
+Gall
+Prethee on whom or what? small Village curs! The barking of a Mastive wou'd unman thee
+[Offers to go
+Cor
+Hold—follow me from the refuge of her Arms!
+As thou'rt a man, I do conjure thee do't
+—'hope he will, I'le venture beating for't
+[Aside
+Gall
+Yes, my brisk—little Rascal—I will—a—
+Lau
+By all that's good you shall not stir from hence, ho who waits there, Antonio, Silvio, Gaspero, [Enter all] —take that firce youth and bear him from my sight
+[Enter all]
+Cor
+You shall not need, 'slife these rough Rogues will be too hard for me,—'ve one prevention left,—farewell, Maist thou supply her with as feable Art, As I shou'd do, were I to play thy part
+[Goes out with the rest
+Gall
+He's gone! Now lets redeem our blessed minutes lost. [Goin Scene changes to the Street.— Piazo Despagnia!
+[Goin Scene changes to the Street.—
+Enter Julio alone
+Jul
+Now by this breaking daylight I cou'd rave, I knew she mi stook me last Night which made me so eager to improve my luckey minutes,—fure Galliard is not the man, I long to know the mistery,—hah—who's here— Fillamour
+[Enter Fillamour met by Marcella in Mans Clothes, they pass by each other—cock and justle
+Mar
+I take it—you are he I look for Sir!
+Fill
+My Name is Fillamour
+Mar
+Mine, —Julio Sebastiano Murisini
+Jul
+Hah, my Name by Heaven
+[Aside
+Fill
+I doubt it not, since in that Lovely face,
+I see the charming Image of Marcella!
+Jul
+Hah.—
+Mar
+You might, ere Travel rufled me to man,
+—I shou'd return thy praise whilst I survey thee,
+But that I came not here for Complement,—draw.—
+[Draws
+Fill
+Why cause thou'rt like Marcella?
+Mar
+That were sufficient reason for thy hate,
+But mine's because thou hast betray'd her basely;
+—She told me all the story of her Love,
+How well you meant, how honestly you swore,
+And with a thousand tears imploy'd my Aid
+To break the contract she was forc't to make,
+T'Octavio, and give her to your Arms
+I did, and brought you word of our design,
+—I need not tell ye what returns you made;
+Let it suffice my Sister was neglected,
+Neglected for a Curtizan,—a whore!
+I watcht and saw each circumstance of falshood,
+Jul,
+Damnation! what means this?
+Fill
+I scorn to save my life by lyes or flatterys,
+But credit me, the Visit that I made,
+I durst have sworn had been to my Marcella!
+Her Face, her Eyes, her Beauty was the same,
+Only the business of her Language differ'd,
+And undeceiv'd my hope
+Mar
+In vain thou think'st to flatter me to faith,—
+When thou'dst my Sisters Letter in thy hand, which ended that dispute
+Even then I saw with what regret you read it
+What care you took to disobey it too,—
+The shivering Maid, half dead with fears and terrors of the Night,
+In vain expected a relief from Love or thee,
+Draw that I may return her the glad news I have reveng'd her
+Jul
+Hold much mistaken youth! 'tis I am Julio, thou Fillamour know'st my Name, knows I ariv'd but yesterday at Rome, and heard the killing news of both my Sisters flights, Marcella and Cornelia, —and thou art some Imposture
+[To Marcella
+Mar
+If this now shou'd be true, I were in a fine condition.—
+Fill
+Fled! Marcella fled!
+Jul
+'Twas she I told thee yesterday was lost,
+But why art thou concern'd,—explain the Mistery!
+Fill
+I lov'd her more then life! nay even than Heaven!
+And dost thou question my concern for her,
+Say how! and why! and whether is she fled!
+Jul
+Oh wou'd I knew, that I might kill her in her Lovers Arms, Or if I found her innocent, restore her to Octavio!
+Fill
+To Octavio! and is my friendship of so little worth, You cannot think I merrit her
+Jul
+This is some trick between 'em! but I have sworn most solemn ly, have sworn by Heaven and my Honour to resign her, and I will do't or dye,—therefore declare quickly, declare where she's, or I will leave thee dead upon the place
+[To Marcella
+Mar
+So, death or Octavio, a pretty hopefull choice this
+Fill
+Hold! by Heaven you shall not touch a single hair, thus—will I guard the secret in his bosome
+[Puts himself between 'em draws
+Jul
+'Tis plain thoust injur'd me,—and to my Honour I'le sacrifice my friendship, follow me
+[Enter Petro and Cornelia
+Mar
+Ah Petro, fly fly swist and rescue him.—
+[Exiunt Pet. with his sword in his hand
+Cor
+Oh have I found thee, fit for my purpose too. Come hast along with me,—thou must present my Brother Julio in stantly, or I am lost, and my projects lost, and my mans lost, and all's lost
+Enter Petro
+Pet
+Victoria, Victoria, your Cavaliers and Conqueror! the other wounded in his sword hand, was easily disarm'd
+Mar
+Then lets retire, if I am seen I'me lost,— Petro stay here for the Cavalier, and conduct him to me to this house;—I must be speedy now.—
+Cor
+Remember this is Julio!
+[Pointing to Marcella!
+Pet
+I know your design and warrant ye my part:—hah Octavio
+Enter Octavio, Murisini, and Crapine
+Oct
+Now cowardise that everlasting infamy, dwell ever on my face, that men may point me out that hated Lover, that saw his Mistress false, stood tamely by whilst she repeated vows! nay was so infamous so dully tame, to hear her swear her hatred and aversion, yet still I calmly listend! thongh my sword were ready, and did not cut his throat for't
+Mur
+I thought, you'd said you'd fought
+Oct
+Yes, I did rouse at last and wak'd my wrongs,
+But like an Ass a patient fool of Honour,
+I gave him friendly Notice I wou'd kill him;
+And fought like prizers not as angry Rivals
+Mur
+Why that was hansome,—I love fair play what wou'd you else have done!
+Oct
+Have fall'n upon him like a sudain storm, [Enter Pet. and Fill. quick unexpected in his height of Love:—see—see yonder! or I'me mistaken by this glimering day or that is Fillamour; now entering at her door, 'tis he by my revenge:—what say you Sir
+[Enter Pet. and Fill
+Mur
+By th' Mass I think it was he,—
+Enter Julio
+Oct
+Julio I've caught the wantons in their toyl,
+I have 'em fast, thy sister and her Lover
+[Embraceshim
+Jul
+Eternal shame light on me, if they scape then!
+Oct
+Follow me quick,—whilst we can get admittance
+Jul
+Where—here!
+Oct
+Here,—come all and see her shame and my Revenge
+Jul
+And are you not mistaken in the house
+Oct
+Mistaken! I saw the Ravisher enter just now, thy Uncle saw it too, oh my Excessive joy, come if I lye—say I'me a dog a Villain!
+[Exeunt as into the House
+Scene changes to a Chamber, Enter Sir Signal —a little groping
+Sir Sig
+There's no finding my way out,—and now does fear make me fancy,—this some Inchanted Castle.—
+[Enter Tick. listening
+Tick
+Hah an Inchanted Castle!
+Sir Sig
+Belonging to a monsterous Giant! who having spirited a way the King of Tropicipopicans Daughter, keeps her here inclos'd, and that I wandering Knight am by fickle Fortune sent to her deliverance
+[Tick. listens
+Tick
+How's that! spirited away the King of Tropicipopicans daugh ter! bless me what unlawfull wickedness is practic'd, in this Romish Heathenish Countreys!
+[Aside
+Sir Sig
+And yet the devil of any dwarfe Squire or Damzel have I met with yet:—wou'd I were clenlily off a this business,—hah lights as I live! and people coming this way!—bless me from the Giant,—Oh Lord what shall I do.—
+[Falls on his knees
+Tick
+I fear no Giants, having justice on my side, but Reputation makes me tender of my person!—hah—what's this a Curtain: I'le winde my self in this, it may secure me!
+[Winds himself in a window Curtain
+Sir Sig
+—They're entering, what shall I do—hah—here's a cor ner! defend me from a Chimney
+[Creeps to the corner of the Window, and feels a space between Tick. legs and the corner, creeps in and stands up just behind Tickletext. Enter Gall. leading Laura! Sab. with lights just after 'em! Jul. Oct. Mur. and Crap
+Oct
+Just in the happy minute
+Gall
+I've sworn by every God! by every power divine! to Marry thee! and save thee from the Tyranny of a forc't Contract,—Nay Gad if I loose a fine wench for want of Oaths this bout the devil's in me
+Oct
+What think ye now Sir
+Jul
+Damnation on her, set my rage at liberty! [Mur. holds him. that I may kill 'em both!
+[Mur. holds him
+Mur
+I see no cause for that, she may be virtuous yet
+Oct
+De ye think as such to pass her off on me,
+Or that I'le bear the infamy of your Family,
+No I scorn her now, but can revenge my Honour on a Rival!
+Mur
+Nay then I'le see fair play,—turn and defend thy life
+[goes to who turns
+Jul
+Whilst I do justice on the Prostitute!—hah—Gall
+Defend me 'tis the woman that I Love
+[He gazes! she runs to Gall
+Lau
+Octavio!
+Oct
+Laura! my sister! persidious shamefull!—
+[Offers to kill her
+Jul
+Hold! thy sister this? that sister I'me to marry! (wretched
+Lau
+Is this then Julio! and do all the powers conspire to make me
+Oct
+May I be dumb for ever!
+[Holds his sword down and looks sadly, Jul. holds Lau. by one hand pleads with Oct. with the other, Enter Fillamour and Pet
+Fill
+—Hah Galliard! in danger too!
+[Draws
+[steps to 'em! Mur. puts between
+Oct
+Fillamour here, how now what's the matter friend
+[they talk whilst Enter Marcella and Cornelia
+Cor
+Hah new broyls, sure the devil's broke loose to Night!—my Uncle as I live!
+[Mur. pleads between Fill. and Octavio
+Mar
+And Octavio! where shall we fly for safety!
+Cor
+I'le ene trust to my Breeches! 'tis too late to retreat!—'slife here be our Cavaliers too, nay then nere fear falling into the Enemies hands!
+Fill
+〈◊〉 , I fled with Marcella! had I been blest with so much Love from her, I wou'd have boasted on't 'ith face of Heaven
+Mur
+La ye Sir
+[To Octavio!
+Fill
+The lovely Maid, I own I have a passion for,
+But by the powers above the flame was sacred,
+And wou'd no more have past the bounds of Honour,
+Or hospitallity! then I wou'd basely Murther! and were she free,
+I wou'd from all the World make her for ever mine
+Mur
+Look ye Sir, a plain case this
+Gall
+He tells ye simple truth Sir
+Oct
+Was it not you, this scarce past Night I fought with here, in the house by dark! just when you had exchanged your vows with her!
+Lau
+Heavens! was it he •... ?
+[Aside
+Fill
+This minute was the first I ever entred here!
+Jul
+'Twas I Sir, was that interrupted Lover,—and this the Lady!
+Lau
+And must •... yield at last
+[Aside
+Oct
+Wonders and Ridles!
+Gall
+And was this the Silvianetta Sir, you told the story of!
+[slyly
+Jul
+The same whom inclination, friends and destiny, Conspire to make me blest with
+Gall
+So many disappointments in one Night, wou'd make a man turn honest in spight of Nature!
+[Sir Sig. peeps from behind
+Sir Sig
+Some comfort yet, that I am not the only fool defeated! hah! Galliard
+Oct
+I'me satisfied! [to Fill.] —but what cou'd move you Sir,— [to Gall.] to injure me! one of my Birth and Quality!
+[to Fill.]
+[to Gall.]
+Gall
+Faith Sir I never stand upon ceremony when there's a woman in the case,—nor knew I 'twas your Sister: Or if I had I shou'd alik'd her nere the worse for that, had she been kind
+Jul
+It is my business to account with him,
+And I am satisfy'd he has not injur'd me! he is my friend!
+Gall
+That's frankly said! and uncompel'd I swear she's innocent!
+Oct
+If you're convinc't! I too am satisfy'd!
+And give her to you whilst that faith continues!
+[Gives him her
+Lau
+And must I, must I force my heart to yield!
+[Aside
+And yet his generous confidence Obliges me!
+[Aside
+Oct
+And here I vow! by all the sacred Powers, [Kneels.] that pu nish perjury, never to set my heart on saithless woman!—Never to Love nor Marry! [Rises.] Travel shall be my business,—thou my Heir!
+[Kneels.]
+[Rises.]
+[To Julio
+Sir Sig
+So, poor soal, I warrant he has been deseated too!
+Mar
+Marcella Sir will take ye at your word!
+Fill
+Marcella!
+Mar
+Who owns with blushes truths shou'd beconceal'd, but to pre vent more mischief,—that I was yours Sir was against my will, [to Oct. my soul was Fillamours ere you claim d a right in me; though I nere saw or held discourse with him, but at an awfull distance,—nor knew he of my flight
+[to Oct
+Oct
+I do believe, and give thee back my claim, I scorn the brutal part of Love! the noblest body where the heart is wanting
+[They all talk aside, Cornelia comes up to Galliard!
+Cor
+Whe how now Cavalier! how like a discarded favorite do you look now, who whilst your Authority lasted laid about ye; domi neerd huft and blusterd, as if there had been no end on't, now a man may approach ye without terror!—you see the meats snatcht out of your mouth Sir, the Lady's dispos'd on! who's Friends and Relations you were so well acquainted with
+Gall
+Peace boy, I shall be angry else.—
+Cor
+Have you never a cast Mistress that will take compassion on you: faith what think you of the little Curtizan now!
+Gall
+As ill as ere I did! what's that to thee
+Cor
+Much more then you're aware on Sir,—and faith to tell you truth I'me no servant to Count Julio! but ene a little michievous instru ment she sent hither to prevent your making Love to Dona Laura!
+Gall
+'Tis she her self,—how cou'd that beauty hide it self so long from being known! [Aside.] —Malicious little dog in a Manger, that wou'd neither eat, nor suffer the hungry to feed themselves! what spitefull devil cou'd move thee to treat a Lover thus! but I am pretty well reveng'd on ye!
+[Aside.]
+Cor
+On me!
+Gall
+You think I did not know those pretty Eyes! that lovely Mouth I have so often kist in cold imagination
+Cor
+Softly tormentor!
+[They talk aside
+Mar
+In this difguse we parted from Vitterbo! atended only by Petro, and I hil pa! at Rome we took the Title and habit of two Curtizans; both to shelter us from knowledge, and to Oblige Fillamour to visit us, which we beliv'd he wou'd in curiosity, and yesterday it so fell out as we desir'd!
+Fill
+How ere my eyes might be impos'd upon, you see my heart was firm to its first object, can you forget and pardon the mistake!
+Jul
+She shall! and with Octavio's —and my Uncles leave,—thus make your Title good.—
+[Gives her to Fill
+Oct
+'Tis vain to strive with destiny!
+[Gives her
+Mur
+With all my heart,—but where's Cornelia all this while!
+Gall
+Here's the fair stragler Sir
+[Leads her to Mur. he holds his Cane up at her
+Mur
+Why thou baggage, thou wicked contriver of mischief, what excuse hadst thou for running away, thou hadst no Lover?
+Cor
+'Twas therefore Sir I went to finde one! and if I am not mista ken in the mark, 'tis this Cavalier I pitch upon for that use and purpose
+Gall
+Gad I thank ye for that,—I hope you'l ask my leave first, I'me finely drawn in efaith!—have I been dreaming all this Night, of the possession of a new gotten Mistress, to wake and finde my self nooz'd to a dull wise in the morning
+Fill
+Thou talkst like a man that never knew the pleasures thou dis pisest; faith try it Frank and thou wilt hate thy past loose way of living
+Cor
+And to encourage a young setter up, I do here promise to be the most Mistriss like wise,—you know Signior I have learnt the trade, though I had not stock to practice, and will be as expensive, Insolent, vain Extravagant, and Inconstant, as if you only had the keeping part, and another the Amorous Asignations, what think ye Sir
+Fill
+Faith she pleads well! and ought to cary the cause!
+Gall
+She speaks Reason! and I'me resolv'd to trust good Nature!—give me thy dear hand.—
+[They all joyn to give it him, he kisses it
+Mur
+And now you are both speed, pray give me leave to ask ye a civil question! are you sure you have been honest, if you have I know not by what Miracle you have liv'd
+Pet
+Oh Sir as for that, I had a small stock of cash, in the hands of a cuple of English Bankers, on Sir Signal Buffoon. —
+Sir Sig
+Sir Signal Buffoon! what a pox does he mean me trow
+[Peeping
+Pet
+—And one Mr. Tickletext!
+Tick
+How was that,— certo my Name!
+[Peeps out and both see each other their faces, being close together one at one side the Curtain, and tother at tother
+Gall. and Fill
+Ha ha ha!
+Sir Sig
+And have I caught you efaith Mr. Governor! Nay nere put in your head for the matter, here's none but friends mun!
+Gall
+How now what have we here!
+Sir Sig
+Speak of the devil and he appears!
+[Pulls his Governor forward
+Tick
+I am nndone!—but good Sir Signal do not cry whore first! as the old proverb says!
+Sir Sig
+And good Mr. Governor, as another old proverb says, do not let the kettle call the Pot black-ars!—
+Fill
+How came you hither Gentlemen!
+Sir Sig
+Whe! faith Sir divining of a wedding or two forward, I brought Mr. Chaplain to give you a cast of his Office, as the saying is
+Fill
+What without Book Mr. Tickletext
+Cor
+How now! sure you mistake, these are two Lovers of mine
+Sir Sig
+How Sir your Lovers! we are none of those Sir, we are Eng lishmen!
+Gall
+You mistake Sir Signal, this is Silvianetta!
+Sir Sig. and Tick
+How!
+[Aside
+Gall
+Here's another spark of your acquaintance,—do you know him
+Tick
+How Barberacho! nay then all will out.—
+Gall
+Yes, and your fencing and Civility-Master
+Sir Sig
+Ay,—whe what was it you that pickt our pocket's then,—and cheated us!
+Gall
+Most damnably,—but since 'twas for the supply of two fair Ladys, all shall be restor'd again
+Tick
+Some comfort that
+Fill
+Come lets in and forgive all, 'twas but one Nights Intrigue, in which all were a little faulty!
+Sir Sig
+And Governor, pray let me have no more dominering and Usurpation! But, as we have hitherto been honest Brothers in iniquity, so let's wink hereafter at each others frailties! Since Love and women easily betray man, From the grave Gown-man to the busy Lay-man
+The EPILOGUE,
+Spoken by Mr. Smith
+SO hard the Times are, and so thin the Town,
+Though but one Playhouse, that must too lie down;
+And when we fail what will the Poets do?
+They live by us as we are kept by you
+When we disband, they no more Plays will write,
+But make Lampoons, and Libell ye in spight;
+Discover each false heart that lies within,
+Nor Man nor Woman shall in private sin;
+The precise whoring Husbands haunts betray,
+Which the demurer Lady to repay,
+In his own coin does the just debt defray
+The brisk young Beauty linkt to Lands and Age,
+Shuns the dull property, and strokes the youthfull Page;
+And if the stripling apprehend not soon,
+Turns him aside and takes the brawny Groom,
+Whilst the kinde man so true a Husband proves,
+To think all's well done by the thing he loves;
+Knows he's a Cuckold, yet content to bear
+What 'ere Heaven sends, or horns or lusty heir;
+Fops of all sorts he draws more artfully,
+Then ever on the Stage did Nokes or Leigh
+And Heaven be prais'd when these are scarce, each Brother
+O'th pen, contrive to set on one another
+These are the effects of angry Poets rage,
+Driven from their Winter-Quarters on the Stage,
+And when we go, our Women vanish too,
+What will the well-fledg'd keeping Gallant do?
+And where but here can he expect to finde,
+A gay young Dam'sell manag'd to his minde,
+Who ruines him and yet seems wondrous kinde
+One insolent and false, and what is worse,
+Governs his heart and manages his purse;
+Makes him whate're she'd have him to believe,
+Spends his Estate, then learns him how to live;
+I hope these weighty considerations will
+Move ye to keep us all together still;
+To treat us equal to our great desert,
+And pay your Tributes with a franker heart,
+If not, th'aforesaid Ills will come, and we must part
+FINIS

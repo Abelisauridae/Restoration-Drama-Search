@@ -1,0 +1,2247 @@
+Requested Title: THE EMPEROR OF THE MOON
+Authors: Mrs Aphra Behn
+Matched Anchor: EMPEROR OF THE MOON: A FARCE
+TCP: A27288
+EEBO: 12311349
+Source Title: The emperor of the moon a farce : as it is acted by Their Majesties servants at the Queens Theatre / written by Mrs. A. Behn.
+Source Author: Behn, Aphra, 1640-1689.; Fatouville, Anne Mauduit de, 17th/18th cent. Arlequin empereur dans la lune.
+Source Date: 1687
+Source URL: https://raw.githubusercontent.com/textcreationpartnership/A27288/master/A27288.xml
+Metadata Score: 1.400
+Unit Score: 0.920
+
+---
+
+EMPEROR OF THE MOON: A FARCE
+As it is Acted by Their Majesties Servants, AT THE QUEENS THEATRE
+Written by Mrs. A. Behn
+LONDON: Printed by R. Holt, for Joseph Knight, and Francis Saunders, at the Blew-Anchor in the lower Walk of the New Exchange, 1687
+TO THE Lord Marquess OF WORCESTER, and c
+MY LORD,
+MY LORD,
+IT is a common Notion, that gathers as it goes, and is al most become a vulgar Error, That Dedications in our Age, are only the effects of Flattery, a form of Complement, and no more; so that the Great, to whom they are only due, decline those Noble Patronages that were so generally al low'd the Ancient Poets; since the Awful Custom has been so scandaliz'd by mistaken Addresses, and many a worthy Piece is lost for want of some Honourable Protection, and some times many indifferent ones traverse the World with that advantagious Pasport only
+This humble Offering, which I presume to lay at your Lordship's Feet, is of that Critical Nature, that it does not only require the Patronage of a great Title, but of a great Man too, and there is often times a vast difference between those two great Things; and amongst all the most Elevated, there are but very few in whom an illustrious Birth and equal Parts compleat the Hero; but among those, your Lordship bears the first Rank, from a just Claim, both of the Glories of your Race and Vertues. Nor need we look back into long past Ages, to bring down to ours the Magnani mous deeds of your Ancestors: We need no more than to be hold (what we have so often done with wonder) those of the Great Duke of Beauford, your Illustrious Father, whose every single Action is a glorious and lasting President to all the future Great; whose unshaken Loyalty, and all other eminent Vertues, have rendred him to us, something more than Man, and which alone, deserving a whole Volume, wou'd be here but to lessen his Fame, to mix his Grandeurs with those of any other; and while I am addressing to the Son, who is only worthy of that Noble Blood he boasts, and who gives the World a Prospect of those coming Gallantries that will Equal those of his Glorious Father; already, My Lord, all you say and do is admir'd, and every touch of your Pen re verenc'd; the Excellency and Quickness of your Wit, is the Subject that fits the World most agreeably. For my own part, I never presume to contemplate your Lordship, but my Soul bows with a perfect Veneration to your mighty Mind; and while I have ador'd the delicate Effects of your uncommon Wit, I have wish'd for nothing more than an Opportunity of expressing my infinite Sense of it; and this Ambition, my Lord, was one Motive of my present Presumption in the De dicating this Farce to your Lordship
+I am sensible, my Lord, how far the Word Farce might have offended some, whose Titles of Honour, a Knack in dressing, or his Art in writing a Billet Deux, had been his chiefest Talent, and who, without considering the Intent, Character, or Nature of the thing, wou'd have cry'd out up on the Language, and have damn'd it (because the Persons in it did not all talk like Hero's) as too debas'd and vulgar to entertain a Man of Quality; but I am secure from this Censure, when your Lordship shall be its Judge, whose refin'd Sence, and Delicacy of Judgment, will, thro all the humble Actions and trivialness of Business, find Nature there, and that Diversion which was not meant for the Numbers, who compre hend nothing beyond the Show and Buffoonry
+A very barren and thin hint of the Plot I had from the Italian, and which, even as it was, was acted in France eighty odd times without intermission. 'Tis now much alter'd, and adapted to our English Theatre and Genius, who cannot find an Entertainment at so cheap a Rate as the French will, who are content with almost any Incoherences, howsoe ver shuffled together under the Name of a Farce; which I have endeavour'd as much as the thing wou'd bear, to bring within the compass of Possibility and Nature, that I might as little impose upon the Audience as I cou'd; all the Words are wholly new, without one from the Original. 'Twas cal culated for His late Majesty of Sacred Memory, that Great Patron of Noble Poetry, and the Stage, for whom the Muses must for ever mourn, and whose Loss, only the Blessing of so Illustrious a Successor can ever repair; and 'tis a great Pi ty to see that best and most useful Diversion of Mankind, whose Magnificence of old, was the most certain sign of a flou rishing State, now quite undone by the Misapprehension of the-Ignorant, and Mis-representings of the Envious, which evidently shows the World is improv'd in nothing but Pride Ill Nature, and affected Nicety; and the only Diversion of the Town now, is high Dispute, and publick Controversies in Taverns, Coffee-houses, and c. and those things which ought to be the greatest Mysteries in Religion, and so rarely the Business of Discourse, are turn'd into Ridicule, and look but like so many fanatical Stratagems to ruine the Pulpit as well as the Stage. The Defence of the first is left to the Re verend Gown, but the departing Stage can be no otherwise restor'd, but by some leading Spirits, so Generous, so Pub lick, and so Indefatigable as that of your Lordship, whose Pa tronages are sufficient to support it, whose Wit and Judgment to defend it, and whose Goodness and Quality to justifie it; such Encouragement wou'd inspire the Poets with new Arts to please, and the Actors with Industry, 'Twas this that oc casion'd so many Admirable Plays heretofore, as Shakespear's, Fletcher's, and Johnson's, and 'twas this alone that made the Town able to keep so many Play-houses alive, who now cannot supply one. However, my Lord, I, for my part, will no longer complain, if this Piece find but favour in your Lord ship's Eyes, and that it can be so happy to give your Lordship one hours Diversion, which is the only Honour and Fame is wish'd to crown all the Endeavours of,
+My Lord, Your Lordship's Most Humble, and Most Obedient Servant, A. Behn
+My Lord,
+Your Lordship's Most Humble, and Most Obedient Servant, A. Behn
+PROLOGUE
+Spoken by Mr. Jevern
+LOng, and at vast Expence the industrious Stage
+Has strove to please a dull ungrateful Age
+With Hero's and with Gods we first began,
+And thunder'd to you in Heroick Strain
+Some dying Love-sick Queen each Night you injoy'd,
+And with Magnificence, at last were cloy'd
+Our Drums and Trumpets frighted all the Women;
+Our fighting scar'd the Beaux and Billet Deux Men
+So Spark in an Intrigue of Quality,
+Grows weary of his splendid Drudgery;
+Hates the Fatigue, and cries a Pox upon her,
+What a damn'd bustle's here with Love and Honour
+In humbler Comedy, we next appear,
+No Fop or Cuckold, but slap-dash we had him here;
+We show'd you all, but you malicious grown,
+Friends Vices to expose, and hide your own;
+Cry, Dam it—This is such, or such a one
+Yet • etled, Plague, What do's the Scribler mean?
+With his damn'd Characters, and Plot obscene
+No Woman without Vizard in the Nation,
+Can see it twice, and keep her Reputation—that's certain
+Forgetting—
+That he himself, in every gross Lampoon,
+Her lewder Secrets spread about the Town;
+Whil'st their feign'd Niceness is but cautious Fear,
+Their own Intrigues shou'd be unravel'd here
+Our next Recourse was dwindling down to Farce,
+Then—Zounds, what Stuff's here? 'tis all o're my—
+Well, Gentlemen, since none of these has sped,
+'Gad, we have bought a share i'th speaking Head
+So there you'l save a Sice,
+You love Good Husbandry in all but Vice;
+Whoring and Drinking, only bears a Price
+The Head rises upon • twisted Post, on a Bench from under the 〈◊〉 After Jevern speaks to it • 〈◊〉
+Stentor
+Oh!—Oh!—Oh!
+Oh!—Oh!—Oh!
+After this it sings Sawny, Laughs, crys God bless the King in order
+Stentor Answers
+Speak lowder Jevern, if you'd have me repeat;
+Plague of this Rogue, he will betray the Cheat
+He speaks lowder, it answers indirectly
+—Hum—There 'tis again,
+Pox of your Echo with a Northern Strain
+Well,——This will be but a nine days wonder too;
+There's nothing lasting but the Puppets Show
+What Ladies heart so hard, but it wou'd move,
+To hear Philander and Irene 's Love
+Those Sisters too, the scandalous Wits do say
+Two nameless, keeping Beaux, have made so gay;
+But those Amours are perfect Sympathy,
+Their Gallants being as meer Machines as they
+Oh! how the City Wife, with her nown Ninny,
+Is charm'd with, Come into my Coach—Mis Jinny, Mis Jinny
+But overturning— Fri • le crys—Adznigs,
+The jogling Rogue has murther'd all his Kids
+The Men of War cry Pox on't, this is dull,
+We are for rough Sports,—Dog Hector, and the Bull
+Thus each in his degree, Diversion finds,
+Your Sports are suited to your mighty Minds;
+Whilst so much Judgment in your Choice you show,
+The Puppets have more Sence than some of you
+Persons Names
+DOctor Baliardo. Mr. Underhill
+Scaramouch, his Man. Mr. Lee
+Pedro, his Boy
+Don Cinthio, Don Charmante, both Nephews to the Vice-Roy, and Lovers of Elaria and Bellemante. Young Mr. Powel. Mr. Mumford
+Harlequin, Cinthio 's Man. Mr. Jevern
+Officer and Clark
+Elaria, Daughter to the Doctor. Mrs. Cooke
+Bellemante, Niece to the Doctor. Mrs. Mumford
+Mopsophil Governante to the young Ladies. Mrs. Cory
+The Persons in the Moon, are Don Cinthio, Emperor; Don Charmante, Prince of Thunderland
+Their Attendants, Persons that represent the Court Cards
+Keeplair and Gallileus, two Philosophers
+Twelve Persons representing the Figures of the twelve Signs of the Zodiack
+Negroes, and Persons that Dance
+Masick, Kettle-Drums, and Trumpets
+The SCENE, NAPLES
+FARCE
+ACT I
+SCENE I. A Chamber
+Enter Elaria and Mopsophil
+I
+A Curse upon that faithless Maid,
+Who first her Sexes, Liberty betrayed;
+Born free as Man to Love and Range,
+Till Nobler Nature did to Custom change
+Custom, that dull excuse for Fools,
+Who think all Vertue to consist in Rules
+II
+From Love our Fetters never sprung,
+That smiling God, all wanton Gay and Toung,
+Shows by his Wings he cannot be
+Confined to a restless Slavery;
+But here and there at random roves,
+Not fixt to glittering Courts or shady Groves
+III
+Than she that Constancy Profest,
+Was but a well dissembler at the best;
+And that imaginary sway
+She feigned to give, in seeming to obey,
+Was but the height of Prudent Art,
+To deal with greater Liberty her Heart
+[After the Song Elaria gives her Lute to Mopsophil
+Ela
+This does not divert me
+Nor nothing will, till Scaramouch return,
+And bring me News of Cinthio
+Mop
+Truly I was so sleepy last Night, I know nothing of the adventure, for which you are kept so close a Prisoner to Day, and more strictly guarded than usual
+Ela
+Cinthio came with Musick last Night under my Window, which my Father hearing sallyed out with his Mermidons upon him; and clashing of Swords I heard, but what hurt was done, or whether Cinthio were discovered to him, I know not; but the Billet I sent him now by Scaramouch, will occasion me soon intelligence
+Mop
+And see Madam where you trusty Roger comes
+Enter Scaramouch peeping on all sides before he enters
+—You may advance, and fear none but your Friends
+Scar
+Away and keep the door
+Ela
+Oh dear Scaramouch! hast thou been at the Vice-Roys!
+Scar
+Yes, yes.—
+[In heat,
+Ela
+And hast thou delivered my Letter, to his Nephew,
+Don Cinthio?
+Scar
+Yes, Yes, what should I deliver else?
+Ela
+Well—and how does he?
+[Fanning himself with his Cap
+Scar
+Lord, how shou'd he do? Why, what a Laborious thing it is to be a Pimp?
+Ela
+Why, well he shou'd do
+Scar
+So he is, as well as a Night adventuring Lover can be,——he has got but one wound, Madam
+Ela
+How! wounded say you? Oh Heavens! 'Tis not Mortal?
+Scar
+Why, I have no great skill,—but they say it may be Dangerous
+Ela
+I Dye with fear, where is he wounded?
+Scar
+Why, Madam, he is run—quit thorough the—heart,—but the Man may Live, if I please
+Ela
+Thou please! Torment me not with Ridles
+Scar
+Why, Madam, there is a certain cordial Balsam, called a fair Lady, which outwardly applyed to his Bo som, will prove a better cure than all your Weapon or Sympathetick Powder, meaning your Ladyship
+Ela
+Is Cinthio then not wounded?
+Scar
+No otherwise than by your fair Eyes, Madam; he got away unseen and unknown
+Ela
+Dost know how precious time is, and dost thou Fool it away thus? what said he to my Letter?
+Scar
+What should he say?
+Ela
+Why a hundred dear soft things of Love, kiss it as often, and bless me for my goodness
+Scar
+Why so he did
+Ela
+Ask thee a thousand question of my health after my last nights fright
+Scar
+So he did
+Ela
+Expressing all the kind concern Love cou'd inspire, for the punishment my Father has inflicted on me, for enter taining him at my Window last Night
+Scar
+All this he did
+Ela
+And for my being confin'd a Prisoner to my Apart ment, without the hope or almost possibility of seeing him any more
+Scar
+There I think you are a little mistaken, for besides the Plot that I have laid to bring you together all this Night,—there are such Stratagems abrewing, not only to bring you together, but with your Fathers consent too; Such a Plot, Madam
+Ela
+Ay that wou'd be worthy of thy Brain; prethee what—
+Scar
+Such a device
+Ela
+I'm impatient
+Scar
+Such a Canundrum,—well if there be wise Men and Conjurers in the World, they are intriguing Lovers
+Ela
+Out with it
+Scar
+You must know, Madam, your Father, (my Master, the Doctor,) is a little Whimsical, Romantick, or Don Quick-sottish, or so.—
+Ela
+Or rather Mad
+Scar
+That were uncivil to be supposed by me; but Lu natick we may call him without breaking the Decorum of good Manners; for he is always travelling to the Moon
+Ela
+And so Religiously believes there is a World there, that he discourses as gravely of the People, their Govern ment, Institutions, Laws, Manners, Religion and Constitu tion, as if he had been bred a Machiavel there
+Scar
+How came he thus infected first?
+Ela
+With reading foolish Books, Lucian's Dialogue of the Lofty Traveller, who flew up to the Moon, and thence to Heaven; an Heroick business called, The Man in the Moon, if you'll believe a Spaniard, who was carried thether, upon an Engine drawn by wild Geese; with another Philosophi cal Piece, A Discourse of the World in the Moon; with a thousand other ridiculous Volumes too hard to name
+Scar
+Ay, this reading of Books is a pernicious thing. I was like to have run Mad once, reading Sir John Mandi vel;— but to the business,—I went, as you know, to Don Cinthio 's Lodgings, where I found him with his dear Friend Charmante, laying their heads together for a Farce
+Ela
+A Farce.—
+Scar
+Ay a Farce, which shall be called,— the World in the Moon. Wherein your Father shall be so impos'd on, as shall bring matters most magnificently a bout.—
+Ela
+I cannot conceive thee, but the design must be good since Cinthio and Charmante own it
+Scar
+In order to this, Charmante is dressing himself like one of the Caballists of the Rosacrusian Order, and is coming to prepare my credulous Master for the greater imposition. I have his trinckets here to play upon him, which shall be ready
+Ela
+But the Farce, where is It to be Acted?
+Scar
+Here, here, in this very House; I am to order the Decoration, adorn a Stage, and place Scenes proper
+Ela
+How can this be done without my Father's know ledge?
+Scar
+You know the old Apartment next the great Orchard, and the Worm-eaten Gallery, that opens to the River; which place for several years no Body has fre quented, there all things shall be Acted proper for our purpose
+Enter Mopsa running
+Mopsa
+Run, Run Scaramouch, my Masters Conjuring for you like Mad below, he calls up all his little Divels with horrid Names, his Microscope, his Horoscope, his Telescope, and all his Scopes
+Scar
+Here, here,—I had almost forgot the Letters; here's one for you, and one for Mrs. Bellemante
+[runs out
+Enter Bellemante with a Book
+Bell
+Here, take my Prayer Book, Oh Matres chear
+[Embraces her
+Ela
+Thy Eyes are always laughing, Bellemante
+Bel
+And so would yours had they been so well im ployed as mine, this Morning. I have been at the Cha pel; and seen so many Beaus, such a Number of Plumeys, I cou'd not tell which I shou'd look on most, sometimes my heart was charm'd with the gay Blonding, then with the Melancholy Noire, annon the amiable brunet, some times the bashful, then again the bold; the little now, anon the lovely tall! In fine, my Dear, I was embarass'd on all sides, I did nothing but ideal my heart tout au toore
+Ela
+Oh there was then no danger, Cousin
+Bel
+No but abundance of Pleasure
+Ela
+Why, this is better than sighing for Charmante
+Bel
+That's when he's present only, and makes his Court to me; I can sigh to a Lover, but will never sigh after him,—but Oh the Beaus, the Beaus, Cousin, that I saw at Church
+Ela
+Oh you had great Devotion to Heaven then!
+Bel
+And so I had; for I did nothing but admire its han dy work, but I cou'd not have pray'd heartily if I had been dying; but a deuce on't, who shou'd come in and spoyl all but my Lover Charmante, so drest, so Gallant, that he drew together all the scatter'd fragments of my heart, confin'd my wandering thoughts, and fixt 'em all on him; Oh how he look't, how he was dress'd!
+Sings
+Chivalier, a Chevave Blond,
+Plus de Mouche, Plus de Powdre
+Pleus de Ribons et Cannous
+—Oh what a dear ravishing thing is the beginning of an Amour?
+Ela
+Thou'rt still in Tune, when wilt thou be tame, Bellemante?
+Bel
+When I am weary of loving, Elaria
+Ela
+To keep up your Humor, here's a Letter from your Charmante
+Bel
+reads
+MAlicious Creature, when wilt thou cease to torment me, and either appear less charming or more kind. I languish when from you, and am wounded when I see you, and yet I am eternally Courting my Pain. Cinthio and I are contriving how we shall see you to Night. Let us not toyl in vain; we ask but your consent; the pleasure will be all ours; 'tis therefore fit we suffer all the fatigue. Grant this, and Love me, if you will save the Life of
+Your Charmante
+—Live then Charmante! Live, as long as Love can last!
+Ela
+Well, Cousin, Scaramouch tells me of a rare design's a hatching, to relieve us from this Captivity; here are we mew'd up to be espous'd to two Moon-calfs for ought I know; for the Devil of any Human thing is suffer'd to come near us, without our Governante and Keeper, Mr. Scaramouch
+Bel
+Who, if he had no more Honesty, and Conscience, than my Uncle, wou'd let us pine for want of Lovers; but thanks be prais'd the Generosity of our Cavaliers has open'd their obdurate Hearts with a Golden key, that let's 'em in at all opportunities. Come, come, let's in, and answer their Billet Deux
+[Exeunt
+SCENE II. A Garden
+Enter Doctor, with all manner of Mathematical Instruments, hanging at his Girdle; Scaramouch bearing a Telescope twenty (or more) Foot long
+Doct
+SET down the Telescope.—Let me see, what Hour is it?
+Sca
+About six a Clock, Sir
+Doct
+Then 'tis about the Hour, that the great Monarch of the upper World enters into his Closet; Mount, mount the Telescope
+Scar
+What to do, Sir?
+Doct
+I understand, at certain moments Critical, one may be snatch't of such a mighty consequence to let the sight into the secret Closet
+Scar
+How, Sir, Peep into the Kings Closet; under fa vour, Sir, that will be something uncivil
+Doct
+Uncivil, it were slat Trenson if it shou'd be known, but thus unseen, and as wise Politicians shou'd, I take Survey of all: This is the States-man's peeping-hole, thorow which he Steals the secrets of his King, and seems to wink at di stance
+Scar
+The very key-hole, Sir, thorow which with half an Eye, he sees him even at his Devotion, Sir
+[A knocking at the Garden Gate
+Doct
+Take care none enter—
+[Scar. goes to the Door
+Scar
+Oh, Sir, Sir, here's some strange great Man come to wait on you
+Doct
+Great Man! from whence?
+Scar
+Nay, from the Moon World, for ought I know, for he looks not like the People of the lower Orb
+Doct
+Ha! and that may be: wait on him in
+[Ex. Scar
+Enter Scaramouch bare, bowing before Charmante, drest in a strange Fantastical Habit, with Harliquin Salutes the Doctor
+Char
+Doctor Baliardo, most learned Sir, all Hail; Hail from the great Caballa—of Eutopia
+Doct
+Most Reverend Bard, thrice welcome
+[Salutes him low
+Char
+The Fame of your great Learning, Sir, and Ver tue, is known with Joy to the renown'd Society
+Doct
+Fame, Sir, has done me too much Honour, to bear my Name to the renown'd Caballa
+Char
+You must not attribute it all to Fame, Sir, they are too learned and wise to take up things from Fame, Sir; our intleligence is by ways more secret and sublime, the Stars, and little Daemons of the Air inform us all things, past, present, and to come
+Doct
+I must confess the Count of Gabalist, renders it plain, from Writ Divine and Humane, there are such friendly and intleligent Daemons
+Char
+I hope you do not doubt that Doctrine, Sir, which holds that the Four Elements are Peopl'd with Persons of a Form and Species more Divine than Vulgar Mortals—those of the fiery Regions we call the Salamanders, they beget Kings and Heroes, with Spirits like their Deietical Sires the lovely Inhabitants of the Water, we call Nymphs. Those of the Earth are Gnomes or Fayries. Those of the Air are Silfs. These, Sir, when in Conjunction with Mor tals, beget Immortal Races. Such as the first born man, which had continu'd so, had the first Man ne'er doated on a Wo man
+Doct
+I am of that opinion, Sir, Man was not made for Woman
+Char
+Most certain, Sir, Man was to have been Immor talliz'd by the Love and Conversation of these Charming Silfs and Nymphs, and Woman by the Gnomes and Sala manders, and to have stock'd the World with Demy Gods, such as at this Day inhabit the Empire of the Moon
+Doct
+Most admirable Philosophy and Reason.—But do these Silfs and Nymphs appear in shapes?
+Char
+Of the most Beautiful of all the Sons and Daugh ters of the Universe: Fancy, Imagination is not half so Charming: And then so soft, so kind! but none but the Caballa and their Families are blest with their Divine Ad dresses. Were you but once admitted to that Society.—
+Doct
+Ay, Sir, what Vertues or what Merits can accom plish me for that' great Honour?
+Char
+An absolute abstinence from carnal thought, de vout and pure of Spirit; free from Sin
+Doct
+I dare not boast my Vertues, Sir; Is there no way to try my Purity?
+Char
+Are you very secret
+Doct
+'Tis my first Principle, Sir—
+Char
+And one, the most material in our Rosocrusian or der
+Char
+Please you to make a Tryal
+Doct
+As how, Sir, I beseech you?—
+Char
+If you be throwly purg'd from Vice, the opticles of your sight will be so illuminated, that glancing through this Telescope, you may behold one of these lovely Crea tures, that people the vast Region of the Air
+Doct
+Sir, you oblige profoundly
+Char
+Kneel then, and try your strength of Vertue, Sir
+—Keep your Eye fix't and open
+[He looks in the Telescope
+[While he is looking, Charmante goes to the Door to Scaramouch, who waited on purpose without, and takes a Glass with a Picture of a Nympho on it, and a light behind it; that as he brings it, it shows to the Audience. Goes to the end of the Telescope
+—Can you discern, Sir?
+Doct
+Methinks I see a kind of Glorious Cloud drawn up—and now—'tis gone again
+Char
+Saw you no fuger?
+Doct
+None
+Char
+Then make a short Prayer to Alikin, the Spirit of the East; shake off all Earthly thoughts, and look again
+[He prays. Charmante puts the Glass into the Mouth of the Telescope
+Doct
+—Astonisht, Ravisht with delight, I see a Beauty young and Angel like, leaning upon a Cloud—
+Char
+Seems she on a Bed, then she's reposing, and you must not gaze—
+Doct
+Now a Cloud Veils her from me
+Char
+She saw you peeping then, and drew the Curtain of the Air between
+Doct
+I am all Rapture, Sir, at this rare Vision—is't possible, Sir, that I may ever hope the Conversation of so Divine a Beauty?
+Char
+Most possible, Sir; they will Court you, their whole delight is to Immortallize— Alexander was be got by a Salamander, that visited his Mother in the form of a Serpent, because he wou'd not make King Philip Jealous, and that famous Philosopher Merlin, was begotten on a Vestal Nun, a certain Kings Daughter, by a most beauti ful young Salamander; as indeed all the Heroes, and men of mighty minds are
+Doct
+Most excellent!
+Char
+The Nymph Egeria inamour'd on Nama Pompi lius, came to him invisible to all Eyes else, and gave him all his Wisdom and Philosophy. Zoriastes, Trismegistus, Apuleius, Aquinius, Albertus Magnus, Socrates and Vir gil had their Zilphid, which foolish people call'd their Daemon or Devill. But you are wise, Sir.—
+Doct
+But do you imagine Sir, they will fall in Love with an old Mortal?
+Char
+They love not like the Vulgar, 'tis the Immortal Part they doat upon
+Doct
+But Sir, I have a Neece and Daughter which I love equally, were it not possible they might be Immor talliz'd?
+Char
+No doubt on't Sir, if they be Pure and Chast
+Doct
+I think they are, and I'll take care to keep 'em so; for I confess Sir, I wou'd fain have a Hero to my Grand son
+Char
+You never saw the Emperor of the Moon, Sir, the mighty Iredonozar?
+Doct
+Never Sir; his Court I have, but 'twas confused ly too
+Char
+Refine your Thoughts Sir, by a moments Pray, and try again
+[He prays. Char. claps the Glass with the Emperour on it, he looks in and sees it
+Doct
+It is too much, too much for mortal Eyes! I see a Monarch seated on a Throne—But seems most sad and pensive
+Char
+Forbear then Sir, for now his Love-Fit's on, and then he wou'd be private
+Doct
+His Love-Fit, Sir!
+Char
+Ay Sir, the Emperor's in Love with some fair Mortal
+Doct
+And can he not command her?
+Char
+Yes, but her Quality being too mean, he struggles, tho' a King 'twixt Love and Honour
+Doct
+It were too much to know the Mortal, Sir?
+Char
+'Tis yet unknown, Sir, to the Caballists, who now are using all their Arts to find her, and serve his Majesty; but now my great Affair deprives me of you: To morrow Sir, I'll wait on you again; and now I've try'd your Ver tue, tell you Wonders
+Doct
+I humbly kiss your Hands, most Learned Sir
+[Charmante goes out. Doctor waits on him to the Door, and returns, to him Scaramouch. All this while Harlequin was hid in the Hedges, peeping now and then, and when his Master went out he was left behind
+Sca
+So, so, Don Charmante has plaid his Part most ex quisitely; I'll in and see how it works in his Pericranium.—Did you call Sir?
+Doct
+Scaramouch, I have, for thy singular Wit and Ho nesty, always had a Tenderness for thee above that of a Master to a Servant
+Sca
+I must confess it, Sir
+Doct
+Thou hast Vertue and Merit that deserves much
+Sca
+Oh Lord, Sir!
+Doct
+And I may make thee great,—all I require, is, that thou wilt double thy diligent Care of my Daughter and my Neece, for there are mighty things design'd for them, if we can keep 'em from the sight of Man
+Sca
+The sight of Man, Sir!
+Doct
+Ay, and the very Thoughts of Man
+Sca
+What Antidote is there to be given to a young Wench, against the Disease of Love and Longing?
+Doct
+Do you your Part, and because I know thee Dis creet and very Secret, I will hereafter discover Wonders to thee.—On pain of Life, look to the Girls; that's your Charge
+Sca
+Doubt me not, Sir, and I hope your Reverence will reward my faithful Service with Mopsophil, your Daugh ters Governante, who is Rich, and has long had my Af fection, Sir
+[Harlequ. Peeping, cries—Oh Traitor!
+Doct
+Set not thy Heart on Transitories mortal, there's better things in store—besides, I have promis'd her to a Farmer for his Son.—Come in with me, and bring the Telescope
+[Ex. Doctor and Scaramouch. [Harlequin comes out on the Stage
+Har
+My Mistriss Mopsophil to marry a Farmers Son!
+What, am I then forsaken, abandon'd by the false fain One?
+—If I have Honour, I must die with Rage;
+Reproaching gently, and complaining madly
+—It is resolv'd, I'll hang my self—No,—When did I ever hear of a Hero that hang'd himself? no—'tis the Death of Rogues. What If I drown my self?—
+No,—Useless Dogs and Puppies are drown'd; a Pistol or a Caper on my own Sword wou'd look more nobly, but that I have a natural Aversion to Pain. Besides, it is as Vulgar as Rats-bane, or the sliceing of the Weasand. No, I'll die a Death uncommon, and leave behind me an eter nal Fame. I have somewhere read an Author, either Anti ent or Modern, of a Man that laugh'd to death.—I am very Ticklish, and am resolv'd—to dye that Death.—Oh Mopsophil, my cruel Mopsophil!
+[Pulls off his Hat, Sword and Shooes
+—And now, farewel the World, fond Love, and mortal Cares
+[He falls to tickle himself, his Head, his Ears, his Arm-pits, Hands, Sides, and Soles of his Feet; making ridiculous Cries and Noises of Laughing several ways, with An tick Leaps and Skips, at last falls down as dead
+Enter Scaramouch
+Sca
+Harlequin was left in the Garden, I'll tell him the News of Mopsophil
+[Going forward, tumbles over him
+Ha, whats here? Harlequin Dead!—
+[Heaving him up, he flies into a Rage
+Har
+Who is't that thus wou'd rob me of my Honour?
+Sca
+Honour, why I thought thou'dst been dead
+Har
+Why so I was, and the most agreeably dead.—
+Sca
+I came to bemoan with thee, the mutual loss of our Mistriss
+Har
+I know it Sir, I know it, and that thou'rt as false as she: Was't not a Covenant between us, that neither shou'd take advantage of the other, but both shou'd have fair Play, and yet you basely went to undermine me, and ask her of the Doctor; but since she's gone, I scorn to quarrel for her—But let's like loving Brothers, hand in hand, leap from some Precipice into the Sea
+Sca
+What, and spoil all my Cloths? I thank you for that; no, I have a newer way: you know I lodge four pair of Stairs high, let's ascend thither, and after saying our Prayers—
+Har
+—Prayers! I never heard of a dying Hero that ever pray'd
+Sca
+Well, I'll not stand with you for a Trifle—Being come up, I'll open the Casement, take you by the Heels, and fling you out into the Street,—after which, you have no more to do, but to come up and throw me down in my turn
+Har
+The Atchievment's great and new; but now I think on't, I'm resolv'd to hear my Sentence from the Mouth of the perfidious Trollop, for yet I cannot cre dit it
+I'll to the Gypsie, tho' I venture banging,
+To be undeceiv'd, 'tis hardly worth the hanging
+[Exeunt
+SCENE II: The Chamber of Bellemante
+Enter Scaramouch groping
+Sca
+SO, I have got rid of my Rival, and shall here got an Opportunity to speak with Mopsophil, for hither she must come anon, to lay the young Ladies Night-things in order; I'll hide my self in some Corner till she come
+[Goes on to the further side of the Stage
+Enter Harlequin groping
+Har
+So, I made my Rival believe I was gone, and hid my self, till I got this Opportunity to steal to Mopsophil 's Apartment, which must be hereabouts, for from these Windows she us'd to entertain my Love
+[Advances
+Sca
+Ha, I hear a soft Tread,—if it were Mopso phil 's, she wou'd not come by Dark
+[Har. advancing runs against a Table, and almost strikes himself backwards
+Har
+What was that?—a Table,—There I may obscure my self.—
+[Groping for the Table
+—What a Devil, is it vanish'd?
+Sca
+Devil,—Vanish'd,—What can this mean? 'Tis a Mans Voice.—If it shou'd be my Master the Doctor, now I were a dead Man;—he can't see me,—and I'll put my self into such a Posture, that if he feel me, he shall as soon take me for a Church Spout as a Man
+[He puts himself into a Posture ridiculous, his Arms a-kimbo, his Knees wide open, his Back side almost touching the Ground, his Mouth stretched wide, and his Eyes stairing. Harl. groping, thrusts his Hand into his Mouth, he bites him, the other dares not cry out
+Har
+Ha, what's this? all Mouth, with twenty Rows of Teeth.—Now dare not I cry out, least the Doctor shou'd come, find me here, and kill me.—I'll try if it be mortal.—
+[Making damnable Faces and Signs of Pain, he draws a Dagger. Scar. feels the Point of it, and shrinks back, letting go his Hand
+Scar
+Who the Devil can this be? I felt a Poniard, and am glad I sav'd my Skin from pinking
+[Steals out
+[Harlequin groping about, finds the Table, on which there is a Carpet, and creeps under it, listning
+Enter Bellemante, with a Candle in one Hand, and a Book in the other
+Bel
+I am in a Belle Humor for Poetry to Night,—I'll make some Boremes on Love
+[She Writes and Studies
+Out of a great Curiosity,—A Shepherd did demand of me.— No, no,— A Shepherd this implor'd of me.—
+[Scratches out, and Writes a new
+Ay, ay, so it shall go.— Tell me, said he,—Can you Resign?—Resign, ay,—what shall Rhime to Resign?—Tell me, said he,—
+[She lays down the Tablets, and walks about
+[Harlequin peeps from under the Table, takes the Book, writes in it, and lays it up before she can turn
+[Reads.]
+Ay, Ay,—So it shall be,— Tell me, said he, my Bellemante;— Will you be kind to your Charmante?
+[Reads those two Lines, and is amaz'd
+—Ha,—Heav'ns! What's this? I am amaz'd!
+—And yet I'll venture once more.—
+[Writes and studies
+[Writes.] — I blush'd, and veil'd my wishing Eyes
+[Writes.]
+[Lays down the Book, and walks as before
+— Wishing Eyes—
+[Har. Writes as before
+[Har. writes.] — And answer'd only with my Sighs
+[Har. writes.]
+[She turns and takes the Tablet
+Bell
+—Ha,—What is this? Witchcraft or some
+Divinity of Love? some Cupid sure invisible.—
+Once more I'll try the Charm.—
+[Bell. writes.] — Cou'd I a better way my Love impart?
+[Bell. writes.]
+[Studies and walks
+— Impart—
+[He writes as before
+[Har. wri.] — And without speaking, tell him all my Heart
+[Har. wri.]
+Bell
+—'Tis here again, but where's the Hand that writ it?
+[Looks about
+—The little Deity that will be seen
+But only in his Miracles. It cannot be a Devil,
+For here's no Sin nor Mischief in all this
+Enter Charmante. She hides the Tablet, he steps to her, and snatches it from her and Reads
+Char
+Reads
+Out of a great Curiosity,
+A Shepherd this implor'd of me
+Tell me, said he, my Bellemante
+Will you be kind to your Charmante?
+I blush'd, and veil'd my wishing Eyes,
+And answer'd only with my Sighs
+Cou'd I a better way my Love impart?
+And without speaking, tell him all my Heart
+Char
+Whose is this different Character?
+[Looks angry
+Bell
+'Tis yours for ought I know
+Char
+Away, my Name was put here for a blind
+What Rhiming Fop have you been clubbing Wit withal?
+Bell
+Ah, mon Dieu!—Charmante Jealous!
+Char
+Have I not cause?—Who writ these Boremes?
+Bell
+Some kind assisting Deity, for ought I know
+Char
+Some kind assisting Coxcomb, that I know,
+The Ink's yet wet, the Spark is near I find.—
+Bell
+Ah, Maluruse! How was I mistaken in this Man?
+Char
+Mistaken! What, did you take me for, an easie Fool to be impos'd upon?—One that wou'd be cuckolded by every feather'd Fool; that you shou'd call a— Beau un Gallant Huome. 'sdeath! Who wou'd doat upon a fond She-Fop?—A vain conceited Amorous Cocquett
+[Goes out, she pulls him back
+Enter Scaramouch, running
+Sca
+Oh Madam! hide your Lover, or we are all undone
+Char
+I will not hide, till I know the thing that made the Verses
+[The Doctor calling as on the Stairs
+Doct
+Bellemante, Neece,— Bellemante
+Scar
+She's coming Sir.—Where, where shall I hide him?—Oh, the Closet's open!
+[Thrusts him into the Closet by force
+Doct
+Oh Neece! Ill Luck, Ill Luck, I must leave you to night; my Brother the Advocate is sick, and has sent for me; 'tis three long Leagues, and dark as 'tis, I must go.—They say he's dying. [Pulls out his; Keys one falls down. Here, take my Keys, and go into my Study, and look over all my Papers, and bring me all those Mark'd with a Cross and Figure of Three, they concern my Brother and I
+[She looks on Scaramouch, and makes pitiful Signs, and goes out
+—Come Scaramouch, and get me ready for my Journey, and on your Life, let not a Door be open'd till my Return
+[Ex
+Enter Mopsophil. Har. peeps from under the Table
+Har
+Ha! Mopsophil, and alone!
+Mop
+Well, 'tis a delicious thing to be Rich; what a World of Lovers it invites: I have one for every Hand, and the Favorite for my Lips
+Har
+Ay, him wou'd I be glad to know
+[And peeping
+Mop
+But of all my Lovers, I am for the Farmers Son, because he keeps a Calash—and I'll swear a Coach is the most agreeable thing about a man
+Har
+Ho, ho!
+Mop
+Ah me,—What's that?
+[He answers in a shrill Voice
+Har
+The Ghost of a poor Lover, dwindl'd into a Hey ho
+[He rises from under the Table and falls at her Feet. Scaramouch enters. She runs off squeaking
+Sca
+Ha, my Rival and my Mistriss!—
+Is this done like a Man of Honour, Monsieur Harlequin,
+To take Advantages to injure me?
+[Draws
+Har
+All Advantages are lawful in Love and War
+Scar
+'Twas contrary to our League and Covenant; therefore I defy thee as a Traytor
+Har
+I scorn to fight with thee, because I once call'd thee Brother
+Scar
+Then thou'rt a Paltroon, that's to say, a Co ward
+Har
+Coward, nay, then I am provok'd, come on—
+Scar
+Pardon me, Sir, I gave the Coward, and you ought to strike
+[They go to sight ridiculously, and ever as Scara mouch passes, Harlequin leaps aside, and skips so nimbly about, he cannot touch him for his Life; which after a while endeavouring in vain, he lays down his Sword
+—If you be for dancing, Sir, I have my Weapons for all occasions
+[Scar. pulls out a Fleut Deux, and falls to Playing. Har. throws down his, and falls a Dancing; after the Dance, they shake Hands
+Har
+He my Bone Ame— Is not this better than Duelling?
+Scar
+But not altogether so Heroick, 〈◊〉 . Well, for the future, let us have fair Play; no Tricks to undermine each other, but which of us is chosen to be the happy Man, the other shall be content
+[Elaria within
+Ela
+Cousin Bellemante, Cousin
+Scar
+'Slife, let's be gone, lest we be seen in the Ladies Apartment
+[Scar. slips Harlequin behind the Door
+Enter Elaria
+Ela
+How now, how came you here?—
+[Signs to Har. to go out
+Scar
+I came to tell you, Madam, my Master's just tak ing Mule to go his Journey to Night, and that Don Cin thio is in the Street, for a lucky moment to enter in
+Ela
+But what if any one by my Fathers Order, or he himself, shou'd by some chance surprise us?
+Scar
+If we be, I have taken order against a Discovery. I'll go see if the old Gentleman be gone, and return with your Lover
+[Goes out
+Ela
+I tremble, but know not whether 'tis with Fear or Joy
+Enter Cinthio
+Cin
+My dear Elaria—
+[Runs to imbrace her, she starts from him
+—Ha,—shun my Arms, Elaria!
+Ela
+Heavens! Why did you come so soon?
+Cin
+Is it too soon, when ere 'tis safe, Elaria?
+Ela
+I die with fear—Met you not Scaramouch?
+He went to bid you wait a while; What shall I do?
+Cin
+Why this Concern? none of the House has seen me. I saw your Father taking Horse
+Ela
+Sure you mistake, methinks I hear his Voice
+Doct
+below.]
+—My Key—The Key of my Laboratory.—
+Why, Knave Scaramouch, where are you?—
+Eld
+Do you hear that, Sir?—Oh, I'm undone!—
+Where shall I hide you?—He approaches—
+[She searches where to hide him
+—Ha,—my Cousins Closet's open,—step in a little.—
+[He goes in, she puts out the Candle. Enter the Doctor. She gets round the Chamber to the Door, and as he advances in, she steals out
+Doct
+Here I must have dropt it; a Light, a Light—there—
+Enter Cinthio from the Closet, pulls Charmante out, they not knowing each other
+Cin
+Oh this perfidious Woman! no marvel she was so surpris'd and angry at my Approach to Night.—
+Cha
+Who can this be?—but I'll be prepar'd—
+[Lays his Hand on his Sword
+Doct
+Why Scaramouch, Knave, a Light!
+[Turns to the Door to call
+Enter Scaramouch with a Light, and seeing the two Lovers there, runs against his Master, puts out the Candle, and flings him down, and falls over him. At the entrance of the Candle, Charmante slipt from Cinthio into the Closet. Cinthio gropes to find him; when Mopsophil and Elaria, hearing a great Noise, enter with a Light. Cinthio finding he was discover'd, falls to acting a Mad Man. Scaramouch helps up the Doctor, and bows
+—Ha,—a Man,—and in my House,—
+Oh dire Misfortune!—Who are you, Sir?
+Cin
+Men call me Gog Magog, the Spirit of Power;
+My Right-hand Riches holds, my Left-hand Honour
+Is there a City Wife wou'd be a Lady?—Bring her to me,
+Her easie Cuckold shall be dub'd a Knight
+Ela
+Oh Heavens! a mad Man, Sir
+Cin
+Is there a Tawdry Fop wou'd have a Title?
+A rich Mechanick that wou'd be an Alderman?
+Bring 'em to me,
+And I'll convert that Coxcomb, and that Block-head, into, Your Honour, and Right Worshipful
+Doct
+Mad, stark mad! Why Sirrah, Rogue— Scara mouch— How got this mad Man in?
+[While the Doctor turns to Scaramouch, Cinthio speaks softly to Elaria
+Cin
+Oh, thou perfidious Maid! Who hast thou hid in yonder conscious Closet?
+[Aside to her
+Scar
+Why Sir, he was brought in a Chair for your Ad vice, but how he rambl'd from the Parlour to this Chamber, I know not
+Cin
+Upon a winged Horse, Icliped Pegasus,
+Swift as the fiery Racers of the Sun,
+—I fly—I fly—
+See how I mount, and cut the liquid Sky
+[Runs out
+Doct
+Alas poor Gentleman, he's past all Cure—But Sirrah, for the future, take you care that no young mad Patients be brought into my House
+Scar
+I shall Sir,—and see—here's your Key you look'd for.—
+Doct
+That's well; I must be gone—Bar up the Doors, and upon Life or Death let no man enter
+[Exit Doctor, and all with him, with the Eight
+[Charmante peeps out—and by degrees comes all out, listing every step
+Char
+Who the Devil cou'd that be that pull'd me from the Closet? but at last I'm free, and the Doctors gone; I'll to Cinthio, and bring him to pass this Night with our Mistrisses
+[Exit
+As he is gone off, enter Cinthio groping
+Cin
+Now for this lucky Rival, if his Stars will make this last part of his Adventure such. I hid my self in the next Chamber, till I heard the Doctor go, only to return to be reveng'd
+[He gropes his way into the Closet, with his Sword drawn
+Enter Elaria with a Light
+Ela
+Scaramouch tells me Charmante is conceal'd in the Closet, whom Cinthio surely has mistaken for some Lover of mine, and is jealous; but I'll send Charmante after him, to make my peace and undeceive him
+[Goes to the Door
+—Sir, Sir, Where are you? they are all gone, you may adventure out
+[Cinthio comes out
+—Ha,— Cinthio here!—
+Cin
+Yes Madam, to your shame—
+Now your Perfidiousness is plain—False Woman,
+'Tis well your Lover had the Dexterity of escaping, I'd spoil'd his making Love else
+[Gets from her, she holds him
+Ela
+Prethee hear me
+Cin
+—But since my Ignorance of his Person saves his Life, live and possess him, till I can discover him
+[Goes out
+Ela
+Go peevish Fool—
+[Ex
+Whose Jealousie believes me given to Change,
+Let thy own Torments be my just Revenge
+The End of the first Act
+ACT II
+SCENE I. An Antick Dance
+After the Musick has plaid. Enter Elaria to her Belle mante
+Elari
+HEavens Bellemante! Where have you been?
+Bell
+Fatigu'd with the most disagreeable Affair, for a Person of my Humour, in the World. Oh, how I hate Business, which I do no more mind, than a Spark does the Sermon, who is ogling his Mistriss at Church all the while: I have been ruffling over twenty Reams of Paper for my Uncles Writings.—
+Enter Scaramouch
+Scar
+So, so, the Old Gentleman is departed this wick ed World, and the House is our own for this Night.—Where are the Sparks? Where are the Sparks?
+Ela
+Nay, Heaven knows
+Bell
+How! I hope not so; I left Charmante confin'd to my Closet, when my Uncle had like to have surpriz'd us together: Is he not here?—
+Ela
+No, he's escap'd, but he has made sweet doings
+Bell
+Heavens Cousin! What?
+Ela
+My Father was coming into the Chamber, and had like to have taken Cinthio with me, when, to conceal him, I put him into your Closet, not knowing of Char mante 's being there, and which, in the Dark, he took for a Gallant of mine; had not my Fathers Presence hinder'd, I believe there had been Murder committed; how ever, they both escap'd unknown
+Scar
+Pshaw, is this all? Lovers Quarrels are soon ad justed; I'll to 'em, unfold the Riddle, and bring 'em back—take no care, but go in and dress you for the Ball; Mop sophil has Habits which your Lovers sent to put on: the Fidles Treat, and all are prepar'd.—
+[Ex. Scara
+Enter Mopsophil
+Mops
+Madam, your Cousin Florinda, with a Lady, are come to visit you
+Bell
+I'm glad on't, 'tis a good Wench, and we'll trust her with our Mirth and Secret
+[They go out
+SCENE Changes. To the Street
+Enter Page with a Flambeaux, follow'd by Cinthio; passes over the Stage. Scaramouch follows Cinthio in a Cam paign Coat
+Scar
+'TIs Cinthio—Don Cinthio—
+[Calls, he turns
+—Well, whats the Quarrel?—How fell ye out?
+Cin
+You may inform your self I believe, for these close Intrigues cannot be carried on without your Knowledge
+Scar
+What Intrigues Sir? be quick, for I'm in hast
+Cin
+Who was the Lover I surpris'd i'th' Closet?
+Scar
+Deceptio visus, Sir; the Error of the Eyes
+Cin
+Thou Dog,—I felt him too; but since the Rascal scaped me—I'll be Reveng'd on thee—
+[Goes to beat him, he running away, runs against Harlequin, who is entering with Charmante, and like to have thrown 'em both down
+Char
+Ha,——What's the matter here?—
+Scar
+Seignior Don Charmante—
+[Then he struts cou ragiously in with 'em
+Char
+What, Cinthio in a Rage!
+Who's the unlucky Object?
+Cin
+All Man and Woman Kind: Elaria 's false
+Char
+Elaria false! take heed, sure her nice Vertue is
+Proof against the Vices of her Sex
+—Say rather Bellemante
+She who by Nature's light and wavering
+The Town contains not such a false Impertinent
+This Evening I surpris'd her in her Chamber
+Writing of Verses, and between her Lines,
+Some Spark had newly pen'd his proper Stuff
+Curse of the Jilt, I'll be her Fool no more
+Har
+I doubt you are mistaken in that, Sir, for 'twas
+I was the Spark that writ the proper Stuff
+To do you Service—
+Char
+Thou!
+Scar
+Ay, we that spend our Lives and Fortunes here to serve you,—to be us'd like Pimps and Scowndrels.—Come Sir,—satisfie him who 'twas was hid i'th Closet, when he came in and found you
+Cin
+Ha,—is't possible? Was it Charmante?
+Char
+Was it you, Cinthio? Pox on't, what Fools are we, we cou'd not know one another by Instinct?
+Scar
+Well, well, dispute no more this clear Case, but lets hasten to your Mistrisses
+Cin
+I'm asham'd to appear before Elaria
+Char
+And I to Bellemante
+Scar
+Come, come, take Heart of Grace; pull your Hats down over your Eyes; put your Arms across; sigh and look scurvily; your simple Looks are ever a Token of Repentance; come—come along
+[Exeunt Omnes
+SCENE changes to the Inside of the House. The Front of the Scene is only a Curtain or Hangings to be drawn up at Pleasure
+Enter Elaria, Bellemante Mopsophil, and Ladies, dress'd in Masking Habits
+Elaria
+I Am extreamly pleas'd with these Habits, Cousin
+Bell
+They are A la Gothic and Uncomune
+Lady
+Your Lovers have a very good Fancy, Cousin, I long to see 'em
+Ela
+And so do I. I wonder Scaramouch stays so, and what Success he has
+Bell
+you have no cause to doubt, you can so easily ac quit your self; but I, what shall I do? who can no more imagine who shou'd write those Boremes, than who I shall love next, if I break off with Charmante
+Lady
+If he be a Man of Honour, Cousin, when a Maid protests her Innocence——
+Bell
+Ay, but he's a Man of Wit too, Cousin, and knows when Women protest most, they likely lye most
+Ela
+Most commonly, for Truth needs no asseve ration
+Bell
+That's according to the Disposition of your Lo ver, for some believe you most, when you most abuse and cheat 'em; some are so obstinate, they wou'd damn a Woman with protesting, before she can convince 'em
+Ela
+Such a one is not worth convincing, I wou'd not make the World wise at the expence of a Vertue
+Bell
+Nay, he shall e'en remain as Heaven made him for me, since there are Men enough for all uses
+Enter Charmante and Cinthio, dress'd in their Gothic Ha bits. Scaramouch, Harlequin and Musick. Charmante and Cinthio kneel
+Cin
+Can you forgive us?
+[Elaria takes him up
+Bell
+That, Cinthio, you're convinc'd, I do not wonder; but how Charmante 's Goodness is inspir'd, I know not
+[Takes him up
+Char
+Let it suffice, I'me satisfy'd, my Bellemante
+Ela
+'Pray' know my Cousin Florinda
+[They salute the Lady
+Bell
+Come, let us not lose time, since we are all Friends
+Char
+The best use we can make of it, is to talk of Love
+Bell
+Oh! we shall have time enough for that hereaf ter; besides, you may make Love in Dancing as well as in Sitting; you may Gaze, Sigh,—and press the Hand, and now and then receive a Kiss, what wou'd you more?
+Char
+Yes, wish a little more
+Bell
+We were unreasonable to sorbid you that cold Joy, nor shall you wish long in vain, if you bring Matters so about, to get us with my Uncle's Consent
+Ela
+Our Fortunes depending solely on his Pleasure, which is too considerable to lose
+Cin
+All things are order'd as I have written you at large; our Scenes and all our Properties are ready; we have no more to do but to banter the old Gentleman into a little more Faith, which the next Visit of our new Ca ballist Charmante will compleat
+[The Musick plays
+Enter some Anticks and dance. They all sit the while
+Ela
+Your Dancers have perform'd well, but 'twere fit we knew who we have trusted with this Evenings In trigue
+Cin
+Those, Madam, who are to assist us in carrying on a greater Intrigue, the gaining of you. They are our Kins men
+Ela
+Then they are doubly welcome
+[Here is a Song in Dialogue, with Fleut Deux and Harpsicals. Shepherd and Sheperdess; which end ed, they all dance a Figure Dance
+Cin
+Hark, what Noise is that? sure 'tis in the next Room
+Doct. within.]
+Scaramouch, Scaramouch!
+[Scar. runs to the Door and holds it fast
+Scar
+Ha,—the Devil in the likeness of my old Ma sters Voice, for 'tis impossible it shou'd be he himself
+Char
+If it be he, how got he in? did you not secure the Doors?
+Ela
+He always has a Key to open 'em. Oh! what shall we do? there's no escaping him; he's in the next Room, through which you are to pass
+Doct
+Scaramouch, Knave, where are you?
+Scar
+'Tis he, 'tis he, follow me all—
+[He goes with all the Company behind the Front Curtain
+Without Doctor.] I tell you Sirrah, I heard the Noise of Fiddles
+Without Doctor.]
+Without Peter. No surely Sir, 'twas a Mistake
+Without Peter
+[Knocking at the Door
+[Scaramouch having plac'd them all in the Hang ing, in which they make the Figures, where they stand without Motion in Postures. He comes out. He opens the Dore with a Candle in his Hand
+Enter the Doctor and Peter with a Light
+Scar
+Bless me, Sir! Is it you,—or your Ghost
+Doct
+'Twere good for you, Sir, if I were a thing of Air; but as I am a substantial Mortal, I will lay it on as substantially—
+[Canes him. He cries
+Scar
+What d'ye mean, Sir? what d'ye mean?
+Doct
+Sirrah, must I stand waiting your Leisure, while you are Rogueing here? I will reward ye
+[Beats him
+Scar
+Ay, and I shall deserve it richly, Sir, when you know all
+Doct
+I guess all, Sirrah, and I heard all, and you shall be rewarded for all. Where have you hid the Fiddles, you Rogue?
+Scar
+Fiddles, Sir!—
+Doct
+Ay, Fiddles, Knave
+Scar
+Fiddles, Sir!—Where?
+Doct
+Here,—here I heard 'em, thou false Steward of thy Masters Treasure
+Scar
+Fiddles, Sir! Sure 'twas Wind got into your Head, and whistled in your Ears, riding so late, Sir
+Doct
+Ay, thou false Varlot, there's another Debt I owe thee, for bringing me so damnable a Lye: My Brother's well—I met his Valet but a League from Town, and found thy Rogury out
+[Beats him. He cries
+Scar
+Is this the Reward I have for being so diligent since you went?
+Doct
+In what, thou Villain? in what?
+[The Curtain is drawn up, and discovers the Hangings where all of them stand
+Scar
+Why look you, Sir, I have, to surprise you with Pleasure, against you came home, been putting up this Piece of Tapestry, the best in Italy, for the Rareness of the Figures, Sir
+Doct
+Ha—Hum—It is indeed a stately Piece of Work; how came I by 'em?
+Scar
+'Twas sent your Reverence from the Vertuoso, or some of the Caballists
+Doct
+I must confess, the Workmanship is excellent,—but still I do insist I heard the Musick
+Scar
+'Twas then the tuning of the Spheres, some seri nade, Sir, from the Inhabitants of the Moon
+Doct
+Hum,—from the Moon,—and that may be—
+Scar
+Lord, d'ye think I wou'd deceive your Re verence?
+Doct
+From the Moon, a Serinade,—I see no signs on't here, indeed it must be so—I'll think on't more at leisure.—
+[Aside
+—Prithee what Story's this?
+[Looks on the Hangings
+Scar
+Why, Sir,—'Tis.—
+Doct
+Hold up the Candles higher, and nearer
+[Peter and Scaramouch hold Candles near. He takes a Perspective and looks through it; and coming nearer, Harlequin, who is plac'd on a Tree in the Hangings, hits him on the Head with his Trun chion. He starts, and looks about. He sits still
+Scar
+Sir.—
+Doct
+What was that struck me?
+Scar
+Struck you, Sir! Imagination
+Doct
+Can my Imagination feel, Sirrah?
+Scar
+Oh, the most tenderly of any part about one, Sir!
+Doct
+Hum—That may be—
+Scar
+Are you a great Philosopher, and know not that, Sir?
+Doct
+This Fellow has a glimpse of Profundity—
+[Aside. Looks again
+—I like the Figures well
+Scar
+You will, when you See 'em by Day-light, Sir
+[Har. hits him again. The Doctor sees him
+Doct
+Ha,—Is that Imagination too—Betray'd, be tray'd, undone; run for my Pistols, call up my Servants Peter, a Plot upon my Daughter and my Neece
+[Runs out with Peter
+[Scaramouch puts out the Candle, they come out of the Hanging, which is drawn away. He places 'em in a Row just at the En trance
+Scar
+Here, here, fear nothing, hold by each other, that when I go out, all may go; that is, slip out, when you hear the Doctor is come in again, which he will cer tainly do, and all depart to your respective Lodgings
+Cin
+And leave thee to bear the Brunt?
+Sca
+Take you no care for that, I'll put it into my Bill of Charges, and be paid all together
+Enter the Doctor with Pistols, and Peter
+Doct
+What, by dark? that shall not save you, Villains, Traytors to my Glory and Repose.— Peter, hold fast the Door, let none escape
+[They all slip out
+Pet
+I'll warrant you, Sir
+[Doctor gropes about, then stamps and calls
+Doct
+Lights there—Lights—I'm sure they cou'd not scape
+Pet
+Impossible, Sir
+Enter Scaramouch undress'd in his Shirt, with a Light. Starts
+Scar
+Bless me!—what's here?
+Doct
+Ha,—Who art thou?
+[Amaz'd to see him enter so
+Sca
+I, who the Devil are you, and you go to that
+[Rubs his Eyes, and brings the Candle nearer. Looks on him
+—Mercy upon us!—Why what is't you, Sir, re turn'd so soon?
+Doct
+Return'd!
+[Looking sometimes on him, some times about
+Scar
+Ay Sir, Did you not go out of Town last night, to your Brother the Advocate?
+Doct
+Thou Villain, thou question'st me, as if thou knew'st not that I was return'd
+Scar
+I know, Sir! how shou'd I know? I'm sure I am but just wak'd from the sweetest Dream—
+Doct
+You dream still, Sirrah, but I shall wake your Rogueship.—Were you not here but now, shewing me a piece of Tapestry, you Villain?—
+Scar
+Tapestry!—
+[Mopsophil listning all the while
+Doct
+Yes Rogue, yes, for which I'll have thy Life—
+[Offering a Pistol
+Scar
+Are you stark mad, Sir? or do I dream still?
+Doct
+Tell me, and tell me quickly, Rogue, who were those Traytors that were hid but now in the Disguise of a piece of Hangings
+[Holds the Pistol to his Breast
+Scar
+Bless me! you amaze me, Sir. What conformity has every Word you say, to my rare Dream: Pray let me feel you, Sir,—Are you Humane?
+Doct
+You shall feel I am, Sirrah, if thou confess not
+Scar
+Confess, Sir! What shou'd I confess?—I understand not your Caballistical Language; but in mine, I confess that you have wak'd me from the rarest Dream—Where methought the Emperor of the Moon World was in our House, Dancing and Revelling; and methoughts his Grace was fallen desperately in Love with Mistriss Elaria, and that his Brother, the Prince, Sir, of Thunderland, was also in Love with Mistriss Bellemante; and methoughts they descended to court 'em in your Absence.—And that at last you surpris'd 'em, and that they transform'd them selves into a Suit of Hangings to deceive you. But at last, methought you grew angry at something, and they all sled to Heaven again; and after a deal of Thunder and Lightning, I wak'd, Sir, and hearing Humane Voices here, came to see what the Matter was
+[This while the Doctor lessens his signs of Rage by degrees, and at last stands in deep Contemplation
+Doct
+May I credit this?
+Scar
+Credit it! By all the Honour of your House, by my unseparable Veneration for the Mathematicks, 'tis true, Sir
+Doct
+—That famous Rosacrusian, who yesterday vi sited me, told me—the Emperor of the Moon was in Love with a fair Mortal—This Dream is Inspira tion in this Fellow—He must have wonderous Ver tue in him, to be worthy of these Divine Intelligences
+[Aside
+—But if that Mortal shou'd be Elaria! but no more, I dare not yet suppose it—perhaps the thing was re al and no Dream, for oftentimes the grosser part is hurried away in Sleep, by the force of Imagination, and is won derfully agitated—This Fellow might be present in his Sleep,—of this we've frequent Instances—I'll to my Daughter and my Neece, and hear what knowledge they may have of this
+Mop
+Will you so? I'll secure you, the Frolick shall go round
+Doct
+Scaramouch, If you have not deceiv'd me in this Matter, time will convince me farther; if it rest here, I shall believe you false—
+Sca
+Good Sir, suspend your Judgment and your Anger then
+Doct
+I'll do't, go back to Bed—
+[Ex. Doctor and Peter
+Scar
+No, Sir, 'tis Morning now—and I'm up for all day.—This Madness is a pretty sort of a pleasant Disease, when it tickles but in one Vein—Why here's my Master now, as great a Scholar, as grave and wise a Man, in all Argument and Discourse, as can be met with, yet name but the Moon, and he runs into Ridicule, and grows as mad as the Wind
+Well Doctor, if thou can'st be madder yet,
+We'll find a Medicine that shall cure your Fit
+—Better than all Gallanicus
+[Goes out
+SCENE Draws off. Discovers Elaria, Bellemante, and Mopsophil in Night-Gowns
+Mop
+You have your Lessons, stand to it bravely, and the Town's our own, Madam
+[They put themselves in Postures of Sleeping, leaning on the Tabbe, Mopsophil lying at their Feet
+Enter Doctor, softly
+Doct
+Ha, not in Bed! this gives me mortal Fears
+Bell
+Ah, Prince—
+[She speaks as in her Sleep
+Doct
+Ha, Prince!
+[Goes nearer and listens
+Bell
+How little Faith I give to all your Courtship, who leaves our Orb so soon
+[In a feign'd Voice
+Doct
+Ha, said she Orb?
+[Goes nearer
+Bell
+But since you are of a Coelestial Race,
+And easily can penetrate
+Into the utmost limits of the Thought,
+Why shou'd I fear to tell you of your Conquest?
+—And thus implore your Aid
+[Rises and runs to the Doctor. Kneels, and holds him fast. He shews signs of Joy
+Doct
+I am Ravish'd!
+Bell
+Ah, Prince Divine, take Pity on a Mortal—
+Doct
+I am rapt!
+Bell
+And take me with you to the World above
+Doct
+The Moon, the Moon she means, I am Trans ported, Over-joy'd, and Ecstacy'd
+[Leaping and jumping from her Hands, she seems to wake
+Bell
+Ha, my Uncle come again to interrupt us!
+Doct
+Hide nothing from me, my dear Bellemante, since all already is discover'd to me—and more.—
+Ela
+Oh, why have you wak'd me from the softest Dream that ever Maid was blest with?
+Doct
+What—what my best Elaria?
+[With over-joy
+Ela
+Methought I entertain'd a Demi-God, one of the gay Inhabitants of the Moon
+Bell
+I'm sure mine was no Dream—I wak'd, I heard, I saw, I spoke—and danc'd to the Musick of the Spheres, and methought my glorious Lover ty'd a Dia mond Chain about my Arm——and see 'tis all substan tial
+[Shows her Arm
+Ela
+And mine a Ring, of more than mortal Lustre
+Doct
+Heaven keep me moderate! least excess of Joy shou'd make my Vertue less
+[Stifling his Joy
+—There is a wonderous Mystery in this
+A mighty Blessing does attend your Fates
+Go in, and pray to the chast Powers above
+To give you Vertue fit for such Rewards
+[They go in
+—How this agrees with what the learned Caballist inform'd me of last Night! He said, that great Iredonozor, the Emperor of the Moon, was inamour'd on a fair Mortal. It must be so—and either he descended to Court my Daugh ter Personally, which, for the Rareness of the Novelty, she takes to be a, Dream; or else, what they and I beheld, was Visionary, by way of a sublime Intelligence.—And pos sibly—'tis only thus—the People of that World converse with Mortals.—I must be satisfy'd in this main Point of deep Philosophy
+I'll to my Study,—for I cannot rest,
+Till I this weighty Mystery have discuss'd
+[Ex. very gravely
+SCENE. The Garden
+Enter Scaramouch with a Ladder
+Scar
+THo' I am come off en Cavalier with my Ma ster, I am not with my Mistriss, whom I promised to console this Night, and is but just I shou'd make good this Morning; 'twill be rude to surprize her Sleeping, and more Gallant to wake her with a Serinade at her Window
+[Sets the Ladder to her Window, fetches his Lute, and goes up the Ladder
+He Plays and Sings this Song
+When Maidens are young and in their Spring
+Of Pleasure, of Pleasure, let 'em take their full Swing, full Swing,—full Swing,—
+And Love, and Dance, and Play, and Sing
+For Silvia, believe it, when Youth is done,
+There's nought but hum drum, hum drum, hum drum;
+There's nought but hum drum, hum drum, hum drum
+Then Silvia be wise—be wise—be wise,
+Tho' Painting and Dressing, for a while, are Supplies,
+And may—surprise—
+But when the Fire's going out in your Eyes,
+It twinkles, it twinkles, it twinkles, and dies
+And then to hear Love, to hear Love from you,
+I'd as live hear an Owl cry—Wit to woo,
+Wit to woo, Wit to woo
+Enter Mopsophil above
+Mop
+What woful Ditty-making Mortal's this?
+That ere the Lark her early Note has sung,
+Does dolesul Love beneath my Casement thrum.—
+—Ah, Seignior Scaramouch, is it you?
+Scar
+Who shou'd it be, that takes such pains to sue?
+Mop
+Ah, Lover most true Blew
+Enter Harlequin in Womens Cloths
+Har
+If I can now but get admittance, I shall not only deliver the young Ladies their Letters from their Lovers, but get some opportunity, in this Disguise, to slip this Bil let Deux into Mopsophil 's Hand, and bob my Comrade Scaramouch.— Ha,—What do I see?—My Mistriss at the Window, courting my Rival! Ah Gypsie!—
+Scar
+—But we lose precious time, since you design me a kind Hour in your Chamber
+Har
+Oh Traytor!—
+Mop
+You'll be sure to keep it from Harlequin
+Har
+Ah yes, he, hang him Fool, he takes you for a Saint
+Scar
+Harlequin!— Hang him, shotten Herring
+Har
+Ay, a Gully, a Noddy
+Mop
+A meer Zany
+Har
+Ah, hard hearted Turk
+Mop
+Fit for nothing but a Cuckold
+Har
+Monster of Ingratitude! How shall I be re veng'd?
+[Scar. going over the Balcony
+—Hold, hold, thou perjur'd Traytor
+[Cryes out in a Womans Voice
+Mop
+Ha,—Discover'd!—A Woman in the Garden!
+Har
+Come down, come down, thou false perfidious Wretch
+Scar
+Who, in the Devils Name, art thou?
+And to whom dost thou speak?
+Har
+To thee, thou false Deceiver, that hast broke thy
+Vows, thy Lawful Vows of Wedlock—
+[Bawling out
+Oh, oh, that I shou'd live to see the Day!—
+[Crying
+Scar
+Who mean you, Woman?
+Har
+Whom shou'd I mean, but thou—my lawful Spouse?
+Mop
+Oh Villain!—Lawful Spouse!—Let me come to her
+[Scar. comes down, as Mopsophil flings out of the Balcony
+Scar
+The Woman's mad—hark ye Jade—how long have you been thus distracted?
+Har
+E're since I lov'd and trusted thee, false Varlot
+—See here,—the Witness of my Love and Shame
+[Bawls, and points to her Belly
+Just then Mopsophil enters
+Mop
+How! with Child!——Out Villain, was I made a Property?
+Sca
+Hear me
+Har
+Oh, thou Heathen Christian!—Was not one Woman enough?
+Mop
+Ay, Sirrah, answer to that
+Scar
+I shall be sacrific'd.—
+Mop
+I am resolv'd to marry to morrow—either to the Apothecary or the Farmer, men I never saw, to be re veng'd on thee, thou tarmagant Infidel
+Enter the Doctor
+Doct
+What Noise, what Out-cry, what Tumult's this?
+Har
+Ha,—the Doctor!—What shall I do?—
+[Gets to the Door, Scar. pulls her in
+Doct
+A Woman—some Bawd I am sure—
+Woman, what's your Business here?—ha—
+Har
+I came, an't like your Seigniorship, to Madam the Governante here, to serve her in the Quality of a Fille de Chambre, to the young Ladies
+Doct
+A Fille de Chambre! 'tis so, a she Pimp,—
+Har
+Ah, Seignior—
+[Makes his little dapper Leg instead of a Curtsie
+Doct
+How now, what do you mock me?
+Har
+Oh Seignior!—
+[Gets nearer the Door
+Mop
+Stay, stay, Mistriss, and what Service are you able to do the Seigniors Daughters?
+Har
+Is this Seignior Doctor Baliardo, Madam?
+Mop
+Yes
+Har
+Oh! He's a very handsome Gentleman—indeed—
+Doct
+Ay, ay, what Service can you do, Mistriss?
+Har
+Why Seignior, I can tye a Cravat the best of any Person in Naples, and I can comb a Periwig—and I can—
+Doct
+Very proper Service for young Ladies; you, I believe, have been Fille de Chambre to some young Ca valiers
+Har
+Most true, Seignior, why shou'd not the Cava liers keep Filles de Chambre, as well as great Ladies Vallets de Chambre?
+Doct
+Indeed 'tis equally reasonable.—'Tis a Bawd.—
+[Aside
+—But have you never serv'd Ladies?
+Har
+Oh yes! I serv'd a Parsons Wife
+Doct
+Is that a great Lady?
+Har
+I surely, Sir, what is she else? for she wore her Mantoes of Brokad de or, Petticoats lac'd up to the Ga thers, her Points, her Patches, Paints and Perfumes, and sate in the uppermost Place in the Church to
+Mop
+But have you never serv'd Countesses and Dutch esses?
+Har
+Oh, yes, Madam! the last I serv'd, was an Al dermans Wife in the City
+Mop
+Was that a Countess or a Dutchess?
+Har
+Ay, certainly—for they have all the Money; and then for Cloths, Jewels, and rich Furniture, and eat ing, they outdo the very Vice Reigne her self
+Doct
+This is a very ignorant running Bawd,—there fore first search her for Bellets Deux, and then have her Pump'd
+Har
+Ah, Seignior,—Seignior.—
+[Scar. searches him, finds Leters
+Scar
+—Ha,—to Elaria— and Bellemante?—
+[Reads the Outside, pops 'em into his Bosom
+—These are from their Lovers—
+—Ha,—a Note to Mopsophil,— Oh, Rogue! have I found you?—
+Har
+If you have, 'tis but Trick for your Trick, Seignior Scaramouch, and you may spare the Pumping
+Scar
+For once, Sirrah, I'll bring you off, and deliver your Letters.—Sir, do you not know who this is?—Why 'tis a Rival of mine, who put on this Disguise to cheat me of Mistriss Mopsophil.— See hear's a Billet to her.—
+Doct
+What is he?
+Scar
+A Mungrel Dancing-Master; therefore, Sir, since all the Injury's mine, I'll pardon him for a Dance, and let the Agility of his Heels save his Bones, with your Permis sion, Sir
+Doct
+With all my Heart, and am glad he comes off so comically
+[Harlequin Dances
+[A knocking at the Gate. Scar. goes and returns
+Scar
+Sir, Sir, here's the rare Philosopher who was here yesterday
+Doct
+Give him Entrance, and all depart
+Enter Charmante
+Char
+Blest be those Stars! that first conducted me to so much Worth and Vertue, you are their Darling, Sir, for whom they wear their brightest Lustre
+Your Fortune is establish'd, you are made, Sir
+Doct
+Let me contain my Joy—
+[Keeping in an impatient Joy
+—May I be worthy, Sir, to apprehend you?
+Char
+After long Searching, Watching, Fasting, Pray ing, and using all the vertuous means in Nature, whereby we solely do attain the highest Knowledge in Philosophy; it was resolv'd, by strong Intelligence—you were the happy Sire of that Bright Nymph, that had insas cinated, charm'd and conquer'd the mighty Emperor Ire donozor— the Monarch of the Moon
+Doct
+I am-undone with Joy! ruin'd with Transport—
+[Aside
+——Can it—can it, Sir,—be possible—
+[Stifling his Joy, which breaks out
+Char
+Receive the Blessing, Sir, with moderation
+Doct
+I do, Sir, I do
+Char
+This very Night, by their great Art, they find
+He will descend, and show himself in Glory
+An Honour, Sir, no Mortal has receiv'd
+This sixty hundred years
+Doct
+Hum—Say you so, Sir? no Emperor ever de scend this Sixty hundred years?
+[Looks sad
+—Was I deceiv'd last night?
+[Aside
+Char
+Oh! Yes, Sir, often in disguise, in several Shapes and Forms, which did of old occasion so many Fabulous Tales of all the Shapes of Jupiter—— but never in their proper Glory, Sir, as Emperors. This is an Honour only design'd to you
+Doct
+And will his Grace—be here in Person, Sir?
+[Joyful
+Char
+In Person—and with him, a Man of mighty Quality, Sir,—'tis thought—the Prince of Thun derland— but that's but whisper'd, Sir, in the Cabal, and that he loves your Neece
+Doct
+Miraculous! how this agrees with all I've seen and heard—To Night, say you, Sir?
+Char
+So 'tis conjectur'd, Sir,—some of the Cabal list—are of opinion—that last night there was some Sally from the Moon
+Doct
+About what hour, Sir?
+Char
+The Meridian of the Night, Sir, about the hours of twelve or one, but who descended, or in what Shape, is yet uncertain
+Doct
+This I believe, Sir
+Char
+Why, Sir?
+Doct
+May I communicate a Secret of that Nature?
+Char
+To any of the Caballist, but none else
+Doct
+Then know—last night, my Daughter and my
+Neece were entertain'd by those illustrious Heroes
+Char
+Who, Sir? the Emperor and Prince his Cousin
+Doct
+Most certain, Sir
+But whether they appear'd in solid Bodies, or Fantomical, is yet a Question, for at my unlucky approach, they all transform'd themselves into a Piece of Hangings
+Char
+'Tis frequent, Sir, their Shapes are numerous, and 'tis also in their Power to transform all they touch, by vertue of a certain Stone—they call the Ebula
+Doct
+That wondrous Ebula, which Gonzales had?
+Char
+The same—by Vertue of which, all weight was taken from him, and then with ease the lofty Traveller flew from Parnassus Hill, and from Hymethus Mount, and high Gerania, and Acrocorinthus, thence to Taygetus, so to Olympus Top, from whence he had but one step to the Moon. Dizzy he grants he was
+Doct
+No wonder, Sir, Oh happy great Gonzales!
+Char
+Your Vertue, Sir, will render you as happy—but I must hast—this Night prepare your Daughter and your Neece, and let your House be Dress'd, Perfum'd, and Clean
+Doct
+It shall be all perform'd, Sir
+Char
+Be modest, Sir, and humble in your Elevation, for nothing shews the Wit so poor, as Wonder, nor Birth so mean, as Pride
+Doct
+I humbly thank your Admonition, Sir, and shall, in all I can, struggle with Humane Frailty
+[Brings Char. to the Door bare. Exit
+Enter Scaramouch peeping at the other Door
+Scar
+So, so, all things go gloriously forward, but my own Amour, and there is no convincing this obstinate Woman, that 'twas that Rogue Harlequin in Disguise, that claim'd me; so that I cannot so much as come to de liver the young Ladies their Letters from their Lovers. I must get in with this damn'd Mistriss of mine, or all our Plot will be spoil'd for want of Intelligence
+—Hum,—The Devil does not use to sail me at a dead Lift. I must deliver these Letters, and I must have this Wench—tho' but to be reveng'd on her for abu sing me.—Let me see—she is resolv'd for the Apothecary or the Farmer. Well, say no more honest Scaramouch, thou shalt find a Friend at need of me—and if I do not fit you with a Spouse, say that a Woman has out-witted me
+The End of the Second Act
+ACT III
+SCENE I. The Street, with the Town Gate, where an Officer stands with a Staff like a London Constable
+Enter Harlequin riding in a Calash, comes through the Gate towards the Stage, dress'd like a Gentleman sitting in it. The Officer lays hold of his Horse
+Officer
+HOld, hold, Sir, you, I suppose know the Customs that are due to this City of Naples, from all Persons that pass the Gates in Coach, Chariot, Ca lash, or Siege Voglant
+Har
+I am not ignorant of the Custom, Sir, but what's that to me?
+Off
+Not to you, Sir! why, what Privilege have you above the rest?
+Har
+Privilege, for what, Sir?
+Off
+Why for passing, Sir, with any of the before named Carriages
+Har
+Ar't mad?—Dost not see I am a plain Ba ker, and this my Cart, that comes to carry Bread for the Vice-Roy's, and the Cities Use?—ha—
+Off
+Are you mad, Sir, to think I cannot see a Gentleman Farmer and a Calash, from a Baker and a Cart?
+Har
+Drunk by this Day—and so early too? Oh you're a special Officer; unhand my Horse, Sirrah, or you shall pay for all the Damage you do me
+Off
+Hey day! here's a fine Cheat upon the Vice Roy;
+Sir, pay me, or I'll seize your Horse.—
+[Har. strikes him. They scuffle a little
+—Nay, and you be so brisk, I'll call the Clerk from his Office
+Calls
+—Mr. Clerk, Mr. Clerk
+[Goes to the Entrance to call the Clerk, the mean time Har. whips a Frock over himself, and puts down the hind part of the Chariot, and then 'tis a Cart
+Enter Clerk
+Cler
+What's the matter here?—
+Off
+Here's a Fellow, Sir, will perswade me, his Calash is a Cart, and refuses the Customs for passing the Gate
+Cler
+A Calash—Where?—I see only a Carter and his Cart
+[The Officer looks on him
+Off
+Ha,—What a Devil, was I blind?
+Har
+Mr. Clerk, I am a Baker, that come with Bread to sell, and this Fellow here has stopt me this hour, and made me lose the Sale of my Ware—and being Drunk, will out-face me I am a Farmer, and this Cart a Calash.—
+Cler
+He's in an Errour Friend, pass on—
+Har
+No Sir, I'll have satisfaction first, or the Vice-Roy shall know how he's serv'd by drunken Officers, that Nui sance to a Civil Government
+Cler
+What do you demand, Friend?
+Har
+Demand,—I demand a Crown, Sir
+Off
+This is very hard—Mr. Clerk—If ever I saw in my Life, I thought I saw a Gentleman and a Calash
+Cler
+Come, come, gratifie him, and see better hereafter
+Off
+Here Sir,—If I must, I must—
+[Gives him a Crown
+Cler
+Pass on, Friend—
+[Ex. Clerk. Har. unseen, puts up the Back of his Calash, and whips off his Frock, and goes to drive on, The Officer looks on him, and stops him again
+Off
+Hum, I'll swear it is a Calash—Mr. Clerk,
+Mr. Clerk, come back, come back—
+[Runs out to call him. He changes as before
+Enter Officer and Clerk
+—Come Sir, let your own Eyes convince you, Sir.—
+Cler
+Convince me, of what, you Sott?
+Off
+That this is a Gentleman, and that a—ha,—
+[Looks about on Har
+Cler
+Stark Drunk, Sirrah! if you trouble me at every Mistake of yours thus, you shall quit your Office.—
+Off
+I beg your Pardon, Sir, I am a little in Drink I confess, a little Blind and Mad—Sir,—This must be the Devil, that's certain
+[The Clerk goes out, Har. puts up his Calash again, and pulls off his Frock and drives out
+—Well, now to my thinking, 'tis as plain a Calash again, as ever I saw in my Life, and yet I'm satisfy'd 'tis nothing but a Cart
+[Exit
+SCENE changes to the Doctors House. The Hall
+Enter Scaramouch in a Chair, which set down and open'd, on all sides, and on the top represents an Apothecaries Shop, the Inside being painted with Shelves and Rows of Pots and Bottles; Scaramouch sitting in it dress'd in Black, with a short black Cloak, a Ruff, and little Hat
+Scar
+THe Devil's in't, if either the Doctor, my Ma ster, or Mopsophil, know me in this Dis guise—And thus I may not only gain my Mistriss, and out-wit Harlequin, but deliver the Ladies those Let ters from their Lovers, which I took out of his Pocket this Morning, and who wou'd suspect an Apothecary for a Pimp.—Nor can the Jade Mopsophil, in Honour, re fuse a Person of my Gravity, and so well set up.—
+[Pointing to his Shop
+—Hum, the Doctor here first, this is not so well, but I'm prepar'd with Impudence for all Encounters
+Enter the Doctor. Scaramouch Salutes him gravely
+—Most Reverend Doctor Baliardo.—
+[Bows
+Doct
+Seignior—
+[Bows
+Scar
+I might, through great Pusillanimity, blush—to give you this Anxiety. Did I not opine you were as Gracious as Communitive and Eminent; and tho' you have no Cognisance of me, your Humble Servant,—yet I have of you,—you being so greatly sam'd for your admirable Skill, both in Gallenical and Paracelsian Phaenomena's, and other approv'd Felicities in Vulnerary Emeticks, and purgative Experiences
+Doct
+Seignior,—your Opinion honours me—a rare Man this
+Scar
+And though I am at present busied in writing—those few Observations I have accumulated in my Peregri nations, Sir, yet the Ambition I aspir'd to, of being an Ocular and Aurial Witness of your Singularity, made me trespass on your sublimer Affairs
+Doct
+Seignior.—
+Scar
+—Besides a violent Inclination, Sir, of being ini tiated into the Denomination of your Learned Family, by the Conjugal Circumference of a Matrimonial Tye, with that singularly accomplish'd Person—Madam, the Go vernante of your Hostel
+Doct
+Hum—A sweet-heart for Mopsophil!
+[Aside
+Scar
+And if I may obtain your Condescension to my Hymenaeal Propositions, I doubt not my Operation with the Fair One
+Doct
+Seignior, she is much honour'd in the Over ture, and my Abilities shall not be wanting to fix the Concord
+—But have you been a Traveller, Sir?
+Scar
+Without Circumlocutions, Sir, I have seen all the Regions beneath the Sun and Moon
+Doct
+Moon, Sir! You never travell'd thither, Sir?
+Scar
+Not in Propria Persona, Seignior, but by specula tion, I have, and made most considerable Remarques on that incomparable Terra Firma, of which I have the com pleatest Map in Christendom—and which Gonzales himself omitted in his Cosmographia of the Lunar Mundus
+Doct
+A Map of the Lunar Mundus, Sir! May I crave the Honour of seeing it?
+Scar
+You shall, Sir, together with a Map of Terra In cognita, a great Rarety, indeed, Sir
+Enter Bellemante
+Doct
+Jewels, Sir, worth a Kings Ransome
+Bell
+Ha,—What Figure of a Thing have we here—Bantering my Credulous Uncle?—This must be some Scout sent from our Forlorn Hope, to disco ver the Enemy, and bring in fresh Intelligence.—Hum,—That Wink tipt me some Tidings, and she deserves not a good Look, who understands not the Language of the Eyes.—Sir, Dinner's on the Table
+Doct
+Let it wait, I am imploy'd—
+[She creeps to the other side of Scaramouch, who makes Signs with his Hand to her
+Bell
+Ha,—'tis so,—This fellow has some Novel for us, some Letters or Instructions, but how to get it—
+[As Scar. talks to the Doctor, he takes the Letters by degrees out of his Pocket, and unseen, gives 'em Bellemante behind him
+Doct
+But this Map, Seignior; I protest you have fill'd me with Curiosity. Has it signify'd all things so exactly say you?
+Scar
+Omitted nothing, Seignior, no City, Town, Vil lage or Villa; no Castle, River, Bridge, Lake, Spring or Mineral
+Doct
+Are any, Sir, of those admirable Mineral Waters there, so frequent in our World?
+Scar
+In abundance, Sir, the Famous Garamanteen, a young Italian, Sir, lately come from thence, gives an ac count of an excellent Scaturigo, that has lately made an Ebulation there, in great Reputation with the Lunary Ladies
+Doct
+Indeed, Sir! be pleas'd, Seignior, to solve me some Queries that may enode some apparences of the Virtue of the Water you speak of
+Scar
+Pox upon him, what Questions he asks—but I must on—Why Sir, you must know,—the Tincture of this Water upon Stagnation, Ceruberates, and the Crocus upon the Stones Flaveces; this he observes—to be, Sir, the Indication of a Generous Water
+Doct
+Hum—
+[Gravely Nodding
+Scar
+Now, Sir, be pleas'd to observe the three Regions, if they be bright, without doubt Mars is powerful; if the middle Region or Camera be palled, Filia Solis is breeding
+Doct
+Hum
+Scar
+And then the third Region, if the Faeces be vola til, the Birth will soon come in Balneo. This I observed also in the Laboratory of that Ingenious Chymist Lysidono, and with much Pleasure animadverted that Mineral of the same Zenith and Nader, of that now so famous Water in England, near that famous Metropolis, call'd Islington
+Doct
+Seignior—
+Scar
+For, Sir, upon the Infusion, the Crows Head im mediately procures the Seal of Hermes, and had not Lac Virginis been too soon suck'd up, I believe we might have seen the Consummation of Amalgena
+[Bellemante having got her Letters, goes off. She makes Signs to him to stay a little. He Nods
+Doct
+Most likely, Sir
+Scar
+But, Sir, this Garamanteen relates the strangest Operation of a Mineral in the Lunar World, that ever I heard of
+Doct
+As how, I pray, Sir?
+Scar
+Why, Sir, a Water impregnated to a Circulation with Fema Materia; upon my Honour, Sir, the strongest I ever drank of
+Doct
+How, Sir! did you drink of it?
+Scar
+I only speak the words of Garamanteen, Sir
+—Pox on him, I shall be trapt
+[Aside
+Doct
+Cry Mercy, Sir.—
+[Bows
+Scar
+The Lunary Physicians, Sir, call it Urinam Vulca ni, it Calibrates every ones Excrements more or less ac cording to the Gradus of the Natural Calor.—To my Knowledge, Sir, a Smith of a very fiery Constitution, is grown very Opulent by drinking these Waters
+Doct
+How, Sir, grown Rich by drinking the Waters, and to your Knowledge?
+Scar
+The Devil's in my Tongue, to my Knowledge, Sir, for what a man of Honour relates, I may safely af firm
+Doct
+Excuse me, Seignior—
+[Puts off his Hat again gravely
+Scar
+For, Sir, conceive me how he grew Rich, since he drank those Waters he never buys any Iron, but hammers it out of Stercus Proprius
+Enter Bellemante with a Billet
+Bell
+Sir, 'tis three a Clock, and Dinner will be cold.—
+[Goes behind Scaramouch, and gives him the Note, and goes out
+Doct
+I come Sweet-heart; but this is wonderful
+Scar
+Ay, Sir, and if at any time Nature be too infirm, and he prove Costive, he has no more to do, but to apply a Load-stone ad Anum
+Doct
+Is't possible?
+Scar
+Most true, Sir, and that facilitates the Journey per Visera.— But I detain you, Sir, another time—Sir,—I will now only beg the Honour of a Word or two with the Governante, before I go.—
+Doct
+Sir, she shall wait on you, and I shall be proud of the Honour of your Conversation.—
+[They bow. Exit Doctor
+Enter to him Harlequin, dress'd like a Farmer, as before
+Har
+Hum—What have we here, a Taylor or a Tumbler?
+Scar
+Ha—Who's this?—Hum—What if it shou'd be the Farmer that the Doctor has promis'd Mopsophil to? My Heart misgives me
+[They look at each other a while
+Who wou'd you speak with, Friend?
+Har
+This is, perhaps, my Rival, the Apothecary.—Speak with, Sir, why, what's that to you?
+Scar
+Have you Affairs with Seignior Doctor, Sir?
+Har
+It may be I have, it may be I have not. What then, Sir?—
+While they seem in angry Dispute, Enter Mopsophil
+Mop
+Seignior Doctor tells me I have a Lover waits me, sure it must be the Farmer or the Apothecary. No matter which, so a Lover, that welcomest man alive. I am re solv'd to take the first good Offer, tho' but in Revenge of Harlequin and Scaramouch, for puting Tricks upon me.—Ha,—Two of'em!
+Scar
+My Mistriss here!
+[They both Bow and Ad vance, both putting each other by
+Mop
+Hold Gentlemen,—do not worry me
+Which of you wou'd speak with me?
+Both
+I, I, I, Madam—
+Mop
+Both of you?
+Both
+No, Madam, I, I
+Mop
+If both Lovers, you are both welcome, but let's have fair Play, and take your turns to speak
+Har
+Ay, Seignior, 'tis most uncivil to interrupt me
+Scar
+And disingenious, Sir, to intrude on me
+[Putting one another by
+Mop
+Let me then speak first
+Har
+I'm Dumb
+Scar
+I Acquiesce
+Mop
+I was inform'd there was a Person here had Pro positions of Marriage to make me
+Har
+That's I, that's I—
+[Shoves Scar. away
+Scar
+And I attend to that consequential Finis
+[Shoves Har. away
+Har
+I know not what you mean by your Finis, Seig nior, but I am come to offer my self this Gentlewomans Servant, her Lover, her Husband, her Dog in a Halter, or any thing
+Scar
+Him I pronounce a Paltroon, and an Ignomini ous Utensil, that dares lay claim to the Renowned Lady of my Primum Mobile; that is, my best Affections.—
+[In Rage
+Har
+I fear not your hard Words, Sir, but dare aloud pronounce, if Donna Mopsophil like me, the Farmer, as well as I like her, 'tis a Match, and my Chariot is ready at the Gate to bear her off, d'ye see.—
+Mop
+Ah, how that Chariot pleads.—
+[Aside
+Scar
+And I pronounce, that being intoxicated with the sweet Eyes of this refulgent Lady, I come to tender her my noblest Particulars, being already most advan tageously set up with the circumstantial Implements of my Occupation
+[Points to the Shop
+Mop
+A City Apothecary, a most Gentile Calling—Which shall I chuse?—Seignior Apothecary, I'll not expostulate the Circumstantial Reasons that have occasi on'd me this Honour.—
+Scar
+Incomparable Lady, the Elegancy of your Re pertees most excellently denote the Profundity of your Ca pacity
+Har
+What the Devil's all this? Good Mr. Conjurer stand by—and don't fright the Gentlewoman with your Elegant Profondities
+[Puts him by
+Scar
+How, a Conjurer! I will chastise thy vulgar Ig norance, that yelips a Philosopher a Conjurer
+[In Rage
+Har
+Losaphers!—Prethee, if thou be'st a Man, speak like a Man—then
+Scar
+Why, What do I speak like? What do I speak like?
+Har
+What do you speak like—why you speak like a Wheel-Barrow
+Scar
+How!—
+Har
+And how
+[They come up close together at half Sword Parry; stare on each other for a while, then put up and bow to each other civilly
+Mop
+Thats well Gentlemen, let's have all Peace, while I survey you both, and see which likes me best
+[She goes between 'em, and surveys 'em both, they making ridiculous Bows on both sides, and Grimaces the while
+—ha,—now on my Conscience, my two foolish Lovers,— Harlequin and Scaramouch; how are my Hopes defeated?—but Faith I'll fit you both
+[She views 'em both
+Scar
+So, she's considering still, I shall be the happy Dog
+[Aside
+Har
+She's taking aim, she cannot chuse but like me best
+[Aside
+Scar
+Well, Madam, how does my Person propagate
+[Bowing and Smiling
+Mop
+Faith Seignior, now I look better on you, I do not like your Phisnomy so well as your Intellects; you disco vering some Circumstantial Symptoms that ever denote a Villainous Inconstancy
+Scar
+Ah, you are pleas'd, Madam.—
+Mop
+You are mistaken, Seignior, I am displeas'd at your Gray Eyes, and Black Eye-brows and Beard, I never knew a Man with those Signs, true to his Mistriss or his Friend. And I wou'd sooner wed that Scoundrel Scara mouch, that very civil Pimp, that meer pair of Chymical Bellows that blow the Doctors projecting Fires, that De puty-Urinal Shaker, that very Guzman of Salamanca, than a Fellow of your infallible Signum Mallis
+Har
+Ha, ha, ha,—you have your Answer, Seigni or Friskin—and may shut up your Shop and be gone.—Ha, ha, ha.—
+Sca
+Hum, sure the Jade knows me—
+[Aside
+Mop
+And as for you, Seignior
+Har
+Ha, Madam—
+[Bowing and Smiling
+Mop
+Those Lanthorn Jaws of yours, with that most villainous Sneer and Grin, and a certain fierce Aire of your Eyes, looks altogether most Fanatically—which with your notorious Whey Beard, are certain Signs of Knavery and Cowardice; therefore I'd rather wed that Spider Harle quin, that Sceliton Buffoon, that Ape of Man, that Jack of Lent, that very Top, that's of no use, but when 'tis whipt and lasht, that pitious Property I'd rather wed than thee
+Har
+A very fair Declaration—
+Mop
+you understand me—and so adieu sweet Glister pipe, and Seignior dirty Boots, Ha, ha, ha.—
+[Runs out
+[They stand looking simply on each other, without speaking a while
+Scar
+That I shou'd not know that Rogue Harlequin
+[Aside
+Har
+That I shou'd take this Fool for a Physician
+[Aside
+—How long have you commenc'd Apothecary, Seignior?
+Scar
+Ever since you turn'd Farmer.——Are not you a damn'd Rogue to put these Tricks upon me, and most dishonorably break all Articles between us?
+Har
+And are not you a damn'd Son of a——some thing—to break Articles with me?
+Scar
+No more Words, Sir, no more words, I find it must come to Action,—Draw.—
+[Draws
+Har
+Draw,—so I can draw, Sir.——
+[Draws
+They make a ridiculous cowardly Fight. Enter the Doctor, which they seeing, come on with more Courage. He runs between, and with his Cane beats the Swords down
+Doct
+Hold—hold—What mean you Gentlemen?
+Scar
+Let me go, Sir, I am provok'd beyond measure, Sir
+Doct
+You must excuse me, Seignior—
+[Parlies with Harlequin
+Scar
+I dare not discover the Fool for his Masters Sake, and it may spoil our Intrigue anon; besides, he'll then discover me, and I shall be discarded for bantering the Doctor
+[Aside
+—A Man of Honour to be so basely affronted here.——
+[The Doctor comes to appease Scaramouch
+Har
+Shou'd I discover this Rascal, he wou'd tell the Old Gentleman I was the same that attempted his House to day in Womans Cloths, and I shou'd be kick'd and beaten most unsatiably
+Scar
+What, Seignior, for a man of Parts to be impos'd upon,—and whipt through the Lungs here—like a Mountebanks Zany for sham Cures—Mr. Doctor, I must tell you 'tis not Civil
+Doct
+I am extreamly sorry for it, Sir,—and you shall see how I will have this Fellow handled for the Af front to a Person of your Gravity, and in my House—Here Pedro,—
+Enter Pedro
+—Take this Intruder, or bring some of your Fellows hither, and toss him in a Blanket—
+[Ex. Pedro. Har. going to creep away, Scar. holds him
+Har
+Harkye,—bring me off, or I'll discover all your Intrigue
+[Aside to him
+Scar
+Let me alone—
+Doct
+I'll warrant you some Rogue that has some Plot on my Neece and Daughter.—
+Scar
+No, no, Sir, he comes to impose the grossest Lye upon you, that ever was heard of
+Enter Pedro with others, with a Blanket. They put Har. into it, and toss him
+Har
+Hold, hold,—I'll confess all, rather than in dure it
+Doct
+Hold,—What will you confess, Sir
+[He comes out. Makes sick Faces
+Scar
+—That he's the greatest Impostor in Nature. Wou'd you think it, Sir? he pretends to be no less than an Ambassador from the Emperor of the Moon, Sir—
+Doct
+Ha,—Ambassador from the Emperor of the Moon—
+[Pulls off his Hat
+Scar
+Ay, Sir, thereupon I laugh'd, thereupon he grew angry,—I laugh'd at his Resentment, and thereupon we drew—and this was the high Quarrel, Sir
+Doct
+Hum,—Ambassador from the Moon
+[Pauses
+Scar
+I have brought you off, manage him as well as you can
+Har
+Brought me off, yes, out of the Frying-Pan into the Fire. Why, how the Devil shall I act an Ambas sador?
+[Aside
+Doct
+It must be so, for how shou'd either of these know I expected that Honour?
+[He addresses him with pro found Civility to Har
+Sir, if the Figure you make, approaching so near ours of this World, have made us commit any undecent Indignity to your high Character, you ought to pardon the Frailty of our Mortal Education and Ignorance, having never be fore been blest with the Descention of any from your World.—
+Har
+What the Devil shall I say now?
+[Aside
+—I confess, I am as you see by my Garb, Sir, a little Incognito, because the Publick Message I bring, is very pri vate—which is, that the mighty Iredonozor, Empe ror of the Moon—with his most worthy Brother, the Prince of Thunderland, intend to Sup with you to Night—Therefore be sure you get good Wine.—Tho' by the way let me tell you, 'tis for the Sake of your Fair Daughter
+Scar
+I'll leave the Rogue to his own Management.—I presume, by your whispering, Sir, you wou'd be private, and humbly beging Pardon, take my Leave
+[Ex. Scaramouch
+Har
+You have it Friend. Does your Neece and Daugh ter Drink, Sir?
+Doct
+Drink, Sir?
+Har
+Ay, Sir, Drink hard
+Doct
+Do the Women of your World drink hard, Sir?
+Har
+According to their Quality, Sir, more or less; the greater the Quality, the more Profuse the Quantity
+Doct
+Why that's just as 'tis here; but your Men of Qua lity, your States-men, Sir, I presume they are Sober, Learned and Wise
+Har
+Faith, no, Sir, but they are, for the most part, what's as good, very Proud, and promising, Sir, most li beral of their Word to every fauning Suiter, to purchase the state of long Attendance, and cringing as they pass; but the Devil of a Performance, without you get the Knack of bribing in the right Place and Time; but yet they all defy it, Sir.—
+Doct
+Just, just as 'tis here
+—But pray Sir, How do these Great Men live with their Wives
+Har
+Most Nobly, Sir, my Lord keeps his Coach, my Lady, hers; my Lord his Bed, my Lady hers; and very rarely see one another, unless they chance to meet in a Visit, in the Park, the Mall, the Toore, or at the Basset-Table, where they civilly Salute and part, he to his Mistriss, she to play
+Doct
+Good lack! just as 'tis here
+Har
+—Where, if she chance to lose her Money, rather than give out, she borrows of the next Amorous Coxcomb, who, from that Minute, hopes, and is sure to be paid again one way or other, the next kind Oppor tunity
+Doct
+—Just as 'tis here
+Har
+As for the young Fellows that have Money, they have no Mercy upon their own Persons, but wearing Na ture off as fast as they can, Swear, and Whore and Drink, and Borrow as long any Rooking Citizen will lend, till having dearly purchased the Heroick Title of a Bully or a Sharper, they live pity'd of their Friends, and despis'd by their Whores, and depart this Transitory World, diverse and sundry ways
+Doct
+Just, just, as 'tis here!
+Har
+As for the Citizen, Sir, the Courtier lies with his Wife, he, in revenge, cheats him of his Estate, till Rich enough to marry his Daughter to a Courtier, again give him all—unless his Wives Over-Gallantry break him; and thus the World runs round.——
+Doct
+The very same 'tis here.—Is there no pre serment, Sir, for Men of Parts and Merit?
+Har
+Parts and Merit! What's that? a Livery, or the handsome tying a Cravat, for the great Men prefer none but their Foot-men and Vallets
+Doct
+By my Troth, just as 'tis here
+—Sir, I find you are a Person of most profound Intelli gence—under Favour, Sir,—Are you a Native of the Moon or this World.—
+Har
+The Devils in him for hard Questions
+—I am a Naopolitan, Sir
+Doct
+Sir, I Honour you; good luck, my Countryman!
+How got you to the Region of the Moon, Sir?
+Har
+—A plaguy inquisitive old Fool—
+—Why, Sir,—Pox on't, what shall I say?—I being—one day in a musing Melancholy, walking by the Sea-side—there arose, Sir, a great Mist, by the Suns exhaling of the Vapours of the Earth, Sir
+Doct
+Right, Sir
+Har
+In this Fog or Mist, Sir, I was exhal'd
+Doct
+The Exalations of the Sun, draw you to the Moon, Sir?
+Har
+I am condemn'd to the Blanket again.—I say, Sir, I was exhal'd up, but in my way—being too heavy, was dropt into the Sea
+Doct
+How, Sir, into the Sea?
+Har
+The Sea, Sir, where the Emperors Fisher-man casting his Nets, drew me up, and took me for a strange and monstrous Fish, Sir,—and as such, presented me to his Mightiness,—who going to have me Spitchcock'd for his own eating.—
+Doct
+How, Sir, eating?—
+Har
+What did me I, Sir, (Life being sweet) but fall on my Knees, and besought his Gloriousness not to eat me, for I was no Fish but a Man; he ask'd me of what Country, I told him of Naples; whereupon the Emperor overjoy'd ask'd me if I knew that most Reverend and most Learned Doctor Baliardo, and his fair Daughter. I told him I did: whereupon he made me his Bed-fellow, and the Confident to his Amour to Seigniora Elaria
+Doct
+Bless me, Sir! how came the Emperor to know my Daughter?
+Har
+—There he is again with his damn'd hard Que stions.—Knew her, Sir,—Why—you were walk ing abroad one day.—
+Doct
+My Daughter never goes abroad, Sir, farther than our Garden.—
+Har
+Ay, there it was indeed, Sir,—and as his High ness was taking a Survey of this lower World—through a long Perspective, Sir,—he saw you and your Daugh ter and Neece, and from that very moment, fell most de sperately in Love.—But hark—the sound of Tim brils, Kettle-Drums and Trumpets.—The Emperor, Sir, is on his Way,—prepare for his Reception
+[A strange Noise is heard of Brass Kettles, and Pans, and Bells, and many tinkling things
+Doct
+I'm in a Rapture—How shall I pay my Gra titude for this great Negotiation?—but as I may, I humbly offer, Sir.—
+[Presents him with a Rich Ring and a Purse of Gold
+Har
+Sir, as an Honour done the Emperor, I take your Ring and Gold. I must go meet his Highness.—
+[Takes Leave
+Enter to him Scaramouch, as himself
+Scar
+Oh, Sir! we are astonish'd with the dreadful sound of the sweetest Musick that ever Mortal heard, but know not whence it comes. Have you not heard it, Sir?
+Doct
+Heard it, yes, Fool,—'Tis the Musick of the Spheres, the Emperor of the Moon World is descending
+Scar
+How, Sir, no marvel then, that looking towards the South, I saw such splendid Glories in the Air
+Doct
+Ha,—saw'st thou ought descending in the Air?
+Scar
+Oh, yes, Sir, Wonders! haste to the old Gallery, whence, with the help of your Telescope, you may disco ver all.—
+Doct
+I wou'd not lose a moment for the lower Universe
+Enter Elaria, Bellemante, Mopsophil, dress'd in rich Antick Habits
+Ela
+Sir, we are dress'd as you commanded us, What is your farther Pleasure?
+Doct
+—It well becomes the Honour you're design'd for, this Night to wed two Princes—come with me and know your happy Fates
+[Ex. Doctor and Scar
+Ela
+Bless me! My Father, in all the rest of his Dis course, shows so much Sense and Reason, I cannot think him mad, but feigns all this to try us
+Bell
+Not Mad! Marry Heaven forbid, thou art al ways creating Fears to startle one; why, if he be not mad, his want of Sleep this eight and forty hours, the Noise of strange unheard of Instruments, with the Fantastick Splen dor of the unusual Sight, will so turn his Brain and dazle him, that in Grace of Goodness, he may be Mad: If he be not;—come, let's after him to the Gallery, for I long to see in what showing Equipage our Princely Lovers will address to us
+[Exeunt
+SCENE The Last. The Gallery richly adorn'd with Scenes and Lights
+Enter Doctor, Elaria, Bellemante, and Mopsophil. Soft Musick is heard
+Bell
+HA—Heavens! what's here?—what Palace is this?—No part of our House, I'm sure.—
+Ela
+'Tis rather the Apartment of some Monarch
+Doct
+I'm all amazement too, but must not show my Ignorance.—Yes, Elaria, this is prepar'd to entertain two Princes
+Bell
+Are you sure on't, Sir? are we not, think you, in that World above, I often heard you speak of? in the Moon, Sir?
+Doct
+How shall I resolve her?—For ought I know, we are
+[Aside
+Ela
+Sure, Sir, 'tis some Inchantment
+Doct
+Let not thy Female Ignorance prophane the high est Mysteries of Natural Philosophy: To Fools it seems Inchantment—but I've a Sense can reach it,—sit and expect the Event.—Hark—I am amaz'd, but must conceal my Wonder—that Joy of Fools—and appear wise in Gravity
+Bell
+Whence comes this charming Sound, Sir?
+Doct
+From the Spheres—it is familiar to me
+The Scene in the Front draws off, and shews the Hill of Parnassus; a noble large Walk of Trees leading to it, with eight or ten Negroes upon Pedestals, rang'd on each side of the Walks. Next Keplair and Gallileus descend on each side, opposite to each other, in Chariots, with Per spectives in their Hands, as viewing the Machine of the Zodiack. Soft Musick plays still
+Doct
+Methought I saw the Figure of two Men descend from yonder Cloud, on yonder Hill
+Ela
+I thought so too, but they are disappear'd, and the wing'd Chariot's fled
+Enter Keplair and Gallileus
+Bell
+See, Sir, they approach.—
+[The Doctor rises and Bows
+Kep
+Most Reverend Sir, we, from the upper World, thus low salute you.— Keplair and Gallileus we are call'd, sent as Interpreters to Great Iredonozor, the Empe ror of the Moon, who is descending
+Doct
+Most Reverend Bards—profound Philoso phers—thus low I bow to pay my humble Gratitude
+Kep
+The Emperor, Sir, salutes you, and your fair Daughter
+Gall
+And, Sir, the Prince of Thunderland salutes you, and your fair Neece
+Doct
+Thus low I fall to thank their Royal Goodness
+[Kneels. They take him up
+Bell
+Came you, most Reverend Bards, from the Moon World?
+Kep
+Most Lovely Maid, we did
+Doct
+May I presume to ask the manner how?
+Kep
+By Cloud, Sir, through the Regions of the Air, down to the fam'd Parnassus; thence by Water, along the River Helicon, the rest by Post, upon two wing'd Eagles
+Doct
+Sir, are there store of our World inhabiting the Moon?
+Kep
+Oh, of all Nations, Sir, that lie beneath it in the Emperors Train! Sir, you will behold abundance; look up and see the Orbal World descending; observe the Zo diack, Sir, with her twelve Signs
+[Next the Zodiack descends, a Symphony playing all the while; when it is landed, it delivers the twelve Signs: Then the Song, the Persons of the Zodiack being the Singers. After which, the Negroes Dance and mingle in the Chorus
+A Song for the Zodiack
+LET murmuring Lovers no longer Repine,
+But their Hearts and their Voices advance;
+Let the Nimphs and the Swains in the kind Chorus joyn,
+And the Satyrs and Fauns in a Dance
+Let nature put on her Beauty of May,
+And the Fields and the Meadows adorn;
+Let the Woods and the Mountains resound with the Joy,
+And the Echoes their Triumph return
+Chorus
+For since Love wore his Darts,
+And Virgins grew Coy;
+Since these wounded Hearts,
+And those cou'd destroy
+There ne'er was more Cause for your Triumphs and Joy
+Hark, bark, the Musick of the Spheres,
+Some Wonder approaching declares;
+Such, such, as has not blest your Eyes and Ears
+This thousand, thousand, thousand years
+See, see what the Force of Love can make,
+Who rules in Heaven, in Earth and Sea;
+Behold how he commands the Zodiack,
+While the fixt Signs unhinging all obey
+Not one of which, but represents
+The Attributes of Love,
+Who governs all the Elements
+In Harmony above
+Chorus
+For since Love wore his Darts,
+And Virgins grew Coy;
+Since these wounded Hearts,
+And those cou'd destroy,
+There ne'er was more Cause for your Triumphs and Joy
+The wanton Aries first descends,
+To show the Vigor and the Play,
+Beginning Love, beginning Love attends,
+When the young Passion is all-over Joy,
+He bleats his soft Pain to the fair curled Throng,
+And he leaps, and he bounds, and Loves all the day long
+At once Loves Courage and his Slavery
+In Taurus is express'd,
+Tho' o're the Plains he Conqueror be,
+The Generous Beast
+Does to the Yoak submit his Noble Breast,
+While Gemini smiling and twining of Arms,
+Shows Loves soft Indearments and Charms
+And Cancer 's slow Motion the degrees do express,
+Respectful Love arrives to Happiness
+Leo his Strength and Majesty,
+Virgo his blushing Modesty,
+And Libra all his Equity
+His Subtilty does Scorpio show,
+And Sagittarius all his loose desire,
+By Capricorn his forward Humour know,
+And Aqua. Lovers Tears that raise his Fire,
+While Pisces, which intwin'd do move,
+Show the soft Play, and wanton Arts of Love
+Chorus
+For since Love wore his Darts,
+And Virgins grew Coy;
+Since these wounded Hearts,
+And those cou'd destroy,
+There ne'er was more Cause for Triumphs and Joy
+—See how she turns, and sends her Signs to Earth.—Behold the Ram— Aries— see Taurus next descends; then Gemini— see how the Boys embrace—Next Cancer, then Leo, then the Virgin; next to her Libra—Scorpio, Sagittary, Capricorn, Aquarius,—Pisces. This eight thousand years no Emperor has descended, but In cognito, but when he does, to make his Journey more Magnificent, the Zodiack, Sir, attends him
+Doct
+'Tis all amazing, Sir
+Kep
+Now, Sir, behold, the Globick World descends two thousand Leagues below its wonted Station, to show Obe dience to its proper Monarch
+[After which, the Globe of the Moon appears, first, like a new Moon; as it moves forward it increases, till it comes to the Full. When it is descended, it opens, and shews the Emperor and the Prince. They come forth with all their Train, the Flutes playing a Sym phony before him, which prepares the Song. Which ended, the Dancers mingle as before
+A SONG
+ALL Joy to Mortals, Joy and Mirth
+Eternal IO'S sing;
+The Gods of Love descend to Earth,
+Their Darts have lost the Sting
+The Youth shall now complain no more
+On Silvia 's needless Scorn,
+But she shall love, if he adore,
+And melt when he shall burn
+The Nimph no longer shall be shy,
+But leave the jilting Road;
+And Daphne now no more shall fly
+The wounded panting God;
+But all shall be serene and fair,
+No sad Complaints of Love
+Shall fill the Gentle whispering Air,
+No echoing Sighs the Grove
+Beneath the Shades young Strephon lies,
+Of all his Wish possess'd;
+Gazing on Silvia 's charming Eyes,
+Whose Soul is there confess'd
+All soft and sweet the Maid appears,
+With Looks that know no Art,
+And though she yields with trembling Fears,
+She yields with all her Heart
+—See, Sir, the Cloud of Foreigners appears, French, English, Spaniards, Danes, Turks, Russians, Indians, and the nearer Climes of Christendom; and lastly, Sir, behold the mighty Emperor.—
+[A Chariot appears, made like a Half Moon, in which is Cinthio for the Emperor, richly dress'd and Charmante for the Prince, rich, with a good many Heroes attending. Cinthio 's Train born by four Cu pids. The Song continues while they descend and land. They address themselves to Elaria and Belle mante.— Doctor fallson his Face, the rest bow very low as they pass. They make signs to Keplair
+Kep
+The Emperor wou'd have you rise, Sir, he will expect no Ceremony from the Father of his Mistriss
+[Takes him up
+Doct
+I cannot, Sir, behold his Mightiness—the Splendor of his Majesty confounds me—
+Kep
+You must be moderate, Sir, it is expected
+[The two Lovers make all the Signs of Love in dumb show to the Ladies, while the soft Musick plays again from the End of the Song.—
+Doct
+Shall I not have the Joy to hear their Heavenly Voices, Sir?
+Kep
+They never speak to any Subject, Sir, when they appear in Royalty, but by Interpreters, and that by way of Stentraphon, in manner of the Delphick Oracles
+Doct
+Any way, so I may hear the Sence of what they wou'd say
+Kep
+No doubt you will—But see the Emperor commands by signs his Foreigners to dance—
+[Soft Musick changes
+[A very Antick Dance. The Dance ended, the Front Scene draws off, and shows a Temple, with an Altar, one speaking thorugh a Stentraphon from behind it. Soft Musick plays the while
+Kep
+Most Learned Sir, the Emperor now is going to declare himself, according to his Custom, to his Subjects. Listen.—
+Sten
+Most Reverend Sir, whose Vertue did incite us,
+Whose Daughters Charms did more invite us;
+We come to grace her with that Honour,
+That never Mortal yet had done her,
+Once only, Jove was known in Story,
+To visit Semele in Glory
+But fatal 'twas, he so enjoy'd her,
+Her own ambitious Flame destroy'd her
+His Charms too fierce for Flesh and Blood,
+She dy'd embracing of her God
+We gentler marks of Passion give,
+The Maid we love, shall love and live;
+Whom visibly we thus will grace,
+Above the rest of human Race
+Say, is't your Will that we shou'd Wed her,
+And nightly in Disguises Bed her
+Doct
+The Glory is too great for Mortal Wife
+[Kneels with Transport
+Sten
+What then remains, but that we consummate
+This happy Marriage in our splendid State?
+Doct
+Thus low I kneel, in thanks for this great Blessing
+[Cinthio takes Elaria by the Hand; Charmante, Bel lemante; two of the Singers in white being Priests, they lead'em to the Altar, the whole Company di viding one either side. Where, while a Hymeneal Song is sung, the Priest joyns their Hands. The Song ended, and they Marry'd, they come forth; but before they come forward,—two Chariots de scend, one on one side above, and the other on the other side; in which, is Harlequin dress'd like a Mock Hero, with others, and Scaramouch in the other, dress'd so in Helmets
+Scar
+Stay mighty Emperor, and vouchsafe to be the Umpire of our Difference
+[Cinthio signs to Keplair
+Kep
+What are you?
+Scar
+Two neighbouring Princes to your vast Domi nion
+Har
+Knights of the Sun, our Honourable Titles
+And fight for that fair Mortal, Mopsophil
+Mop
+Bless us!—my two precious Lovers, I'll war rant; well, I had better take up with one of them, than lye alone to Night
+Scar
+Long as two Rivals we have Lov'd and Hop'd,
+Both equally endeavour'd, and both fail'd
+At last by joynt Consent, we both agreed
+To try our Titles by the Dint of Lance,
+And chose your Mightiness for Arbitrator
+Kep
+The Emperor gives Consent.—
+[They both, all arm'd with gilded Lances and Shields of Black, with Golden Suns painted. The Musick plays a fighting Tune. They fight at Barriers, to the Tune.— Harlequin is often Foil'd, but advances still; at last Scaramouch throws him, and is Con queror; all give Judgment for him
+Kep
+The Emperor pronounces you are Victor.—
+[To Scar
+Doct
+Receive your Mistriss, Sir, as the Reward of your undoubted Valour—
+[Presents Mopsophil
+Scar
+Your humble Servant, Sir, and Scaramouch, re turns you humble Thanks.—
+[Puts off his Helmet
+Doct
+Ha,— Scaramouch—
+[Bawls out, and falls in a Chair. They all go to him
+My Heart misgives me—Oh, I am undone and cheated every way.—
+[Bawling out
+Kep
+Be patient, Sir, and call up all your Vertue,
+You're only cur'd, Sir, of a Disease
+That long has raign'd over your Nobler Faculties
+Sir, I am your Physician, Friend and Counsellor;
+It was not in the Power of Herbs or Minerals,
+Of Reason, common Sense, and right Religion,
+To draw you from an Error that unman'd you
+Doct
+I will be Patient, Gentlemen, and hear you
+—Are not you Ferdinand?
+Kep
+I am,—and these are Gentlemen of Quality,
+That long have lov'd your Daughter and your Neece
+Don Cinthio this, and this Don Charmante,
+The Vice-Roys Nephews, both.——
+Who found as men—'twas impossible to enjoy 'em,
+And therefore try'd this Stratagem.—
+Cin
+Sir, I beseech you, mitigate your Grief,
+Altho' indeed we are but mortal men,
+Yet we shall Love you,—Serve you, and obey you—
+Doct
+Are not you then the Emperor of the Moon?
+And you the Prince of Thunderland?
+Cin
+There's no such Person, Sir
+These Stories are the Fantoms of mad Brains,
+To puzzle Fools withal—the Wise laugh at 'em,—
+—Come Sir, you shall no longer be impos'd upon
+Doct
+No Emperor of the Moon,—and no Moon World!
+Char
+Rediculous Inventions
+If we'd not lov'd you, you'd been still impos'd on;
+We had brought a Scandal on your Learned Name,
+And all succeeding Ages had despis'd it
+[He leaps up
+Doct
+Burn all my Books, and let my Study Blaze,
+Burn all to Ashes, and be sure the Wind
+Scatter the vile Contagious Monstrous Leys
+—Most Noble Youths—you've honour'd me with your Alliance, and you, and all your Friends, Assistances in this Glorious Miracle, I invite to Night to revel with me.—Come all and see my happy Recantation of all the Follies Fables have inspir'd till now. Be pleasant to repeat your Story, to tell me by what kind degrees you Cozen'd me—
+I see there's nothing in Philosophy—
+[Gravely to himself
+Of all that writ, he was the wisest Bard, who spoke this mighty Truth.— He that knew all that ever Learning writ, Knew only this—that he knew nothing yet
+EPILOGUE
+To be spoken by Mrs. Cooke
+WIth our old Plays, as with dull Wife it fares,
+To whom you have been marry'd tedious years
+You Cry—She's wondrous good, it is confess'd,
+But still 'tis Chapon Bo •• lle at the best;
+That constant Dish can never make a Feast
+Yet the pall'd Pleasure you must still purste,
+You give so small incouragement for new;
+And who wou'd drudge for such a wretched Age?
+Who want the Bravery, to support one Stage
+The wiser Wits have now new Measures set,
+And taken up new Trades, that they may h • ue,
+No more your nice fantastick pleasures serve,
+Your Pimps you pay, but let your Poets starve
+They long in vain, for better Usage hop'd,
+Till quite undone and tir'd, they dropt and dropt;
+Not one is left will write for thin third day,
+Like desperate Pickeroons, no Prize no Pay;
+And when they've done their best, the Recompence,
+Is, Dam the Sot, his Play wants common Sense
+Ill natur'd wits, who can so ill requite
+The Drudging Slaves, who for your, Pleasure write
+Look back on flourishing Rome, ye proud Ingrates,
+And see how she her thriving Poets treats
+Wisely she priz'd 'em at the noblest Rate,
+As necessary Ministers of State,
+And contributions rais'd to make 'em great
+They from the publick Bank she did maintain,
+And freed from want, they only writ for Fame;
+And were as useful in a City held,
+As formidable Armies in the Field
+They but a Conquest over Men pursu'd,
+While these by gentler force the Soul subdu'd
+Not Rome in all her happiest Pomp cou'd show
+A greater Caesar than we boast of now;
+Augustus Reigns, but Poets still are low
+May Caesar live, and while his Mighty Hand
+Is Scattering Plenty over all the Land;
+With God like Bounty recompencing all,
+Some fruitful drops may on the Muses fall;
+Since honest Pens do his just • cause afford
+Equal Advantage with the useful Sword
+FINIS

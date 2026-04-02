@@ -1,0 +1,2007 @@
+Requested Title: THE FAMOUS HISTORY OF THE RISE AND FALL OF MASSANIELLO
+Authors: Thomas D'Urfey
+Matched Anchor: The Famous HISTORY OF THE RISE and FALL OF MASSANIELLO
+TCP: A36973
+EEBO: 12413363
+Source Title: The famous history of the rise and fall of Massaniello in two parts / written by Mr. Tho. D'Urfey.
+Source Author: D'Urfey, Thomas, 1653-1723.
+Source Date: 1700
+Source URL: https://raw.githubusercontent.com/textcreationpartnership/A36973/master/A36973.xml
+Metadata Score: 1.340
+Unit Score: 1.000
+
+---
+
+The Famous HISTORY OF THE RISE and FALL OF MASSANIELLO
+In Two Parts
+WRITTEN By Mr. THO. D'URFEY
+LONDON: Printed for Iohn Nutt, near Stationers-Hall. 1700
+Dramatis Personae
+DON Tiberio,
+Prince of Bissignano, Duke of Mataloni
+Don Peppo d • Caraff • ,
+his Brother
+Cardinal Fillomerino,
+Arch-Bishop of Naples
+Massaniello, al • as Thomas Annello of Amalsi
+First a Fisherman, and after made Captain-General of the Neapolitans
+Pedro di Amalfi, his Brother—
+a Ruffian
+Iulio Genovino, —
+a Jesuit, his Counsellor
+Perone
+A famous Banditti ; at first, accomplice with Massa niello, afterwards brib'd against him by Mataloni 's Fa ction
+Rock Brasil •
+A Roguish Insolent Scrivener; afterwards made Secre tary and Adjutant to Massaniello
+Bartallo —
+a Butcher. Principal of the Mob, belong ing to Massaniello
+Valasco —
+a Taylor. Principal of the Mob, belong ing to Massaniello
+Ia •• mo —
+a Miller. Principal of the Mob, belong ing to Massaniello
+Gaspar —
+a Smith. Principal of the Mob, belong ing to Massaniello
+Scipio. —
+a Cobler. Principal of the Mob, belong ing to Massaniello
+WOMEN
+Dona Aurelia —
+the Vice-Queen
+Belleraiza —
+her Sister
+Dutches of Mataloni
+Blowzabella —
+Wife to Massaniello
+Belvidore —
+a Tanner's Wife
+Ursula —
+Wife to Pedro ▪
+A Servant Wench, with other Women, Wives, Sisters, and c. belonging to the Mob; together with Suitors, Priests, Choristers, Singers, Dancers, and Atten dants
+The Scene, Naples ; the Time, Four days
+To the Right Honourable THOMAS Lord LEIGH, OF Stone-Leigh, in the County of Warwick
+My Lord,
+My Lord,
+WHen the Great Atticus retir'd from Rome, to em ploy his happy Hours amongst Rural Pleasures, tho his Contentment by that resolution, might be judg'd most Dear to him, at a distance from the Town's Hurry and Noise, to indulge with the charm ing Quiet, and sweet Diversions of the Country, yet nevertheless, the Merit and Vertue of such a Patron being too highly Celebrated, to let any envious Space be a Bar to their Addresses; Horace, Ovid, and the rest, never fail'd in their Poetical Correspondence, nor in often Dedicating to so great a Judge, their choicest of Labours
+'Tis from this Scien, my Lord, that my present Am bition Sprouts and Grows; and tho the Work I pre sent, is not so worthy as it ought to be (aspiring to this Honour;) and likewise tho my Acquaintance and Knowledge of your Lordship, is scarce old enough to warrant this Presumption, yet you have so large an Interest in Fame, that I am well assur'd, your unque stion'd Reputation will Dignify the one, and your of fer'd Courtesie, and generous Affability, Excuse and Pardon the other
+The most material part of other Dedications, I am sensible, are generally stuff'd with the Patron's Praises, and tho my Lord, your generous Hospitality, your ad mirable Temper of Mind, and many other flourishing Vertues, which the World owns you to be Master of, may justly exact from a Poet his best Skill in an Enco mium, yet fear to Offend, or lessen the value of a Modest Courtesie, which in its own Nature, is above all that I can Write to Extol it, makes me desist from a Theme fit to Inspire the best of Pens, and Improve the richest of Fansies
+'Tis doubtless the depraved Quality of the present Times, which makes that often appear Flattery, which considering the real Merit of the Person, may proper ly be but Iustice. The greatest Wits of former Ages, I am sure, were of this Opinion, that never spar'd with their highest Elegance, to Illustrate the Chara cter of their Patrons, who in return, with their choicest Favours, express'd their Gratitude, without Blushing, or believing that to be a Compliment, which was Na turally a due belonging to their Merit
+When Sacred Virgil by Augustus sate
+To read the Work he was to Dedicate,
+The Praises ev'n Extravagant did seem,
+Yet Caesar did not think he Flatter'd him
+But this in our Adulterated Age, is now looked on as an Offence, and consequently the Meritorious miss of their Plaudit. Be pleas'd therefore, My Lord, to believe, I Think what I dare not Write ; and if your Lordship will be pleas'd to accept of this way of intro ducing my self into your Favour, it will be as well the greatest Happiness, as highest Honour,
+My LORD, To Your Lordship's Eternally Obliged, And Most Humble Servant, Tho. Durfey
+My LORD,
+To Your Lordship's Eternally Obliged, And Most Humble Servant, Tho. Durfey
+PROLOGUE
+By Mr. Pinkethman, [holding a Paper with Prick'd Notes, in his Hand.]
+IF I'm of Age, to know what's Good from Bad,
+I must declare our Patentees are Mad;
+They've known my Comick Humour all along,
+And yet this Morning sent me here—a Song,
+A nimble dapper Dancing-Master too,
+And bids me chuse, for nothing else will do
+Mad, Mad, stark Mad. Let's see, Sol la, me, sol. Sings
+Sings
+Zooks, how like Midnight Screeker shall I howl;
+For can they ever think I will comply—
+I Dance, I Sing; * Capers awkerdly. they'd as good bid me Fly,
+* Capers awkerdly
+For as toth' first, my English Bulk's not made;
+I want an Air for Monsieur 's Capring Trade
+And for the next,—
+If they expect, I'll be a Capon for't,
+I'd have 'em know, my Salary's too short;
+I'd do much for Diversion of the Town,
+But not do something to lose all my own
+Ah, Sirs, you are the cause of these our Streights,
+You still have been our dire malignant Fates
+By your lewd Humours first, which when we follow'd
+Our Smutty Plays out of our Doors were Hollow'd,
+And Zealous Spirits 'gainst our Function Bellow'd
+And then besides, your Critick Quality,
+Makes such a wretched Drug of Poetry,
+That we are forc'd, to help our Withering Bays,
+Strangers to Hire, of Sigismundian Race,
+At Price so dear, we purchase Voices Killing,
+They're Laughing at us, when we think 'em Trilling
+Oh, what va • t Sums, since our late Vein of Plotting,
+Have both our Houses paid, for Quavering and for Cutting
+So much, that I in Melancholy Case,
+With looking Gravely, have quite spoil'd my Face
+They may be Merry, as their Gains provoke,
+Bu • I, a Lose • have forgot to Ioak
+I was a taking Fool some time ago,
+But now as out of Fashion as a Beau;
+My Trade's quite spoil'd, I cannot vend my Ware,
+Ah, would to Heav'n I were a Dancing Bear,
+Or any other Monster, but a Player,
+A singing French Baboon, just come from Lorrain,
+A Hedg-hog, giv't but out that I am Foreign,
+I'll draw the City Fops, and Suburb Whores,
+And Cheat the Town by Sixes, and by Fours
+But since our Poet is resolv'd to day,
+Once more to entertain you with a Play,
+A famous Story, and known lately True,
+Mixt with good Humour, and good Musick too,
+Which there is in it, give the Devil his due
+I'll once more hope too, it will please your Fansies,
+As well as if it were all Songs and Dances
+And if some Foes their Malice should pursue,
+Let but our Friends do generous Iustice too,
+We'll Criticks fear no more, those Play degraders,
+Than Wise Men did of late the new Invaders
+The first, our Heroes of sharp Vnderstanding,
+On Wit's fair Island, shall oppose from Landing
+Th' last, which some say, meer Courtesie retards
+From coming, being Civil to our Guards,
+Should, e'er their Hot-brain'd Frenzy hither call 'em;
+Oh, how our Terrible Train'd-Bands would maul 'em
+EPILOGUE,
+By Mrs. Rogers
+FOr fear ill-Humour in tour Hearts should reign,
+And that you should be in the Damning Vein,
+At my Suit, that am not oft so bold,
+Suspend your Iudgment, till the Tale be told
+A Rebel's Rise, we only now Present,
+The next Part shews his Fall and Punishment;
+And Vnjust Iudges you may well be thought,
+That Sentence, e'er you have heard out the Fault
+For my own part, plagu'd with no envious Fury,
+Were I to sit among the Poet's Iury,
+He should come off, and have a Plaudit free,
+For th' Character of my kind Lord and me
+A Husband vent'ring so to save his Wife,
+And she, for his sake, slighting her own Life;
+Our good Example, is enough to day,
+Were there no Merit else to save the Play
+Turtles whom Love, so mutually does Wound;
+Such Rarities—where are they to be found?
+Therefore Gallants all, that your Spouses love,
+Pleas'd with the Subject, must our Scenes approve
+And you, fair Ladies, that have Husbands dear,
+Concern'd must in the Poet's Cause appear;
+Nor let the Virgin Stars forget to shine,
+As they expect a Lover like to mine
+As for the rest that slight these solid Matters,
+The wild Town Doxies, and the Marriage haters,
+If them you cannot Convert, you can Confound;
+Give but your Hands, and let Consent go round,
+Their Hisses soon will in your Claps be Drown'd
+The Famous HISTORY OF THE Rise and Fall of Massaniello
+ACT I
+SCENE I
+Noise within of Shouting, and crying Down with the Gabells; Down with Mataloni, and Viva, Viva Massaniello; Viva Massaniello. Then Enter Genovino Solus
+Genov
+SHout on, ye Sons of Clamour, louder still,
+And fright the Grandees with obstreperous Noise,
+Whilst I secure in Darling Policies ▪
+Am pleas'd with the success of my Designs against this vile ungrateful City Naples. Did ever Jesuit Wrong'd die Unreveng'd, if he had power to effect it? No, the working Brain would burst quite through the Skull, with the excess of Boiling Rage fermented, sooner than leave that Scandal on our Order, That we forgive those that Affront the Priest hood. They lately chose Philomerino Cardinal, and the officious Nobles throng'd the Conclave to shut out my Deserts from being President, as I so long Expected; which to revenge,—I've subtilly wove my self into the Councels of the new Rais'd Plebeian, Massaniello, who tho a Fish • r man,—has yet a Spirit of unmatched Force; a Head too as well turn'd for Mischief as this her • —and who now with Resolution and Sense, not found before in such Course Breeding, has stirr'd the People to put down the Gabells ; some Numbers are already rose, and— Mataloni and his Con federates, the Marks they shoot at. That Bow I'll help to bend; — Oh!— here's the Idol Cardinal and the Great Duke— They Plot their own Affair; I'll to the Rabble and do Mischief there. Exit
+They Plot their own Affair;
+I'll to the Rabble and do Mischief there
+Exit
+Enter Cardinal, Duke di Mataloni, Don Peppo and Attendants
+Mat
+Five hundred Boys, let 'em not Fright your Eminence, Switch • s and Rods will • end 'em Home agen
+Card
+My Lord, I am not Frighted, yet let my Caution be of some use, if only to prepare Your Grace to take into consideration the danger of such sudden Insurrections
+Don Pep
+What Danger can there be? These Hot-brain'd Youths that march about with Weapons made of Canes, I'll undertake at th' sight of a Whip and Bell, Like • oisting Curs, shall skulk into their Corners
+Mat
+The hungry Mice are hunting after Cheese, a Cat will scare 'em all; —besides the number is Inconsiderable
+Card
+They encrease hourly, and Men begin to follow 'em; not only so, but Headed, as I hear, by a Bold Fellow, who tho but a Fisherman, has yet strange Courage and uncommon Parts; one who I'm told, has, when his Net lay Idle, sat often down to read in Politicks, and in his spare time study'd to catch Men
+Don Pep
+Yes, Chapmen,—my good Lord,—Men for his purpose; Stewards of Families, or Clerks of Kitchens, Men proper to buy up his F • sh
+Ma •
+Ha, ha, ha, ha. I hear indeed a Ruffian, one Massaniello, is the Ringleader of a Rout of Beggars, Fellows that wear half Breeches and no Stockings, cry out against me, chosen by the Vice-Roy, and th' rest that Farm 'em, for imposing Gabells on their Commodities: Your Grace no doubt, has heard too That I grow Rich—with such Oppressions
+Card
+The Rabble's Voice, My Lord, can give no Scandal. 'Tis bruited so indeed
+Don Pep
+Tripe-eating Rogues
+Card
+My Lord, my holy Function does oblige me to preach up Mo deration, and to counsel those I want Power to Govern—And I could wish Your Grace would make your self more lov'd by th' People, who, I confess, cry loudly on th' Exactions you late have crush'd 'em with: Nay, they now spare not to say the King's Abus'd,—and that your Ava rice puts all these Fetters on 'em
+Mat
+My good Lord Cardinal, you were just now for preaching Mode ration; but now methinks your Talk seems byass'd Interest, and as the Rabble Dictate
+Card
+I must be plain
+Don Pep
+And Sincere, good my Lord: And since that word has scap'd your Lips so Gravely, I must beg leave as plainly too to tell your — humble Eminence, that this upstart Humility of yours, is of too new a Date to gain great Credit; your Scarlet Robe wore late a blushing Dig nity, more us'd to awe the Rabble, than to sooth 'em
+Mat
+Were the Church Slander'd, then what Chains, what Irons ▪ what new Device in th' terrible Inquisition, must plague the Heretick People?
+Card
+Nay, my Lords, Let not your Passion so far blind your Reason, as to m •• take me, since my only aims are to promote Peace among us, —which I fear the People mean to hinder
+Don Pep
+Damn the People
+Card
+Observe my Lord, that Curse has Echo'd back again into your Ears, and only hurts you, not the People. Shout within
+Shout within
+Ma •
+Hah—let's hear him, his Eminence is Preaching
+Card
+Some Instructions I think in truth are proper; therefore Histo rically take this with you, my Lords, an • • have done. What greater Plague can there befall a City, than a Disunion and divided Interest? What destroy'd Carthage, but two mighty Factions, the Barchiniani and th' Hanoniani ? What maintain'd War in France for Sixty Years, but Jars 'twixt th' House of Burgundy and Orleans ? Or what late brought to England Desolation, and caused so many several bloody Battles, wherein were Eighty of their Nobles Slain, but th' Faction of the Houses, York and Lancaster ? And nothing, be assured, can urge our Ruine so soon as that in Naples. —A City is like a Ship, Divisions are her Leaks,—and whilst the Mariners fight, the Sea runs in and drowns all.—I have done, only one word more—The Neapolitans, as I've observ'd 'em, are not like a Top,—they will not sleep with Scourging. Farewell my Lords
+Exit Cardinal
+Duke
+This dreaming Churchman, pamper'd and grown rich, fears every little Gust will blow his House down
+Don Pep
+Ay, that's the Moral of his History—his Bags; the Cardinal quakes even at the thought of Plunder
+Duke
+How now G • rvasio, what's the News?
+Enter Gervasio
+Gerv
+The Rogues are gathering still, they're now Two Thousand
+Don Pep
+What Boys or Men?
+Gerv
+Both now, and roar like Thunder
+Duke
+Mushromes bred out of Dunghills. Brother, stay here whilst I go to the Vice-Roy to demand some of his Guards to quell this Petty Hydra : In the mean time, if any more of the Rascals straggle this way —speak not in Rage, but fright 'em with Whips and th' Gallies,—I'll be with ye strait. Exit Mat
+Exit Mat
+Don Pep
+Fright 'em, 'yes, faint-hearted Brother, Timorous Mataloni, I would do more than fright 'em, for your Office—which if my Plo • s are prosperous,—I shall not long despair of; fright 'em, Confound ' • m, I shall ne'er have Patience to let the Villains waste their Garlick Breath in answering me a word—I shall thrust their Souls out
+Massaniello within, crying his Fish
+Roches, Roches; come buy my Flounders, come buy my Flounders
+Gerv
+That's he, my Lord, that's Massaniello ; that's their plaguy Ringleader— I know his Voice
+Don Pep
+The Rascal comes upon us; stand back Gervasio ; let's ob serve 'em a little
+Enter Massaniello, cloath'd like a Fisherman, with a long Pole and a Basket of Fish hanging at's Back; with Bartallo, Valasco, Jacomo, Gaspar, and Scipio, cloath'd like their F • nctions
+Massan
+Buy my Flounders, come buy my Flounders.— Bartallo, where's Perrone, my Brother Pedro, — and the People?
+Bart
+Taking down the Arms of the Emperor Charles the Fifth, my Glorious Boy, according to thy Order, to carry to the Market-place
+Massan
+'Tis well, those Arms are Badges of our future Freedom, for it shall come to that, my Lads; be well assur'd it shall, now we are up
+Gerv
+How the Rogue swells and battens in his Impudence; Gad I don't like him, he has a devilish Look
+Don Pep
+Peace, we shall take down his Swelling presently,—let's hear a little more
+Massan
+Well, my bold Brethren, and how d'ye like Proceedings ha?
+Omn • s
+Bravely, bravely; beyond Expectation
+Massan
+The Gabells shall all down, Boys, there's my Hand on't; ne ver shall more Exactions be in Naples
+Omnes
+A Massaniello ; a Massaniello
+Massan
+How many Butchers are come to day, my noble Brother of the Cleaver, hah?
+Bart
+Threescore and five, my Child of Thunder—all brave Fellows, Rogues us'd to knock out Brains hourly, without Consideration, and paddle in Blood up to the Elbows; —there's ne'er a one of 'em but shall take an Enemy by the Lugs,—stick a Knife in's Gullet like a Calf, and hang him up with a Hook in's Nostrils—say but thou the word, my brave Backsword Man
+Don Pep
+Here's a rare Rascal for ye
+Gerv
+Ay, they are curiously match'd indeed, if the whole Pack are such Beagles, Heav'n defend me from being the Game they Hunt for
+Massan
+And what says my Vulcan, my Fire-drake here, how many Anvils want their Hammers to day, ha?
+Gasp
+Fifty and odd, and more a coming too; woe be to the Gabellers if any of these meet 'em,—or a thing call'd a Steward to any of 'em,— such a sort of a Rogue, let him look to his Sconce I faith
+Gerv
+Oh Lord! Gervasio Starts
+Gervasio Starts
+Gasp
+There will be a score of red-hot Forks in his Guts, before he can get out so many words to beg their Pardon
+Gerv
+Oh bloody minded Hell-hounds, what an Ague have they given me—
+Valasc
+The Princes of the Thimble will be there in shoals too, follow ing a Colours of their own making
+Iacomo
+No Grinding will be neither, the Mill-stones rest in Peace this day
+Scipio
+And all old Shoes soak Water;—every Cobler leaves off his Work, and runs to stitch the Government: —Not one Profession, but brings in Numbers: —So that by to Morrow, the City will scarce hold 'em
+Massan
+Rare rare News—Sirs, and merrily strait we'll meet 'em, and then go hunt for this Leviathan here, the Farmer of the Gabells, — Duke of Mataloni, —and when we have found him—
+Don Pep
+And what when ye have found him—you Mouth of these Herring eaters?—What stinking Fish would you present his Grace?
+Massan
+Stinking Fish;—here if your Lordship's Nose be sound, smell to my Basket
+Scipio
+His Lordship;—Who is't Iacomo, can'st tell?
+Iacomo
+Ay, ay, a rank Enemy, I know him well enough, 'tis the Duke of Mataloni 's Brother, Don Peppo di Caraffa
+Bart
+Don Peppo, Don Pimpo; —what if he be a Don,—Hem, here are those dare look him in the Face, for all his Titles
+Valasco
+Ay, Ay, 'tis not his Whiskers there that can fright us, Neigh bours
+Massan
+Well, what thinks your Lordship now, are they Sweet or no? —I confess, they don't smell of Musk, as your Jacket does there; but for the true scent of wholsom Fish, I dare vouch for 'em
+Don P • p
+Sirrah, Sirrah, for this Sawciness, expect the Lash, and for the next, the Gallies: — Go Gervasio, and take account of his Fish; — demand the Gabell, if he denies it, Seize 'em
+Gerv
+The Dog has a plaguy surly Look,—I am half afraid to ven ture on him: Come Friend, let's see, let's see your Fish; come, come, nay quickly, you had best
+Massan
+What would you see Friend? —Hum, dost love Flounders? Can'st eat one raw, H • m. Slaps one in his Face
+Slaps one in his Face
+Gervas
+My Lord, d' ye observe this?—Did ye see the sawcy Rascal?
+Don Pep
+Monstrous! Is your Insolence then gr • wn to such a height, that in the Person of the Great Duke of Mataloni 's Steward, ye dare af front the Government's Decrees, ordering all Gabells duly to be haid
+Massan
+We dare; and to prove it, the said Governmen • 's Decree, and Great Duke's Order, I Massaniello, Gudgeon Catcher of this City of N • ples, and Friend to the People, Order, henceforth to be Null and Void
+Scipio
+And we'll stand by thee; —one and all Boys, one and all
+Omnes
+Ay, ay, one and all, one and all
+Don Pep
+You, most impudent of Scoundrels,—you Order; why what are you?
+Massan
+Why faith, one that has formerly sold Fish for Money, but my Generosity being provok'd by these your civil Commands; I will, for once, give 'em your Lordship's Tarrier here free Cost. Flings one at Gervasio
+Flings one at Gervasio
+Don Pep
+Hah,—is it possible? —Well, here are those coming I hope will • o me Justice,— Lays his hand on his Sword. Shout within
+Lays his hand on his Sword
+Shout within
+Massan
+That there will indeed, —you hear they are very near ye; in the mean time, no Drawing, my Lord—no shewing Weapons, If your Sword peeps, your Throat will be in danger—
+Gasp
+No, nor no Gabells and please ye, but as much Fish and like your Rogueship, as you will—there's a delicate Roach To Gervasio
+To Gervasio
+Bart
+And there's a couple of Flounders, as good as e'er Tooth was put in
+Iacom
+Nay faith, let's make 'em up a Dish. They pelt Gervasio with Fish
+They pelt Gervasio with Fish
+Shout within
+Valasco
+Ay, ay, the Gabell Monger shan't say we grutch him
+Scipio
+No, no, he shall be frankly us'd
+Don Pep
+The Rabble here, nay, then 'tis in vain to stay for the Guards, I must run fort,— Exit, they Pelting him
+Exit, they Pelting him
+Bart
+No, no, hold, a word with you first, good Mr. Steward
+Enter Perone, Pedro, Genovino, Rock, Brasile, and the Rabble, Pe rone bearing the Arms of the Emperor Charles the Fifth
+They Seize Gervasio
+Pedro
+How now Brother, what's the matter?
+Massan
+Not much, I have only been playing the rough Game a little, told part of my Mind to Don Peppo di Carraffa, and given a dish of Fish of my own Dressing, to Mr. Steward there; I mean with the Sawce about his Ears or so, that's all
+Bart
+And troth, since I am come so luckily to know his Worship's Title here—I mean to give him a desert of my own preparing too— when my Knife is sharp enough.—You have an ill Voice Friend, and can sing the Duke your Master's Praises but Hoarsly, yet—I'll make you an admirable Choirister presently. Whetting his Knife
+Whetting his Knife
+Gerv
+You will not use a Gentleman and a Scholar Rudely, I hope
+Rock
+Rudely, no not in the least; why look ye, Friend, I'll tell ye how we'll use ye; First, because you say you're a Gentleman, and so conse quently a Cuckold Maker, and as probably would play upon occasion, your Game at Hot-cocles with our Wives, Sisters, and Daughters— you shall only be sequestred, sweet Sir, you understand me, that's all. And Secondly, As being likewise a Scholar,—and no doubt, a Wit,—a Poet, and so forth,—the Waters of Helicon shall sprinkle your Clod-pate— hey to the Pump, to the Pump with him Neighbours
+Rabble
+Ay, ay, Pump the Gentleman, Pump the Gentleman
+Genov
+No, no, hold Friends, and hear me a little, I'll take him aside and Examin him—work upon his fear and hopes of Liberty, till he speaks Treason against the People, or mould him till he abuses the Church, then Impeach him and deliver him up to 'em, to knock out his Brains
+Peron
+There's the true Humour of a Iesuite to a hair—d'e hear Sir Priest—can you think of no Punishment for a Delinquent, but knock ing out of his Brains presently?
+Genov
+None so effectual, Friend, as the Case stands now with the Peo ple, who have been often oppressed by the effects of this Fellow's Office; and understanding Corporal limited Punishment, I have cautiously ob serv'd, has ran the risque of future Revenge; —but when the Brains are fairly out, you may be satisfied the Understanding can do no Mischief
+Peron
+This Fellow's Roguery outvies the worst even of my Inclinations —that have been bred a Banditto from my Child hood, I find I am a No vice in Mischief to this Priest here. Aside
+Aside
+Massan
+Brother, thou say'st well, it shall be so, let the Gentleman's Courtly Courage be washed away at the Pump,—then uncase him like a Rabbet,—to bring him as near as can be to the mode and fashion of the People—and when his Furr is off, and one Ear lest in Pawn for his good Behaviour, turn the Crop-ear'd Rascal loose—to complain to his Fellows; for now I think on't, to make a Capon of him—will be too much Honour, we'll do that for his Master when we catch him—and so away with him Boys
+Gerv
+O Tempora! O Mores!
+Pedro
+Mores, mores. —What, you speak Latin, to affront our Learn ing, ye Rascal, do ye; —go, go, away with him Boys, sowse him and his Mores together
+Omn
+Ay, ay,—come away Mores, —jog on Mores ; we'll have no Mores amongst us
+Peron
+Hold, hold, Sirs, not so fast—his Master was once my Patron, and did me an especial Favour, therefore this once pray let my Interest free him
+Massan
+Your Interest ▪ —why how now Perone, dare you pretend to Interest, when I have given my Orders?
+Rock
+We'll have no Interest nor Orders, but Massaniello 's; therefore once more I sa • , away with the Gentleman, Pump the Gentleman, Crop the Gentleman, I say
+Omn
+Ay ay,—away with him, away with him. Ex. some with Gervas
+Ex. some with Gervas
+Peron
+No Interest but Massaniello 's, have my Life and A • tions been so worthless, and is my Character • o Insignificant, that he m •• or • e • all — I have been thought a Person fr—
+Massan
+For what? To rob a Marketwoman of her Butter?
+Per
+And sp •• your Fish, you mean, for by that deed p • rhaps your Cods-head might want Sawse, hah
+Massan
+Or at • he head of thy Bandi • ti 's Troop, hast thou Attack'd a poor ••• nerant Taylor, and Robb'd him of his Thim •• e and h •• Bodk • n?
+Per
+I've something sharper th • n a Bodkin her • , shall m • ke m • Party good—'gainst any Grig-bobber or Trou • ca • cher in Naples, if he da • es. They Draw upon one anether
+They Draw upon one anether
+Pedro
+How now Villain, dare you assault my Brother?
+Bart
+Part 'em, part 'em, keep 'em as • under
+Peron
+I rob a Taylor, a fusty Dog fish
+Val • s •
+Look ye Friends—not too much upon the Taylors d'e see; a Taylor is not a thing to be too much Joak'd upon; a Taylor can cut a hole in a Coat, as well as stitch it up d'e see; and therefore Mum, there's no more to be said of a Taylor'
+Massan
+Let me come to him, and I'll paunch the Rogue, I'll use him as he does a Rifled Traveller, bore out a Gut, and peg it to a Tree, then wh • p him round till he has spun his Soul out
+Rock
+Hey day, what is the Devil in us all on th' sudden—why my Ma sters, are ye Bewitch'd; what a pox, have ye forgot the Proverb, That when Thieves fall out —why sure you can't forget the Proverb—come, come, for shame put up; why how the Devil wil • ye Plunder other Folks Houses, if ye destroy your own Tenements before hand?
+Genov
+Come, come, rest thee quiet, Friend, and let 'em try one ano ther, there may be good Policy in't,—for dost hear, if one of 'em Fall,—we are sure 'tother has Mettle, and is certainly a brave Fellow
+Rock
+Hum—a fine Counsellor indeed, so there be but Mischief done, this Rogue cares not how it comes about
+Pedro
+Brazile 's i'th' right; Is this a time for Fewds? And shall desire of being Chief, spoil all?—you know by this time the City's all in Uproar, the Court Alarm'd too, and shall our Jangling grind Swords for our own Throats, that so late swore to wher 'em for our Enemies Destruction? Come, come, let me propose to heal this Difference:— Will ye both consent the People shall decide it, that he who they make Choice of shall Command?
+Massan
+What I've already done, was for the People, and therefore you are sure of my Cons • nt
+Peron
+I'm for the Publick good as much as any, and therefore never will oppose their Choice
+Rock
+Why, that's well said,—for look ye my Masters, pray remem ber the Faggot in the Fable,— If we hold together, the Devil cannot break us, but if we unbind and lie assunder, every Addle-pate will snap us like so many Switches; —therefore prick up your Ears, ye Sons of Sedition, and elevate your Voices strongly; —which will ye have for your Captain-General—a Perone, or a Massaniello ?
+Omnes
+A Massaniello ; a Massaniello
+Genov
+'Tis most fit and properly Chosen; I think I have made him my Creature. Aside. For who can be more fit to lead you on, than he who first propo • 'd your means of Freedom? Proceed there fore my Son, and Cramp these Courtiers, and what my weak Brain can assist thee in, be sure of and command. I'll do't for Conscience sake, not worldly Profit, for Heav'n knows, I only hope to be—
+Aside
+Rock
+Arch-Bishop of Naples —or so, that's all
+Genov
+Recorded in the Chronicle of Time, for carrying on so good a Work
+Per
+Rare Dog still; —if Dissimulation had the effect of Poyson, how that Fellow's Belly had been swell'd by this time; Hum—has this many-Headed Monster deserted me too? —Well, since it must be so, I'll work by Cunning, and seem to join with them, in acknowledging their Doughty General here, till I have means and power to Revenge— and then pour on his Head with fiercest Rancour. Aside Well Sir, since I see the People find ye worthy of this Honour, To Massaniello. and that I may ne'er be counted hinderer of this Great Work we aim at—I am content to submit to your Command—and to prove it, thus shew my Homage; Shout then once more with me, Friends, and cry, Long live Thomas Annello of Amalfi, alias Massaniello, Captain-Gene neral of the N • apolitans
+Aside
+To Massaniello
+Omnes
+Long live Thomas Annello of Amalfi, alias Massaniello, Captain-General of the Neapolitans. — They Shout
+They Shout
+Massan
+My Friends, I thank ye, and my brave Perone, live hence forth in my Bosom as my Brother; and first then, to endear my self the better, I'll give thee my Commission for my Major—Joynt with my Brother in Command and Love. Next my brave Ajax, I appoint thee Captain. To Bartallo. My exquisite Man-maker, thou shalt be Lieutenant. To Valasco. And Stichite cum Stampo, my brave Cobler, Ensign; all my Boys, all shall have Offices fitting your Worth and Bravery of Souls; particularly thou, my witty Currier of the Law, my Quarrel-Broker, thou Pen and ink Man, as my Bosom Favourite, I create my Secretary and Pillar of the State. To Rock
+To Bartallo
+To Valasco
+To Rock
+Rock
+Thank your good Lordship; —nay, I knew 'twould come to this, for the Crown of my Head has itch'd damnably of late, a certain Sign of approaching Dignity: —I knew I should be a Great Man, —Secretary o'th' People,—rare rare Place! Gad I'll make the Money stick to my Fingers bravely, as soon as ever I come into't
+Massan
+Raise high the Arms of the Emperor Charles the Fifth, who b • his Charter, granted Naples Freedom, without curs'd Gabels, or these late Ex • ctions; Then let us send a Message to the Palace of Don Tiberio, Prince of Bissignano, who I design to be our Emissary between the Vice Roy and our dear lov'd People; and Trusty Rock, I appoint to Summon him: If he comply with us and our Interest, he's Safe; if not, immedi ate Ruine seizes h • m. Follow me, Friends all, To the great Cathedral, Where we'll hear Mass with shew of high Devotion; And as we pass along, be this our Cry, Let the King Live, but the ill Government Die: Then th' Saints Invoke,—and to do all things well, First we will say our Prayers,
+Follow me, Friends all,
+To the great Cathedral,
+And as we pass along, be this our Cry,
+Let the King Live, but the ill Government Die
+Then th' Saints Invoke,—and to do all things well,
+First we will say our Prayers,
+Genov
+And then Rebel— Exeunt
+Exeunt
+The End of the First Act
+ACT II
+SCENE I
+The Cathedral dedicated to the Holy Virgin of Carmine, where Massaniello is discover'd lying a Sleep under the Altar, the People Guarding him: Dialogue Sung between Fate and St. Genaro Re corded Protector of Naples. St. Genaro, at a distance: Then Musick is heard, and a Song, expressing Revolutions to come; which ended, Massa niello rises and Speaks
+SONG between Fate and St. Genaro
+Fate
+FRom Azure Plains, blest with Eternal Day,
+Celestial flowry Groves, that ne'er decay;
+From Lucid Rocks that Sol 's bright Rays let in,
+Where with unclouded Brow,
+I sate and view'd the Deeps below,
+And saw my Female Drudges Spin;
+I Fate am come, thy Courage to improve,
+'Tis the Eternal's Doom Engrav'd in Adamant above;
+And oh! thou drowsie Deity,
+That dost in Slumbers bind
+The Body of Mortality,
+And calm the stormy Mind;
+No more, no more his Brain possess
+With the soft Charm of gentle Peace;
+He must awake to bloody Wars,
+Unbounded Fury, civil Iars,
+And is by Heav'ns decree, for wondrous deeds design'd
+St. Genaro Protector of Naples, descends and Sings
+St. Gen
+To mighty Fate all must obey,
+And conq'ring Hero's greatest Kings,
+Amongst the rest of human things,
+Yield to his dreadful Sway
+Yet view thy Book of Dooms once more,
+Thou there wilt find one happy hour,
+When Naples shall be free from Rebel power;
+'Tis sure as the revolving year,
+And I her darling Saint appear,
+To stop thy Fury, lest it should exceed,
+And tell thee, tho' permission of this ill
+Is Sacr'd Mystery and th' Eternal's Will,
+Yet he that does the Deed,
+For doing it must bleed
+Fate
+Hear each Neighbouring Destiny,
+Who the Souls of Mortalsfree,
+Hear my Voice, and strait obey,
+Heav'n commands, the Work must stay
+Such a number and no more,
+Must encrease your fatal store,
+And he must die, the task being o'er
+Remember all 'tis so decree'd,
+That he that does this mighty Deed,
+For doing it must bleed
+Massan
+Miraculous Vision! O Celestial Deity! Thou that inspir'st my heart to undertake by Mystick words dress'd in harmonious Sound, things that surpass Experienc'd Understanding; as with thy blest Idea in my Dream I have been Extasi'd — so teach me now Kisses his Medal. the way to act, the Sense to comprehend these Wonders, meant for the relief of Naples ; with Sacred Power, Charm my plebeian Soul; let but my Country's Freedom crown the Period, my threaten'd Fall I'll then despise and Laugh at. Mount o'er all Dangers that would stop my way, And make the proudest of our Foes Obey. Shout within. Here comes my Jesuit, my new Church Engine, us'd to encourage Fires, not to quench 'em, whose Head and Counsels till I'm six'd, I yi • ld to; but when the Sword I grasp with Power Supream, I'll trust a Prie • t no lon ger with my Politicks
+Kisses his Medal
+Mount o'er all Dangers that would stop my way,
+And make the proudest of our Foes Obey
+Shout within
+Enter Genovino
+Massan
+How now, my Brain's Inspirer, what's the News?
+Genov
+News that will make the Vice-Roy quake, my Son: we're now full twenty Thousand, Arm'd and Resolute, and e'er th • Sun p • unges in Western Seas—'tis well believ'd, shall double twice the number: The eager People throng us
+Massan
+What meant that Shout?
+Genov
+They are burning now the House of Don Rocella, Farmer of the Gabells, with all his costly Furniture and Plate, huge Coffers too, preg nant with Gold and Jewels, pursuant to your Order lately made, en rich the Flame, and dazle the Beholders: Then as each wealthy Burthen is thrown in, the People shout their Joy
+Massan
+'Tis as I'd have it
+Genov
+Now will I sound him in my own Affair, the time is apt, Aside. Troth my brave Son of Flame, I must deal plainly,—I confess my Heart was mov'd with some Compassion at the Sight
+Aside
+Massan
+Your Eyes were only dazl'd too, that was all
+Genov
+Zeal for the Cause, my Son, may be too strong, that rashly throws away the precious means that can impower and arm the Cause-defenders to prosecute their pious Undertaking
+Massan
+Honest Intention must impower and arm us, and the despoil ing of Delinquents Treasure, will let the world know, 'tis th' impulse of Conscience, and not of Gain, that rights the injur'd People
+Genov
+Call it not Conscience, say Necessity, the word will do as well: —Th' impulse of Conscience; What is't you mean, good Son?
+Massan
+I did believe, that word would suffocate his Understanding. Aside
+Aside
+Genov
+Conscience is but our tendrest part of Reason; and Reason urg ing our Self-preservation, shews it must be too by the goods of Fortune: The Church is Indigent, which might be help'd by sharing Wealth, thus —strangely thrown away
+Massan
+The Church is rich in Grace
+Genov
+Grace—Grace is no Glebe to gratify the Body, tho it may feast the Soul: —Grace buys no Cassocks for one, tho 'tother shine with spiritual Cloathing; therefore I say, these Treasures might be sav'd for pious uses; my self I mention not, tho my needs perhaps are urgent, but for the Church, for if the Church wants Necessaries, its Flock will want Instruction
+Massan
+Oh your Charity binds ye to that for your reward Celestial
+Genov
+Our Charity! and for reward Celestial: Our Charity! why certainly he's Craz'd, he would else know a Jesuit ne'er had any. Aside
+Aside
+Massan
+But now I think on't, you have clear'd my sight, and from henc • forth I shall discern much better; for who e'er understood the worth of Gold, or like the black Robe, with such sense can praise it? Since then you have inspir'd me with such Knowledge, I am resolv'd to prize the gaudy Mammon, rake up large heaps, and build my self a Fortune, too strong for Fate to Level: — This is thy Policy I know, my Machi avil, to have me Rich, then consequently Great—and it shall thrive as thou hast forg'd it; —for thy self, I know thou art so Temperate — so Religious, Devotion and the luxury of Prayer, is thy delicious Banquet; —feed on my Father, Feast and grow fat with thy Scraphick Toils Whilst I regale upon these golden Spoils. Exit
+Feast and grow fat with thy Scraphick Toils
+Whilst I regale upon these golden Spoils
+Exit
+Genov
+Whilst he regales upon 'em—very good, this snagged Sword fish Banters me—'tis plain; he'll rake up heaps and build himself a Fortune— as I have Plotted—hum—that was not my meaning; and since he will not understand me right, perhaps I'll make the meaning— his Destruction; this fruitful Brain can work the other way; can, nay, I now resolve on't, it shall do't, since he'll afford me nothing but Devo tion to fatten with, I shall not court his Keeping; he says, I feast on Prayers, Seraphick Joys; but I know he's a Dunce, and now he's gone, —he lies
+Rock
+Valasco
+Valasc
+Sir. Enter Rock and Valasco
+Enter Rock and Valasco
+Rock
+Come, bring a Table, a great Chair, Pen, Ink and Paper,— quickly, come stir, stir—and don't think to sit still Cross-leg'd at your Work, as you did when you were a Taylor; remember you are a Clerk now—and in place to mend the State—not with a Needle, but a Pen, ye Rogue
+Valas
+Well, well, d'e see, your Worship knows well enough how I us'd to flourish my Shop-Bills—I put down all our Trade for Flou rishing, that all our Parish knows—I made the best M 's, O's and B 's d'e see of any o • our Trade; M, for Stay-Tape, O, for Lockram, and B, for Canvas; I out-did 'em all cleverly, therefore I warrant ye your Worship need not doubt my Clerkship. Rock reads a Paper, Exit to fetch the things
+Rock reads a Paper,
+Exit to fetch the things
+Genov
+Oh! here's that impudent Scoundrel, his new Favourite; this Fellow must have Office and Preferment, when I must be neglected, 'tis very well, let me consider a little
+Enter Valasco with a Table, and c
+Rock
+Hum, let me see a list of the Delinquents: their number, Thirty two:—Ah. How every one of these will bribe me, to save their Houses from burning, which sha'n't be obtain'd with a little, that I resolve on; rare, rare Fortune! gad I'm Transported at it
+Genov
+Oh, now I have it, P • rone must be my Engine; his late disgust against this proud Fish-General—is but hid over with some subtle Em bers, the Fire will soon break out agen, and shall not want for blowing
+Rock
+How now, what makes this Priest here, with a clowdy Low'r upon his Forehead too, as if the Devil and his Conscience had been just quarrelling about some State Stratagem—hum, this houshold Pagod, with a Breath like an Easterly Wind, this Reverend Caterpillar shan't spoil my Fruit I'm resolv'd on't. D'e hear there, 'tis the General's Pleasure, that all forbear this Place, appointed for Examination of Delinquents.— Oh, is your Reverence there, I cry you Mercy,—but you must excuse me, I must know my Place. Sits down to the Table
+Sits down to the Table
+Genov
+Your Place, Sir
+Rock
+Yes, my Place, Sir,—nay, nay, don't think to fright me with your Picture of the Inquisition there, your terrible Phiz in Frowns, I say, I say agen, I know my Place, Sir
+Genov
+And I mine, Sir, is not this the Church?
+Rock
+The Church—good Domine, what then, was the Church made for no more uses than yours? Was the Church built only to roost the Rooks, I mean the Jesuits—Pish, don't ye see we make a Garrison on't. How now, Captain. Enter Bartallo
+Enter Bartallo
+Bart
+We have seiz'd on the Horses, and please you, for the General's use, where must they be put?
+Rock
+Hum—stay a little—put,—why put 'em up in the North Isle, just by the Pulpit
+Genov
+Here's fine Management! bl • ss me, is that a place for Horses?
+Rock
+Horses, yes, Sir, and why not for Horses?—gad, as things go now, I think 'tis fill'd with a better sort of Cattle, than with your Tribe, by much; for if a Horse can't do the General better Service than a Je suit, my Politicks are very barren.—Well, what now, Lieutenant
+Enter Scipio
+Scip
+Why and like your good Honour, Mr. Sec. Sec. Secar—
+Rock
+Well, well, Mr. Secretary; I know what thou would'st say; what apox, does my Title stick in thy Throat?
+Scip
+Ay, ay, Mr. Secretary, and please ye, there's the great Don — within, Don— Don — why look now, if my Brain ben't as spungy as an old Shoe Soal, Don— Don —wheigh—why what a Dickins ails my Pate now? I us'd to be as sharp as an Awl, wheigh—the Great great Man and please ye, that you sent the Writing—the what d'e call't, the Sammon to this Morning
+Rock
+The Sammon, the Summons, ye Block-head you; ah, this Fel low will never make a Statesman: —Oh I know him now, 'tis the Great Prince of Bissignano, Don Tiberio, whom I have frighted hither by the General's Order. Valasco, —go you and introduce him—and d'e hear, put on your face of Business and look Grum upon him—'twill draw his Pur • e the sooner
+Valasc
+I warrant ye—I'll look upon him d'e see, as another great Don us'd to look upon me, when I went to carry in my Bill
+Exeunt Scipio and Valasco
+Rock
+Come, come, Sir, no more of your Chancel Grimaces, your Brow Lectures now,—here's matters of State going forward, which I know you all long to have a finger in,—but Mum for that, my good Mass Iohn —some wiser than some; therefore Presto I say,—and let your Learn ing please to withdraw it self instantly in • o your Study; —shew, shew your Back side, I beseech ye, Sir
+Genov
+I shall, Sir, and shew it whole too, which yours shall not be long, if Whips with Wyre, retain their lashing faculty, if it do's, then say this Brain's fit only to make Sawce on; and so I give ye to old Bel zebub ; now my intention's right, you may depend on't. Ex. Genov
+Ex. Genov
+Rock
+Pox on him, what a Jerk the Rogue has given my Apprehension, for tho I know I 'm now too Great to be in danger of such a Punishment, —yet his words have made me as uneasie—as if the Cat with Nine-tails were just coming cross my Shoulders. — I have deserv'd Whipping, and worse than Whipping, I confess, in many Passages of my Life, but I think that's more than he knows; I was thirteen Years together bred up under a Roguish Pettifogger, where I learn'd to be a Law-Cheat, to take all Advantages by the fore-top that afforded Money, and bid perpetual defiance to Honesty and Conscience, yet still I 'scap'd—and now the Dice run higher, I think my self in a Post rather to cause others to be Whip'd, than to be Flaug'd my self. Oh here's the Prince—hum, now for a sullen morose Look, a damn'd ill-natur'd Phiz—like a City Ma gistrate pronouncing Sentence of Death upon a young lusty Highway man, that he was satisfy'd a little while before, had made him a Cuckold
+Enter Don Tiberio with a Purse, and Valasco
+D. Tib
+Well my mighty Sir in Office—now I have given ye your Fee, which by your Signs you taught my Apprehension, what progress will you make in my Affairs? Where must this Summons lead me?
+Valasc
+Why yonder, d'e see, Sir,—yonder's the Secretary, and as keen at his Business as a pair of Sheers upon a Cutting-board: —Hark ye, Sir, I must tell ye he's plaguy deaf of this hithermost Ear—and the Drum on't is not to be penetrated, unless by the chink of Money; that Purse perhaps may stand your Friend, or else it will be a hard matter to make him hear, yet I'll try him; —Sir, Sir,—here's the great Don —the Prince you sent for, come to—
+Rock
+The Duke of Cavano 's House too—noted, that burns to Morrow
+Don. Tib
+By Heaven, my Kinsman, one of our Houses Principals— and if I heard the Gorgon Head speak right, he said his House—must burn to morrow—hear ye, you Sir, you Minister of Fate and deeds of Horrour, what said you of the Duke of Cavano? —he will not answer me, or hears me not
+Valasc
+Oh I told ye, Sir—he was very thick of Hearing
+Don. Tib
+And yet my Pur • e can cure it
+Valasc
+Hum—the Purse has a particular Vertu • indeed; Gold has its precious faculty—for Ears as well as Eyes, Gold will do it cleverly
+Don Tib
+Thou art a very Rogue, through all thy Senses
+Rock
+The n • xt, the Duke of Mataloni
+Don Tib
+Hah—my Friend too—Hear me thou—Son of Mam mon, I charge thee answer me,—and for a Bribe, take here this golden Offering—but speak, I conjure thee. Gives the Purse
+Gives the Purse
+Rock
+Valasco, —set the Gentleman a Chair
+Don Tib
+What must befall my Friend, my Bosom Intimate, dear as its innate Guest, my Heart—my Matalo • i
+Rock
+He is Proscrib'd, his Wife is to be Seiz'd, and their House burnt and Plunder'd
+Don Tib
+When, when, thou Author of damn'd News?
+Rock
+At Seven this Evening; —and now, Sir, no more Questions, you've had your Penniworth; —nor is it usual with me to afford such rich Discoveries so cheap
+Don Tib
+At Seven, curst Chance, how much it wants of that now, I know not, nor how to be Resolv'd, for here am I, on forfeit of Estate and Life, Summon'd to attend the General of the Rabble—and so in capable to aid my Friend—yet stay, some Notice might be given:— Dost hear, my Friend, what Hour is't think'st thou now? Curse on his sor did Soul, he's Dumb agen. to Valasco, he Grimaces, but won't speak. This damn'd mercenary Rogue expects Money—only to tell what a Clock 'tis; well there, there's another Sop, good Cerberus —now wilt thou tell me?
+to Valasco, he Grimaces, but won't speak
+Valasc
+I on my Conscience, think it may be Five,—and pray Sir, be Patient, you'll be hear'd presently, the General d'e see, is coming
+Don Tib
+These are rare Rogues in Office, they use a Nobleman like a Dog-whipper: — Hark thee, Friend, one thing more, if your speak ing Clock be not quite run down, I must request, and there's all I have to purchase it, which is, to call one of my Servants hither, for I have forgot a Paper at home, which concerns me extreamly
+Valasc
+It shall be done, and cleverly. taking the Money. Exit
+taking the Money
+Exit
+Don Tib
+I've yet, I hope, time enough to set down in my Tables their horrible Resolves, and to forewarn the Duke of his approaching Dan ger. Writes in his Tables
+Writes in his Tables
+Enter Valasco, with a Servant
+Valasc
+Come hither with thy best speed, convey these Tables to the Duke of Mataloni —run as thy Life were in thy haste concern'd—he will Reward thee well
+Servant
+I Fly, my Lord. Exit Servant
+Exit Servant
+Rock
+Are the Chandlers Wives dispatch'd to the Hospital, to Rave there, whose Husbands were Hang'd this Morning?
+Valasc
+All, all, and please ye—I saw a Dozen of 'em roaring together in a Flock; and 'twill be a warning to the rest, I'll warrant ye, how they use false Weights and Scales
+Rock
+Nay, I doubt not but we shall bring things to some order in time. Adso —my Lord the Prince, what are you here still? —Alas, my Head is so busied with things of Imp • rtance, that I p • otest I had forgot your Highness;—well I suppose you would fain know the General's Business with ye—but as for that matter, without—
+Don Tib
+Without, if he means more Gold, he must Coin it, for on my Honour, I'm drawn dry already
+Rock
+Without, I say, the Means to procure the Secret, it will, I suppose, be Impossible: —Hem, hem—Times are alter'd, my Lord, they were yours once—hem—hem, now we come in for our share.—Hum,— Odzooks, here comes the General himself—Pox on him, this was a little too soon tho, or I had had that Ring on his Finger there for another Discovery
+Enter Massaniello, Perone, Bartallo, Scipio, Jacomo, and the Rabble
+Massan
+The Houses I Proscrib'd, let 'em all down, but on your Lives, no more, without my Order; the Plunder too, I will consider on—and henceforth, remember, without the form of Speaking, to understand your Duty by my Motion
+Iacom
+We shall, most Noble Sir, wag but your Hand, Thumb, Finger, or but Nod,—'tis done as quick as Lightning
+Massan
+Begin you at St. Carlo, —throw your Brand at Cavano 's Palace; and my Favourite Captain, bes • re you singe the Traitor Mataloni, let not a post remain to bear his Structure, but let your fury burn his Goods as gree dily as late he suck'd the Life-blood of the People—away.—
+He waves his Hand, they start out
+Omnes
+We're gone, brave General
+Massan
+There's Discipline; this looks like a Commander.—Hah, yonder's the Prince, Perone, a word with thee.—Thou see'st that Lord there—he is the only Man I'd chose 'mongst all the Court, to negotiate Matters between us and the Vice-Roy; —within this Paper is my Will contain'd,—I'm positive here, and so I would have thee, If he denies what there is offer'd to him—tell him he shares the Fate of Mataloni ; —go, take him aside, pretend I've weighty Business, and cannot hold Discourse with him my self ▪
+Perone
+Leviathan Impudence, but I'll smother all yet, let him swell on, • nd he will burst himself— Aside. My Lord, the General's Head being full of Business, has order'd me to unsold his Pleasure to ye
+Aside
+Enter Pedro, and whispers Massaniello
+Don Tib
+His Pleasure,—insolent Slave,—this is another upstart Devil, he look • too as if he all his Life had smoak'd in Pluto 's K •• chen; not deign—a word, Sir, what is his Mightiness so cram'd—
+Perone
+Softly, my Lord, he has quick Ears, and then—come, no more words, but follow me
+Don Tib
+I vex in vain—'tis madness to oppose 'em. Oh! Fortune, Fortune, whither wilt thou hurry me? Exit with Perone
+Exit with Perone
+Massan
+What are the Women up too, say'st thou, Brother, and Blowzabella my Wife, at their Head?
+Pedro
+Most Captain like Ifaith—my Spouse is got amongst 'em too for Company; these at the head of Numbers, strut in the Streets, and Arm'd with such variety of Weapons, 'twould e'en puzzle Arithm • tick; —they're ready for an Attack too, an Attack
+Massan
+Hah, Hah, hah.—What Goose or Turky wall'd round with pow erful Crust, are they for Storming?
+Pedro
+'Zooks, they talk of battering Castle-walls, and I know not what; and my Sister Blowze is so wrapt up with the thought of Plundring the Dutchess Mataloni of her Jewels, that her very words are nothing but Pearl and Dia monds. —Hark'e, here they come I • aith—now observe and wonder
+Shout, and strange Sounds made within
+Enter Blowzabella, Ursula, and Rabble of other Women, dress'd Ridiculously, and Arm'd with several sorts of Weapons, bringing in three Prisoners
+Blowz
+Bring in the Prisoners, and keep your Ranks—Close my Lasses,— Wheel to the Right, to the Right, to the Right about; there see now—Where's the General? Where's the brave Tomazo? —Oh, art thou there my Scander beg, come Kiss me, and then tell me—how dost thou like me,—hah?
+Massan
+Like thee, hah, hah, hah, why this is Wonderful; prithee Wife, what mean'st thou? —What Work hast thou been cutting out, hah?
+Blowz
+Plundring, Plundring, My Lad, Plundring, Stripping Lace off of Pet ticoats, and pulling Gold Rings off of Fingers.— In short, I have been Bob bing for a sort of Female-Grigs—they call forsooth your Gentlewomen,— could'st thou imagin, whilst thou wert fishing for Courtiers, that I would sit idly at home sleaing of Eels? —No, no, Child, I rose as thou didst, own'd and carry'd the Cause; then gath'ring my She Swash-bucklers together, Arm'd in stantly, and wheree'er we saw a Silk-worm crawl, we Seiz'd her; see, here's one of 'em, this, this is forsooth a Gentlewoman, and as I'm told, belong'd to the Vice-Queen: —You may suppose the Dress I have put her in, has some what alter'd her, but upon the Honour of a Fish-wife, she's a Gantlewoman every inch of her
+Massan
+Why Faith that may be, but her Air seems to have very much of the Vulgar in't at present
+Ursula
+This is the supe • fine Madam de Rocell, Wife to the Prior, Farmer of the Gabells, she had Brooches of Diamonds about her when I met her first, and Bobs of Pearl in her Ears as big as Pears; alas—what pity 'tis, that Madam should be strip'd, but Madam, I hope you'll Excuse it, we are rude Common-People Madam—your Servant good Madam, in Troth 'tis great Pity —
+Pedro
+My Spouse there may shew her sham Pity as she pleases, but if I had met Madam in a bie Place—I believe I should have made bold to have stript her a little further—Gad she has a dainty Face for all her Rags, and puts me so in mind of a plump black-ey'd Beggar-wench I had once
+Massan
+But what's the 'tother there?
+Blowz
+And this here is one of the Marrow-puddings of Trade, a Citizen's Wife, a sleek, fine, fat, little finical thing, that would melt in a Courtier's Mouth like a Comfit: I took her Oagling at her Shop-door, and truss'd her up under my Wing like a Gizard: —she had her Gems and her Pearls too, —besides a fine golden Gown, that her Cuckold bought her by Cheating the People, at Twelve i'th' Hundred; —there she is a little moody, I see, at her odd Rigging; —her Husband may take his Tortoise again, if he pleases, but for her Shell—that's dispos'd of
+Massan
+Bradamant —why ye all have done Gloriously—gloriously—and what's to be the next Exploit, dear Wedlock, hah?
+Blowz
+The Dutchess of Mataloni ; we have contriv'd it, therefore leave it to our Management, and if before to Morrow Noon, thou see'st me not trick'd in her Jewels like an Indian Queen,—then say, which some believe impossi ble—a Woman's Mischief has Miscarried.—And to shew thee that we are capable of doing greater things than you imagin, you shall see us Exercise, and pray observe what Diligence has learn'd, Handle your Arms there
+A Dance here, shewing their Exercise
+Massan
+'Tis well, and Soldier-like—go on then, my Bellona, and you, Bro ther, to the Gate of San Lorenzo ; March with your Troops, and as you pass, still cry, Let the King Live, but the ill Government Die. Ex. severally
+March with your Troops, and as you pass, still cry,
+Let the King Live, but the ill Government Die
+Ex. severally
+SCENE II
+Enter Mataloni, Dutchess, and a Servant, the Duke holding the Tables in his Hand
+Dutch
+Oh, I can never bear it, my dear Lord, that moment you depart, my Life-blood follows
+Matal
+Why then, let Fate contrive its bloodiest Scene, I'll stay and dare all Accidents, grasp thee thus—within the circle of my eager Arms, and smile on the grim Hell hounds that would part us
+Dutch
+Could I go with thee, Heaven, what would I venture! what Walls would I climb, or what vast Deeps would I plunge! for tho I shew a Woman in my Tears, my Courage—yet for you would hazard Wonder •
+Matal
+I know thou could'st, thou quintessence of Goodness, do more than Woman; —but Oh, I must not suffer thee! I know thou would'st, with me, leap from the Window into the Moat, as I must, for my Safety, but I'll not do't to hinder thee,—no, 'tis but Death, if I stay here—and 'twill be that without thee
+Dutch
+Oh, name not Death, I had forgot that Horror!
+Matal
+Give Friend, your Lord, my best Acknowledgment, but tell him, I'm resolv'd to stand my Fortune
+Dutch
+Not for the World—Oh, pardon me dear Life, my Womanish Folly, I had forgot your danger, you are proscrib'd to D • e if you are found, yet I would keep ye here: Oh, racking Torture, was e'er Misery so truly great as mine? —Go, go, my Lord, my Doom in those curst Tables, is but trivial Imprisonment, and perhaps a daily Basting by the Rabble, Village Curs, or Cold, or Hunger, matters of nothing, —but yours is Death, my Lord, Life's deprivation; —the full gust of Horror blows with that word, upon me—end less Woe, Despair, and all the Miseries of Humanity fall then at once upon my wretched Head, And make me, that so late implor'd your stay, Distracted beg ye now to haste away
+And make me, that so late implor'd your stay,
+Distracted beg ye now to haste away
+Matal
+Great Providence, whose all-controlling Will, hast for our Crimes, sent down this Plague on Naples, and mak'st the sparks of bright Nobility, lie hid in the vile Ashes of the Rabble, behold with pity, Beauty in distress, with Vertue join'd, than that more Charming far; Oh, let her still thy Care peculiar be, And always blest, what e'er becomes of me
+Oh, let her still thy Care peculiar be,
+And always blest, what e'er becomes of me
+Dutch
+Oh, hear me too—thus low with bended Duty, I beg the Power that taught us first to Love, to look on him most perfect in that Passion, and best deserving it in its Perfection: To guard his Life, Celestial care employ, And I shall find all Blessings in my Joy
+To guard his Life, Celestial care employ,
+And I shall find all Blessings in my Joy
+Matal
+One dear Embrace then, and so part. She Weeps. What yet again? Nay, I must Chide ye now, we both have Pray'd, and must not doubt Success
+She Weeps
+Dutch
+Oh, pardon me, within my Breast is such a Sea of Sorrow, some must o'erflow the Banks, I cannot help it
+Matal
+I'll make the Fences stronger with fresh hopes of our quick Meet ing and repeated Joy, so once more Adieu, Sweet
+Dutch
+My Life's sole Joy, Farewel
+Matal
+Come, bear up boldly, and now to the fatal Window, through which my Brother is already gone, unseen by the Blood-hounds that have us in the Wind, and stop all other ways and avenues: One kind Look more, and turn that way, Sweet. Thus when o'ercome by fierce Diseases power, The sad Physician gives his Patient o'er. Thus does the Tyrant of our Lives, controll, And thus divides the Body from the Soul. Exeunt
+Thus when o'ercome by fierce Diseases power,
+The sad Physician gives his Patient o'er
+Thus does the Tyrant of our Lives, controll,
+And thus divides the Body from the Soul
+Exeunt
+The End of the Second Act
+ACT III
+SCENE I
+Enter Perone and Genovino
+Genov
+YOU may believe me
+Peron
+And may be abus'd; you have not yet enough, Sir, clear'd your Credit
+Genov
+You shall have further proof, my venturous Actions shall henceforth justify my Inclination, and back the force of these bold Words, which are, That from my Heart, I loath this Upstart Fellow; This headstong Fool; this Mushroom, Massaniello
+That from my Heart, I loath this Upstart Fellow;
+This headstong Fool; this Mushroom, Massaniello
+Peron
+You say enough; but may one trust a Jesuit, knowing his Principles?
+Genov
+When the trust propos'd relates to his Revenge, be sure you may
+Peron
+Nay, Sir, I will be sure; for to deal plainly, I have not yet been bred with any Candor for Persons of your Order
+Genov
+I believe it, and will not stick to say, perhaps with reason, the Peo ple generally, have strange Notions of us, and you, I see, are biass'd by Opi nion. —'Tis true, Church-Interest, and the forward Zeal we use to prop its Power, raises u • many Enemies, some whereof, burst into rude and vilifying Terms, and in plain words, Abuse us
+Peron
+Yes indeed, I have often heard 'em deal so plainly with ye, to say, You're all a p • ck of Rogues
+Genov
+Ha, ha, ha,—'tis likely—but you must know then, Sir Captain, these were all Sophisters
+Peron
+How, how, Sophisters?
+Genov
+Even so, you may depend on't; I know it by their word of double meaning—for Rogue was meant no more than Polititian, a witty Rogue, a subtile Rogue, a rich Rogue; the word is ost mistook, but means no harm; why Knave, 'cause 'ti • obsolete, is now Corrupted, which meant of old, a Ser vant, and no more: Then, Sir, as you may be a Knave, yet Honest, so we two may be Rogues, and yet no Villains
+Peron
+At this rate, this Fellow will make it out, that a Son of a Whore may have an honest Woman to his Mother
+Genov
+But come, Captain, pray be particular—a little more; —What noted Crime are we found guilty of?
+Peron
+Ah—numbers, numbers, Sir, more than your Beads can furnish ye with Prayers to make atonement for, but one among the rest most Scandalous; they say, you'll set your Penitents a Gaming for Masses for their Souls, and that the Fortunate delivering you that still sit by, his Winnings, has his si • s Pardon'd him for his luck at Cribbage
+Genov
+Why look'e, as to Penitents dole for Masses, truly there may be some thing in't, and practicable, but that we play at Cribbage, is a Story, our Game is always Putt, we know no Cribbage
+Peron
+Oh, with your Reverence's leave, I know you'll vouch all Games, ra ther than lose the Stakes: But come, toth' Point. Suppose thou art Sincere in this Affair, what's to be done with Massaniello? What shall we Murder him— ha Boy?
+Genov
+Convey a Bullet cleanly through his Head,—not Murder him, no, no, that were Undecent
+Peron
+Nay, nay, I know he uses the Church scurvily, that is he denies 'em Money, and that's a Damning Sin
+Genov
+Oh, past hope of Pardon
+Peron
+And if I should Murder him—
+Genov
+Why ye should have Absolution, the thing is excellent Service, but the word grates
+Peron
+And what Security for no Betraying?
+Genov
+The sacred Word and Honour of the College, who all will join in the Confederacy, to animate the giddy Hot-brain'd People, and in his stead, to make you General: Come, Captain, 'tis in vain longer to hide your close De sign, a Jesuit's Head is waking, when others are in Dreams; we have found out your Correspondence with Carraffa 's Faction, and know you are Intrigu'd with Mataloni: —Since then we know this, yet make no discovery,—you see the Danger's equal, therefore may trust—let us be Rogues, or other wise, 'tis no matter
+Peron
+And you will bring your Brethren to vouch this
+Genov
+Go with me and be satisfi'd, however the World taints us for Trea cheries, we are true to one another; —come, be Wise, resolve on Massa niello 's Fall—then Rise
+Peron
+Well, Sir, lead on, and as I find this real, a Throat may soon be Cut
+Genov
+I ask no more. Be then our General, and take the Church's Blessing
+Crosses him
+Exeunt
+Enter Massaniello Guarded, and Don Tiberio
+Petitioners waiting with Papers
+Massan
+My Lord, I lately sent you my Decree, have you resolv'd upon't?
+Don Tib
+What Sir, to negotiate the Peoples Business
+Massan
+With the Vice-Roy; yes, 'twas set down so
+Don Tib
+In what Sir, with my Honour I can serve 'em, I'll ne'er re • use to do my Country good, provided 'tis no blemish to Nobility
+Massan
+My Lord, you so much Idolize Nobility, that you'd even make the very word a Scare-Crow, but we are no such Children to be frighted; Nobi lity, —what's that but Power and Riches, the Will to Govern, and the Means to do so; a Titular Nobleness, is vacant Air, a trifling Sound of no Validity: What care I how the Herald's Art can Blazon, since I've Power and Riches, I've Nobility, or good my Lord, what am I in your Fancy?
+Don Tib
+You are I know not what, something that 'mongst all Tongues, must want a Title; you are beyond Prodigious, Language fails and Reason's at a loss, that would Expound ye; your Pardon Sir, I am but newly practis'd in the Trade of Flattery and Dissimulation
+Massan
+What, and yet a Courtier! Damnation! is that Possible? Did ever Creature breath in that rank Air, that was not skill'd in both those Qualities? —Not Flatter nor Dissemble, say not Live; for riotous Meat and Drink, nor gawdy Cloaths, Hounds, Horses, Whores, your constant Properties in their Perfection, are not half so natural as Flattery and Dissembling to a Courtier
+Don Tib
+I shall not make this good, Sir
+Mass
+Shall ye Comply? Enter Rock and Petitioners, who give Papers to Mass
+Enter Rock and Petitioners, who give Papers to Mass
+Come, come, you must, 'tis Death, if you deny
+Don. Tib
+Was ever Plague so mortally Severe? Had ever Kingdom so de bas'd a Curse? the Noble Blood of my great Ancestors boils in my Veins with Anger and Disdain, and yet the Frown of this Plebeian Fellow, spight of my Nature, Aws me; sure 'tis th' effect of Witch-craft, Hell i • just setting up a Common wealth, and all the Devils conspire against Nobility
+Rock
+Your Wife Sir, with the Dutchess Mataloni Rifl'd and Plunder'd, are just coming in; —she's as good as her word Faith, she has stuck her self all over with Jewels, as thick as a Sir-loyn of Roast-Beef is with Rosemary at Christmass, —I had a fling at her Grace too, I told her a Lye, and had a Diamond-Ring worth a hundred Ducats for't.—Rare, rare doings, Sir,—gad little did I think of ever living to see such blessed days
+Enter Blowzabella, awkerdly dress'd and deck'd with Iewels; then Dutchess Mataloni, led by Ursula, and the Dutchess in mean Habit, Weeping
+Massan
+Attend all to Morrow Morning, and • 'll give ye Hearing to Petitioner •
+to Petitioner •
+Don Tib
+Bane to my Eyes—who would thank Providence for that dear Gift, that was confin'd to see such dismal Sights as these?
+Ursul
+Why Sister, you don't mind my Brother there
+Blowz
+Oh—I look the Greater for that, ye Fool, Husbands and Wives should be careless of one another; —besides, what have I Trick'd up my self thus for, but that every Body should see me now, and I see no Body; besides, this is nothing—the next time I Dress, the Son, Moon, and Seven Stars— shall look like Farthing-candles to me. Sister, prithee mind Tomaz now, do but see how he stares at me; I'll take no notice of him, but pretend to be full of Business, as he does
+Massan
+She thinks she's Fine, I warrant, 'sDeath and Hell,—was ever any thing so Monstrous—as course Deformity in gawdy Trappings, I nauseate it, but must not shew it now.—Hah, what was that! methought a Dart shot from that Mourning Beauty—pi • rc'd through my Soul; my Soul, tho of a piece with my course Body, yet feels the smart, obeys the power of Beauty, and makes me say aloud—She's Admirable
+Dutch
+No more, my Lord, let my Misfortunes hide me for ever from your sight, and I do be • eech ye, leave me
+Don Tib
+Thou Beauteous Partner of my dearest Friend, thou charming Form that now mak'st Sorrow amiable; I will, but yet believe, thou Shrine of Ver tue, 'tis only that I may the better serve thee; my Stars have here condemn'd me to their Interest, an Interest that I hate as I love Honour; and if that meta morphos'd Female Brute there, has any spark of Womanish softness in her, she shall in spite of Nature, use ye well. They Whisper
+They Whisper
+Blowz
+Carry the Prisoner to the place I order'd—What say ye, Sir, would ye speak with me? —Hum, w • ll, what is't?
+Massan
+She goars and wounds me still; and now methinks the whole, com posure of my Frame, is alt • r'd—I tremble and am asham'd to know my self.— Hah, what did I say I Trembl'd, 'tis impossible, can my H • art tremble, that is steel'd with Power? Trembling implies a Fear; what can I • ear, that have un question'd Power to command all, and can enjoy what e' • r • hat Power posses ses: —Agen—there's no looking on her, I'm all o'er Flame o' • h' sudden:— Well, 'tis but ask and have, I'll send her word I like her, and if she prove pee vish, fright her a little with her Lord's Proscription and she yields presently.— Rock, come hither, Thou saw'st that weeping Woman there
+Rock
+Who, Sir, the Dutchess? Ay, she's a delicate bit faith,—gad I like her very well
+Massan
+You do so
+Rock
+Yes, Sir, under favour, I intend—I intend—
+Massan
+What is't you intend—hah?
+Rock
+Why Sir, I intend, I intend to—
+Massan
+Sir—
+Rock
+I say Sir, I intend to make her do your Excellency Justice
+Massan
+You shall do so, go get her for me presently
+Rock
+Get her, What does your Honour mean? — Have you a Paper ready? Would you have her Sign any thing?
+Massan
+Yes, Sir, and Seal too.—Therefore good Monsieur Secretary, I would advise you to practise your Employment, and make her supple d' hear? Supple for me, fit to take my Impression, and let your Liking flag, Sir Ink-Bottle; these are your Ears yet I suppose—
+Rock
+They are so, I suppose my Lord, I have had 'em a pretty while
+Massan
+'Tis well; i • you would have 'em so remain, be Diligent; you un derstand me. Exit Massaniello and Guards
+Exit Massaniello and Guards
+Rock
+Hum—sits the Wind there—understand ye? Yes, yes, a Pox on ye, ye have given us all occasion to understand ye; we know now what he means by a pinch by the Ear, a tweak by the Nose, as well as if he had spoke Spanish : —He, I find, has a mind to the Dutchess himself, and I as princip • l Officer in Trust, must sollicite her for him; 'tis so, there's no avoiding it, if I design to keep my Place, this must be done; and I see now, 'tis in vain to think to make my self a Great Man, without being a Pimp into the bargain. Exit
+Exit
+Don Tib
+Will it please you to give me an Answer to my Suit, Madam?
+Blowz
+Why look'e Sir, cry Mercy— I think you are a Prince tho
+Don Tib
+And your Ladyship's Humble Servant
+Blowz
+Hum, that may not be much a-miss, as things may happen, Od'sfish, the Man's well made—
+Don Tib
+'Tis Madam, in favour of the Dutchess, let me desire—
+Blowz
+Oh, gad • o, the Du • chess my Prisoner; and you desire—why look, my Lord, if we should all have our Desires, what would the World come to? Why you may desire one thing, and I may desire another thing, when as things may happen, you can neither have y •• r thing, nor I have my thing; oh my word, this is a great thing to consider of—and you must think I know my Post, my Lord, what I must do; great things now
+Don Tib
+Pox on her, has she forgot already the great things she us'd to do, when she sold Sprats at the Castle-Gate? —Ah, how the State-Mack • rel Sur veys me; it may chance, that I may have a Hook for her, if it be so, the Dut chess shall gain her end I'm sure
+Blowz
+Well, I swear, I think I have not seen a more likely Person, t • e Man truly has, as one may say, a mighty promising Countenance; well, he has so, a • d he has a Suit to me, good agen; and perhaps I've a Business for him to do, very well still; why the World is alter'd now, and things are chang'd from what they were, and Odsfish, I must not be as I have been—what, I must do great things now
+Don Tib
+I'm still in hopes, Madam, you are thinking how to gratify my request
+Blowz
+My Lord, you speak well, gratify; you would be Gratify'd you say, and desire my Prisoner may be tenderly us'd, and have Servants about her; well, my Lord, and how, pray, would you gratify for such a Favour?— Come, you are a Courtier, I am at present dispos'd to see a little of those Fi nicals; —How d'e begin?
+Don Tib
+Why, first, Madam, with all respect imaginable, • approach—
+Blowz
+Odsfish, is that approaching? Why, my Lord, you stand stock still
+Don Tib
+At a respectful distance, Madam, always when we address to Great Persons. With Familiars; 'tis true, we often approach to the Lips
+Blowz
+Ay, ay, to the Lips—Odsfish, that's better by half, if you must ap proach, approach as you should approach, to the purpose, my Lord
+Don Tib
+Madam, this Favour is too great
+Blowz
+Puh, — never speak on't, my Lord, I am not so strait-lac'd, but I can be familiar with my Equals upon occasion, and if you have an inclination to approach once agen, my Lord—
+Don Tib
+The Devil—this is worse than her refusal; — Oh, how I hate an Oyster that opens of its own accord—but come, once more for the Dutchess's sake, I'll defy Garlick—
+Blowz
+So, my Lord, and now what think ye of my Person and Appearance? Pray be a little curious—here's no Rumper above, my Lord, nor no crook ed Legs below
+Don Tib
+Oh, Madam, your Person, like the rest, must be Admir'd
+Blowz
+'Tis true, Fortune us'd me a little coursely formerly, as to sell Fish, or so—but as to a Person, bring me any of your fine Ladies to discourse with me, or so, and Gads-fish, then you shall see
+Don Tib
+Ah, you are so very exact by Nature, that methinks those Jewels might well be spar'd—
+Blowz
+Why truly Nature has not been niggardly, but by giving me these Jewels, Fortune I see, designs to be honest, and be out of my Debt, and I must use her now she's in Humour
+Don Tib
+How the Dowdy has stuck her self in the dear Dutchess's Orna ments, and how like a Devil midst the Starry Region— does she appear: But hush— I must at her agen— Aside. Come, Madam, do but dispatch this Grant, and then you bind me ever
+Aside
+Blowz
+Well, my Lord, let's walk in, and as I find your Reasons are sub stantial— I shall incline the more.—A handsom Man I'll be sworn he is— and approaches very well—why look'e things are alter'd now, and if my Hus band should chance to be a Cuckold, why 'tis no more than what's in Fashion; I must not be as I have been, what, I must do great things now—Come, my Lord. Exeunt
+Exeunt
+Enter Dutchess, Rock whispering Ursula at a distance
+Dutch
+How near are those poor Wretches to despair, who dare too nicely scan the Acts of Providence! And, Oh, how grosly vile is poor Mortality, when it too highly values its Weak Reason, and • ansies Heav'n has done its Merit wrong—if I should number all my past Offences, can they deserve this Scourge, this worst of Misery? Yes, if Heaven thinks so: Let me then be Obe dient, and like Great Cato 's Daughter, bear Misfortunes with more than Roman Constancy; yet if Grief grows too strong, here is the Means, this dear Relie ver Rescues me for ever, Shews a Viol Yonder are my Persecutors, and some new Plague I find, is hatching now between 'em: Fate do thy worst, let my dear Lord but 'scape 'em, these Mischiefs I'll contemn, and seem as Merry —as if their Villanies were my Diversion
+Shews a Viol
+Rock
+Once more I tell ye, you must deliver up your Charge to me, I have Business with her from the General, things of Importance Women, weighty Matters; there is a pressing Affair going forward—you must give way too, therefore be gone I say, your Husbands are yonder, toaping a full Bowl for joy of the good Plunder, at the Duke of Caivano 's; go, go, and colour your Gills there, and leave this Lady to my management
+Ursul
+Ay, with all my Heart, methinks I long to see how my Husband Pedro looks in his fine Golden Coat. Adsheartlikins, I warrant he's as proud as 'twere any Don himself. Exeunt
+Exeunt
+Rock
+Hem, hem, Madam, in short, you must know, Madam, that is, Ma dam, if you don't know already, that I am his Excellency's Secretary
+Rock pulls off his Hat awkerdly
+Dutch
+His Excellency's Secretary! bless me, how can I deserve this Honour? please ye, Sir, to take a Chair. He sits down
+He sits down
+Rock
+You have very favourable Stars—Madam, for as you say, this Ho nour is not bestow'd on every one—especially without Money. Aside
+Aside
+Dutch
+But how comes it, I beseech ye, Sir, that I am made thus Happy?
+Rock
+Why, you must know, Madam, that the General, who neither sees, says, nor does any thing without me, thought sit to take my hint of Commen dation of that Forehead, Nose and Mouth of yours, after which too, to speak Unvulgarly, I express'd my self in praise of the Lilies and Roses in your Cheeks, your white Neck, and so forth, and at last, gave him signification, that you were altogether a very tolerable Person
+Dutch
+Thou art in all Significations Intolerable I'm sure. Aside. Indeed, Sir, you oblige me extreamly, and I can't forbear saying, that I am not a lit tle proud, setting aside the General's liking, Sir, of the obliging Applause of a Person of your Merit and great Office
+Aside
+Rock
+Hum, 'tis so, I must be the Man I see, she begins to be sweet upon m • already. Aside. Why faith, Madam, I must needs think those that ar • Wise, will always distinguish a P • rson of Place and Trust; you may Cringe and Compliment Kings and Keyzars, if you please, but to us you must come, if you'd have your Business done
+Aside
+Dutch
+True, Sir, I know it very well—and therefore since I've th' honour of your liking, what's matter what the General says or doe • ?
+Rock
+Ah, what a bewitching Smile was there—she has charm'd me so I cannot speak a word, and I must be a Traytor in spite of my Teeth. —
+Dutch
+Besides, to shew my self grateful, Sir,—and give ye Praise for Praise, in my fancy now, that Chesnut Phiz of yours, but especially that Nose, prog nosticating strange Events, is wondrous Taking
+Rock
+I have her fast, for if she likes my Nose once, the rest follows in course.—But hark'e Madam, is this in Earnest? Am I so fine a Person faith —I should be glad to have some favour from ye as a proof
+Dutch
+A Favour, you shall, take this Cordial and drink my Health—'tis a warm Philtre will encrease your Flame: To shew you too 'tis an especial Fa vour, I'll use it with a Gust, when there's occasion; come, Sir, take six Go-downs
+Rock
+Hum—what a Plague does she mean? It can't be Poison sure—Gad, I don't like the colour on't; why faith, Madam, I must beg your Pardon, I an't dry at presen •
+D
+Oh, Luxury! Great Men, Sir, are always Thirsty; —come, you must take it
+Rock
+But Madam, I have sworn never to drink between Meals
+Dutch
+How, Sir, know then, since you such Grace refuse, Fortune thus flies ye, and Revenge a Rogue pursues. Exit Dutchess
+Exit Dutchess
+Rock
+That is, she'll tell the General, and he shall Hang me—gad I must after her and prevent that tho, for all my Fooling. Exit
+Exit
+SCENE II
+Enter Cardinal and Mataloni
+Matal
+My Lord, if ever humble Penitence yet influenc'd a Heart, believe, mine feels it; Oh, let me kneel and kiss your sacred Robe, thus low beg Par don for my past Offence, then from my Soul thank you for this Discovery
+Card
+'Tis too much, my Lord, pray rise, Heav'n knows, how the vast bulk of your Misfortunes oppress my Heart, deep sense of which, and pity to your Lady, who is involv'd too in the general Ruine, has made me willing to di vulge this Secret, which a bigotted Jesuit, craz'd with the Pl • t even forc'd into my Bosom
+Matal
+Hell of Barbarity! a Brother do this, a Brother plot my Ruin and my Wif • 's, for in her Death, is mine, with greatest Horror, and this too only for ambitious Vanity, to forge another Plot—without my knowledge, even as his Hot-Brain pleas'd
+Card
+There's th' Arch-Contrivance, he knew your tender Passion for your Lady, a Prisoner now in Massaniello 's House, would ne'er give your consent to act revenge by Fire; and therefore to effect his double Plot, you and Perone were to be Ignorant, for different Ends, you on your Lady's score, and he as being design'd a Sacrifice with Massaniello, who, they give out, shall fall by Sword or Pistol; but 'tis indeed resolv'd by firing Mines under the Market place, and when the Throng is most, to • low up both, and to accompany 'em, your Lady and a hundred thousand Vulgar
+Mat
+Prodigious Villany!
+Card
+Of Powder for this Action, fifty Cantara's—are stow'd in several Pla ces under Ground, enough to shake all Naples into Ruines, and glut Revenge with such a horrid Massacree—no Age could ever Parallel
+Mat
+My Flesh trembles and Blood grows cold, even at the apprehension: Unnatural Viper! for a Brother's Name from henceforth I renounce, as also a Brother's Nature, by thy accurst Example, for 'tis past doubt, that with my Wife and the rest, when this most dreadful Blow had once been given (had not your gracious Clemency sav'd me by this Discovery) I too had shar'd this Ruin
+Card
+That's not unlikely, for your Brother's aim, compacted with some Dons of his rank Faction, we find, is now for setting up himself, when Massaniello and the rest were Dead, Chief Farmer of the Gabells in your stead
+Mat
+I see it now, plain as the Sun at Noon, thou venerable Parent of my Life, for this Discovery gives me all that can be call'd in Life a Blessing, saving her who is much dearer than my Life, my Soul: How shall I pay my Thanks? How po • r out my full Heart? And how Adore thee?
+Card
+Calm, calm your self, my Lord, and—cease this Rapture, I'm paid in the good Action
+Mat
+May all Stains be wip'd for ever from that Honourable Scarlet, for this your Piety—Oh, this base Carraffa! this bloody Brother! But yet 'tis no more than what the Scheme of his past Life has promis'd, a Nature ever prompt to Cruelty, hardn'd in Ill, he ost would set me on to plague the People, and do things Unnatural, of which the Gabells late imposed, was one,—and which being too severe, has now Undone us
+Card
+My Lord, I see your Sense is now serene, and therefore I should be most Uncharitable to twit ye with your former rash neglect: Oh! what a sa cred Tutor is Affliction? T' instruct Humanity, and give erring Nature the means to know it self.—Farewell, my Lord, excuse Paternal Love and honest Care, if it now sound too harshly in your Ear; —the Lot is cast, you must divert this Stratagem, or she you love amongst the common Crowd is lost for ever; they are now coming hither to their last Consultation; I was Invited, but made shift to excuse it; indeed I lik'd it not, I wish the Rebels quell'd, but cannot wish that way; —but you must stand the brunt, and countenance 'em, say as they say, and work your Ends the better: Be Wise then, 'tis the Crisis of your Fate, One Hour lost now, the rest come all too late. Exit Card
+Be Wise then, 'tis the Crisis of your Fate,
+One Hour lost now, the rest come all too late
+Exit Card
+Mat
+How have I been mistaken in this Man; this Great, and yet this good Man? This is indeed a Churchman—studied in Morals too, and has a Con science: If the Body of the Roman Priesthood were like him, just in Actions as in Words, Preaching no more than they would Execute, nor busied but in case of general Good, how many Converts would approach the Altars, Suck up their hallow'd Breath, and Kneel and Pray? That now neglect, and heed not what they say
+Suck up their hallow'd Breath, and Kneel and Pray?
+That now neglect, and heed not what they say
+Enter Gervatio
+Gerv
+Oh, my Lord, is your Grace here? That's well, your Brother and the rest of the Cabal, are just upon Entring, Perone too with the Banditti, and a whole bundle of Iesuits following—gad the Mischief will thrive, I'm sure, because they have a hand in't: We shall broil this King of Herrings now I'saith—I han't forgot the Rascal's Fish-Treat; a Pox on him, he has made me hate the name of Fish ever since
+Matal
+This Rascal is my Brother's Creature too, a Bear-Cub, that he could lick into what Shape he pleas'd.—Well, suck your Paws, d'e hear, and grow Fat with hopes of your Revenge, but leave me to my Thoughts. Oh, here they come; Now rank Dissimulation, act thy Part, Tongue, hush my Rage, and Looks disguise my Heart
+Now rank Dissimulation, act thy Part,
+Tongue, hush my Rage, and Looks disguise my Heart
+Enter Don Peppo, Perone, and several Banditti
+Gervas
+The Jesuits are coming,—and one bold daring Fellow among 'em, who says, he'll begin first and fire the Train under the Upstart's House
+Don Pep
+Hush, my Brother's here—not a word more now, bid him — do't, and tell him he shall be great as his own Wishes— Aside to him
+Aside to him
+Mat
+Well, are all things in a readiness? —Who fires the happy Piece at this proud Fellow?
+Don Pep
+Who but the brave Perone, the Soul of Naples ; his Harquebuss is Charg'd, and his Heart willing
+Per
+Ay, ay, my Lord, let me alone to fire him
+Mat
+I heard the t'other Rascal talk of firing a Train as they came in; 'sDeath, the Scoundrels quibble with me—and can ye aim well, Sir?
+Per
+I think I can, my Lord—I have kill'd Black-Birds without a Rest before now; but if I should fail, here are some more will second me, what say ye, my bold Lads, hah?
+1 Band
+Why Captain, give but the word of Command, your Enemy lies there, look'e, be it who 'twill
+2 Band
+Captain—I'll not only kill who you have a mind to, d'e mark me, but if you command me, I'll Eat him afterwards
+Per
+There's a brave Fellow now, my Lord
+Mat
+A prodigious brave Fellow indeed—Damnation! what Devils have I about me? But what are these? Enter Genovino and other Iesuits
+Enter Genovino and other Iesuits
+Don Pep
+Oh, these, Brother, these are Friends, woven in our Plot, Fathers of the Church, who with the rest of 'em, resolve to assist us
+Mat
+Nay, then't must be a Powder-plot, I'm sure.—Hah, I have it now, and Death shall never alter me.—But first, for a Decoy; well, Gentle men, this Undertaking will be Dangerous, and therefore requires Wariness and Diligence—you'll find me ready at a Minute's warning, but first, I must Disguise my self, which done, Believe, ye all command my Head and Heart— Villains, to Ruine ye, not take your part. Aside. Exit Mataloni
+Believe, ye all command my Head and Heart—
+Villains, to Ruine ye, not take your part
+Aside
+Exit Mataloni
+Peron
+Methought the Duke your Brother went out Cloudy
+Don Pep
+No, no, his Head is only busie about his Disguise—he has some reason tho, if he knew all.— Aside. Your Reverence is Welcome; these Fathers, I suppose, come from the rest, all sworn Friends to our purpose
+Aside
+Genov
+All, all resolved, my Lord —they'll first assist with Prayer, and then with Powder, all sworn to quell the Church's Enemies,—And now, my brave Captain, since I've so well perform'd the trust you gave me, I hope you'll think a Jesuit may be Honest
+Per
+Honest, yes, to his promise to do Mischief, I never doubted that; but come, I'm glad to see you here however
+1 Ies
+When the Laity Rebell against the Church, the Mischief that comes of it, lies on their Heads, tho the Church Execute it
+Don Pep
+There's Sophistry for ye—he calls the non payment of Church Masses, Rebellion against it—but let him talk, he's a sure Rogue of my side; —he is to fire the Market-place. To Gervasio
+To Gervasio
+Gerv
+A gad, and I'll warrant he'll do't—he has a Face like a very Sala mander it self
+2 Ies
+Oh, bloody-minded Villains! If my Discovery to the Cardinal, put no stop to this Business— I shall ne'er Sleep agen:—Oh, Conscience, Consci ence. Aside
+Aside
+Genov
+My Sons, be then Couragious, and go on—to do a deed will gain perpetual Glory; and to excite the Cause, pray hear this Fable; The Birds and Beasts, had once a fierce Dispute, how both their Kinds should make one Govern ment; —this side set the Lyon up as Monarch o'er 'em, but th' Feather'd Kind were for Democracy; both Parties daily strong Excursions made, but neither for long time, the Conquest had—till at the last a sly old Politick Fox spoke to his Comerades thus ; —My Friends, this Iar must end by Stratagem, and not by War. I'll undertake when next the Birds appear, To catch a Hundred Thousand in a Snare— And then the rest must yield, the Case is clear.— I think, my Sons, this needs no Application, therefore go on
+—My Friends, this Iar
+must end by Stratagem, and not by War
+I'll undertake when next the Birds appear,
+To catch a Hundred Thousand in a Snare—
+And then the rest must yield, the Case is clear.—
+Don Pep
+The Father speaks like an Oracle, let's Embrace, and then go on
+Omnes
+Ay, ay, let's go on, let's go on. Embrace all
+Embrace all
+Per
+Away then, each to his several Charge—and when the cheerful Sun be gins to gild the Market-place to Morrow, in all his Pride I'll fell this Giant down
+Omnes
+And we'll to the utmost Second brave Perone. Exeunt all but D. Pep
+Exeunt all but D. Pep
+Don Pep
+Now soar my well plum'd Hopes, and— gracious Fortune once fix thy Wheel, and on the highest Spoke set me but up; if I fear falling, Scorn me: Methinks my Heart's grown larger since my Plot.—Into what a La byrinth of knotty Mischief have I involv'd these over-heated Fools, who seve rally believe they gain that Prize, which they all work for me, to their De struction; for at that very Instant that bold Perone hunts Massaniello 's Life, so to succeed him—his own, with all the rest, fly up in Fumo : The Jesuits too are Tools; for that once done, some Troops of Spanish Dons already rais'd, —Confederates all in our intended Greatness, shall crush those Moles to nothing.—But hold,—my Brother and his Wife, whose Fate are both inevi table—there's the worst twinge—but what are Brother, Sister, Kindred, or Friends, to him, that bold Ambition onward guides. Ambition that made Angels once Rebel, And from Celestial Throne, sink down to Hell. Exit
+Ambition that made Angels once Rebel,
+And from Celestial Throne, sink down to Hell
+Exit
+The End of the Third Act
+ACT IV
+SCENE I
+Pedro, Bartallo, Jacomo, Gaspar, Scipio, Ursula, and Belvidore, sitting at a Table as Feasting
+The Fisherman's SONG
+OF all the World's Enjoyments,
+That ever valu'd were,
+There's none of our Employments
+with Fishing can compare
+Some Preach, some Write,
+Some Swear, some Fight;
+All Golden Lucre courting,
+But Fishing still bears off the Bell,
+For Profit or for Sporting
+Then who a Jolly Fisherm • n,
+A Fisherman will be,
+His Throat must wet
+Just like his Net,
+To keep out Cold at Sea
+II
+The Country Squire loves Running
+A Pack of well-mouth'd Hounds;
+Another fancies Gunning
+For Wild-Ducks in his Grounds
+This Hunts, that Fowls;
+This Hawks, Dick Bowls,
+No greater Pleasure wishing,
+But Tom that tells what Sport excells,
+Gives all the Praise to Fishing
+CHO. Then who, and c
+III
+A good West • alia Gammon,
+Is counted dainty Fare;
+But what is't to a Salmon
+Iust taken from the Ware ?
+Wheat-Ears and Quails,
+Cock • , Snipes, and Rayles,
+Are priz'd while Season's lasting,
+But all must stoop to Crawfish Soop,
+Or I've no Skill in Tasting
+CHO. Then who, and c
+IV
+Keen Hunters always take too
+Their Prey with too much pains;
+Nay, often break a Neck too;
+A Penance for no Brains
+They Run, they Leap,
+Now High, now Deep,
+Whilst he that Fishing chuses,
+With ease may do't,
+Nay more, to boot
+May entertain the Muses
+CHO. Then who, and c
+V
+And tho some envious Wranglers,
+to jeer us will make bold,
+And laugh at patient Anglers,
+who stand so long i'th' Cold
+They wait on Miss,
+We wait on this,
+And think it easie Labour,
+And if you'd know,
+Fish profits too,
+Consult our Holland Neighbour
+CHO. Then who a Jolly, and c
+Ped
+COme, let's have another Song, my Jolly Lads, a • d then 'tother Brim mer, which shall be once more, Confusion to all Gentry
+Gasp
+Ay, come, away with't—but I think we have their Heads upon the Anvel pretty well now, Neighbour
+Bart
+Ay, ay, we may lay by our Hammers and our Cleavers; now Broth • r, —the Sword is the Tool of Confusion now, • nd so let's drink about
+Iacom
+Gad, I was so fine, my Wife did not know me to day; I gave her a Buss at the Mill-door, and Odzokers, the Jade took me for a Courtier, ha, ha, ha
+Gasp
+'Tis a sign a Courtier has been about your Hopper then, Brother, some body or other has been taking Toll in your Absence; wha • , the Mill must go round, Brother, the Mill must go round, ha, ha, ha
+Scip
+Ay, ay, tho the Soal be rent from the Upper-leather, as the saying is, That work must go forward—gad, would my Neighbour would drop once and give the Crow a Pudding, as the saying is, that I might take a Stitch with her, she's a rare fresh crummy Lass;—she's no Pin-buttock, not she Ifaith
+Bart
+Why well said, Neighbour,—faith I'm of thy mind—I'd give a dish of Marrow-bones,—nay, all the new Rigging of my Captain-ship here, to beat up with her for a Voluntier
+Scip
+Come, Colonel Pedro, let's have Madam Ursula 's Health round, and give you Joy of your new Title, good Madam, and then to Madam Belvidore there—Health to your good Ladyships both
+Pedro
+Why, well said, Lieutenant,—come with all my Heart
+Ursula
+And I'll yours in Rhenish-wine and Sugar; what we must drink Cost ly now, I'm a Lady, and then we'll hear another Song; this Musick with Drinking, is very pretty
+Belvid
+'Tis so, Sister; but for my part, I love a Song that raises the Spirits and makes one merry
+Pedro
+Why well said, my Lass of Mettle, this was a notable Ditty Ifaith: Prithee Iacomo do but observe my Wife in her new Rigging there; a Pox on her, she looks for all the World like thy Mare when she has a Martingal on
+Gasp
+Come, come Boys, strike up there while the Iron's hot, let's have a Song and a Dance—come. Song and Dance
+Song and Dance
+Enter Rock hastily
+Pedro
+Oh Mr ▪ Secretary, Welcom—but why so late, my man of Politicks? why thou'rt six Bumpers behind at least
+Rock
+Ay, a Pox on't, and shan't have time neither now I'm come, to drink one of 'em.—Odsheartlikins, you must leave off Junketing immediately, for the Ge neral's just coming hither to hear Causes; I brought a damn'd Fellow to him this Morning, a lowring, horn-fac'd Banditti Rogue, who pretended earnest Business, that has put him so upon the fret with some Discovery, that there's no speaking to him, he snaps and snarls at one just like a Dog in a Coach-box —Oons, he call'd me Pimp and Clod-pate just now, only for telling him what a Clock 'twas, tho he ask'd me the question. Table taken off
+Table taken off
+Bart
+Adso, away with the Bottles then
+Pedro
+Do so, and let's talk of some new Intelligence to find out the Duke of Mataloni, —that will put him into Humour—presently
+Rock
+Here he comes, and that Devil Banditti with him still; I wonder who he is—'tis a plaguy poor Rascal—and I'm sure, had not a Penny about him, because he gave me no Fee—for which I would have kept him from the General—but 'twas such a surly Dog, and those damnable Whiskers struck such an Awe into me—that Egad he made me do what he would, in spite of my Teeth
+Enter Massaniello, and Mataloni, disguis'd like a Banditti
+Massan
+Thou hast well deserv'd thy Life; and thy Discovery is of such weight, as makes me still thy Debtor
+Matal
+Have you given Order to Secure Carraffa?
+Massan
+'Tis done, and Spies are likewise on Perone, to watch his Motion • , who at this Instant, I hear, waits for Admittance
+Matal
+'Tis well; and all the Avenues that reach the Powder, are they ta ken care of?
+Massan
+All, all, with strictest Diligence.—My better Genius, how shall I pay my Gratitude—tell me thy Circumstances, that I may reward thee— for saving me, and two Thirds of the People: Whence, and what art thou?
+Matal
+One of Fortune's Bubbles, blown up and down a while about the World, and when I break, am Nothing: My Race and Birth-right, if you can believe me, perhaps are yet too good for what I seem, but that may be my Pride, so heed it not: If you'd have more know me then by my outside, which in the Figure I at present bear, expresses me—a Rogue
+Rock
+Pithy and short; it does so indeed
+Massan
+This Male contented slander on thy self,—bears yet a relish of some hidden Honesty; thou shalt be mine, and such a Trust I'll give thee, a • by its Profit shall reward this Service
+Matal
+Pray, Sir, not too much of your Trust, I may deceive ye; for what I have done, perhaps I had my Reasons, but if you burthen me with Place and Office— I shall do like most of the rest in such Cases; I shall serve my self in the first place, I tell ye that before hand
+Massan
+Oh, this Bluntness better recommends thee to me, it shews thou art no Courtier, no favourer of accursed Mataloni, nor the damn'd Gabellers, there fore observe me, some of the Traitors are by this time Seiz'd, and rash Perone attends his certain Ruin.—Withdraw a while, till I dispatch some Business, which done, we'll discourse farther; in the mean time, I tell thee, I am pleas'd with thee
+Matal
+And I, if my Design succeed, most happy. Exit Mataloni
+Exit Mataloni
+Massan
+Brother, I order'd you to burn the Plunder, but you will have your way, I see.—What my Bull's-head Captain and the Cobler, Embroider'd too—and the Women foisting here too, pshaw, pull off your Trappings, and send those things away,—we have no Smock business now
+Pedro
+Smock-business,—gad if I had said as much, the Tanner's Wife there would have broke my Head I'm sure;—what a Devil ail • him
+Bart
+Why, Whiskers that went out there, has bewitch'd him, I believe
+Pedro
+D'e hear Spouse, I see he's in a damn'd ill Humour, therefore prithee be gone
+Ursula
+Marry gap, what's he too good to speak to us Civilly
+Mass
+How now, What Noise is that?
+Rock
+The People are mad, I think, they throng the Market-place so, that they ride upon one another's Backs; the Jesuits Horse one another like wild Stallions;— Perone 's Exalted too, and to my thinking, would fain get foremost
+Mass
+Brother, and the rest of ye, keep here this Post, and on your Life, observe my Motions.—Are any yet let in, Sits down at a Table
+Sits down at a Table
+Rock
+Yes, three or four Delinquents, who were Try'd this Morning by the Court your Lordship set up for such Causes, and who now are sent to you to receive Judgment; They are a Baker and a Fisherman: But in the Rear of these,—appear two Ghosts or • tarv'd Skelitons, whom the Prince of Bissignano sends hither to plead their Ca • se themselves to you, strange fleshless Creatures, I would not have you see ' • m Faith; their Bones rattle as they walk like a Bag of Chess-men, and these accuse a Lawver,—a rich Lawyer, a Freind of mine, my Lord, of Roguery—poor Ideots, they are like to get much b • 't
+Massan
+We'll admit 'em all, but let Perone keep at distance till they're di spatch'd
+Rock
+Valasco, —d'e hear. Whispers Valasco
+Whispers Valasco
+Valasc
+It shall be done— Exit Valasco
+Exit Valasco
+Enter Baker, Fish-monger, and two Women Ragged and Disfigur'd, with shagged Hair about their Ears, and looking pale and lean, as if just Starv'd; then enter the Lawyer, who Whispers Rock
+Rock sits down and looks over Papers
+Massan
+Read the Bills of Accusation against these Delinquents severally, then let me know each Man particularly.—First, What's he?
+Rock
+So please ye, a Baker— Try'd and Convicted in your Lordship's Court of Justice— For that he not having the fear of any thing before his Eyes, and a world of such formal Stuff, my Lord, sold Bread to the Poor sixteen Ounces in six and Thirty too Light—and that too most of it Dough bak'd—to lie heavy on his Customers Stomachs, that they might not find out his Cheat
+Massan ▪
+Hum—for Bread Dough-bak'd, and too light sixteen Ounces, well, let his Oven be hea • ed presently, and in it bake that Baker; bake him, d'e hear, to a Crust—then dole him round in Parcels of sixteen Ounces weight to all the Poor that are Injur'd
+Baker
+Oh, that ever I was Born—Mercy, my Lord, Mercy
+Massan
+Away, Bake him, I say—on your Lives see it done. Proceed, who's the next? Exeunt some with the Baker
+Exeunt some with the Baker
+Rock
+A Fisherman, who brags he is Related to your Lordship, his Crime is, That being sent by a poor Labourer, who works by the Week abroad, to his Wife, lying in with Twins, with some Fish proper for her condition, she pulling out her Purse to pay him, he robb'd her of it, for want of which, she and her too Infants are since Starv'd
+Massan
+Pshaw, is that all,—why if they are Dead, the Parish is eas'd of an Incumbrance; Ods me, and now I look on him better, this honest Man is a Relation of mine indeed, for if I han't forgot—
+Fish
+Oh lack a day, Master Thomas Annello —why sure you can't forget your Cousin Bobber the Smelt-man—why I am your Si •• er's Son, and please ye; and you may remember, how Merry we were last Lammas at the H • rring catch ing—well gads bobs, Cousin, I'm huge glad of your good Fortune
+Massan
+Thank'e, thank'e—good Cousin; a Chair •• ere for my K • nsman
+Fish
+Hem, Hem— A Chair brought and he sits down
+A Chair brought and he sits down
+Massan
+W • ll, Cousin, and prithee what is this foolish Busi • ess about this Purs • —wha • I warrant thou took'st it Joakingly, didst not—thou hadst occasion • or a little Money—for some Frolick or so, I warrant
+Fish
+Ha, ha, ha, ha.—Why in Troth Cousin, I had so, you have nick'd it; Gads bobs, you know I was always given to Frolicks and to play Arch-tricks, —and I think this was pretty enough: —You shall hear how 'twas.—The Woman you must know, Cousin, was newly brought to Bed, and lay grunting for Fish, and the Fool her Husband, had no more wit than to send me to her, when she might as well have come to Market her self, if all be true as I have heard of'em—well—in came I —out came her Purse—and whip, says Iethro, I had it in a Moment, so scowr'd off—and over a Brimmer Laugh'd heartily afterwards, with my Brother Topers, a • the dissembling Carrio • —and faith; as you say, Cousin, I think there was good Service done in't, for the D • m a • d her Cubbs, would have certainly incumber'd the Parish—and to deal plainly, —I hear I have prevented that, for they're all Dead—ha, ha, ha, she'll want no more Fish in haste, nor her Brats squall no more for the Sucking-bottle, ha, ha, ha
+Mass
+So—and for this notable good Service, this same pretty Joak, Cou sin, these foolish Lawyers have Convicted the •
+Fish
+Senseless Law-Rogues, they have in troth, Cousin—but I knew I had a sure Card of you; nay, the Pimps thought to fright me with Raw-head and Bloody-bones too, and told me, that my Blood drop for drop, should be shed for theirs, and that the liquor in my Veins, who am one of the Family of the famous Annello 's of Amalfi should run through the Streets, like the Kennels in a Rainy day: — What says the brave top of our House, shall it, shall it, hah, Cousin
+Massan
+No not a drop Cousin—there's my Hand on't—let the bold Spi rits of my noble Kindred, Kill, Starve, or Drown, or Poison whom they please, must knavish Law or foolish Justice controll 'em in this Juncture too, when they hope to be Preferr'd? No, 'tis enough that they are • in to me— and why am I in Power, but to Exalt 'em?
+Fish
+Right, my dear Cousin, right—Gads bobs, I could kiss thy Foot, hem! hem! Oons, I'll be reveng'd of those Law-Rogues that Try'd me, as soon as ever I'm Preferr'd. Aside. Well, well, and dear Cousin, you were talking of Exalting—when, when must I be Exalted—hum—I am nearest Rela ted of any—I am your Sister's Son, you know
+Aside
+Massan
+Why Cousin, within this Hour
+Fish
+Shall I faith, Gads bobs—I will kiss thy Foot now Falls down and kisses his Sh • oe. But where, where, dear top of the renowned Annelli of Amalfi —where?
+Falls down and kisses his Sh • oe
+Mass
+Why, upon a Sign-post
+Fish
+A Sign-post—ha, ha, ha,—well, well, Cousin,—I know you're a rare Joaker; a Sign-post, very pretty faith, ha, ha, ha. They Seize him
+They Seize him
+Massan
+Go some of ye, and Exalt my Cousin, tha • is, Hang him instantly upon a Sign-post
+Fish
+Ah Cousin, dear Cousin, you carry the Jest too far now, you do I'saith
+Massan
+Hang him in Chains—but l • t no Blood be spilt upon your Lives, he is my K •• man, and I've given my Word; and so adieu good Cousin—d'e hear, besure you do it decently, and let him be with Ceremony Exalted.— Come, the next, the next
+Fish
+Exalted, O Lord! why are ye in Earnest then? Why Cousin Thomas, sure you Joak—dear Cousin Thomas —sure you Joak. They drag him out
+They drag him out
+Massan
+Away, I say.—
+Lawyer
+Hum, this is somewhat odd, my Friend
+Valasc
+Oh—a poor Rogue—I knew he'd be Hang'd, for all the Gene ral's Joaking
+Lawyer
+Well, my good Friend—take care d'e hear, and there's your Fee— I have given the Secretary a hundred Ducats already
+Valasc
+Why look'e, Sir,—you have given me two Ducats here, if you don't come off d'e see, as cleverly as a husk from a roasted Chesnut, why then my two Ears are at your Service: —I heard the Secretary say as much just now—and he, he can do any thing; you shall see him wind the General about his Hand like a skein of Silk. The two Women give Massaniello a Paper
+The two Women give Massaniello a Paper
+Massan
+What monstrous things are here, that freez my Blood with Horror of the Crimes, and make me mad with Wonder! —bless me, what Figures too, I'll read agen—the Prince of Bissignano 's Letter. Your Excellency is to know, your Suiters are a Widow and her Daughter; the Widow's Husband, some seventeen Years since, Dying, left his Brother a Lawyer, his Exe cutor, to pay her sixteen hundred Ducats for her Dowry, and as much for her Daughter's Portion, instead of which, to defraud both, he hath Villanously and Un naturally Immur'd 'em between four Walls in a Cave, giving out ▪ They were Dead, and ever since fed 'em there with Bread, roots and Water; their Miseries will appear visible before ye, and your Iustice on the Offender be Nobly Remark able,— Bissignano. Incomparable Villany, I'm amaz'd at it; come forward Wretches, and Ex press your selves—Which is the Widow of you, and which the Daughter?
+Your Excellency is to know, your Suiters are a Widow and her Daughter; the Widow's Husband, some seventeen Years since, Dying, left his Brother a Lawyer, his Exe cutor, to pay her sixteen hundred Ducats for her Dowry, and as much for her Daughter's Portion, instead of which, to defraud both, he hath Villanously and Un naturally Immur'd 'em between four Walls in a Cave, giving out ▪ They were Dead, and ever since fed 'em there with Bread, roots and Water; their Miseries will appear visible before ye, and your Iustice on the Offender be Nobly Remark able,—
+Bissignano
+Bissignano
+Pedro
+If thou wilt Marry now Captain, here's a rare Bargain for thee— here's one won't be proud of her Bills and Bonds—this Widow will go off cheap enough—and the Maiden Daughter too—I believe, would hardly stand priming and mincing upon such an occasion, she has a Skin there would make a rare pair of Fox-hunting Boots
+Bart
+Are they Birds or Beasts, I wonder—and of what World are they? For ours, in all appearance, they're utter Strangers to—I warrant that Scoundrel the Lawyer, is in a smoaky Sweat now—Ods bobs, this Cause of his looks but scurvily
+Widow
+If Misery extream can deserve Pity—or injur'd Innocence can hope Redress, give ear to my sad Story, and do Justice, for all that Paper menti ons, is most true, full Seventeen Years forced by that barbarous Brother, we have told the Hours in that loathsom Prison, fed with the dross of Earth, un wholsom Roots, Bread candied o'er with Mould and stinking Water, all that could make Calamity grow dreadful, and yet not Kill us, we have suffer'd daily; The damp cold Earth our Beds, hard Stones our Pillows, and nightly visited with roapy Snails, that crawl'd upon our Faces, big swolen Spiders, the scream of Weezels, Rats, and Croaking Toads in Consort joined, was still our hateful horrid Musick, whilst dismal Darkness added to the Horror
+Lawyer
+My Lord, I beseech your good Lordship, let her prate no longer she was Mad my Lord—she was Mad—And 'tis true, I kept her a little Hardly— but 'twas only to bring her to her Wits agen—Hark'e, Friend, I would the cretary would put in a word now. To Gervatio. Aside
+To Gervatio
+Aside
+Gerv
+O no matter, no matter, he'll bring ye cleverly off at last, whether he does or no, Man ▪
+Massan
+Go on there—What say you?
+Daughter
+The Summer's choaking heat, and Winter's cold, both which with their alternate Misery torturing our Bodies, have quite changed our Natures, our Skins like barks of Trees, our Hair like Furies, with Eagles Talons on instead of Nails, and Savage all, but in doleful Sound, breathing from our numb'd, starv'd and tormented Bodies—our Voices, that cry out a loud for Justice, for Justice, that our wretched Trunks may feel one Hour's Pleasure, tho we die the next
+Massan
+You shall have Justice, sound substantial Justice, as the Fact merits. or your Revenge could ask; Go take that Lawyer there, that rank rich ras cal, that common Murderer of Common-Pleas, that Capias, that foul blotted Writ of Error —take him, d'e hear, and strip him first Naked, then Immure him between those very Walls where these have lain, let his Food be Wax and Parchment, and his Drink, the Liquor that has Damn'd his Soul, his Ink; And whilst the Widow his Estate enjoys, Let him Rave, Groan, and Languish till he dies
+And whilst the Widow his Estate enjoys,
+Let him Rave, Groan, and Languish till he dies
+Law
+Mercy on me, why Friend, Friend, the Secretary don't speak a word for me
+Valasc
+Hum—why faith your Business does not come off so cleverly as I thought it would, and I can't part with my Ears very well neither; but d'e hear, Sir, let 'em Starve ye if they dare, let 'em take your Estate, I warrant he'll maul 'em when you're Dead cleverly, never fear, Man
+Law
+When I'm Dead, Oh miserable Comfort! have I Cheated so many to be a prey to Cheats my self at last; Oh, Lawyer, Lawyer, what will become of thy Soul?
+Enter Bissignano, Perone, Banditti
+Ped
+Brother, the Prince attends to speak with ye. Exit with Law. and Women
+Exit with Law. and Women
+Massan
+Is Execution done then? To Bissignano
+To Bissignano
+Bissig
+I saw it all perform'd,—and with Alacrity; Carraffa and his Faction all are Dead, the Jesuits also, only Genovino, who, as it seems, intending to discover 'em, has sav'd himself, but all the rest have Suffer'd; the eager Peo ple gave a loose to Cruelty, their Heads and Hands cut off, and stuck upon Posts, adorn the Market-place, and all their Bodies mangled and torn to pie ces by the Rabble
+Massan
+'Tis well; —your Ear, my Lord Whispers 'Tis most certain so, therefore stand still and mark th' Event
+Whispers
+Bissig
+I am Amaz'd.—
+Massan
+Fellows in Arms, especially Perone, the chief of my bold Under takers: Hear me; some Plots are late found out against my Life, the Au thors of it Seiz'd and Executed, and since for the People's good, I think my Safe ty—may be material, let all stand at distance but those I appoint, till I Explain my self; What says the brave Banditti 's Captain there? Is it not reasonable?
+Per
+Your singling me out, Sir, to ask that Question, is somewhat odd me thinks— but let us stand as you please—I think I all along have kept my Di stance as well as any, I grutch • e no Respect that I know of
+Massan
+Surly, but yet my Friend, you know, he's Honest, honest as his damn'd Brethren in a Robbery—you'll find it so, let Honesty be try'd; Seize him and Search him instantly, and those Banditti 's there, the Villains come to Murder me. They seize Perone
+They seize Perone
+Per
+Ah, surpriz'd just in the Minute; Oh damn'd ill Fortune!
+1 Band
+Fate, guide my Hand, have at thee. Shoots a Pistol, but misses him
+Shoots a Pistol, but misses him
+2 Band
+And mine —
+Massan
+Hah—have they miss'd me; then thanks to Providence, and thou, dear Figure of my blessed Angel, that still defends my Life against all Danger, go drag 'em to their Deaths; tear 'em to pieces, and let their Heads be fixed among the rest
+Per
+I was a Fool, or thine had grin'd there first. Death I deserve for that, and so Confusion seize ye Perone and Banditti are carry'd off
+Perone and Banditti are carry'd off
+Ped
+The Rascals hid their Arms under Cloaks, and by that trick dec • iv'd us
+Massan
+'Tis well remembred; be it Order'd instantly, on pain of Death, no Man to wear a Cloak or upper Garment, of what degree • oever, they shall have no more coverings for their Knavery; From High, to L • w, Let all Men walk in Querpo. Go see my Commands obey'd, and strictly, as their Lives will answer it
+Rock
+Ay gad, and with all my Heart—for I know a plaguy r • ch Cardinal that wears a huge long red Coat, and if he does not B • ibe me well, • 'll strip him • o his Shirt in the first place; 'sdheart, this new Order will bring in a Tun of Money, —and I'll about it instantly— Gervatio —come Exeunt Rock and Gervatio
+Exeunt Rock and Gervatio
+Bissig
+This happy chance, which I Congratulate, shews the Divine Powers hold ye in regard; Respect them, Sir, and cease your rigid Violence, Burning and Plunder; the Vice-Roy greets ye fair too, and now agrees to grant, for th' Peoples good, Great Charles th' Emperor's Charter; my self last night was at a Consultation with him, and the good Cardinal Fillomarino —who has be sides the Grant, a Present for ye
+Massan
+I'll Visit him this Moment; he has a Character 'tis said, beyond the Title even of Go • dness—Honest and Conscientious, yet a Cardinal; 'tis won drous, and I scarce believe it true
+Bissig
+Truth, may good Angels guide ye to pursue. Exeunt
+Exeunt
+SCENE II
+Cardinal Solus, Reading
+Card
+Immortal Seneca, whose sacred Morals inflame the Sense, and ease the trou bled Minds of those that can discern and taste thy Learning, how valued were't thou in these sad Times, to Naples, if every one were skill'd in those rich Jewels, which in their value, are Ines •• m • ble; but as the Peoples Plague is Ignorance, so the d • re want of thy Philosophy, makes still more sharp to them, the darts of Fortune—What Noise is that within? Good Heav'n defend me! — • he State's Distress, makes every little blast appear a Whirl-wind—It comes nearer still, this must be of some Moment
+Enter Rock and Valasco
+Rock
+Bring up the Guards to th' door, ye sawcy Slaves, how dare ye con tradict the General's Order? —Is it your Pleasure, my Lord Scarlet-Cap, to affront the Supream power—hoh ▪ —
+Card
+What mean ye, Sir?
+Rock
+What mean I, Sir, you shall know presently, Sir,— Valasco —strip him—if you can read without your Spectacles, there's my Warrant for it. gives a Paper
+gives a Paper
+Card
+Well, Sir, I see your Power and my Patience, as in other things, must also appear in this Valasco takes off his upper Robes But pray how far does your Commission tend? Not to my Skin,—I hope
+Valasco takes off his upper Robes
+Rock
+No, no, my Lord—to your Shirt only—I'll proceed no further, I will not shew the Church • s Nakedness—tho some of you give her but Tinsel Cloathing.—To your Shirt, to your Shirt—no further
+Card
+My Shirt—alas, Sir, Age has so craz'd my Body — and long Infirmity so weaken' • me, should you proceed so in this cold bleak Season, 'twould Kill me; —have you quite forgot Humanity?
+Rock
+Oh, my Lord, I know you can Talk—I know you have a large ca pacious Wit, my Lord, and a large Purse too; my Lord, if you would save your shrivel'd Carkass, then let that speak for ye, that's the Philosophy con fu • es me always, the rest is paltry, paltry
+Card
+My Purse is the Rhetorick must save me! no, to bribe Barbarity, is to indulge the sin—I will not give a Penny
+Rock
+Come, come, Uncase, uncase then, the fine Weather will make you chatter your Repentance shortly, I make no doubt on't. Enter Massaniello
+Enter Massaniello
+Valasco goes to strip him further
+Massan
+Hah, hands off there—What are ye doing, Villains?
+Rock
+Oons, the G • n • ral—we were only zealous in executing your Order, and please ye — and because the old Bishop was obstinate, we thought to fright him a little, that was all
+Massan
+Avant, • e Scoundrels, whose Souls have more of Dirt than th' basest Dung hills; my Orders were to wear no upper Garments, but you will stretch, you will; put on his Robe agen, Rogues, and then be gone. they dress him agen
+they dress him agen
+Rock
+He is particular; be gone—ah, y'are a rare Fellow to call a Great Officer Scoundrel, but come— Valasco, a pox on him, we must go. Exeunt
+Exeunt
+Mass ▪
+He bears an awful Aspect—Gravity with Wisdom join'd, appear in every Feature, and seem to force a Reverence—well, what then, Looks do dec • ive us often
+Card
+Is this the Prodigy, the Instrument of Heaven, and Scourge of Naples ? He has a daring Front, quick Eye, and a Vivacuy uncommon in such Me •• ness, Fatal, and through th' who • e Physiognomy is something strangely Terrible
+Mass
+Th' Outside's Aw • u • ,—th' Inside now I'll try,
+And want of Learning—Reason shall supply
+Well, Reverend Sir, you have survey'd my Figure now sufficiently, would you know ought besides
+Card
+If the strange Frenzy the Age is swav'd with, would permit your Temper to Re • son calmly— I confess I wou • d, Sir
+Mass
+Proceed then, I'am Calm, let us sit down. They sit. And to the purpose now,—what would you know?
+They sit
+Card
+What you think of your self?
+Mass
+Why of my self I think—but yet may Err—as you do of Religion— Good I intend I'm sure—tho in my Practice perhaps are Mistakes
+Card
+But we have no Perhaps, Religion is a firm and solid Basis, a sure Foundation, and the Matter good too we put in Practice
+Mass
+So you Preach indeed, but should we come to seek a Heavenly dwel ling amongst your Schisms and Artful Heresies, your Pro and Con, your intri cate Church Sophistry, instead of Pious plain Soul-saving Doctrine, which with sound Truths should give us safe Retreat, not Babel in all its height of monstrous Jarring, e'er shew'd such strange Confusions
+Card
+The Church cannot Err; —
+Some of her Mortal Sons through frailty may
+Mass
+And those cause all their Flock to go Astray. Your Learning only serves to guild your Fallacies; your Words and Deeds are never of a Piece; You prate of Heav'n, tho 'tis Earth you love, Your Hearts are here, tho Eyes are fix'd Above. Seven deadly sins blot out the Cardinal Vertues; rank Avarice, abhorr'd Hi pocrisie, sharp Tongu'd Detraction, and inveterate Envy, hot Leachery, and Charity quite frozen; with your dear darling sin, King-killing, Murder, nest in the Bosom of your Politick Conclave
+You prate of Heav'n, tho 'tis Earth you love,
+Your Hearts are here, tho Eyes are fix'd Above
+Card
+I am Amaz'd, a Fisherman to talk thus, 'tis most Miraculous. Aside
+Aside
+Mass
+Crimes of all Natures,
+That ever did or shall Infest the Globe,
+Lie close and brood under your Scarlet Robe
+Card
+Nay, now your Passion is predominant, you break your Promise
+Mass
+Only a little Zealous for my Cause—I give you the same liberty, speak boldly
+Card
+So I shall, and Honestly, and therefore must take leave to ask a Question
+Mass
+Do, I will Answer
+Card
+Are not you a Rebel?
+Mass
+I know not by my Soul—'tis a State Title which yet I want a Definition of, but I will ask the People—their Logick shall discuss it, and then I'll tell ye: —In the mean time, to answer with a Question, resolve me Car dinal, are not you a Hypocrite?
+Card
+My Conscience prompts me to reply to that without delay, or more demurring,—No
+Mass
+Well should I grant you once it may be so,
+I'm sure your Tribe can't such another show
+Card
+A Hypocrite,—Oh let these bubling drops that outwards force their way from their old Fountains, through very shame, that my unhappy Age should be affronted with so vile a Question, declare my detestation of that Crime—you do not know me, Sir
+Mass
+Perhaps nor my self neither. Now I have Answer'd ye; those Tears have shock'd me, I relent o'th' sudden. Aside
+Aside
+Card
+Then I will teach ye, Sir, to know your self, for should I fail to speak for fear of Death, or stand in awe of your unweildy Power; or as you have disgrac'd my Sacred Function, by stripping off my Robe, tho my Life were next, yet should I Sue or Flatter ye, to save it—poorly beg Pity, then I were a Hypocrite, then you might think me a corrupt Time-server, then you might brand me; no, no, rash young Man, a Good Man never fears to die, his Sands are still before his Eyes, he sees 'em run,—and all his pious Deeds proportion'd to 'em—this makes me dauntless; this controuls your power,—and spite of Tortures, strengthens me to tell ye you're a Rebel
+Mass
+Very good—go on
+Card
+A most notorious Rebel; a vile Name that bears the greatest and most odious I • famy, breaker of Laws, contemner of Religion, Author of Murders and unnatural Riot, Fire, Plunder, and most horrid Devastation. Are not you this?
+Mass
+In part, yet not a Rebel—I love the King, and for him and my Country, have undertook this dangerous Enterprize; the People were op prest with loading Gabells, and in th' Oppression, the King's Honour tainted, which I resolve to abolish, tho I die for't—and so I do this, so by my Labour I give ease to Naples, so the grieved People are by me Enfranchised, may I be torn in pieces by the Rabble, my Head be mounted on a Pole, my Body dragg'd through the goary Streets, whilst each vein spouts Blood out like a Con duit, I am happy, proud of my Fortune, shall contentedly die, and gladly yield my Soul without a Sigh
+Card
+Miraculous still—the more I hear him speak, the more I wonder
+Mass
+If my design to quell some of the Court—whose Avarice cramp'd us all, be call'd Rebellion—or justly punishing of those, be Murder.—To palliate that, I've only this to say, it is the Times Distress that causes it; uncom mon Crimes have forc'd down Heaven's Vengeance,—and suppose me, tho unworthy, chose the means to work its Ends by
+Card
+You must not suppose it,—'tis Impious and the height of Arrogance; 'tis making Judgment of Eternal Wisdom, and Heaven the Author of the Ills you do—you rather ought to think, nay and believe Vengeance will fall on you if you repent not
+Mass
+My Heart melts strangely, my hard stubborn Heart; Oh, what a power has Piety—
+Card
+What sacred Vision or Inspiring Prophet gave you commission to be Tyrant here?—suppose the People Wrong'd, are you Omnipotence to scourage the Wrongers, and anticipate Heaven's Justice, through proud Will and rash Presumption—come, come, Repent, cast down your Usurp'd Power—and reverence Heaven, that thus far suffer'd ye,—and turn'd to Benefits foul Disobedience, but cease from future Ill
+Mass
+This is a good Man, Deceit can never have such fair Appearance; his words have turn'd my Eyes into my Soul, and his sound Reason changed my very Nature: —Thou Reverend best Instructer of my Soul, thou hast convinced me, and I now am Penitent: and if my Actions since for th' general Good, may be forgiven by Heav'n and the Vice-Roy, this to perform, by all that's Sacred, Carmine 's bless'd Virgin, and your holy self—soon as the Ar ticles of Charles the Emperor are Ratify'd to th' People—to renounce all my Command and Power, and return to my poor Occupation, Fishery; There with my peaceful Nett my days pass o'er, And never dream of proud Ambition more.—
+There with my peaceful Nett my days pass o'er,
+And never dream of proud Ambition more.—
+Card
+Now thy good Genius prompts,—'twas spoke Divinely; perform this Vow, and yet be bless'd for ever; —and from the Vice-Roy, I have here Commission to say, those Articles shall all be Ratify'd, and Gabells quite Abolished—besides a Present from him to your self
+Mass
+Oh, let me kiss the Feet of my Director,—and beg his Pardon for th' Irreverend Sin late acted, in the rudeness to Disrobe him—I am a Dog, a sordid gross Plebeian, untutor'd in Humanity, a vile clod of Earth, and you should Spurn Falls at's Feet. me hence, left I defile ye— but Par don, I beseech ye, lest Distraction make me commit an Outrage on my self
+Falls at's Feet
+Card
+'Tis all forgiven, and forgot; thus from my Heart I give ye Absolu tion: And now pray rise, and hear what I'm in Charge of from the Vice-Roy, who as a forerunner to his future Favour, presents ye with a Suit of rich Ap parel—and will himself meet ye at your appointment, there to confirm the Articles
+Mass
+I'll meet him with all Joy, but for his rich Present, alas, my gracio • s Father, I'm unworthy—for a poor Fisherman these I have on, are rich e nough in Conscience
+Card
+Your Person indeed, that goes each day Cloath'd with Renown, Ap parel can ne'er Imbellish more; but yet 'tis proper now, not as a Fisherman, but Captain-General of the Neapolitans ; th' Honour of which, obliges ye to wear a Garb befitting; besides your condescension to the Vice-Roy
+Mass
+I am convinc'd, and now will act a Courtier, since you will have it so
+Card
+Hark, the Cathedral Bell Rings, I must attend, will you be there?
+Mass
+I'll wait upon your Eminence, and after meet the People, who desire some Musical Diversion, for joy of my late 'scape: I 'll first be Fine, and then receive their Kindness.—Thus till the Charter is confirm'd, I 'll Revel in fluttering Gayety and frollick Mirth: Which done, the gawdy Trash away I 'll spurn, And to the Canvas I now wear, return
+Which done, the gawdy Trash away I 'll spurn,
+And to the Canvas I now wear, return
+The End of the fourth Act
+ACT V
+SCENE I
+Mataloni Solus
+Mat
+OH, mighty Love—how is thy wondrous Power shewn in the dangerous round of my hard Fortunes, and what a narrow Isthmus stands between my future Comfort, and my present Ruin, led on by thee, tho almost in Despair—to free my Soul's best Joy, my Belleraiza; I 've 'twix • the Paws of a fierce Monster ven • ur'd, whose rancorous Heart thirsts for my Life; whose Hatred, would make a Feast of Cruelty upon me, and gorge my Blood with Woolvish Appeti • e—yet for my Love, my Wife, I venture all—and only now want glorious Opportunity to bring it to Perfection— my late Discovery has fix'd me in the Heart of this bold Fellow — this bold, nay, I may say, this wondrous Creature; for is it not a Prodigy in Na ture, that a base Boy, poor, ragged, and bar • -footed—nay, even the lowest of the wretched Vulgar, should in an Instant, as by Inspiration, be qualified to hold Dispute with Cardinals, negotiate State Affairs of grand Importance; draw out a powerful Army to Rebel, Command 'em, and with a Nod, a Beck, an un controll'd Motion, subject all Naples; Naples, the Queen of Cities, Mother of Hero's—Metropolis and Rendezvouz of Princes, and in her full six hundred Thousand Souls, as Absolute a • any natural Monarch—tis above Wonder— Let me wait Heaven's Pleasure then, for now it i • not in my power to crush him, but with the Ruin of my self, and Love; here is his Ring, which gives me powerful Trust, and Privilege to pass the Guards at any time—This may be of great use to my Design; besides, he treats me now as his best Friend —and Spy upon his Enemies—I'll feed him with such hopes—hark, they are coming from Mass—in Pomp, I hear, and a Solemnity is made to entertain him —well, let him mount, Ambitious Fool, dash'd by the turn of Times, The harder falls, the higher that he climbs
+Ambitious Fool, dash'd by the turn of Times,
+The harder falls, the higher that he climbs
+Enter Trumpets, Kettle-Drums, and Hautboys, a Martial Symphony, Cardinal, and Mas • aniello in a Fishing Habit; then Don Tiberio leading Blowzabella stuck with Iewels; then Pedro leading Ursula, then Bartallo, Rock, Valasco, Jacomo, Gaspar, Scipio; they stop, and Massaniello speaks
+Mass
+Let twenty Troops be drawn up round my House; then let two Thousand Halberts line the Gate-way, and on their Lives, no Noise—nor none press further. If it were proper your Eminence could taste a little of our En tertainment, I should be happy, but since Religious Temperance obliges other wise, I cease my Suit—Is there ought else, my Lord, you would Command?
+Card
+Only your Licence for an Hour, to Visit Sir, the Dutchess Mataloni
+Massaniello starts
+Mass
+My Lord, you shall have Licence. How her very Name, spite of my Resolves, does kindle my late Flame. Come hither— Rock —what said the Dutchess to my Suit? Aside to him
+Aside to him
+Rock
+Why, Sir, at first, she was at her Hums and Haws a little, but I ma nag'd her so, that her Stomach began to come down apace
+Mass
+Oh, she is sweeter than Arabian Odours
+Rock
+Ay, Sir, and whiter than the new fallen Snow
+Mass
+She is so, but prithee praise her not, it Tortures me
+Rock
+Not Praise her, why, Sir, is there any harm in't, or if you should En joy—her, is that such a Miracle?
+Mass
+Enjoy her, 'sDeath, that word has shot me through—no more, I charge ye—my late made Vow of Honesty and Vertue, and the awful Look there of that Holy Man—they shall, they must restrain me, but then Beauty and such a sweet Revenge on Mataloni —Oh, how my Veins swell!
+Rock
+Pshaw, pshaw, Sir, I hope you a'nt scrupulous—why, I'll make her as supple as a Glove for ye, there shall be no need of Courting
+Mass
+Well, I'll think further on't, in the mean time, you must go wait on my Lord Cardinal to her
+Rock
+The Cardinal—what a Devil, must I Pimp for him too—pray my Lord, consider my Place, good my Lord
+Mass
+Oh, his is only a Visit, and no more
+Rock
+A Visit—gad I don't like him—he's Gray, but not very Good, I believe
+Mass
+My new Banditto Friend there, shall go with ye too— Grasso, come hither, thou seest the Love I bear thee, and the Trust I have imposed; take then a Secret from me; go with the Cardinal, to Visit the young Dutchess; the Ring I gave thee, gets admittance to her—then plant thy self cunningly • o hear their Talk—and afterwards let me be a partaker—hah, wilt thou be diligent?
+Mat
+Nay, if ye doubt me, y' had best employ another
+Mass
+Enough—I do not, my good Lord Cardinal, these will direct ye to the Dutchess's Lodging
+Card
+Sir, you Oblige me— Exeunt Cardinal, Mataloni and Rock
+Exeunt Cardinal, Mataloni and Rock
+Musick sounds, and a Banquet set out here
+Blowz
+Well, my Lord, I am mightily pleas'd—you like my Dres • so well, and I think, tho I ha'n't been bred at Court, and perhaps may want a little of their Air, as they call it—yet these Jewels don't disfigure me. Odsfish, this upon my Breast here, cost a thousand Ducats, and this upon my Rump here, as much more. Turns round and shews her Iewels
+Turns round and shews her Iewels
+Don Tib
+Oh, Madam, and adorning so graceful a Person too, they receive an extraordinary Advantage—I wonder those she Plunder'd of 'em, should tell her the Price. Aside
+Aside
+Blowz
+Humh—Adorning my Person—Well, my Lord, you have the pret tiest words pop out now and then to oblige me—Od • fish, you have, that I could hear ye all day methinks: But come, let's hear the Musick, and Eat and Drink, and be Merry
+Pedro
+What, my Brother is not in the Dumps still, I hope
+Ursul
+No, no, but State Affairs lie a little heavy you must think—Why truly I find my self a little Graver since I was a Lady, than I was before
+Blowz
+Come, my Lord General—Odsfish, what are ye posing on the Mu sick, and Banquet stays for us — you act a Courtier rarely indeed; why, you are as dull as if you were a Gudgeon-catching; come away, and seat your self for shame—what, we must do great things now
+They Seat themselves, and then follows a comical Entertainment of Singing and Dan cing; which ended, Enter Genovino and Soldiers, with the Heads of Carraffa and Perone on Poles, another bearing Mataloni 's Habit
+A Dialogue between two Fish-Wives
+1 st. Fish
+HOw comes it now good Mrs. Sprat,
+You are so Impudent of late?
+• ' endeavour to forestall my Wares,
+And thrust your Nose in my Affairs,
+What is't you would be at?
+2 d. Fish
+What means the Blowz? my actions shew,
+I scorn both your Affairs and you;
+I hope my Trade is not so small,
+To help it, I should yours forestall,
+Sure 'tis not come to that?
+1 st. Fish
+Come, come, I know you carry't high,
+But yesterday the Neighbours swore
+That you did all the Herrings buy,
+That I had bargain'd for before
+2 d. F
+They lye, I am the very'st Iade
+That e'er at door a By-blow laid,
+If I did any Herrings buy,
+I'd have ye know,
+Ye filthy Sow,
+I've other Fish to fry
+1 st. F
+Come, come, you did, you did, ye Quean,
+And in the Ale-house cross the Green,
+To Breakfast drill'd my Husband by
+Both Sing together
+2 d
+I'd have ye know
+1 st
+Ye did, ye Quean
+2 d
+Ye filthy Sow
+1 st
+Ye did, ye Quean
+2 d
+And drill'd my Husband by
+1 st
+I've other Fish to fry
+2 d. F
+Ye dirty Mawks—would I but go
+To graft my spouse a Horn or so,
+I've Customers of Lords or Knights,
+Would be my Friends both days and nights,
+And take it for a favour too
+1 st. Fish
+Thou long hast brag'd of this I own,
+When only Scowndrels of the Town,
+Were still employ'd to till your Ground
+2 d. F
+Of which your Husband's one
+1 st. F
+He was, but he soon found his dangerous case,
+He knows thou art not Sound
+2 d. F
+Not sound—you Trollop—by this light,
+To vex thee, now I'll tell the truth in spite;
+He does love me, thy Husband's mine,
+Our Hands, our Lips, our—we join;
+And when we sit and Sing, and Play,
+Has wish'd thee Hang'd a hundred times a day
+1 st. F
+I'll slit that Nose
+2 d F
+He says, that Mouth
+Is like the Pole, 'twill reach from North to South
+And if your there so wide
+You know full well,
+The Tales men tell,
+What they suspect beside
+1 st. Fish
+Ye Carrion
+2 d. Fish
+Ye Mawkin
+1 st. Fish
+Ye Slattern
+2 d. Fish
+Ye Puss
+Both together
+I'll teach you to slander me thus, thus and thus
+I'll teach you to Cuckold me thus, thus and thus
+Genov
+THis 'tis to bear a Brain—so well I've Plotted, I am unsuspected of the late Conspiracy—and now have formed another Protean Plot, to seat my self securely
+Mass
+What mean those Objects?
+Genov
+The Heads of your two Mortal Enemies— Carraffa and Perone, the People bring to add to your Diversion; and Mataloni had not Hell aided him, had never escap'd; I was so near him, that I reach'd his Skin he • e, but the Snake crawl'd away
+Mass
+Damn the Jilt Fortune,—had I hook'd him too, my Heart had been at Ease; Oh, with what pleasure could I employ this sword to rip him open, these Teeth to bite his Heart, these busie Fingers, to tear the Beard from off his hated Face, as now from this Curs'd Traitor, damn'd Carraffa
+Pulls off the Beard from Carraffa 's Head
+Genov
+I hunted hard, tho I miss'd my Game; and tho some of my Brethren were found Tardy—of which some twenty six being since Impeach'd—I have seen Executed—yet I hope the General heard of my Diligence
+Mass
+I did, my Politick Father, thou art Honest
+Genov
+Thou art a Coxcomb, and I'm satisfy'd. Aside
+Aside
+Mass
+But this Mataloni still goads my Heart—hah, have I no way to Re venge my self?—Yet now I have it—his Wife, his Wife must do't, I'm now resolv'd on't—I'll send this Priest to fright her further, and then Attack my self —A Bottle or two more, will make me fit—the Prince there must know nothing—I'll leave him therefore here—Go once more, mount the Trai tors Heads. And, Brother—and you my Officers, I invite ye to my Closet for an hour, to drink a private Brimmer—come along Boys, we'll have one Glass before we part, Success to our next meeting in the Cathedral
+Omnes
+Bless the General, Bless the D. Exeunt all but Don. Tib. Blowzab. and c
+Exeunt all but Don. Tib. Blowzab. and c
+Don Tib
+'dsheart, they are all gone, and have left me to be Baited. Aside
+Aside
+Ursul
+Gadslid, did ye ever see such Sneaks as the General and my Major ar • , • if they ha'n't flinch'd from the Glass, to go and parboil their Guts with Coffee now—there's no Spirit in Spanish, poise on't, I hate such Trifling— if we come to be Merry, let's go through stitch; where do's the Prince's Health stand? Blowzabella sits and throws Pellets at the Prince
+Blowzabella sits and throws Pellets at the Prince
+Belv
+Here 'tis, and o'e • the Left-hand Thumb it comes to himself; here's your Health, my Lord—would I had him in one of our Tan-pits at home. Aside
+Aside
+Blowz
+Ah, he's a precious one— Pelts him
+Pelts him
+Don Tib
+I must get out some way or other, this rampant Fish-Wife will pelt my Eyes out else
+Blowz
+My Lord, I think I heard you say, you were never Married, and truly you deserve to be Priz'd for't extreamly—Odsfish, a Batchelor has such a peremptory sort of way with him to Married Men; Oh, faugh, a Mar ried Man's quite another thing, I know't by my Husband
+Don Tib
+So, if Cuckolding this Fish General now were a Revenge sufficient for the Nobility—I think I'm in a fair way to Oblige 'em
+Belv
+Madam Ursula, what thinks your Ladiship of another Song?
+Ursul
+Why truly Madam, very well, if your Ladiship will oblige us
+Belv
+Nay, Madam, the best Voice must be preferr'd always
+Blowz
+Nay, nay,—rather than let both your Ladyships bustle about it, I'll do it my self—my Lord the Prince, prithee come and sit nearer me— and don't lie glaring at me with your Twinklers, but come and hear my Song, 'tis a merry one I'll promise ye; now how d'e like it. Sings here
+Sings here
+Don Tib
+Oh, 'tis most Ravishingly well, Madam—thus am I oblig'd to Lye two or three times a day at least to keep my self in Favour. 'dsDeath, there's no getting off: Oh, I think I have it— Pulls a out Paper Odso, I had forgot a business of Importance, which the General should have seen before; I beg your Prrdon, Ladies, I must be abrupt and go seek him
+Pulls a out Paper
+Blowz
+Pshaw, not yet, my Lord, not yet, 'tis time enough to seek him come, come, pray let our Business be done here first
+Don Tib
+Oh, Madam, 'tis from the Vice-Roy, and of prodigious Conse quence: Curse on my Fortune, that envy's me this pleasurable Minute, bu • I'll dispatch and return, Ladies, with all haste imaginable
+Blowz
+Well, you know my Closet, my Lord—and since you must go, pra • dispatch quickly—and you shall find us there; we'll go and settle our Sto machs with a dram or two of my Water; for you must know, my Lord, I mak • such Water, such heavenly Water, it will make a young Fel • ow •• isk up to th • Moon, and an old Fellow's Heart dance the Canaries
+Don Tib
+I am instructed, Madam, your Humble Servant: 'Tis well I fou • this Excuse— I should have been Drunk too, if I had staid, I find. Ex. D. Ti •
+Ex. D. Ti •
+Blowz
+Well, Odsfish, he's the Prince of a Man every way—and we'll hav • his Health agen before we part, I'faith; Come, let's enjoy our selves, we'll think no more of the sneaking and pinching of our former days, but hug Fortune, and take Pleasure in by Belly-fulls; come along, Lasses: What, we must do great things now. Exeunt
+Exeunt
+SCENE II
+Enter Mataloni and Rock
+Rock
+She's in her private Alcove there—and the Cardinal's gone to her, I suppose to help her in her secret Devotion, these Churchmen are rare Terri ers, they can hunt in a dark Corner rarely. Od, she's a lushious Cr • ature, Friend, hast ever seen her? When he's gone, I'll try if I can Ferret her my self
+Mat
+Curst Imp of Beelzebub, what does he say? But d'e hear, Friend, I'm order'd here unseen, to observe their Actions, let us withdraw then—the Ge neral at yonder door would have you to wait his coming—and then give me Notice
+Rock
+Well, Sir, I hear ye; I do most damnably hate this Fellow, and yet I dare not quarrel with him—and yet the Rascal interlopes upon my Business— and I find, creeps into the General's Favour every day more and more—and must Ruin me in time; say you so, why then be wise, Friend, and Ruin him first —send him packing, and if thou hast not two penny worth of Courage, Oons, buy two penny worth of Rats-bain, and that will do't every whit as well. Ex. R
+Ex. R
+Mat
+I've sent that Fellow on a trivial Errand: because he should not hear the approaching Passages, and see where my dear Belleraiza comes; Oh, how my Heart pants with uncommon Joy which my hopes give me of my good Success—she Weeps, hah, and looks pale—and talks with Passion; perhaps these Devils may have wrong'd her Vertue—Oh, Hell, if that be so, I'm lost for ever; I am afraid to hear, and yet must listen
+Enter Cardinal and Dutchess
+Dutch
+Thus every hour they torture me, first, they fright me with my Lord's being Taken, and then follows the Villain's Brutal Love
+Card
+Let your kind Heart with this assurance rest, he yet is free and safe
+Dutch
+Blest be that Tongue, the pangs and hourly sorrows I must suffer for him, now I shall bear the better—for I expect this Evening a fresh Onset, ano ther odious Love-sollicitation, and now I am prepar'd
+Mat
+Prepar'd for it! how my Impatience burns me—I'll go forward and try her now my self
+Card
+Oh, this persidious wi • ked faithless Wretch! he swore to me, and bound it also with solemn Vows and serious Protestations, to be the Author of no more vile Actions; he promis'd to lay down Arms too, and then take up his old Mechanick Occupation—but his unbala • c'd Head forgets it; thus want of Honour in all base Born Creatures, make 'em so little value things so Weighty
+Dutch
+Yonder another of his Engines comes—Oh, how I hate that horrid baneful Face, and the more horrid purpose he's Employ'd in, which rather than consent to, or be forc'd, I've yet a means left in my power to help me, one dear, dear R • medy I've yet obtain'd, to keep my Faith to my dear Lord, and free me. Shews the Viol of Poison
+Shews the Viol of Poison
+Card
+Take heed best Daughter—how you offend the Deity, or doubt the aid of Providence, by using Violence on your self, you have heard self-Mur derers Punishment
+Dutch
+Oh, preach it not, good Father—Heaven were unmerciful; cruel Ex tent, to expect gen'rous Vertue should wa • t to the last Moment for a Miracle
+Card
+Heaven guard ye sooner, I do not doubt it will—your Business seems with us, Sir—what's your Commission?
+Matal
+The General expects a private Conference with the Lady—the Bu siness is not proper for your Ear, my Lord
+Card
+If 'tis a sin Affair, as I suspect, it is most proper that I should be near, with holy Admonitions to prevent it
+Mat
+Prevent the sallies of hot Love, my Lord, with cold Divinity, 'tis vain, vain Labour, good your Grace retire—to you Madam, I am to tell this News—your Lord is Taken, and by the General's Order, Dies to Morrow, unless to night your beauteous Charms repeal it
+Dutch
+Peace, horrid Screech-Owle—Oh, for a Basilisks Eyes to blast the Author of the dreadfulest Tydings that e'er forc'd through the Ear into the Heart. Weeps What think ye now, My Lord, of patient Virtue, waiting for Champion Guards sent down from Heaven, one Hours delay may cause the brave Intention too late to be effected; the Ravisher's coming, Hells Gates are open, and he rushes in, methinks I hear him already, no more hope of Divine help then—but be sudden. Apart
+Weeps
+Apart
+Mat
+My Lord, your Absense will be very requisite
+Card
+My Presence is much more—I will not still—but with my Bosom bare, oppose the worst that Lust and Rage can offer to her Chastity. Oh, thou bright Mirrour of Celestial goodness, thou Pattern in perfection of blest Women, think not I e'er will leave thee till I'm Dead, no, we'll both die e'er Villainy shall Prosper; then when the Beams of Immortality have ra • ified this Clod we wear below, The glorious Stars of Piety and Love, Shall we mount upwards, and be fix'd Above
+The glorious Stars of Piety and Love,
+Shall we mount upwards, and be fix'd Above
+Mat
+Madam, you see the Cardinal's Old and Obstinate, I hope you will con sider better
+Dutch
+It is, it is resolved, I'll do it with a Smile, and calm as Infants in a Le thargy—and so prevent the Death of that good Man—that honest Bishop, for he's one I'm sure.—I have consider'd, Sir, To Mataloni
+To Mataloni
+Mat
+Now hold my Temper—well, Madam, what's the result?
+Dutch
+Why, Sir, Extremity conquers all Resolves—my Husband's Death and my own Misery, are things of Weight—pray take aside the Cardinal, and mould him but to give me Absolution, only to satisfie a scrupulous Con science, and then I'll give an Answer satisfactory
+Mat
+Tho that dire Answer gives me Life or Death—my fatal Curiosity must hear it.—A word, my Lord Goes to the Cardinal—then she pulls out the Viol
+Goes to the Cardinal—then she pulls out the Viol
+Dutch
+Now aid me, Love—ye Powers that value Honour, strengthen my Heart and Hand. Is preparing to drink
+Is preparing to drink
+Card
+Away—hold, noblest Daughter da • h the Poison down, famish Despair, still let us trust to Providence
+Mat
+Hah—the Poison—Almighty Powers, what had I like to have done! Oh, thou sweet Angel. Rushes to Embrace
+Rushes to Embrace
+Dutch
+Stand off, blackest Devil. She pushes him back
+She pushes him back
+Mat
+Off my Disguise—Oh, let thy sight be free, whilst to thy panting Heart, I give thy Husband—thy Love, thy Mataloni
+Dutch
+Mataloni, Is't possible! Oh, thou Extream of Joy! Embraces him eagerly
+Embraces him eagerly
+Mat
+My Wife, my Soul, my dearest Belleraiza —forgive my late Curiosity, which but for this good Lord's preventing it, had damn'd me past Redempti on—Oh, thou best of Women
+Card
+This is th' exactest work of Providence
+The sacred Grace was here ev'n to a Miracle
+Mat
+How I've adventur'd, and what Dangers pass'd, I'll tell at better lea sure, let it suffice now—this Ring gives means for your delivery, which we'll this Instant put in Execution
+Dutch
+New Joy so crowds my Heart, I cannot bear it
+Mat
+Hark'e, some body's coming sure
+Mat
+'Tis so; here's th' Secretary—hah, and that Villain Jesuit that broac'd the late Conspiracy—stand still, my Love, I'll get but th' Wind of 'em—and then we are safe enough. Goes behind the Door
+Goes behind the Door
+Enter Rock and Genovino
+Rock
+Look'e, they're together still— I think the Devil's in these Cardi nals— when once they get a Woman into their Clutches, they'll never let her go
+Genov
+Why, Sir, I hope you don't doubt but we can distinguish Blessings Sir, of which a Woman is not I think, the meanest, when she is Beautiful and Kind which this must be through meer necessity, she knows she's in the Trap
+Mat
+And so are you—good Pole-cat, and your Fellow Vermin there. draws
+draws
+Genov
+Horror—who is't I see—the Duke of Mataloni
+Rock
+The Devil
+Mat
+Stir not a Foot, Villains—for if you do, your Souls follow the Mo tion; and tho your Crimes deserve immediate Hell, yet from the noble hand of Mataloni —thus grovelling down, your baseness keeps ye safe.—Come my fair Love, and my most honoured Father, this is our happy Moment, let's pur sue it. On my Disguise once more, and in my Chamber I've one for thee, my Blessing; then through the Guards we'll haste to th' Vice-Roy's Castle, and leave those lock'd up close to plot new Mischief. They lock Rock and Genov
+They lock Rock and Genov
+Card
+Heaven's Care, admir'd Mataloni — go lead on. in, then Exeunt
+in, then Exeunt
+Dutch
+Thus does just Heav'n atone for cares of Life,
+With the best Husband,
+Mat
+And most Charming Wife
+Rock
+We have made a rare hand on't; a Plague on your Mouse-trap, you ominous Vermin, let's see now if you can Conjure us out here: let's hear your Sophistry; break open the Lock there, with a Pox t'e
+Genov
+I might as well Curse your dull Pate, Sir Scribler, to let a slight Dis guise out-Wit ye thus —how came he into Trust?
+Rock
+Why the Devil ow'd me a spight; I brought him to the General first, 'tis true, mistaking him for a Banditto —and finding him even bloated with a Discovery; —but what's that to the present purpose? What business had you there with the Dutchess? 'Twas to know that, drew me hither after ye, I had been safe else
+Genov
+I had particular Order, I was to Pump her
+Rock
+Were ye so, Timothy Transub —were ye so indeed; and for which pumping Design, there's a good Thump for ye Rascal: d'sheart, another Inter loper in my Business, come on Rogue, are ye good at Procuring, as soon as ever ye have got into the Bobtail'd Mode, a swell'd Nose and a black Eye, are proper for ye; I'll make ye look a right Ba • d presently. They Fight
+They Fight
+Genov
+This Purse shall do me Justice instantly—I'll be reveng'd, nay, tho I loose the Money, the Spirit moves now, and thou shalt feel my Anger
+In the Scuffle puts a Purse into Rock 's Pocket; they fight on
+Enter Massaniello with a Key
+Mass
+Heated with Wine, and fit now for the purpose; Where is this Charm ing Dutchess, whose bright Beauty e'er since I saw her, has inflam'd my Heart; my Heart, that has possession of all Pleasures that Greatness brings in its full range of Power, shall Sate its Wishes with one Bliss beyond it, the best and dear est, a fair Ladies Love, then I may boast, I have been truly Happy.—The Cardinal is gone hence, but where's the Lady; and where my Creatures, Rock and Genovino
+Rock
+Ah, he's Fluster'd, I see—we shall have a rare time on't—would I were any where, but where I am, tho 'twere in an Oven that had just been heated, I could not be in a greater Sweat I'm sure
+Mass
+Hah, are not these they—or do my Eyes deceive me? Is not that Rock ?
+Rock
+The Ghost of Rock, and please ye, but not the real Substance, that was frighted away with an Apparition of the Duke of Mataloni, that was here just now
+Mass
+How he tortures me—what, Mataloni, Dog-bolt
+Rock
+Why Sir, in short then, since it must out, the Banditto Captain that you have Entertained and Trusted—was that Devil, Duke of Mataloni in Disguise
+Mass
+Hell blast thy Tongue, and where, where's the Lady, Rascal?
+Rock
+Gone, gone, Sir, gone—he threatn'd to Murder us if we cry'd out or stirr'd, and then took her away, and Lock'd us in—and by virtue of the Ring you gave him—they're past the Guards by this time
+Mass
+How my Rage Choaks me— I could tear my self, dash my besotted head, and with these hands pull from their Socke • s these dull useless Lights— that could not guide my sense in such an Exigent—Sense, Death and Hell, I had no Sense—no Soul; for had I either, or my Sight, or Feeling— I must know what my Nature so Abhorr'd—through the meer force of strong Antipathy. Hah, but now I think on't Dog, 'twas your Officious Villany first brought him to me— how came it? Answer that Slave
+Rock
+Alack, by chance, my Lord—meer chance; he said, he had great Business with ye
+Genov
+Ah, Mr Secretary, no more Deceits, respect your Conscience, good Mr. Secretary
+Mass
+What say'st thou, art thou privy to any thing? Does he play Fals • with me?
+Rock
+Not I, my Lord, upon my Soul. What does that Rascal mean?
+Genov
+My Lord, though I see his Conscience is quite • ear'd, yet I must ease my own—the Man is Guilty—Accomplice with Carraffa and their Fa ction—and brib'd to assist the Dutchess's Escape
+Mass
+Oh, monstrous Hell-hound
+Rock
+Here's a damn'd Rogue, for ye, here's a Priest for the Devil— I hope your Excellency won't believe him—for may I be Parboil'd, or Roast ed upon a Grid • Iron my Lord, if ever I saw Carraffa
+Genov
+Oh, vile, vile Sinner,—dar'st thou look in my Face and say this?
+Rock
+Look in thy Face—why thou confounded Villain— I confess, thy Impudence does dazle me—but I beseech ye, my Lord don't believe him
+Genov
+Not believe me, why, my Lord, he own'd it a little before you came, upon which, my Choler being rais'd, we had a Bustle and some Blows, which is the occasion of this my disorder both of Head and Habit: —But for a more convincing Proof, search him, my Lord, and without doubt, you may find Carraffa 's Purse, in which the Golden Bribe is now about him
+Rock
+Search me, Satan —send all thy Imps to do't, I fear 'em not—but come, I'll do't my self—I'll make a plain Discovery, my Lord, Empty my self before ye—Oh, Murder, Treason. Pulls out the Purse
+Pulls out the Purse
+Mass
+The very Purse, by Iove —and with Carraffa 's Cypher on't; Oh, damn'd, damn'd Traitor
+Genov
+You have made a very plain Discovery, in Troth, Mr. Secretary
+Mass
+I will be so reveng'd.—Here Father. Gives him the Purse
+Gives him the Purse
+Rock
+I am Bewitch'd—I'm not able to speak—Oh, Dog, Dog, Dog
+Mass
+This Key unlocks all the Doors— where are my Guards there
+Rock
+I beseech your Lordship, hear me but a word. He unlocks the Door
+He unlocks the Door
+Mass
+Away Contagion—Seize that Traitor there, Whip him round the Market-place, then Hang him in Chains, for Crows and Daws to feed on
+Enter Bissignano, Pedro, Bartallo, Jacomo, Gaspar, Scipio 2 d: Jesuit and Guards
+Genov
+I think now, Friend, I am better than my Word — I only promis'd ye a Whipping, you know—and now have added something more
+Rock
+Oh, that my hands were at Liberty, Devil
+2 Ies
+Alack, is he th' occasion of thy Sentence? have Patience a little, and my tender Conscience shall help thee to a Revenge—My Lord, be pleas'd to read that Paper. Gives Massaniello a Paper
+Gives Massaniello a Paper
+Mass
+What's here! a List of the Conspirators in the Powder-Plot, and Genovi vino 's hand amongst the foremost—'Tis so, I know his Character, and this the Fellow that the Cardinal spoke of, who made the first Discovery—Guards, take that Jesuit too, and use him like the other —
+Genov
+Oh, Devil, hast thou deserted me at last?
+Rock
+So, so come along Priest; —we shall see now how that sleek Back of yours can bear the Lash—and your Neck become a Halter—and now you may give your self to the Devil too, if you please
+Genov
+Well, the gaping Rascals shall not hear me confess any thing; how ever, I'll be true to our Order—who I know, will all vouch my Innocence, pray my Soul out of Purgatory, and make me a Saint for • ver into the bargain
+Exeunt Guards, with Rock and Genovino
+Don Tib
+These were both Rogues, and have deserved their Punishment. But now, Sir, to some Business of more Weight; the Vice-Roy and Great Colate ral Council—have caus'd the Art • cles to be Engraved like those of Old of Charles the Fifth and Ferdinand, all that your Heart can wish ▪ to free the People—is there Inscrib'd with care and diligence. A Marble Monument is Erected like wise, where in large Golden Letters is Decyphered the Infranchisement of Naples from all Gabells —by Great Massaniello. —You are desir'd therefore to meet in the Cathedral Church to Morrow, where after high Mass and Cele stial Musick, the Deed's to be on both sides Sealed and Ratifi • d
+Mass
+I'll hear no more of trifling Business now, my Head contains a Tem pest, my Brain burns fiercer than AEtna or Vesuvius 's Mounts—I'm mad with Rage, and therefore let all Nature, like me, be in Confusion; he that speaks of Order and discretion in Affairs, is my Foe; my hour, shall be Man kind's, and in that moment when I Wisely act, let them be struck with endless Lethargy: —am I not here Supream? I am; and yet my Soul Wish • s to Sway the rest—and that the Globe obey'd my Will— I would confine the Winds—stop the due course of Seas, and make the Sun influence the World by my peculiar Order; but since that cannot be, let this suffice— That with a Nod, vast Legions I Command, And from Tyrannick Yoaks have freed the Groaning Land
+That with a Nod, vast Legions I Command,
+And from Tyrannick Yoaks have freed the Groaning Land
+Pedro
+My Lord, You must not mind what he says now. Exit Massaniello. Love, Anger and Claret, have made him at present a little out of Order, but you shall see he'll quickly come to himself again
+Exit Massaniello
+Bart
+He talks none of the Wisest now, 'tis true, but for all that, I'll wage a fat Bullock against one of thy Sacks of Meal, Neighbour, that he goes to Church as soberly to Morrow as the Cardinal himself
+Iacom
+Oh, no doubt on't, no doubt on't
+Scip
+Where's Valasco ? I warrant now his Master's gone to be Hang'd, that poor Rascal will be out at Elbows agen
+Gasp
+Ay and out at heels too, if thou out of thy Noble Compassion do'st not help to mend him, Cobler
+Don Tib
+Well, Friends, you'll put the General in mind then, you know 'tis a Business of Concern
+Iacom
+We will, we will, my Lord
+Don Tib
+He has sworn to lay down Arms, and yet I doubt him, for Power, like n • w Wine, in so young a Head, may well intoxicate and turn the Brain— yet not to do't, ushers his certain Ruin; for let Rebellion revel for a while, and by th' Almighty's Suffrage—plag • e a Kingdom, there will be yet an hour mark'd out for Vengeance; this then I Prophecy for Massaniello ; Though high on Fortune's Wheel he's seated now, A time soon comes, when he must fall as low. Curtain falls
+Though high on Fortune's Wheel he's seated now,
+A time soon comes, when he must fall as low
+Curtain falls
+The End of the First Part
+THe First and Second Collections of Mr. D'urfey 's Comical Songs: Printed for Henry Playford, at his Shop in the Temple-Change, Fleet-street, and sold at most Musick-Shops in Town
