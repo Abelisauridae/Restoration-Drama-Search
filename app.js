@@ -107,6 +107,34 @@ function playUrl(row, focus = "") {
   return `./play.html?${params.toString()}`;
 }
 
+function transferHitsFiltersToText() {
+  const mappings = [
+    ["hits-title", "text-title"],
+    ["hits-author", "text-author"],
+    ["hits-genre", "text-genre"],
+    ["hits-stage", "text-stage"],
+    ["hits-since", "text-since"],
+    ["hits-until", "text-until"],
+  ];
+  mappings.forEach(([fromId, toId]) => {
+    const from = document.getElementById(fromId);
+    const to = document.getElementById(toId);
+    if (from && to) {
+      to.value = from.value;
+    }
+  });
+}
+
+async function launchTextSearch(query) {
+  const cleaned = String(query || "").trim();
+  if (!cleaned) {
+    throw new Error("Enter a word or phrase to search.");
+  }
+  document.getElementById("text-query").value = cleaned;
+  switchTab("text");
+  await runText();
+}
+
 async function fetchJson(path) {
   const response = await fetch(path, { cache: "no-store" });
   if (!response.ok) {
@@ -332,7 +360,20 @@ async function runHits() {
     rows = rows.filter((row) => row.precision === precision);
   }
   if (term) {
-    rows = rows.filter((row) => containsText(`${row.term} ${row.focus}`, term));
+    rows = rows.filter((row) =>
+      containsText(
+        [
+          row.term,
+          row.focus,
+          row.category,
+          row.title,
+          row.author,
+          row.locator,
+          row.detail,
+        ].join(" "),
+        term,
+      ),
+    );
   }
   if (category) {
     rows = rows.filter((row) => containsText(row.category, category));
@@ -527,6 +568,16 @@ function attachHandlers() {
     button.addEventListener("click", () => switchTab(button.dataset.tab));
   });
 
+  document.getElementById("hero-search").addEventListener("click", () => {
+    launchTextSearch(document.getElementById("hero-query").value).catch(showError);
+  });
+  document.getElementById("hero-query").addEventListener("keydown", (event) => {
+    if (event.key === "Enter") {
+      event.preventDefault();
+      launchTextSearch(event.currentTarget.value).catch(showError);
+    }
+  });
+
   document.getElementById("plays-search").addEventListener("click", () => runPlays().catch(showError));
   document.getElementById("plays-reset").addEventListener("click", () => {
     reset(["plays-title", "plays-author", "plays-genre", "plays-decade", "plays-stage", "plays-theatre", "plays-since", "plays-until"], {});
@@ -549,6 +600,10 @@ function attachHandlers() {
   });
 
   document.getElementById("hits-search").addEventListener("click", () => runHits().catch(showError));
+  document.getElementById("hits-use-text").addEventListener("click", () => {
+    transferHitsFiltersToText();
+    launchTextSearch(document.getElementById("hits-term").value).catch(showError);
+  });
   document.getElementById("hits-reset").addEventListener("click", () => {
     reset(["hits-term", "hits-category", "hits-title", "hits-author", "hits-genre", "hits-decade", "hits-stage", "hits-since", "hits-until"], {});
     reset(["hits-theme"], { "hits-theme": "all" });

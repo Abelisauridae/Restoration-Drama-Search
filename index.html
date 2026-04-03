@@ -13,6 +13,14 @@
         <div class="eyebrow">GitHub Pages Edition</div>
         <h1>Restoration Drama Search</h1>
         <p>Browse plays, explore the corpus, compare play-level patterns, and jump straight into the full text from a static site.</p>
+        <div class="hero-search">
+          <label for="hero-query">Search Any Word Or Phrase</label>
+          <div class="hero-search-row">
+            <input id="hero-query" placeholder="gaming, ombre, fencing master, Venice preserv'd">
+            <button class="action primary" id="hero-search">Search Text</button>
+          </div>
+          <div class="hero-search-note">This runs a full-text search across the published corpus. The curated hits tab below only filters the precomputed gambling and combat labels.</div>
+        </div>
       </div>
       <img class="hero-figure" src="./restoration-hero-figures.png" alt="" aria-hidden="true">
     </section>
@@ -20,7 +28,7 @@
     <div class="tabs">
       <button class="tab-button active" data-tab="plays">Plays</button>
       <button class="tab-button" data-tab="text">Text Search</button>
-      <button class="tab-button" data-tab="hits">Theme Hits</button>
+      <button class="tab-button" data-tab="hits">Curated Hits</button>
       <button class="tab-button" data-tab="summary">Play Summary</button>
     </div>
 
@@ -87,11 +95,11 @@
 
     <section class="tab-panel" id="tab-hits">
       <div class="filters">
-        <h2>Theme Hits</h2>
+        <h2>Curated Theme Hits</h2>
         <div class="filter-grid">
-          <div class="field span-2"><label for="hits-theme">Theme</label><select id="hits-theme"><option value="all">all</option><option value="gambling">gambling</option><option value="combat_sport">combat_sport</option></select></div>
+          <div class="field span-2"><label for="hits-theme">Theme Filter</label><select id="hits-theme"><option value="all">all</option><option value="gambling">gambling</option><option value="combat_sport">combat_sport</option></select></div>
           <div class="field span-2"><label for="hits-precision">Precision</label><select id="hits-precision"><option value="all">all</option><option value="high">high</option><option value="medium">medium</option><option value="low">low</option></select></div>
-          <div class="field span-2"><label for="hits-term">Term</label><input id="hits-term"></div>
+          <div class="field span-2"><label for="hits-term">Query</label><input id="hits-term"></div>
           <div class="field span-2"><label for="hits-category">Category</label><input id="hits-category"></div>
           <div class="field span-3"><label for="hits-title">Title</label><input id="hits-title"></div>
           <div class="field span-3"><label for="hits-author">Author</label><input id="hits-author"></div>
@@ -104,8 +112,10 @@
         </div>
         <div class="actions">
           <button class="action primary" id="hits-search">Search Hits</button>
+          <button class="action secondary" id="hits-use-text">Search Query In Full Text</button>
           <button class="action secondary" id="hits-reset">Reset</button>
         </div>
+        <div class="note">The theme filter only has `gambling` and `combat_sport` because this tab is built from the curated hit index. For any word or phrase across the whole corpus, use the full-text search above or the Text Search tab.</div>
       </div>
       <div class="results-shell">
         <div class="results-head"><h3>Hit Rows</h3><div class="count" id="hits-count">Search the thematic hit table.</div></div>
